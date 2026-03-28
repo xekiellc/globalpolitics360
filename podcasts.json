@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-28T16:34:19.846Z",
-  "showCount": 18,
+  "lastUpdated": "2026-03-28T16:56:50.906Z",
+  "showCount": 12,
   "episodeCount": 7,
   "archiveCount": 7,
-  "taggedCount": 72,
+  "taggedCount": 75,
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -43,15 +43,17 @@
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#761 - KIM CONGDON + ADAM RAY",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8615960302.mp3?updated=1774285357",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8615960302.mp3?updated=1774285357",
-      "date": "2026-03-24T01:00:00.000Z",
-      "duration": "9359",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Adam Ray, Kim Congdon, Ari Matti, Dedrick Flynn, William Montgomery,Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling,Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED–02/28/2026\n\n\n\nRight now get 10% off at https://tecovas.com/killtony when you sign up for email and texts.\n\n\n\nSecure your online data TODAY by visiting https://expressvpn.com/killtony\nLearn more abo",
-      "guestTags": []
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "The War Hawks vs. The Podcasters",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/54b71aa2-29c4-4d73-9ce8-96109869c233.mp3?rss_browser=BAhJIhpHbG9iYWxQb2xpdGljczM2MC1Cb3QGOgZFVA%3D%3D--c223dda4cbc5a04ccf517d7954fab5736562e534",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/54b71aa2-29c4-4d73-9ce8-96109869c233.mp3?rss_browser=BAhJIhpHbG9iYWxQb2xpdGljczM2MC1Cb3QGOgZFVA%3D%3D--c223dda4cbc5a04ccf517d7954fab5736562e534",
+      "date": "2026-03-24T12:00:00.000Z",
+      "duration": "01:09:37",
+      "image": "https://content.production.cdn.art19.com/images/e3/17/70/42/e3177042-0629-4ae9-9350-699bbcbe36a8/ddd62b6d55c692b1e95747e2c33b447bb8d67a986aff5de11a2a14f8fb625507c5ea681dbf1f88b92cd60461b473a531f1bca905383c95a606e59323a35839c4.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Trump's fumbling of the rollout of the war, discussion of specific target strikes, Jake Tapper pandering to a new audience by taking on a podcast set, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEM20CrowdHealth - https://www.j",
+      "guestTags": [
+        "Dave Smith"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -129,15 +131,17 @@
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#761 - KIM CONGDON + ADAM RAY",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8615960302.mp3?updated=1774285357",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8615960302.mp3?updated=1774285357",
-      "date": "2026-03-24T01:00:00.000Z",
-      "duration": "9359",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Adam Ray, Kim Congdon, Ari Matti, Dedrick Flynn, William Montgomery,Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling,Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED–02/28/2026\n\n\n\nRight now get 10% off at https://tecovas.com/killtony when you sign up for email and texts.\n\n\n\nSecure your online data TODAY by visiting https://expressvpn.com/killtony\nLearn more abo",
-      "guestTags": []
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "The War Hawks vs. The Podcasters",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/54b71aa2-29c4-4d73-9ce8-96109869c233.mp3?rss_browser=BAhJIhpHbG9iYWxQb2xpdGljczM2MC1Cb3QGOgZFVA%3D%3D--c223dda4cbc5a04ccf517d7954fab5736562e534",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/54b71aa2-29c4-4d73-9ce8-96109869c233.mp3?rss_browser=BAhJIhpHbG9iYWxQb2xpdGljczM2MC1Cb3QGOgZFVA%3D%3D--c223dda4cbc5a04ccf517d7954fab5736562e534",
+      "date": "2026-03-24T12:00:00.000Z",
+      "duration": "01:09:37",
+      "image": "https://content.production.cdn.art19.com/images/e3/17/70/42/e3177042-0629-4ae9-9350-699bbcbe36a8/ddd62b6d55c692b1e95747e2c33b447bb8d67a986aff5de11a2a14f8fb625507c5ea681dbf1f88b92cd60461b473a531f1bca905383c95a606e59323a35839c4.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Trump's fumbling of the rollout of the war, discussion of specific target strikes, Jake Tapper pandering to a new audience by taking on a podcast set, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEM20CrowdHealth - https://www.j",
+      "guestTags": [
+        "Dave Smith"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -176,5 +180,9 @@
       "guestTags": []
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ]
+  }
 }
