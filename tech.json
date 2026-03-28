@@ -1,5 +1,366 @@
 {
-  "lastUpdated": null,
-  "articleCount": 0,
-  "articles": []
+  "lastUpdated": "2026-03-28T22:09:46.100Z",
+  "articleCount": 40,
+  "articles": [
+    {
+      "title": "Morgan Stanley Set to Undercut Bitcoin ETF Rivals With 0.14% Fee Ahead of Launch",
+      "url": "https://bitcoinmagazine.com/featured/morgan-stanley-set-to-undercut-bitcoin",
+      "date": "2026-03-27T21:52:35.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Morgan-Stanley-Set-to-Undercut-Bitcoin-ETF-Rivals-With-0.14-Fee-Ahead-of-Launch.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Fear and Greed Index Hits Extreme Fear at 13 Out of 100",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-fear-index-hits-extreme-fear",
+      "date": "2026-03-27T16:14:53.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/bitcoin-fear-and-greed-index-hits-extreme-fear-at-.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Ep 147: Scott Wu & Russell Kaplan on the New Era of Software Abundance",
+      "url": "https://blog.joelonsdale.com/p/ep-147-scott-wu-and-russell-kaplan",
+      "date": "2026-03-27T15:00:36.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "ICE Announces $600 Million Strategic Investment in Polymarket",
+      "url": "https://bitcoinmagazine.com/news/ice-announces-600-investment-polymarket",
+      "date": "2026-03-27T14:59:27.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/intercontinental-exchange-has-completed-a-600-million-direct-cash-investment-in-prediction-market-platform-polymarket.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "The Energy Situation, Explained for Tech People",
+      "url": "https://www.a16z.news/p/the-energy-situation-explained-for",
+      "date": "2026-03-27T14:02:08.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/46b82757-d19a-4695-81d6-31b50af206b4_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Bitcoin Price Slides to Two-Week Low as Liquidations Top $300 Million and Macro Pressure Builds",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slides-to-two-week-low",
+      "date": "2026-03-27T13:51:51.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Bitcoin-Price-Slides-to-Two-Week-Low-as-Liquidations-Top-300-Million-and-Macro-Pressure-Builds.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #186",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-186",
+      "date": "2026-03-27T12:39:57.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!lKxk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5d73fb-d0d3-475e-a612-7c64685f5571_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Simon Gerovich Confirmed As A Bitcoin 2026 Speaker",
+      "url": "https://bitcoinmagazine.com/conference/simon-gerovich-confirmed-as-a-bitcoin-2026-speaker",
+      "date": "2026-03-26T20:42:43.000Z",
+      "image": "https://www.youtube.com/embed/zCgwHtG40hg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "St. Cloud Financial Credit Union Surpasses 10 Bitcoin in Member Custody Pilot",
+      "url": "https://bitcoinmagazine.com/news/st-cloud-financial-passes-10-bitcoin",
+      "date": "2026-03-26T20:28:59.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Pics-27.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Goldman Sachs: Crypto and Bitcoin Might Have Bottomed",
+      "url": "https://bitcoinmagazine.com/markets/goldman-sachs-bitcoin-might-have-bottomed",
+      "date": "2026-03-26T18:16:17.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Goldman-Sachs-Crypto-and-Bitcoin-Might-Have-Bottomed.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Trust Wallet Launches Agent Kit That Lets AI Execute Crypto Transactions Under User Control",
+      "url": "https://bitcoinmagazine.com/news/trust-wallet-launches-agent-kit",
+      "date": "2026-03-26T17:26:12.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Trust-Wallet-Launches-Agent-Kit-That-Lets-AI-Execute-Crypto-Transactions-Under-User-Control.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Brazil Passes Law Turning Seized Crypto into Public-Security War Chest",
+      "url": "https://bitcoinmagazine.com/news/brazil-passes-law-turning-seized-crypto",
+      "date": "2026-03-26T15:09:22.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Brazil-Passes-Law-Turning-Seized-Crypto-into-Public-Security-War-Chest.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "The Trust Wall: Why AI’s Next Billion Users Will Come Through Trust Networks",
+      "url": "https://www.a16z.news/p/the-sovereign-wall-why-ais-next-billion",
+      "date": "2026-03-26T15:03:04.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f33a0b72-7faa-4d0a-a302-34894a0516b3_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "MARA Dumps $1.1 Billion in Bitcoin to Repurchase Convertible Notes, Cuts Debt by 30%",
+      "url": "https://bitcoinmagazine.com/news/mara-dumps-1-1-billion-in-bitcoin",
+      "date": "2026-03-26T13:28:32.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/MARA-Dumps-1.1-Billion-in-Bitcoin-to-Repurchase-Convertible-Notes-Cuts-Debt-by-30.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Why We Founded Airbase",
+      "url": "https://www.a16z.news/p/why-we-founded-airbase",
+      "date": "2026-03-25T19:08:37.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/579366d5-8fd6-4e3e-ac79-74426b408c5b_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "The Truth about Venture Capitalists (in 2007)",
+      "url": "https://www.a16z.news/p/the-truth-about-venture-capitalists",
+      "date": "2026-03-25T14:00:51.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f685f8c2-a958-4415-a352-b7917f2dd72f_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Robotics Needs Fewer Roboticists*",
+      "url": "https://www.a16z.news/p/robotics-needs-fewer-roboticists",
+      "date": "2026-03-25T13:51:57.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/612a2d72-4aee-4de3-80e1-e38afbab6638_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Glimpse",
+      "url": "https://www.a16z.news/p/investing-in-glimpse",
+      "date": "2026-03-25T13:03:34.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d0f62072-efca-4ba3-8659-b90cfcd9a4ff_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Electromagnetism Secretly Runs the World",
+      "url": "https://www.notboring.co/p/electromagnetism-secretly-runs-the",
+      "date": "2026-03-24T12:57:34.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!0OgS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff740bc32-c78b-42e5-903d-118bbcf2aa84_2400x1260.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Revolut: The Algorithm That Keeps Compounding",
+      "url": "https://www.a16z.news/p/the-algorithm-that-keeps-compounding",
+      "date": "2026-03-24T08:25:33.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/a4a0368e-5380-4377-829e-ca59f6084f0a_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "There are only two paths left for software",
+      "url": "https://www.a16z.news/p/there-are-only-two-paths-left-for",
+      "date": "2026-03-23T13:59:41.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/c757132e-305d-4402-91da-af9c48f08b97_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Charts of the Week: Learning to Weld",
+      "url": "https://www.a16z.news/p/charts-of-the-week-learning-to-weld",
+      "date": "2026-03-20T14:02:59.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/86941394-fd36-4264-b154-f78cd9b291e6_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #185",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-185",
+      "date": "2026-03-20T12:46:59.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!29ND!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a3704f-425a-46e1-863c-91c20a1757fa_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Copper One: The World's Only Autonomy-First Mine & Refinery",
+      "url": "https://www.a16z.news/p/copper-one-the-worlds-only-autonomy",
+      "date": "2026-03-19T14:11:28.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/527f4983-f3da-4db7-bb1e-d29885ac66cc_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "World Models: Computing the Uncomputable",
+      "url": "https://www.notboring.co/p/world-models",
+      "date": "2026-03-19T12:55:52.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!kgrq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e35a1ce-469b-4c2b-b0cf-6a98a0d02523_1200x630.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Investing in Deeptune",
+      "url": "https://www.a16z.news/p/investing-in-deeptune",
+      "date": "2026-03-19T12:14:12.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/1dbe098a-4bf3-4fa7-b273-58d4d150defc_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Ep 146: Jake Paul & Geoff Woo on Building Anti Fund, the Future of the Creator Economy & How to Change the Culture",
+      "url": "https://blog.joelonsdale.com/p/ep-146-jake-paul-and-geoff-woo-on",
+      "date": "2026-03-19T00:51:47.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "The internet ruined customer service. AI could save it.",
+      "url": "https://www.a16z.news/p/the-internet-ruined-customer-service",
+      "date": "2026-03-18T14:02:52.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/72230dd7-4257-40b1-91be-5c7a5ce952cb_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Your product won’t sell itself",
+      "url": "https://www.a16z.news/p/your-product-wont-sell-itself",
+      "date": "2026-03-17T14:02:28.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7185df7e-ee88-4151-baf3-eff9d1eeadd5_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Why the World Still Runs on SAP",
+      "url": "https://www.a16z.news/p/why-the-world-still-runs-on-sap",
+      "date": "2026-03-16T14:02:53.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/776f5d70-b7ae-4485-96f1-7af220c6ee50_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "AI’s Oppenheimer Moment",
+      "url": "https://www.a16z.news/p/ais-oppenheimer-moment",
+      "date": "2026-03-16T13:41:02.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/10a86982-e476-494e-af6a-292a931c37d7_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Charts of the Week: Monitoring the Situation in Hormuz",
+      "url": "https://www.a16z.news/p/charts-of-the-week-monitoring-the",
+      "date": "2026-03-13T14:03:19.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/addeeedf-bfeb-4a63-9fce-1f7fe79ec8ae_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #184",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-184",
+      "date": "2026-03-13T12:54:26.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!tLIL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49a9b2a3-4474-418f-9e1c-9153f1a1df2b_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Ep 145: SBA Administrator Kelly Loeffler on Exposing Billions in Fraud & What AI Means for Small Business",
+      "url": "https://blog.joelonsdale.com/p/ep-145-sba-administrator-kelly-loeffler",
+      "date": "2026-03-13T01:23:09.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "Institutional AI vs Individual AI",
+      "url": "https://www.a16z.news/p/institutional-ai-vs-individual-ai",
+      "date": "2026-03-12T14:02:51.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/3f163a9c-ddef-430b-ab13-bd717ac631df_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Mind Robotics",
+      "url": "https://www.a16z.news/p/investing-in-mind-robotics",
+      "date": "2026-03-11T15:03:07.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5d2cfdcd-0731-4eaf-b9e1-f7651b086dbc_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "The world needs an AI lab — for Data",
+      "url": "https://www.a16z.news/p/the-world-needs-an-ai-lab-for-data",
+      "date": "2026-03-11T14:02:38.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/652063b5-b7a2-4dc5-83cf-c947aafb42dd_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Nexthop AI",
+      "url": "https://www.a16z.news/p/investing-in-nexthop",
+      "date": "2026-03-10T15:15:45.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/26e86124-307c-41c1-b10a-a95911287d75_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #183",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-183",
+      "date": "2026-03-06T14:02:45.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!qnHQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81df0dd2-5c1c-4190-83c9-9fb9d81f8428_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Costless Sacrifice",
+      "url": "https://www.notboring.co/p/costless-sacrifice",
+      "date": "2026-03-05T15:14:24.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!aAag!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ee42247-0602-415b-b1c7-388f9e83632b_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    }
+  ]
 }
