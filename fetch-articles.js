@@ -15,7 +15,7 @@ const MAX_TECH_ARTICLES    = 40;
 const MAX_PODCAST_LIVE     = 5;
 const MAX_PODCAST_ARCHIVE  = 500;
 const MIN_NEW_ARTICLES     = 1;
-const NEWS_TIMEOUT_MS      = 15000;
+const NEWS_TIMEOUT_MS      = 25000;
 const PODCAST_TIMEOUT_MS   = 30000;
 
 // ── HTTP ─────────────────────────────────────────────────────────────────────
@@ -24,8 +24,10 @@ function httpGet(url, timeoutMs = NEWS_TIMEOUT_MS) {
     const lib = url.startsWith('https') ? https : http;
     const req = lib.get(url, {
       headers: {
-        'User-Agent': 'GlobalPolitics360-Bot/1.0 (+https://globalpolitics360.com)',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        'User-Agent': 'Mozilla/5.0 (compatible; RSS-Reader/1.0)',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Cache-Control': 'no-cache'
       }
     }, (res) => {
       if ([301,302,303,307,308].includes(res.statusCode) && res.headers.location) {
@@ -85,26 +87,48 @@ function makeId(url) {
   return Buffer.from(url).toString('base64').slice(0, 24);
 }
 
+// ── SAFE JSON PARSE ───────────────────────────────────────────────────────────
+// Handles truncated or malformed JSON from Claude by extracting valid array
+function safeParseArray(text) {
+  if (!text) return null;
+  // Strip markdown fences
+  let cleaned = text.replace(/```json|```/g, '').trim();
+  // Try direct parse first
+  try { return JSON.parse(cleaned); } catch {}
+  // Try to extract just the array portion
+  const start = cleaned.indexOf('[');
+  const end   = cleaned.lastIndexOf(']');
+  if (start !== -1 && end !== -1 && end > start) {
+    try { return JSON.parse(cleaned.slice(start, end + 1)); } catch {}
+  }
+  // Try trimming to last complete object — find last },  or }] pattern
+  const lastComplete = cleaned.lastIndexOf('},');
+  if (lastComplete !== -1) {
+    try { return JSON.parse(cleaned.slice(0, lastComplete + 1) + ']'); } catch {}
+  }
+  return null;
+}
+
 // ── NEWS RSS PARSER ───────────────────────────────────────────────────────────
 function parseNewsRSS(xml, sourceName) {
   const items = [];
   const re = /<item[\s>]([\s\S]*?)<\/item>/gi;
   let m;
   while ((m = re.exec(xml)) !== null) {
-    const item = m[1];
+    const item  = m[1];
     const title = extractText(item, 'title');
     const url   = extractText(item, 'link') || extractAttr(item, 'link', 'href');
     const date  = extractText(item, 'pubDate') || extractText(item, 'published') || extractText(item, 'dc:date');
     const image = extractImage(item);
     if (title && url && !url.includes('.mp3')) {
       items.push({
-        title: title.replace(/\s+/g, ' ').trim(),
-        url:   url.trim(),
-        date:  parseDate(date).toISOString(),
+        title:  title.replace(/\s+/g, ' ').trim(),
+        url:    url.trim(),
+        date:   parseDate(date).toISOString(),
         image,
         source: sourceName,
         teaser: '',
-        id: makeId(url)
+        id:     makeId(url)
       });
     }
   }
@@ -206,8 +230,6 @@ async function callClaude(prompt, maxTokens = 1024) {
 }
 
 // ── TECH ABUNDANCE SENTIMENT FILTER ──────────────────────────────────────────
-// Keeps articles that are optimistic, builder-focused, or positively cover
-// key tech leaders. Drops doom, negativity, regulation panic, and criticism.
 async function filterTechArticles(articles) {
   if (!articles.length) return [];
   if (!ANTHROPIC_API_KEY) {
@@ -215,13 +237,13 @@ async function filterTechArticles(articles) {
     return articles;
   }
 
-  const BATCH = 30;
+  const BATCH = 25;
   const approved = [];
 
   for (let i = 0; i < articles.length; i += BATCH) {
     const batch = articles.slice(i, i + BATCH);
 
-    const prompt = `You are a curator for the "Tech Abundance" section of a news site. The editorial voice is pro-innovation, pro-builder, and relentlessly optimistic about technology's ability to improve humanity.
+    const prompt = `You are a curator for the "Tech Abundance" section of a news site. The editorial voice is pro-innovation, pro-builder, and relentlessly optimistic about technology.
 
 KEEP articles that are:
 - About AI breakthroughs, progress, capabilities, adoption
@@ -235,30 +257,28 @@ KEEP articles that are:
 
 DROP articles that are:
 - Negative, critical, or attacking tech leaders or companies
-- About AI dangers, risks, existential threats, or calls for regulation
-- About crypto crashes, scams, fraud, or failures
+- About AI dangers, risks, or calls for regulation
+- About crypto crashes, scams, or failures
 - About tech layoffs, company failures, or scandals
-- Regulatory crackdowns framed negatively
-- General doom, gloom, or anti-tech sentiment
-- Political attacks on tech figures unrelated to their tech work
+- General doom or anti-tech sentiment
 
-IMPORTANT: If an article mentions Elon Musk, Palmer Luckey, Alex Karp, Joe Lonsdale, Chamath, Marc Andreessen, David Sacks, Balaji, Jensen Huang, or Peter Diamandis in a positive or neutral context — ALWAYS keep it.
-
-Return ONLY a JSON array of article IDs to KEEP. No other text, no markdown.
+Return ONLY a valid JSON array of article IDs to KEEP. Example: ["id1","id2","id3"]
+No explanation, no markdown, no other text — just the JSON array.
 
 Articles:
 ${JSON.stringify(batch.map(a => ({ id: a.id, title: a.title, source: a.source })))}`;
 
     try {
-      const result = await callClaude(prompt, 512);
+      const result = await callClaude(prompt, 600);
       if (!result) { approved.push(...batch); continue; }
-      const kept = JSON.parse(result.replace(/```json|```/g, '').trim());
-      const keptSet = new Set(Array.isArray(kept) ? kept : []);
+      const kept = safeParseArray(result);
+      if (!kept) { console.warn(`  Tech filter: could not parse response — keeping batch`); approved.push(...batch); continue; }
+      const keptSet  = new Set(Array.isArray(kept) ? kept : []);
       const filtered = batch.filter(a => keptSet.has(a.id));
       console.log(`  Tech filter batch ${Math.floor(i/BATCH)+1}: ${batch.length} in → ${filtered.length} kept`);
       approved.push(...filtered);
     } catch (e) {
-      console.warn(`  Tech filter error: ${e.message} — keeping batch unfiltered`);
+      console.warn(`  Tech filter error: ${e.message} — keeping batch`);
       approved.push(...batch);
     }
   }
@@ -273,20 +293,22 @@ async function generateTeasers(articles) {
     return articles;
   }
 
-  const prompt = `You are a sharp news editor. For each article, write ONE sentence (under 25 words) that teases the story — intriguing, factual, no hype. Return ONLY a JSON array with fields "id" and "teaser". No other text, no markdown.
+  const prompt = `You are a sharp news editor. For each article, write ONE sentence (under 25 words) that teases the story — intriguing, factual, no hype. Return ONLY a valid JSON array with objects containing "id" and "teaser" fields. Example: [{"id":"abc","teaser":"One sentence here."}]
+No markdown, no explanation, no other text — just the JSON array.
 
 Articles:
 ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, source: a.source })))}`;
 
   try {
-    const result = await callClaude(prompt, 1024);
+    const result = await callClaude(prompt, 1200);
     if (!result) return articles;
-    const teasers = JSON.parse(result.replace(/```json|```/g, '').trim());
+    const teasers = safeParseArray(result);
+    if (!teasers) { console.warn('Teaser: could not parse response'); return articles; }
     const map = {};
-    teasers.forEach(t => { if (t.id) map[t.id] = t.teaser; });
+    teasers.forEach(t => { if (t && t.id) map[t.id] = t.teaser; });
     return articles.map(a => ({ ...a, teaser: map[a.id] || '' }));
   } catch (e) {
-    console.warn('Teaser parse error:', e.message);
+    console.warn('Teaser error:', e.message);
     return articles;
   }
 }
@@ -296,10 +318,10 @@ async function main() {
   console.log('=== GP360 fetch started:', new Date().toISOString());
 
   const cfg = JSON.parse(fs.readFileSync('sources.json', 'utf-8'));
-  const activeNews     = (cfg.sources      || []).filter(s => s.active && s.category === 'news');
-  const activeTech     = (cfg.techSources  || []).filter(s => s.active && s.url);
+  const activeNews     = (cfg.sources       || []).filter(s => s.active && s.category === 'news');
+  const activeTech     = (cfg.techSources   || []).filter(s => s.active && s.url);
   const activePodcasts = (cfg.podcastSources || []).filter(s => s.active && s.url);
-  const watchedVoices  = cfg.watchedVoices || [];
+  const watchedVoices  = cfg.watchedVoices  || [];
 
   console.log(`News: ${activeNews.length} | Tech: ${activeTech.length} | Podcasts: ${activePodcasts.length} | Voices: ${watchedVoices.filter(v=>v.active).length}`);
 
@@ -379,20 +401,17 @@ async function main() {
   });
   allTechArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-  // Only run sentiment filter on articles we haven't seen before
   const newTechArticles = allTechArticles.filter(a => !existingTechIds.has(a.id));
   console.log(`Sentiment filter: ${newTechArticles.length} new articles to evaluate...`);
   const approvedNew = await filterTechArticles(newTechArticles);
   console.log(`  ✓ ${approvedNew.length} approved after filter`);
 
-  // Merge: newly approved + previously approved that still appear in feed
-  const approvedNewIds     = new Set(approvedNew.map(a => a.id));
+  const approvedNewIds      = new Set(approvedNew.map(a => a.id));
   const existingApprovedIds = new Set((existingTech.articles || []).map(a => a.id));
   const finalTechArticles   = allTechArticles.filter(a =>
     approvedNewIds.has(a.id) || existingApprovedIds.has(a.id)
   );
 
-  // Generate teasers for newly approved articles
   const techTeaserCache = {};
   (existingTech.articles || []).forEach(a => { if (a.teaser) techTeaserCache[a.id] = a.teaser; });
   const techNeedTeasers = approvedNew.filter(a => !techTeaserCache[a.id]);
@@ -444,7 +463,6 @@ async function main() {
     return true;
   });
 
-  // Latest: newest N per show
   const byShow = {};
   allEpisodes.forEach(e => {
     if (!byShow[e.show]) byShow[e.show] = [];
@@ -454,7 +472,6 @@ async function main() {
   Object.values(byShow).forEach(eps => latestEpisodes.push(...eps.slice(0, MAX_PODCAST_LIVE)));
   latestEpisodes.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-  // Archive: merge with existing
   const archiveMap = {};
   (existingPodcasts.archive || []).forEach(e => { archiveMap[e.id] = e; });
   allEpisodes.forEach(e => { archiveMap[e.id] = e; });
@@ -462,7 +479,6 @@ async function main() {
     .sort((a, b) => new Date(b.date) - new Date(a.date))
     .slice(0, MAX_PODCAST_ARCHIVE);
 
-  // Guest index
   const guestIndex = {};
   for (const ep of fullArchive) {
     for (const tag of (ep.guestTags || [])) {
