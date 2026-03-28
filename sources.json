@@ -78,14 +78,14 @@
       "type": "rss",
       "url": "https://metatrends.substack.com/feed",
       "active": true,
-      "notes": "Gold standard techno-optimism — AI, longevity, space, abundance. Very active, all free."
+      "notes": "Gold standard techno-optimism — AI, longevity, space, abundance"
     },
     {
       "name": "Marc Andreessen",
       "type": "rss",
       "url": "https://pmarca.substack.com/feed",
       "active": true,
-      "notes": "Author of the Techno-Optimist Manifesto. It's time to build."
+      "notes": "Author of the Techno-Optimist Manifesto"
     },
     {
       "name": "Joe Lonsdale / 8VC",
@@ -99,12 +99,12 @@
       "type": "rss",
       "url": "https://www.notboring.co/feed",
       "active": true,
-      "notes": "Best builder-focused tech strategy newsletter alive"
+      "notes": "Best builder-focused tech strategy newsletter"
     },
     {
       "name": "Pirate Wires (Mike Solana)",
       "type": "rss",
-      "url": "https://solana.substack.com/feed",
+      "url": "https://www.piratewires.com/feed",
       "active": true,
       "notes": "Founders Fund VP — techno-optimist, pro-Elon, anti-regulation"
     },
@@ -113,7 +113,7 @@
       "type": "rss",
       "url": "https://www.a16z.news/feed",
       "active": true,
-      "notes": "Andreessen Horowitz — It's time to build. AI, crypto, bio, defense"
+      "notes": "Andreessen Horowitz — It's time to build"
     },
     {
       "name": "David Sacks / Bottom Up",
@@ -125,7 +125,7 @@
     {
       "name": "Nic Carter / Murmurations",
       "type": "rss",
-      "url": "https://murmurationstwo.substack.com/feed",
+      "url": "https://niccarter1.substack.com/feed",
       "active": true,
       "notes": "Pro-Bitcoin, stablecoins, crypto/fintech — always free"
     },
@@ -141,14 +141,14 @@
       "type": "rss",
       "url": "https://balajis.com/feed",
       "active": true,
-      "notes": "Network state, crypto, tech optimism, future of civilization"
+      "notes": "Network state, crypto, tech optimism"
     },
     {
       "name": "Techno-Optimist (Owen Lewis)",
       "type": "rss",
       "url": "https://technooptimist1.substack.com/feed",
       "active": true,
-      "notes": "Pure signal — space, AI, energy, biotech breakthroughs. No negativity."
+      "notes": "Pure signal — space, AI, energy, biotech breakthroughs"
     }
   ],
 
@@ -322,8 +322,8 @@
     "",
     "=== HOW TO ADD A TECH ABUNDANCE SOURCE ===",
     "Copy any techSources block, set name/url/active:true",
-    "ALL tech articles pass through Claude sentiment filter — doom/negative articles dropped",
-    "Claude also explicitly keeps positive coverage of: Elon, Palmer Luckey, Karp, Lonsdale, Chamath, Jensen Huang",
+    "ALL tech articles pass through Claude sentiment filter",
+    "Claude explicitly keeps positive coverage of key tech leaders",
     "",
     "=== HOW TO ADD A PODCAST ===",
     "Copy any podcastSources block, set name/url/active:true",
