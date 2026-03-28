@@ -1,18 +1,22 @@
 // fetch-articles.js
-// Fetches news + podcast RSS feeds, detects guest appearances via watchedVoices,
-// generates AI teasers, writes articles.json and podcasts.json
+// Fetches news + tech abundance + podcast RSS feeds
+// Runs Claude sentiment filter on tech articles (positive/innovation only)
+// Explicitly keeps positive coverage of key tech leaders
+// Detects guest appearances via watchedVoices
+// Writes articles.json, tech.json, and podcasts.json
 
 const fs = require('fs');
 const https = require('https');
 const http = require('http');
 
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-const MAX_ARTICLES        = 60;
-const MAX_PODCAST_LIVE    = 5;
-const MAX_PODCAST_ARCHIVE = 500;
-const MIN_NEW_ARTICLES    = 1;
-const NEWS_TIMEOUT_MS     = 15000;
-const PODCAST_TIMEOUT_MS  = 30000;
+const ANTHROPIC_API_KEY    = process.env.ANTHROPIC_API_KEY;
+const MAX_ARTICLES         = 60;
+const MAX_TECH_ARTICLES    = 40;
+const MAX_PODCAST_LIVE     = 5;
+const MAX_PODCAST_ARCHIVE  = 500;
+const MIN_NEW_ARTICLES     = 1;
+const NEWS_TIMEOUT_MS      = 15000;
+const PODCAST_TIMEOUT_MS   = 30000;
 
 // ── HTTP ─────────────────────────────────────────────────────────────────────
 function httpGet(url, timeoutMs = NEWS_TIMEOUT_MS) {
@@ -95,8 +99,8 @@ function parseNewsRSS(xml, sourceName) {
     if (title && url && !url.includes('.mp3')) {
       items.push({
         title: title.replace(/\s+/g, ' ').trim(),
-        url: url.trim(),
-        date: parseDate(date).toISOString(),
+        url:   url.trim(),
+        date:  parseDate(date).toISOString(),
         image,
         source: sourceName,
         teaser: '',
@@ -118,7 +122,7 @@ function parsePodcastRSS(xml, showName) {
   const re = /<item[\s>]([\s\S]*?)<\/item>/gi;
   let m;
   while ((m = re.exec(xml)) !== null) {
-    const item = m[1];
+    const item     = m[1];
     const title    = extractText(item, 'title');
     const pubDate  = extractText(item, 'pubDate') || extractText(item, 'published');
     const audioUrl = extractAudio(item);
@@ -165,20 +169,14 @@ function detectGuests(episodes, watchedVoices) {
   });
 }
 
-// ── CLAUDE TEASER GENERATOR ───────────────────────────────────────────────────
-async function generateTeasers(articles) {
-  if (!ANTHROPIC_API_KEY) {
-    console.warn('No ANTHROPIC_API_KEY — skipping teasers');
-    return articles;
-  }
+// ── CLAUDE API CALL ───────────────────────────────────────────────────────────
+async function callClaude(prompt, maxTokens = 1024) {
+  if (!ANTHROPIC_API_KEY) return null;
 
   const payload = JSON.stringify({
     model: 'claude-sonnet-4-20250514',
-    max_tokens: 1024,
-    messages: [{
-      role: 'user',
-      content: `You are a sharp news editor. For each article, write ONE sentence (under 25 words) that teases the story — intriguing, factual, no hype. Return ONLY a JSON array with fields "id" and "teaser". No other text, no markdown.\n\nArticles:\n${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, source: a.source })))}`
-    }]
+    max_tokens: maxTokens,
+    messages: [{ role: 'user', content: prompt }]
   });
 
   const response = await new Promise((resolve, reject) => {
@@ -204,18 +202,93 @@ async function generateTeasers(articles) {
   });
 
   const json = JSON.parse(response);
-  const text = json.content?.[0]?.text || '[]';
-  let teasers = [];
+  return json.content?.[0]?.text || null;
+}
+
+// ── TECH ABUNDANCE SENTIMENT FILTER ──────────────────────────────────────────
+// Keeps articles that are optimistic, builder-focused, or positively cover
+// key tech leaders. Drops doom, negativity, regulation panic, and criticism.
+async function filterTechArticles(articles) {
+  if (!articles.length) return [];
+  if (!ANTHROPIC_API_KEY) {
+    console.warn('  No API key — skipping sentiment filter, keeping all tech articles');
+    return articles;
+  }
+
+  const BATCH = 30;
+  const approved = [];
+
+  for (let i = 0; i < articles.length; i += BATCH) {
+    const batch = articles.slice(i, i + BATCH);
+
+    const prompt = `You are a curator for the "Tech Abundance" section of a news site. The editorial voice is pro-innovation, pro-builder, and relentlessly optimistic about technology's ability to improve humanity.
+
+KEEP articles that are:
+- About AI breakthroughs, progress, capabilities, adoption
+- About crypto/Bitcoin growth, adoption, or policy wins
+- About space exploration, rockets, satellites, Mars
+- About defense tech innovation (Anduril, Palantir, new weapons systems)
+- About longevity, biotech, quantum computing, energy breakthroughs
+- About venture capital, startup launches, funding rounds
+- Positive or neutral coverage of: Elon Musk, SpaceX, Tesla, xAI, Palmer Luckey, Anduril, Alex Karp, Palantir, Joe Lonsdale, 8VC, Chamath, Marc Andreessen, a16z, David Sacks, Balaji Srinivasan, Jensen Huang, Nvidia, Peter Diamandis
+- About abundance, progress, innovation, building
+
+DROP articles that are:
+- Negative, critical, or attacking tech leaders or companies
+- About AI dangers, risks, existential threats, or calls for regulation
+- About crypto crashes, scams, fraud, or failures
+- About tech layoffs, company failures, or scandals
+- Regulatory crackdowns framed negatively
+- General doom, gloom, or anti-tech sentiment
+- Political attacks on tech figures unrelated to their tech work
+
+IMPORTANT: If an article mentions Elon Musk, Palmer Luckey, Alex Karp, Joe Lonsdale, Chamath, Marc Andreessen, David Sacks, Balaji, Jensen Huang, or Peter Diamandis in a positive or neutral context — ALWAYS keep it.
+
+Return ONLY a JSON array of article IDs to KEEP. No other text, no markdown.
+
+Articles:
+${JSON.stringify(batch.map(a => ({ id: a.id, title: a.title, source: a.source })))}`;
+
+    try {
+      const result = await callClaude(prompt, 512);
+      if (!result) { approved.push(...batch); continue; }
+      const kept = JSON.parse(result.replace(/```json|```/g, '').trim());
+      const keptSet = new Set(Array.isArray(kept) ? kept : []);
+      const filtered = batch.filter(a => keptSet.has(a.id));
+      console.log(`  Tech filter batch ${Math.floor(i/BATCH)+1}: ${batch.length} in → ${filtered.length} kept`);
+      approved.push(...filtered);
+    } catch (e) {
+      console.warn(`  Tech filter error: ${e.message} — keeping batch unfiltered`);
+      approved.push(...batch);
+    }
+  }
+
+  return approved;
+}
+
+// ── TEASER GENERATOR ──────────────────────────────────────────────────────────
+async function generateTeasers(articles) {
+  if (!ANTHROPIC_API_KEY) {
+    console.warn('No ANTHROPIC_API_KEY — skipping teasers');
+    return articles;
+  }
+
+  const prompt = `You are a sharp news editor. For each article, write ONE sentence (under 25 words) that teases the story — intriguing, factual, no hype. Return ONLY a JSON array with fields "id" and "teaser". No other text, no markdown.
+
+Articles:
+${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, source: a.source })))}`;
+
   try {
-    teasers = JSON.parse(text.replace(/```json|```/g, '').trim());
+    const result = await callClaude(prompt, 1024);
+    if (!result) return articles;
+    const teasers = JSON.parse(result.replace(/```json|```/g, '').trim());
+    const map = {};
+    teasers.forEach(t => { if (t.id) map[t.id] = t.teaser; });
+    return articles.map(a => ({ ...a, teaser: map[a.id] || '' }));
   } catch (e) {
     console.warn('Teaser parse error:', e.message);
     return articles;
   }
-
-  const map = {};
-  teasers.forEach(t => { if (t.id) map[t.id] = t.teaser; });
-  return articles.map(a => ({ ...a, teaser: map[a.id] || '' }));
 }
 
 // ── MAIN ──────────────────────────────────────────────────────────────────────
@@ -223,21 +296,26 @@ async function main() {
   console.log('=== GP360 fetch started:', new Date().toISOString());
 
   const cfg = JSON.parse(fs.readFileSync('sources.json', 'utf-8'));
-  const activeNews     = (cfg.sources || []).filter(s => s.active && s.category === 'news');
+  const activeNews     = (cfg.sources      || []).filter(s => s.active && s.category === 'news');
+  const activeTech     = (cfg.techSources  || []).filter(s => s.active && s.url);
   const activePodcasts = (cfg.podcastSources || []).filter(s => s.active && s.url);
   const watchedVoices  = cfg.watchedVoices || [];
 
-  console.log(`News: ${activeNews.length} | Podcasts: ${activePodcasts.length} | Watched voices: ${watchedVoices.filter(v=>v.active).length}`);
+  console.log(`News: ${activeNews.length} | Tech: ${activeTech.length} | Podcasts: ${activePodcasts.length} | Voices: ${watchedVoices.filter(v=>v.active).length}`);
 
   // Load existing data
   let existingArticles = { articles: [] };
+  let existingTech     = { articles: [] };
   let existingPodcasts = { latest: [], archive: [] };
   try { existingArticles = JSON.parse(fs.readFileSync('articles.json', 'utf-8')); } catch {}
+  try { existingTech     = JSON.parse(fs.readFileSync('tech.json',     'utf-8')); } catch {}
   try { existingPodcasts = JSON.parse(fs.readFileSync('podcasts.json', 'utf-8')); } catch {}
 
   const existingArticleIds = new Set((existingArticles.articles || []).map(a => a.id));
+  const existingTechIds    = new Set((existingTech.articles     || []).map(a => a.id));
 
   // ── NEWS ──────────────────────────────────────────────────────────────────
+  console.log('\n--- NEWS ---');
   let allArticles = [];
   for (const src of activeNews) {
     try {
@@ -246,9 +324,7 @@ async function main() {
       const items = parseNewsRSS(xml, src.name);
       console.log(`  ✓ ${items.length}`);
       allArticles.push(...items);
-    } catch (e) {
-      console.warn(`  ✗ ${src.name}: ${e.message}`);
-    }
+    } catch (e) { console.warn(`  ✗ ${src.name}: ${e.message}`); }
   }
 
   const seenUrls = new Set();
@@ -276,13 +352,74 @@ async function main() {
   }
 
   fs.writeFileSync('articles.json', JSON.stringify({
-    lastUpdated: new Date().toISOString(),
+    lastUpdated:  new Date().toISOString(),
     articleCount: Math.min(allArticles.length, MAX_ARTICLES),
-    articles: allArticles.slice(0, MAX_ARTICLES)
+    articles:     allArticles.slice(0, MAX_ARTICLES)
   }, null, 2));
   console.log(`✓ articles.json: ${Math.min(allArticles.length, MAX_ARTICLES)}`);
 
+  // ── TECH ABUNDANCE ────────────────────────────────────────────────────────
+  console.log('\n--- TECH ABUNDANCE ---');
+  let allTechArticles = [];
+  for (const src of activeTech) {
+    try {
+      console.log(`[TECH] ${src.name}`);
+      const xml = await httpGet(src.url, NEWS_TIMEOUT_MS);
+      const items = parseNewsRSS(xml, src.name);
+      console.log(`  ✓ ${items.length}`);
+      allTechArticles.push(...items);
+    } catch (e) { console.warn(`  ✗ ${src.name}: ${e.message}`); }
+  }
+
+  const seenTechUrls = new Set();
+  allTechArticles = allTechArticles.filter(a => {
+    if (seenTechUrls.has(a.url)) return false;
+    seenTechUrls.add(a.url);
+    return true;
+  });
+  allTechArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  // Only run sentiment filter on articles we haven't seen before
+  const newTechArticles = allTechArticles.filter(a => !existingTechIds.has(a.id));
+  console.log(`Sentiment filter: ${newTechArticles.length} new articles to evaluate...`);
+  const approvedNew = await filterTechArticles(newTechArticles);
+  console.log(`  ✓ ${approvedNew.length} approved after filter`);
+
+  // Merge: newly approved + previously approved that still appear in feed
+  const approvedNewIds     = new Set(approvedNew.map(a => a.id));
+  const existingApprovedIds = new Set((existingTech.articles || []).map(a => a.id));
+  const finalTechArticles   = allTechArticles.filter(a =>
+    approvedNewIds.has(a.id) || existingApprovedIds.has(a.id)
+  );
+
+  // Generate teasers for newly approved articles
+  const techTeaserCache = {};
+  (existingTech.articles || []).forEach(a => { if (a.teaser) techTeaserCache[a.id] = a.teaser; });
+  const techNeedTeasers = approvedNew.filter(a => !techTeaserCache[a.id]);
+
+  if (techNeedTeasers.length > 0) {
+    const BATCH = 20;
+    for (let i = 0; i < techNeedTeasers.length; i += BATCH) {
+      const batch = techNeedTeasers.slice(i, i + BATCH);
+      console.log(`Tech teasers batch ${Math.floor(i/BATCH)+1}: ${batch.length}`);
+      const done = await generateTeasers(batch);
+      done.forEach(a => { techTeaserCache[a.id] = a.teaser; });
+    }
+  }
+
+  const finalTechWithTeasers = finalTechArticles
+    .map(a => ({ ...a, teaser: techTeaserCache[a.id] || '' }))
+    .slice(0, MAX_TECH_ARTICLES);
+
+  fs.writeFileSync('tech.json', JSON.stringify({
+    lastUpdated:  new Date().toISOString(),
+    articleCount: finalTechWithTeasers.length,
+    articles:     finalTechWithTeasers
+  }, null, 2));
+  console.log(`✓ tech.json: ${finalTechWithTeasers.length} articles`);
+
   // ── PODCASTS ──────────────────────────────────────────────────────────────
+  console.log('\n--- PODCASTS ---');
   let allEpisodes = [];
   for (const src of activePodcasts) {
     try {
@@ -291,18 +428,14 @@ async function main() {
       const eps = parsePodcastRSS(xml, src.name);
       console.log(`  ✓ ${eps.length}`);
       allEpisodes.push(...eps);
-    } catch (e) {
-      console.warn(`  ✗ ${src.name}: ${e.message}`);
-    }
+    } catch (e) { console.warn(`  ✗ ${src.name}: ${e.message}`); }
   }
 
-  // Guest detection
   console.log('Running guest detection...');
   allEpisodes = detectGuests(allEpisodes, watchedVoices);
   const taggedCount = allEpisodes.filter(e => e.guestTags.length > 0).length;
-  console.log(`  ✓ ${taggedCount} episodes tagged with guest appearances`);
+  console.log(`  ✓ ${taggedCount} episodes tagged`);
 
-  // Sort + dedup
   allEpisodes.sort((a, b) => new Date(b.date) - new Date(a.date));
   const seenEpIds = new Set();
   allEpisodes = allEpisodes.filter(e => {
@@ -339,18 +472,18 @@ async function main() {
   }
 
   fs.writeFileSync('podcasts.json', JSON.stringify({
-    lastUpdated: new Date().toISOString(),
-    showCount: activePodcasts.length,
+    lastUpdated:  new Date().toISOString(),
+    showCount:    activePodcasts.length,
     episodeCount: latestEpisodes.length,
     archiveCount: fullArchive.length,
     taggedCount,
-    latest: latestEpisodes,
-    archive: fullArchive,
+    latest:       latestEpisodes,
+    archive:      fullArchive,
     guestIndex
   }, null, 2));
 
-  console.log(`✓ podcasts.json: ${latestEpisodes.length} latest, ${fullArchive.length} archived, ${taggedCount} guest-tagged`);
-  console.log('=== Done:', new Date().toISOString());
+  console.log(`✓ podcasts.json: ${latestEpisodes.length} latest, ${fullArchive.length} archived, ${taggedCount} tagged`);
+  console.log('\n=== Done:', new Date().toISOString());
 }
 
 main().catch(e => { console.error('FATAL:', e); process.exit(1); });
