@@ -72,13 +72,13 @@
     {
       "name": "Theo Von - This Past Weekend",
       "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/TPW9608187421",
+      "url": "https://feeds.megaphone.fm/thispastweekend",
       "active": true
     },
     {
       "name": "The Jordan B. Peterson Podcast",
       "type": "podcast_rss",
-      "url": "https://feeds.transistor.fm/the-jordan-b-peterson-podcast",
+      "url": "https://feeds.megaphone.fm/BVDWV6444647327",
       "active": true
     },
     {
@@ -114,7 +114,7 @@
     {
       "name": "After Party with Emily Jashinsky",
       "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/RSN7922059768",
+      "url": "https://feeds.megaphone.fm/afterparty",
       "active": true
     },
     {
@@ -132,7 +132,7 @@
     {
       "name": "Julian Dorey Podcast",
       "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/QCODE7822598530",
+      "url": "https://feeds.megaphone.fm/juliandoreypodcast",
       "active": true
     },
     {
@@ -169,10 +169,93 @@
     }
   ],
 
+  "watchedVoices": [
+    {
+      "name": "John Kiriakou",
+      "keywords": ["Kiriakou", "John Kiriakou"],
+      "active": true,
+      "notes": "Former CIA officer — appears on many shows as guest"
+    },
+    {
+      "name": "Martin Shkreli",
+      "keywords": ["Shkreli", "Martin Shkreli"],
+      "active": true,
+      "notes": "Pharma/finance — frequent guest"
+    },
+    {
+      "name": "Glenn Greenwald",
+      "keywords": ["Greenwald", "Glenn Greenwald"],
+      "active": true,
+      "notes": "Journalist — appears on many podcasts"
+    },
+    {
+      "name": "Lee Fang",
+      "keywords": ["Lee Fang"],
+      "active": true,
+      "notes": "Investigative journalist — frequent guest"
+    },
+    {
+      "name": "Sarah Adams",
+      "keywords": ["Sarah Adams", "Super Bad"],
+      "active": true,
+      "notes": "CIA targeter — frequent Shawn Ryan Show guest"
+    },
+    {
+      "name": "Andy Ngo",
+      "keywords": ["Andy Ngo", "Ngo"],
+      "active": true,
+      "notes": "Journalist — appears as guest on various shows"
+    },
+    {
+      "name": "Matt Taibbi",
+      "keywords": ["Taibbi", "Matt Taibbi"],
+      "active": true,
+      "notes": "Journalist — frequent guest appearance"
+    },
+    {
+      "name": "Bari Weiss",
+      "keywords": ["Bari Weiss"],
+      "active": true,
+      "notes": "The Free Press founder — frequent guest"
+    },
+    {
+      "name": "Michael Shellenberger",
+      "keywords": ["Shellenberger", "Michael Shellenberger"],
+      "active": true,
+      "notes": "Author/journalist — frequent guest"
+    },
+    {
+      "name": "Roaring Kitty",
+      "keywords": ["Roaring Kitty", "Keith Gill", "GameStop"],
+      "active": true,
+      "notes": "No podcast RSS — track guest appearances only"
+    },
+    {
+      "name": "Ellie in Space",
+      "keywords": ["Ellie in Space", "Eliana Sheriff"],
+      "active": true,
+      "notes": "YouTube only — track guest appearances only"
+    },
+    {
+      "name": "Kyla Scanlon",
+      "keywords": ["Kyla Scanlon", "Scanlon"],
+      "active": true,
+      "notes": "Economics creator — track guest appearances"
+    }
+  ],
+
   "notes": [
-    "To add a journalist: copy any 'sources' block, set name/url/active:true",
-    "Substack RSS pattern: https://NAME.substack.com/feed",
-    "To add a podcast: copy any 'podcastSources' block, set name/url/active:true",
-    "To find any RSS URL: go to podnews.net and search the show name"
+    "=== HOW TO ADD A JOURNALIST (News tab) ===",
+    "Copy any sources block, set name/url/active:true",
+    "Substack pattern: https://NAME.substack.com/feed",
+    "",
+    "=== HOW TO ADD A PODCAST ===",
+    "Copy any podcastSources block, set name/url/active:true",
+    "To find RSS URL: go to podnews.net and search show name",
+    "",
+    "=== HOW TO ADD A WATCHED VOICE (guest detection) ===",
+    "Copy any watchedVoices block. Set name and keywords array.",
+    "Keywords are searched in episode titles + descriptions from ALL podcast feeds.",
+    "You can add multiple keywords per person — last name, full name, nickname, etc."
   ]
 }
