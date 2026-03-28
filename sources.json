@@ -48,6 +48,27 @@
       "url": "https://www.ngocomment.com/feed",
       "category": "news",
       "active": true
+    },
+    {
+      "name": "Alex Berenson / Unreported Truths",
+      "type": "rss",
+      "url": "https://alexberenson.substack.com/feed",
+      "category": "news",
+      "active": true
+    },
+    {
+      "name": "David Zweig / Silent Lunch",
+      "type": "rss",
+      "url": "https://www.silentlunch.net/feed",
+      "category": "news",
+      "active": true
+    },
+    {
+      "name": "Robby Soave / Reason",
+      "type": "rss",
+      "url": "https://reason.com/newsletters/free-media/feed/",
+      "category": "news",
+      "active": true
     }
   ],
 
@@ -124,7 +145,7 @@
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/afterparty",
       "active": false,
-      "notes": "Megaphone slug unverified — 0 episodes. Set active:true once correct ID found."
+      "notes": "Megaphone slug unverified — 0 episodes."
     },
     {
       "name": "Martin Shkreli",
@@ -144,7 +165,7 @@
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/juliandoreypodcast",
       "active": false,
-      "notes": "Megaphone slug unverified — 0 episodes. Set active:true once correct ID found."
+      "notes": "Megaphone slug unverified — 0 episodes."
     },
     {
       "name": "Dalton Fischer Podcast",
@@ -157,14 +178,14 @@
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/VMP1204038685",
       "active": false,
-      "notes": "Megaphone numeric ID unverified — 0 episodes. Set active:true once correct ID found."
+      "notes": "Megaphone numeric ID unverified — 0 episodes."
     },
     {
       "name": "Let's Appreciate (Kyla Scanlon)",
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/SCI8924001060",
       "active": false,
-      "notes": "Megaphone numeric ID unverified — 0 episodes. Set active:true once correct ID found."
+      "notes": "Megaphone numeric ID unverified — 0 episodes."
     },
     {
       "name": "Roaring Kitty (Keith Gill)",
@@ -186,92 +207,92 @@
     {
       "name": "John Kiriakou",
       "keywords": ["Kiriakou", "John Kiriakou"],
-      "active": true,
-      "notes": "Former CIA officer — no active podcast feed, tracked as guest only"
+      "active": true
     },
     {
       "name": "Martin Shkreli",
       "keywords": ["Shkreli", "Martin Shkreli"],
-      "active": true,
-      "notes": "No audio feed — tracked as guest only"
+      "active": true
     },
     {
       "name": "Glenn Greenwald",
       "keywords": ["Greenwald", "Glenn Greenwald"],
-      "active": true,
-      "notes": "Journalist — also appears on many podcasts as guest"
+      "active": true
     },
     {
       "name": "Lee Fang",
       "keywords": ["Lee Fang"],
-      "active": true,
-      "notes": "Investigative journalist — frequent guest"
+      "active": true
     },
     {
       "name": "Sarah Adams",
       "keywords": ["Sarah Adams", "Super Bad"],
-      "active": true,
-      "notes": "CIA targeter — frequent Shawn Ryan Show guest"
+      "active": true
     },
     {
       "name": "Andy Ngo",
       "keywords": ["Andy Ngo"],
-      "active": true,
-      "notes": "Journalist — appears as guest on various shows"
+      "active": true
     },
     {
       "name": "Matt Taibbi",
       "keywords": ["Taibbi", "Matt Taibbi"],
-      "active": true,
-      "notes": "Journalist — frequent guest appearance"
+      "active": true
     },
     {
       "name": "Bari Weiss",
       "keywords": ["Bari Weiss"],
-      "active": true,
-      "notes": "The Free Press founder — frequent guest"
+      "active": true
     },
     {
       "name": "Michael Shellenberger",
       "keywords": ["Shellenberger", "Michael Shellenberger"],
-      "active": true,
-      "notes": "Author/journalist — frequent guest"
+      "active": true
     },
     {
       "name": "Dave Smith",
       "keywords": ["Dave Smith", "Part of the Problem"],
-      "active": true,
-      "notes": "Libertarian podcaster — frequent JRE and Lex Fridman guest"
+      "active": true
+    },
+    {
+      "name": "Alex Berenson",
+      "keywords": ["Berenson", "Alex Berenson"],
+      "active": true
+    },
+    {
+      "name": "David Zweig",
+      "keywords": ["Zweig", "David Zweig"],
+      "active": true
+    },
+    {
+      "name": "Robby Soave",
+      "keywords": ["Soave", "Robby Soave"],
+      "active": true
     },
     {
       "name": "Roaring Kitty",
       "keywords": ["Roaring Kitty", "Keith Gill", "GameStop"],
-      "active": true,
-      "notes": "No podcast RSS — track guest appearances only"
+      "active": true
     },
     {
       "name": "Ellie in Space",
       "keywords": ["Ellie in Space", "Eliana Sheriff"],
-      "active": true,
-      "notes": "YouTube only — track guest appearances only"
+      "active": true
     },
     {
       "name": "Kyla Scanlon",
       "keywords": ["Kyla Scanlon", "Scanlon"],
-      "active": true,
-      "notes": "Economics creator — track guest appearances"
+      "active": true
     },
     {
       "name": "Emily Jashinsky",
       "keywords": ["Jashinsky", "Emily Jashinsky", "After Party"],
-      "active": true,
-      "notes": "Track guest appearances while feed slug is unverified"
+      "active": true
     },
     {
       "name": "Julian Dorey",
       "keywords": ["Julian Dorey"],
-      "active": true,
-      "notes": "Track guest appearances while feed slug is unverified"
+      "active": true
     }
   ],
 
@@ -279,19 +300,15 @@
     "=== HOW TO ADD A JOURNALIST (News tab) ===",
     "Copy any sources block, set name/url/active:true",
     "Substack pattern: https://NAME.substack.com/feed",
-    "Substack section pattern: https://NAME.substack.com/s/SECTIONNAME/feed",
+    "Substack section: https://NAME.substack.com/s/SECTION/feed",
     "",
     "=== HOW TO ADD A PODCAST ===",
     "Copy any podcastSources block, set name/url/active:true",
-    "To find RSS URL: go to podnews.net and search show name",
+    "Find RSS URL at podnews.net",
     "ART19 pattern: https://rss.art19.com/SHOW-SLUG",
-    "Megaphone slug pattern: https://feeds.megaphone.fm/SLUG",
-    "Megaphone numeric ID: https://feeds.megaphone.fm/XXXXXXXXXX",
     "",
-    "=== HOW TO ADD A WATCHED VOICE (guest detection) ===",
-    "Copy any watchedVoices block. Set name and keywords array.",
-    "Keywords searched in episode titles + descriptions from ALL podcast feeds.",
-    "Works even for people with no RSS feed of their own.",
-    "You can add multiple keywords — last name, full name, nickname, show name, etc."
+    "=== HOW TO ADD A WATCHED VOICE ===",
+    "Copy any watchedVoices block, set name/keywords/active:true",
+    "Keywords searched in ALL podcast episode titles and descriptions"
   ]
 }
