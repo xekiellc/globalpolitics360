@@ -121,10 +121,15 @@
     .last-updated { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--gray); letter-spacing: .06em; text-align: right; margin-bottom: 16px; }
     .last-updated span { color: var(--light-gray); }
 
-    /* PODCASTS */
-    .podcast-show-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+    /* PODCAST FILTERS */
+    .podcast-show-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; align-items: center; }
     .filter-btn { background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .12em; text-transform: uppercase; padding: 6px 14px; cursor: pointer; transition: all .2s; }
     .filter-btn:hover, .filter-btn.active { background: var(--red); border-color: var(--red); color: white; }
+    .filter-btn.guest-filter { border-color: var(--gold); }
+    .filter-btn.guest-filter.active { background: var(--gold); border-color: var(--gold); color: var(--black); }
+    .filter-divider { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gold); letter-spacing: .1em; text-transform: uppercase; padding: 0 4px; align-self: center; }
+
+    /* PODCAST GRID */
     .podcast-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(320px,1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); margin-bottom: 36px; }
     .podcast-card { background: var(--ink); display: flex; gap: 16px; padding: 18px 20px; transition: background .2s; }
     .podcast-card:hover { background: #181818; }
@@ -132,34 +137,52 @@
     .podcast-thumb img { width: 100%; height: 100%; object-fit: cover; }
     .podcast-thumb-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg,#1a1a1a,#222); font-size: 28px; opacity: .5; }
     .podcast-info { flex: 1; min-width: 0; }
-    .podcast-show-name { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .15em; text-transform: uppercase; color: var(--gold); margin-bottom: 6px; }
+    .podcast-show-name { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .15em; text-transform: uppercase; color: var(--gold); margin-bottom: 4px; }
     .podcast-ep-title { font-size: 13px; font-weight: 700; line-height: 1.35; margin-bottom: 6px; }
     .podcast-ep-title a { color: var(--paper); text-decoration: none; }
     .podcast-ep-title a:hover { color: var(--gold); }
     .podcast-meta { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gray); letter-spacing: .06em; margin-bottom: 8px; }
+    .podcast-guest-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px; }
+    .guest-tag { font-family: 'IBM Plex Mono', monospace; font-size: 8px; letter-spacing: .1em; text-transform: uppercase; background: rgba(184,146,42,.15); border: 1px solid var(--gold); color: var(--gold); padding: 2px 7px; }
     .podcast-listen-btn { display: inline-block; background: var(--red); color: white; font-family: 'IBM Plex Mono', monospace; font-size: 8px; letter-spacing: .14em; text-transform: uppercase; padding: 5px 10px; text-decoration: none; transition: background .15s; }
     .podcast-listen-btn:hover { background: var(--red-dark); }
 
-    /* PODCAST ARCHIVE */
+    /* ARCHIVE TOGGLE */
+    .archive-toggle-wrap { text-align: center; margin: 8px 0 0; }
+    .archive-toggle-btn { background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .16em; text-transform: uppercase; padding: 12px 32px; cursor: pointer; transition: all .2s; width: 100%; max-width: 400px; }
+    .archive-toggle-btn:hover { border-color: var(--gold); color: var(--gold); }
+    .archive-toggle-btn.open { border-color: var(--gold); color: var(--gold); }
+
+    /* ARCHIVE PANEL */
+    .archive-panel { display: none; margin-top: 24px; }
+    .archive-panel.open { display: block; }
+    .archive-search-bar { background: var(--ink); border: 1px solid var(--border); color: var(--paper); font-family: 'IBM Plex Mono', monospace; font-size: 12px; padding: 10px 16px; width: 100%; max-width: 500px; outline: none; letter-spacing: .04em; margin-bottom: 16px; transition: border-color .2s; }
+    .archive-search-bar:focus { border-color: var(--gold); }
+
+    /* ARCHIVE LIST */
     .podcast-archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
-    .archive-ep-item { display: grid; grid-template-columns: 120px 60px 1fr auto; align-items: center; gap: 16px; background: var(--ink); padding: 12px 20px; transition: background .15s; }
+    .archive-ep-item { display: grid; grid-template-columns: 110px 56px 1fr auto; align-items: center; gap: 14px; background: var(--ink); padding: 11px 18px; transition: background .15s; }
     .archive-ep-item:hover { background: #181818; }
-    .archive-ep-date { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--light-gray); letter-spacing: .06em; }
-    .archive-ep-thumb { width: 48px; height: 48px; object-fit: cover; background: var(--border); }
+    .archive-ep-date { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--light-gray); letter-spacing: .06em; }
+    .archive-ep-thumb { width: 48px; height: 48px; object-fit: cover; background: var(--border); flex-shrink: 0; }
+    .archive-ep-body { min-width: 0; }
     .archive-ep-title { font-size: 13px; font-weight: 700; line-height: 1.3; }
     .archive-ep-title a { color: var(--paper); text-decoration: none; }
     .archive-ep-title a:hover { color: var(--gold); }
     .archive-ep-show { display: block; font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gold); letter-spacing: .08em; text-transform: uppercase; margin-top: 3px; }
+    .archive-ep-guest-tags { display: flex; flex-wrap: wrap; gap: 3px; margin-top: 4px; }
     .archive-ep-link { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--red); letter-spacing: .1em; text-transform: uppercase; text-decoration: none; white-space: nowrap; }
     .archive-ep-link:hover { color: var(--gold); }
+    .archive-load-more { width: 100%; background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; padding: 12px; cursor: pointer; margin-top: 1px; transition: all .2s; }
+    .archive-load-more:hover { border-color: var(--gold); color: var(--gold); }
 
     /* NEWS ARCHIVE */
-    .archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
-    .archive-item { display: grid; grid-template-columns: 130px 1fr auto; align-items: center; gap: 20px; background: var(--ink); padding: 14px 20px; transition: background .15s; text-decoration: none; color: var(--paper); }
-    .archive-item:hover { background: #181818; }
-    .archive-date { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--light-gray); letter-spacing: .08em; }
-    .archive-title { font-size: 14px; font-weight: 700; }
-    .archive-source { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gold); letter-spacing: .1em; text-transform: uppercase; white-space: nowrap; }
+    .news-archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
+    .news-archive-item { display: grid; grid-template-columns: 130px 1fr auto; align-items: center; gap: 20px; background: var(--ink); padding: 14px 20px; transition: background .15s; text-decoration: none; color: var(--paper); }
+    .news-archive-item:hover { background: #181818; }
+    .news-archive-date { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--light-gray); letter-spacing: .08em; }
+    .news-archive-title { font-size: 14px; font-weight: 700; }
+    .news-archive-source { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gold); letter-spacing: .1em; text-transform: uppercase; white-space: nowrap; }
 
     /* ABOUT / CONTACT */
     .prose-page { max-width: 720px; margin: 0 auto; }
@@ -198,7 +221,7 @@
       .masthead-top { flex-direction: column; gap: 4px; text-align: center; }
       nav button { padding: 8px 12px; font-size: 10px; }
       .articles-grid { grid-template-columns: 1fr; }
-      .archive-item { grid-template-columns: 1fr; gap: 4px; }
+      .news-archive-item { grid-template-columns: 1fr; gap: 4px; }
       footer { flex-direction: column; gap: 10px; text-align: center; }
       .podcast-grid { grid-template-columns: 1fr; }
     }
@@ -219,7 +242,6 @@
     <button class="active" onclick="showTab('news',this)">News</button>
     <button onclick="showTab('archive',this)">Archive</button>
     <button onclick="showTab('podcasts',this)">Podcasts</button>
-    <button onclick="showTab('podcast-archive',this)">Podcast Archive</button>
     <button onclick="showTab('about',this)">About</button>
     <button onclick="showTab('contact',this)">Contact</button>
   </nav>
@@ -254,7 +276,7 @@
   <!-- NEWS ARCHIVE TAB -->
   <div id="tab-archive" class="tab-panel">
     <div class="section-header"><h2>Article Archive</h2><hr /></div>
-    <div id="archiveList" class="archive-list">
+    <div id="newsArchiveList" class="news-archive-list">
       <div class="empty-state"><p>Archive loads after first refresh cycle.</p></div>
     </div>
   </div>
@@ -262,24 +284,42 @@
   <!-- PODCASTS TAB -->
   <div id="tab-podcasts" class="tab-panel">
     <div class="last-updated">Last updated: <span id="podLastUpdated">—</span></div>
-    <div class="section-header"><h2>Latest Episodes</h2><hr /></div>
-    <div class="podcast-show-filter" id="showFilter">
-      <button class="filter-btn active" onclick="filterPodcasts('all',this)">All Shows</button>
-    </div>
-    <div id="podcastGrid" class="podcast-grid">
-      <div class="empty-state" style="grid-column:1/-1"><div class="loading-state"><div class="spinner"></div><p>Loading episodes...</p></div></div>
-    </div>
-  </div>
 
-  <!-- PODCAST ARCHIVE TAB -->
-  <div id="tab-podcast-archive" class="tab-panel">
-    <div class="section-header"><h2>Podcast Archive</h2><hr /></div>
-    <div style="margin-bottom:16px;">
-      <input type="text" id="archiveSearch" placeholder="Search episodes by title or show..." oninput="filterArchive()"
-        style="background:var(--ink);border:1px solid var(--border);color:var(--paper);font-family:'IBM Plex Mono',monospace;font-size:12px;padding:10px 16px;width:100%;max-width:500px;outline:none;" />
+    <div class="section-header"><h2>Latest Episodes</h2><hr /></div>
+
+    <div class="podcast-show-filter" id="showFilter">
+      <button class="filter-btn active" onclick="filterPodcasts('all',this)">All</button>
     </div>
-    <div id="podcastArchiveList" class="podcast-archive-list">
-      <div class="empty-state"><p>Podcast archive loads after first refresh cycle.</p></div>
+
+    <div id="podcastGrid" class="podcast-grid">
+      <div class="empty-state" style="grid-column:1/-1">
+        <div class="loading-state"><div class="spinner"></div><p>Loading episodes...</p></div>
+      </div>
+    </div>
+
+    <!-- ARCHIVE TOGGLE -->
+    <div class="archive-toggle-wrap">
+      <button class="archive-toggle-btn" id="archiveToggleBtn" onclick="toggleArchive()">
+        ▼ &nbsp; Show Podcast Archive
+      </button>
+    </div>
+
+    <!-- ARCHIVE PANEL -->
+    <div class="archive-panel" id="archivePanel">
+      <div class="section-header" style="margin-top:28px;"><h2>Podcast Archive</h2><hr /></div>
+      <input
+        type="text"
+        class="archive-search-bar"
+        id="archiveSearch"
+        placeholder="Search by episode title, show, or guest name..."
+        oninput="filterArchive()"
+      />
+      <div id="podcastArchiveList" class="podcast-archive-list">
+        <div class="empty-state"><p>Archive loads after first refresh cycle.</p></div>
+      </div>
+      <button class="archive-load-more" id="archiveLoadMore" onclick="loadMoreArchive()" style="display:none">
+        Load More Episodes ▼
+      </button>
     </div>
   </div>
 
@@ -305,10 +345,13 @@
         <li>Dave Smith</li><li>John Kiriakou</li>
         <li>Natalie Brunell</li><li>Emily Jashinsky</li>
         <li>Martin Shkreli</li><li>Danny Jones</li>
+        <li>Julian Dorey</li><li>Dalton Fischer</li>
+        <li>Sarah Adams</li><li>Kyla Scanlon</li>
       </ul>
+      <h2>Guest Detection</h2>
+      <p>GP360 automatically scans every podcast episode for mentions of your curated voices. When someone like John Kiriakou or Glenn Greenwald appears as a guest on Joe Rogan or any other tracked show, that episode is automatically surfaced and tagged — so you never miss an appearance even if they don't have their own feed.</p>
       <h2>How It Works</h2>
-      <p>Every three hours, an automated system fetches articles and podcast episodes from curated RSS feeds. An AI model writes a one-sentence teaser for each news article. New podcast episodes appear immediately; older episodes roll into the Podcast Archive automatically.</p>
-      <p>To suggest a source, use the Contact form.</p>
+      <p>Every three hours, an automated system fetches articles and podcast episodes from curated RSS feeds. An AI model writes a one-sentence teaser for each news article. New podcast episodes appear immediately and older ones roll into the searchable Podcast Archive automatically.</p>
     </div>
   </div>
 
@@ -344,7 +387,7 @@
     document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
     document.getElementById('tab-' + name).classList.add('active');
     if (btn) btn.classList.add('active');
-    gtag('event', 'tab_view', { tab_name: name });
+    gtag('event','tab_view',{tab_name:name});
   }
 
   function handleContact() { alert('Thank you. We will be in touch.'); }
@@ -355,7 +398,8 @@
   }
   function fmtDate(s) {
     if (!s) return '';
-    try { return new Date(s).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); } catch { return s; }
+    try { return new Date(s).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); }
+    catch { return s; }
   }
   function fmtDuration(s) {
     if (!s) return '';
@@ -366,6 +410,7 @@
     return s;
   }
 
+  // ── NEWS ───────────────────────────────────────────────────────────────────
   async function loadArticles() {
     try {
       const res = await fetch('articles.json?t=' + Date.now());
@@ -381,7 +426,7 @@
       renderGrid(arts.slice(1,7));
       renderLinks(arts.slice(7));
       renderNewsArchive(arts);
-    } catch(e) { console.log('Articles not ready yet'); }
+    } catch(e) { console.log('Articles not ready'); }
   }
 
   function renderFeatured(a) {
@@ -424,18 +469,22 @@
   }
 
   function renderNewsArchive(arts) {
-    const el = document.getElementById('archiveList');
+    const el = document.getElementById('newsArchiveList');
     if (!arts.length) return;
     el.innerHTML = arts.map(a=>`
-      <a class="archive-item" href="${esc(a.url)}" target="_blank" rel="noopener">
-        <div class="archive-date">${fmtDate(a.date)}</div>
-        <div class="archive-title">${esc(a.title)}</div>
-        <div class="archive-source">${esc(a.source)}</div>
+      <a class="news-archive-item" href="${esc(a.url)}" target="_blank" rel="noopener">
+        <div class="news-archive-date">${fmtDate(a.date)}</div>
+        <div class="news-archive-title">${esc(a.title)}</div>
+        <div class="news-archive-source">${esc(a.source)}</div>
       </a>`).join('');
   }
 
-  let allPodcastEpisodes = [];
-  let allArchiveEpisodes = [];
+  // ── PODCASTS ───────────────────────────────────────────────────────────────
+  let allLatestEps   = [];
+  let allArchiveEps  = [];
+  let guestIndex     = {};
+  let archiveShowing = 50;
+  let archiveOpen    = false;
 
   async function loadPodcasts() {
     try {
@@ -444,31 +493,52 @@
       const data = await res.json();
       if (data.lastUpdated) document.getElementById('podLastUpdated').textContent =
         new Date(data.lastUpdated).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'});
-      allPodcastEpisodes = data.latest || [];
-      allArchiveEpisodes = data.archive || [];
-      buildShowFilters(allPodcastEpisodes);
-      renderPodcasts(allPodcastEpisodes);
-      renderPodcastArchive(allArchiveEpisodes);
-    } catch(e) { console.log('Podcasts not ready yet'); }
+      allLatestEps  = data.latest  || [];
+      allArchiveEps = data.archive || [];
+      guestIndex    = data.guestIndex || {};
+      buildFilters();
+      renderPodcasts(allLatestEps);
+      renderArchive();
+    } catch(e) { console.log('Podcasts not ready'); }
   }
 
-  function buildShowFilters(eps) {
-    const shows = [...new Set(eps.map(e=>e.show))].sort();
-    document.getElementById('showFilter').innerHTML =
-      `<button class="filter-btn active" onclick="filterPodcasts('all',this)">All Shows</button>` +
-      shows.map(s=>`<button class="filter-btn" onclick="filterPodcasts(${JSON.stringify(s)},this)">${esc(s)}</button>`).join('');
+  function buildFilters() {
+    const shows  = [...new Set(allLatestEps.map(e => e.show))].sort();
+    const voices = Object.keys(guestIndex).filter(v => (guestIndex[v]||[]).length > 0).sort();
+    let html = `<button class="filter-btn active" onclick="filterPodcasts('all',this)">All</button>`;
+    shows.forEach(s => {
+      html += `<button class="filter-btn" onclick="filterPodcasts(${JSON.stringify(s)},this)">${esc(s)}</button>`;
+    });
+    if (voices.length) {
+      html += `<span class="filter-divider">Guests:</span>`;
+      voices.forEach(v => {
+        html += `<button class="filter-btn guest-filter" onclick="filterByGuest(${JSON.stringify(v)},this)">${esc(v)}</button>`;
+      });
+    }
+    document.getElementById('showFilter').innerHTML = html;
   }
 
   function filterPodcasts(show, btn) {
-    document.querySelectorAll('#showFilter .filter-btn').forEach(b=>b.classList.remove('active'));
+    document.querySelectorAll('#showFilter .filter-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    renderPodcasts(show==='all' ? allPodcastEpisodes : allPodcastEpisodes.filter(e=>e.show===show));
+    const filtered = show === 'all' ? allLatestEps : allLatestEps.filter(e => e.show === show);
+    renderPodcasts(filtered);
   }
 
-  function renderPodcasts(eps) {
-    const el = document.getElementById('podcastGrid');
-    if (!eps.length) { el.innerHTML='<div class="empty-state" style="grid-column:1/-1"><p>No episodes yet. Check back after first refresh.</p></div>'; return; }
-    el.innerHTML = eps.map(e=>`
+  function filterByGuest(voiceName, btn) {
+    document.querySelectorAll('#showFilter .filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const epIds = new Set(guestIndex[voiceName] || []);
+    const eps = allArchiveEps.filter(e => epIds.has(e.id)).slice(0, 20);
+    renderPodcasts(eps);
+    if (!archiveOpen) toggleArchive();
+    document.getElementById('archiveSearch').value = voiceName;
+    filterArchive();
+  }
+
+  function podcastCardHtml(e) {
+    const tags = (e.guestTags || []).map(t => `<span class="guest-tag">${esc(t)}</span>`).join('');
+    return `
       <div class="podcast-card">
         <div class="podcast-thumb">
           ${e.image ? `<img src="${esc(e.image)}" alt="" loading="lazy">` : `<div class="podcast-thumb-placeholder">🎙️</div>`}
@@ -476,33 +546,74 @@
         <div class="podcast-info">
           <div class="podcast-show-name">${esc(e.show)}</div>
           <div class="podcast-ep-title"><a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>
-          <div class="podcast-meta">${fmtDate(e.date)}${e.duration?' · '+fmtDuration(e.duration):''}</div>
+          <div class="podcast-meta">${fmtDate(e.date)}${e.duration ? ' · ' + fmtDuration(e.duration) : ''}</div>
+          ${tags ? `<div class="podcast-guest-tags">${tags}</div>` : ''}
           <a class="podcast-listen-btn" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">▶ Listen</a>
         </div>
-      </div>`).join('');
+      </div>`;
   }
 
-  function renderPodcastArchive(eps) {
-    const el = document.getElementById('podcastArchiveList');
-    if (!eps.length) return;
-    el.innerHTML = eps.map(e=>`
-      <div class="archive-ep-item" data-show="${esc(e.show)}" data-title="${esc(e.title)}">
-        <div class="archive-ep-date">${fmtDate(e.date)}</div>
-        ${e.image?`<img class="archive-ep-thumb" src="${esc(e.image)}" alt="" loading="lazy">`:'<div class="archive-ep-thumb" style="background:var(--border);display:flex;align-items:center;justify-content:center;">🎙️</div>'}
-        <div class="archive-ep-title">
-          <a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a>
-          <span class="archive-ep-show">${esc(e.show)}</span>
-        </div>
-        <a class="archive-ep-link" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">Listen →</a>
-      </div>`).join('');
+  function renderPodcasts(eps) {
+    const el = document.getElementById('podcastGrid');
+    if (!eps.length) { el.innerHTML = '<div class="empty-state" style="grid-column:1/-1"><p>No episodes yet. Check back after next refresh.</p></div>'; return; }
+    el.innerHTML = eps.map(podcastCardHtml).join('');
+  }
+
+  function toggleArchive() {
+    archiveOpen = !archiveOpen;
+    document.getElementById('archivePanel').classList.toggle('open', archiveOpen);
+    const btn = document.getElementById('archiveToggleBtn');
+    btn.classList.toggle('open', archiveOpen);
+    btn.textContent = archiveOpen ? '▲   Hide Podcast Archive' : '▼   Show Podcast Archive';
+  }
+
+  function getFilteredArchive() {
+    const q = (document.getElementById('archiveSearch')?.value || '').toLowerCase().trim();
+    if (!q) return allArchiveEps;
+    return allArchiveEps.filter(e => {
+      const hay = `${e.title} ${e.show} ${(e.guestTags||[]).join(' ')} ${e.desc}`.toLowerCase();
+      return hay.includes(q);
+    });
+  }
+
+  function renderArchive() {
+    const filtered = getFilteredArchive();
+    const slice    = filtered.slice(0, archiveShowing);
+    const el       = document.getElementById('podcastArchiveList');
+    const moreBtn  = document.getElementById('archiveLoadMore');
+    if (!filtered.length) {
+      el.innerHTML = '<div class="empty-state"><p>No episodes found.</p></div>';
+      moreBtn.style.display = 'none';
+      return;
+    }
+    el.innerHTML = slice.map(e => {
+      const tags = (e.guestTags||[]).map(t=>`<span class="guest-tag" style="font-size:7px">${esc(t)}</span>`).join('');
+      return `
+        <div class="archive-ep-item">
+          <div class="archive-ep-date">${fmtDate(e.date)}</div>
+          ${e.image
+            ? `<img class="archive-ep-thumb" src="${esc(e.image)}" alt="" loading="lazy">`
+            : `<div class="archive-ep-thumb" style="background:var(--border);display:flex;align-items:center;justify-content:center;font-size:18px;">🎙️</div>`}
+          <div class="archive-ep-body">
+            <div class="archive-ep-title"><a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>
+            <span class="archive-ep-show">${esc(e.show)}</span>
+            ${tags ? `<div class="archive-ep-guest-tags">${tags}</div>` : ''}
+          </div>
+          <a class="archive-ep-link" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">Listen →</a>
+        </div>`;
+    }).join('');
+    moreBtn.style.display = filtered.length > archiveShowing ? '' : 'none';
+    moreBtn.textContent = `Load More Episodes ▼ (${filtered.length - archiveShowing} remaining)`;
   }
 
   function filterArchive() {
-    const q = document.getElementById('archiveSearch').value.toLowerCase();
-    document.querySelectorAll('#podcastArchiveList .archive-ep-item').forEach(row => {
-      const match = !q || row.dataset.show.toLowerCase().includes(q) || row.dataset.title.toLowerCase().includes(q);
-      row.style.display = match ? '' : 'none';
-    });
+    archiveShowing = 50;
+    renderArchive();
+  }
+
+  function loadMoreArchive() {
+    archiveShowing += 50;
+    renderArchive();
   }
 
   loadArticles();
