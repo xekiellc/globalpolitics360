@@ -1,25 +1,24 @@
 // fetch-articles.js
-// Fetches news RSS + podcast RSS feeds from sources.json,
-// generates AI teasers via Claude API, writes articles.json and podcasts.json
-
 const fs = require('fs');
 const https = require('https');
 const http = require('http');
 
-// ── CONFIG ───────────────────────────────────────────────────────────────────
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-const MAX_ARTICLES       = 60;
-const MAX_PODCAST_LIVE   = 5;
+const MAX_ARTICLES = 60;
+const MAX_PODCAST_LIVE = 5;
 const MAX_PODCAST_ARCHIVE = 200;
-const MIN_NEW_ARTICLES   = 1;
-const FETCH_TIMEOUT_MS   = 14000;
+const MIN_NEW_ARTICLES = 1;
+const NEWS_TIMEOUT_MS = 15000;
+const PODCAST_TIMEOUT_MS = 30000; // podcasts need more time — large feeds
 
-// ── HTTP HELPER ──────────────────────────────────────────────────────────────
-function httpGet(url, timeoutMs = FETCH_TIMEOUT_MS) {
+function httpGet(url, timeoutMs = NEWS_TIMEOUT_MS) {
   return new Promise((resolve, reject) => {
     const lib = url.startsWith('https') ? https : http;
     const req = lib.get(url, {
-      headers: { 'User-Agent': 'GlobalPolitics360-Bot/1.0 (+https://globalpolitics360.com)' }
+      headers: {
+        'User-Agent': 'GlobalPolitics360-Bot/1.0 (+https://globalpolitics360.com)',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+      }
     }, (res) => {
       if ([301, 302, 303, 307, 308].includes(res.statusCode) && res.headers.location) {
         return httpGet(res.headers.location, timeoutMs).then(resolve).catch(reject);
@@ -29,11 +28,10 @@ function httpGet(url, timeoutMs = FETCH_TIMEOUT_MS) {
       res.on('end', () => resolve(data));
     });
     req.on('error', reject);
-    req.setTimeout(timeoutMs, () => { req.destroy(); reject(new Error(`Timeout: ${url}`)); });
+    req.setTimeout(timeoutMs, () => { req.destroy(); reject(new Error(`Timeout after ${timeoutMs}ms: ${url}`)); });
   });
 }
 
-// ── PARSE HELPERS ────────────────────────────────────────────────────────────
 function parseDate(str) {
   if (!str) return new Date(0);
   const d = new Date(str);
@@ -80,7 +78,6 @@ function makeId(url) {
   return Buffer.from(url).toString('base64').slice(0, 24);
 }
 
-// ── RSS PARSER (news) ────────────────────────────────────────────────────────
 function parseNewsRSS(xml, sourceName) {
   const items = [];
   const itemRegex = /<item[\s>]([\s\S]*?)<\/item>/gi;
@@ -93,23 +90,21 @@ function parseNewsRSS(xml, sourceName) {
     const image = extractImage(item);
     if (title && url && !url.includes('.mp3')) {
       items.push({
-        title:  title.replace(/\s+/g, ' ').trim(),
-        url:    url.trim(),
-        date:   parseDate(date).toISOString(),
+        title: title.replace(/\s+/g, ' ').trim(),
+        url: url.trim(),
+        date: parseDate(date).toISOString(),
         image,
         source: sourceName,
         teaser: '',
-        id:     makeId(url)
+        id: makeId(url)
       });
     }
   }
   return items;
 }
 
-// ── RSS PARSER (podcasts) ────────────────────────────────────────────────────
 function parsePodcastRSS(xml, showName) {
   const episodes = [];
-
   let showArt = '';
   const artMatch = xml.match(/<itunes:image[^>]*href=["']([^"']+)["']/i)
     || xml.match(/<image>[\s\S]*?<url>([^<]+)<\/url>/i);
@@ -125,26 +120,25 @@ function parsePodcastRSS(xml, showName) {
     const link     = extractText(item, 'link') || extractAttr(item, 'link', 'href');
     const duration = extractText(item, 'itunes:duration');
     const desc     = extractText(item, 'description') || extractText(item, 'itunes:summary') || '';
-    let epArt = extractAttr(item, 'itunes:image', 'href') || showArt;
+    const epArt    = extractAttr(item, 'itunes:image', 'href') || showArt;
 
     if (title && (audioUrl || link)) {
       episodes.push({
-        id:        makeId(audioUrl || link),
-        show:      showName,
-        title:     title.replace(/\s+/g, ' ').trim(),
-        audioUrl:  audioUrl || '',
+        id: makeId(audioUrl || link),
+        show: showName,
+        title: title.replace(/\s+/g, ' ').trim(),
+        audioUrl: audioUrl || '',
         listenUrl: link || audioUrl || '',
-        date:      parseDate(pubDate).toISOString(),
-        duration:  duration || '',
-        image:     epArt,
-        desc:      desc.slice(0, 300).trim(),
+        date: parseDate(pubDate).toISOString(),
+        duration: duration || '',
+        image: epArt,
+        desc: desc.slice(0, 300).trim(),
       });
     }
   }
   return episodes;
 }
 
-// ── CLAUDE TEASER GENERATOR ──────────────────────────────────────────────────
 async function generateTeasers(articles) {
   if (!ANTHROPIC_API_KEY) {
     console.warn('No ANTHROPIC_API_KEY — skipping teasers');
@@ -198,7 +192,6 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, source: a.source
   return articles.map(a => ({ ...a, teaser: map[a.id] || '' }));
 }
 
-// ── MAIN ─────────────────────────────────────────────────────────────────────
 async function main() {
   console.log('=== GP360 fetch started:', new Date().toISOString());
 
@@ -215,16 +208,17 @@ async function main() {
 
   const existingArticleIds = new Set((existingArticles.articles || []).map(a => a.id));
 
-  // ── Fetch NEWS ──
+  // Fetch NEWS
   let allArticles = [];
   for (const src of activeNews) {
     try {
-      console.log(`[NEWS] Fetching: ${src.name}`);
-      const xml = await httpGet(src.url);
-      allArticles.push(...parseNewsRSS(xml, src.name));
-      console.log(`  ✓ parsed`);
+      console.log(`[NEWS] Fetching: ${src.name} — ${src.url}`);
+      const xml = await httpGet(src.url, NEWS_TIMEOUT_MS);
+      const items = parseNewsRSS(xml, src.name);
+      console.log(`  ✓ ${items.length} articles`);
+      allArticles.push(...items);
     } catch (e) {
-      console.warn(`  ✗ ${src.name}: ${e.message}`);
+      console.warn(`  ✗ FAILED ${src.name}: ${e.message}`);
     }
   }
 
@@ -245,7 +239,7 @@ async function main() {
     const BATCH = 20;
     for (let i = 0; i < newArticles.length; i += BATCH) {
       const batch = newArticles.slice(i, i + BATCH);
-      console.log(`Generating teasers: batch ${Math.floor(i/BATCH)+1} (${batch.length})`);
+      console.log(`Teasers batch ${Math.floor(i/BATCH)+1}: ${batch.length} articles`);
       const withTeasers = await generateTeasers(batch);
       withTeasers.forEach(a => { teaserCache[a.id] = a.teaser; });
     }
@@ -259,17 +253,17 @@ async function main() {
   }, null, 2));
   console.log(`✓ articles.json: ${Math.min(allArticles.length, MAX_ARTICLES)} articles`);
 
-  // ── Fetch PODCASTS ──
+  // Fetch PODCASTS
   let allEpisodes = [];
   for (const src of activePodcasts) {
     try {
-      console.log(`[POD] Fetching: ${src.name}`);
-      const xml = await httpGet(src.url);
+      console.log(`[POD] Fetching: ${src.name} — ${src.url}`);
+      const xml = await httpGet(src.url, PODCAST_TIMEOUT_MS);
       const eps = parsePodcastRSS(xml, src.name);
       console.log(`  ✓ ${eps.length} episodes`);
       allEpisodes.push(...eps);
     } catch (e) {
-      console.warn(`  ✗ ${src.name}: ${e.message}`);
+      console.warn(`  ✗ FAILED ${src.name}: ${e.message}`);
     }
   }
 
