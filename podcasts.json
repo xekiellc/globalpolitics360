@@ -1,7 +1,75 @@
 {
-  "lastUpdated": null,
-  "showCount": 0,
-  "episodeCount": 0,
-  "latest": [],
-  "archive": []
+  "lastUpdated": "2026-03-28T15:30:22.647Z",
+  "showCount": 14,
+  "episodeCount": 3,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2475 - Andrew Jarecki",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9824471460.mp3?updated=1774631147",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9824471460.mp3?updated=1774631147",
+      "date": "2026-03-27T17:00:00.000Z",
+      "duration": "9989",
+      "image": "https://megaphone.imgix.net/podcasts/88ce39f6-297a-11f1-b972-2b8f4b0d54f5/image/7707d7111389a31ca9f4ed94a9cf8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Andrew Jarecki is a filmmaker, musician, entrepreneur, and documentarian. His latest documentary, “The Alabama Solution,” co-directed with Charlotte Kaufman, is available to stream on HBO Max and other digital platforms.www.thealabamasolution.com\n\n\n\nPerplexity: Download the app or ask Perplexity any"
+    },
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#494 – Jensen Huang: NVIDIA &#8211; The $4 Trillion Company &#038; the AI Revolution",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
+      "listenUrl": "https://lexfridman.com/jensen-huang/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jensen-huang",
+      "date": "2026-03-23T16:28:42.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuYnV6enNw",
+      "show": "Danny Jones Podcast",
+      "title": "Ep.14 - #1 Whisky of 2022 Part 2 of 2",
+      "audioUrl": "https://www.buzzsprout.com/2048958/episodes/11903218-ep-14-1-whisky-of-2022-part-2-of-2.mp3",
+      "listenUrl": "https://www.buzzsprout.com/2048958/episodes/11903218-ep-14-1-whisky-of-2022-part-2-of-2.mp3",
+      "date": "2022-12-22T02:00:00.000Z",
+      "duration": "1778",
+      "image": "https://storage.buzzsprout.com/e621f9lpp8ux69vq4nh5yoherxmy?.jpg",
+      "desc": "Part 2 of 2 episode this week, we follow on with last weeks episode to continue our bottle opens from SeaBreeze Cellars Dromana!"
+    }
+  ],
+  "archive": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2475 - Andrew Jarecki",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9824471460.mp3?updated=1774631147",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9824471460.mp3?updated=1774631147",
+      "date": "2026-03-27T17:00:00.000Z",
+      "duration": "9989",
+      "image": "https://megaphone.imgix.net/podcasts/88ce39f6-297a-11f1-b972-2b8f4b0d54f5/image/7707d7111389a31ca9f4ed94a9cf8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Andrew Jarecki is a filmmaker, musician, entrepreneur, and documentarian. His latest documentary, “The Alabama Solution,” co-directed with Charlotte Kaufman, is available to stream on HBO Max and other digital platforms.www.thealabamasolution.com\n\n\n\nPerplexity: Download the app or ask Perplexity any"
+    },
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#494 – Jensen Huang: NVIDIA &#8211; The $4 Trillion Company &#038; the AI Revolution",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
+      "listenUrl": "https://lexfridman.com/jensen-huang/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jensen-huang",
+      "date": "2026-03-23T16:28:42.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuYnV6enNw",
+      "show": "Danny Jones Podcast",
+      "title": "Ep.14 - #1 Whisky of 2022 Part 2 of 2",
+      "audioUrl": "https://www.buzzsprout.com/2048958/episodes/11903218-ep-14-1-whisky-of-2022-part-2-of-2.mp3",
+      "listenUrl": "https://www.buzzsprout.com/2048958/episodes/11903218-ep-14-1-whisky-of-2022-part-2-of-2.mp3",
+      "date": "2022-12-22T02:00:00.000Z",
+      "duration": "1778",
+      "image": "https://storage.buzzsprout.com/e621f9lpp8ux69vq4nh5yoherxmy?.jpg",
+      "desc": "Part 2 of 2 episode this week, we follow on with last weeks episode to continue our bottle opens from SeaBreeze Cellars Dromana!"
+    }
+  ]
 }
