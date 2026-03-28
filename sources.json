@@ -1,327 +1,80 @@
 {
   "sources": [
-    {
-      "name": "Glenn Greenwald",
-      "type": "rss",
-      "url": "https://greenwald.substack.com/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "Glenn Greenwald (System Update)",
-      "type": "rss",
-      "url": "https://greenwald.substack.com/s/systemupdate/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "Michael Shellenberger / Public",
-      "type": "rss",
-      "url": "https://www.public.news/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "The Free Press (Bari Weiss)",
-      "type": "rss",
-      "url": "https://www.thefp.com/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "Matt Taibbi / Racket News",
-      "type": "rss",
-      "url": "https://www.racket.news/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "Lee Fang",
-      "type": "rss",
-      "url": "https://leefang.substack.com/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "Andy Ngo / Ngo Comment",
-      "type": "rss",
-      "url": "https://www.ngocomment.com/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "Alex Berenson / Unreported Truths",
-      "type": "rss",
-      "url": "https://alexberenson.substack.com/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "David Zweig / Silent Lunch",
-      "type": "rss",
-      "url": "https://www.silentlunch.net/feed",
-      "category": "news",
-      "active": true
-    },
-    {
-      "name": "Robby Soave / Reason",
-      "type": "rss",
-      "url": "https://reason.com/author/robby-soave/feed/",
-      "category": "news",
-      "active": true
-    }
+    { "name": "Glenn Greenwald", "type": "rss", "url": "https://greenwald.substack.com/feed", "category": "news", "active": true },
+    { "name": "Glenn Greenwald (System Update)", "type": "rss", "url": "https://greenwald.substack.com/s/systemupdate/feed", "category": "news", "active": true },
+    { "name": "Michael Shellenberger / Public", "type": "rss", "url": "https://www.public.news/feed", "category": "news", "active": true },
+    { "name": "The Free Press (Bari Weiss)", "type": "rss", "url": "https://www.thefp.com/feed", "category": "news", "active": true },
+    { "name": "Matt Taibbi / Racket News", "type": "rss", "url": "https://www.racket.news/feed", "category": "news", "active": true },
+    { "name": "Lee Fang", "type": "rss", "url": "https://leefang.substack.com/feed", "category": "news", "active": true },
+    { "name": "Andy Ngo / Ngo Comment", "type": "rss", "url": "https://www.ngocomment.com/feed", "category": "news", "active": true },
+    { "name": "Alex Berenson / Unreported Truths", "type": "rss", "url": "https://alexberenson.substack.com/feed", "category": "news", "active": true },
+    { "name": "David Zweig / Silent Lunch", "type": "rss", "url": "https://www.silentlunch.net/feed", "category": "news", "active": true },
+    { "name": "Robby Soave / Reason", "type": "rss", "url": "https://reason.com/author/robby-soave/feed/", "category": "news", "active": true }
   ],
-
   "techSources": [
-    {
-      "name": "Peter Diamandis / Metatrends",
-      "type": "rss",
-      "url": "https://metatrends.substack.com/feed",
-      "active": true,
-      "notes": "Gold standard techno-optimism — AI, longevity, space, abundance"
-    },
-    {
-      "name": "Marc Andreessen",
-      "type": "rss",
-      "url": "https://pmarca.substack.com/feed",
-      "active": true,
-      "notes": "Author of the Techno-Optimist Manifesto"
-    },
-    {
-      "name": "Joe Lonsdale / 8VC",
-      "type": "rss",
-      "url": "https://blog.joelonsdale.com/feed",
-      "active": true,
-      "notes": "8VC founder — tech, policy, defense, building America"
-    },
-    {
-      "name": "Not Boring (Packy McCormick)",
-      "type": "rss",
-      "url": "https://www.notboring.co/feed",
-      "active": true,
-      "notes": "Best builder-focused tech strategy newsletter"
-    },
-    {
-      "name": "Pirate Wires (Mike Solana)",
-      "type": "rss",
-      "url": "https://www.piratewires.com/feed",
-      "active": true,
-      "notes": "Founders Fund VP — techno-optimist, pro-Elon, anti-regulation"
-    },
-    {
-      "name": "a16z",
-      "type": "rss",
-      "url": "https://www.a16z.news/feed",
-      "active": true,
-      "notes": "Andreessen Horowitz — It's time to build"
-    },
-    {
-      "name": "David Sacks / Bottom Up",
-      "type": "rss",
-      "url": "https://sacks.substack.com/feed",
-      "active": true,
-      "notes": "AI/crypto policy, startup playbooks, venture"
-    },
-    {
-      "name": "Nic Carter / Murmurations",
-      "type": "rss",
-      "url": "https://niccarter1.substack.com/feed",
-      "active": true,
-      "notes": "Pro-Bitcoin, stablecoins, crypto/fintech — always free"
-    },
-    {
-      "name": "Bitcoin Magazine",
-      "type": "rss",
-      "url": "https://bitcoinmagazine.com/feed",
-      "active": true,
-      "notes": "Bitcoin news, culture, adoption"
-    },
-    {
-      "name": "Balaji Srinivasan",
-      "type": "rss",
-      "url": "https://balajis.com/feed",
-      "active": true,
-      "notes": "Network state, crypto, tech optimism"
-    },
-    {
-      "name": "Techno-Optimist (Owen Lewis)",
-      "type": "rss",
-      "url": "https://technooptimist1.substack.com/feed",
-      "active": true,
-      "notes": "Pure signal — space, AI, energy, biotech breakthroughs"
-    }
+    { "name": "Peter Diamandis / Metatrends", "type": "rss", "url": "https://metatrends.substack.com/feed", "active": true },
+    { "name": "Marc Andreessen", "type": "rss", "url": "https://pmarca.substack.com/feed", "active": true },
+    { "name": "Joe Lonsdale / 8VC", "type": "rss", "url": "https://blog.joelonsdale.com/feed", "active": true },
+    { "name": "Not Boring (Packy McCormick)", "type": "rss", "url": "https://www.notboring.co/feed", "active": true },
+    { "name": "Pirate Wires (Mike Solana)", "type": "rss", "url": "https://www.piratewires.com/feed", "active": true },
+    { "name": "a16z", "type": "rss", "url": "https://www.a16z.news/feed", "active": true },
+    { "name": "David Sacks / Bottom Up", "type": "rss", "url": "https://sacks.substack.com/feed", "active": true },
+    { "name": "Nic Carter / Murmurations", "type": "rss", "url": "https://niccarter1.substack.com/feed", "active": true },
+    { "name": "Bitcoin Magazine", "type": "rss", "url": "https://bitcoinmagazine.com/feed", "active": true },
+    { "name": "Balaji Srinivasan", "type": "rss", "url": "https://balajis.com/feed", "active": true },
+    { "name": "Techno-Optimist (Owen Lewis)", "type": "rss", "url": "https://technooptimist1.substack.com/feed", "active": true }
   ],
-
   "podcastSources": [
-    {
-      "name": "The Joe Rogan Experience",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/GLT1412515089",
-      "active": true
-    },
-    {
-      "name": "Shawn Ryan Show",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/WWO7410387571",
-      "active": true
-    },
-    {
-      "name": "The Lex Fridman Podcast",
-      "type": "podcast_rss",
-      "url": "https://lexfridman.com/feed/podcast/",
-      "active": true
-    },
-    {
-      "name": "All-In Podcast",
-      "type": "podcast_rss",
-      "url": "https://allinchamathjason.libsyn.com/rss",
-      "active": true
-    },
-    {
-      "name": "Theo Von - This Past Weekend",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/thispastweekend",
-      "active": true
-    },
-    {
-      "name": "The Jordan B. Peterson Podcast",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/BVDWV6444647327",
-      "active": true
-    },
-    {
-      "name": "Huberman Lab",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/hubermanlab",
-      "active": true
-    },
-    {
-      "name": "Kill Tony",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/killtony",
-      "active": true
-    },
-    {
-      "name": "Part of the Problem (Dave Smith)",
-      "type": "podcast_rss",
-      "url": "https://rss.art19.com/part-of-the-problem",
-      "active": true
-    },
-    {
-      "name": "John Kiriakou",
-      "type": "podcast_rss",
-      "url": "https://johnkiriakou.substack.com/feed",
-      "active": false,
-      "notes": "Substack only — no audio. Tracked via watchedVoices."
-    },
-    {
-      "name": "Coin Stories (Natalie Brunell)",
-      "type": "podcast_rss",
-      "url": "https://feeds.buzzsprout.com/1052956.rss",
-      "active": true
-    },
-    {
-      "name": "After Party with Emily Jashinsky",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/afterparty",
-      "active": false,
-      "notes": "Megaphone slug unverified — 0 episodes."
-    },
-    {
-      "name": "Martin Shkreli",
-      "type": "podcast_rss",
-      "url": "https://martinshkreli.substack.com/feed",
-      "active": false,
-      "notes": "Substack only — no audio. Tracked via watchedVoices."
-    },
-    {
-      "name": "Danny Jones Podcast",
-      "type": "podcast_rss",
-      "url": "https://feeds.buzzsprout.com/2048958.rss",
-      "active": true
-    },
-    {
-      "name": "Julian Dorey Podcast",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/juliandoreypodcast",
-      "active": false,
-      "notes": "Megaphone slug unverified — 0 episodes."
-    },
-    {
-      "name": "Dalton Fischer Podcast",
-      "type": "podcast_rss",
-      "url": "https://feeds.buzzsprout.com/2373344.rss",
-      "active": true
-    },
-    {
-      "name": "The Watch Floor (Sarah Adams)",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/VMP1204038685",
-      "active": false,
-      "notes": "Megaphone ID unverified — 0 episodes."
-    },
-    {
-      "name": "Let's Appreciate (Kyla Scanlon)",
-      "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/SCI8924001060",
-      "active": false,
-      "notes": "Megaphone ID unverified — 0 episodes."
-    },
-    {
-      "name": "Roaring Kitty (Keith Gill)",
-      "type": "podcast_rss",
-      "url": "",
-      "active": false,
-      "notes": "YouTube only. Tracked via watchedVoices."
-    },
-    {
-      "name": "Ellie in Space",
-      "type": "podcast_rss",
-      "url": "",
-      "active": false,
-      "notes": "YouTube only. Tracked via watchedVoices."
-    }
+    { "name": "The Joe Rogan Experience", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/GLT1412515089", "active": true },
+    { "name": "Shawn Ryan Show", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/WWO7410387571", "active": true },
+    { "name": "The Lex Fridman Podcast", "type": "podcast_rss", "url": "https://lexfridman.com/feed/podcast/", "active": true },
+    { "name": "All-In Podcast", "type": "podcast_rss", "url": "https://allinchamathjason.libsyn.com/rss", "active": true },
+    { "name": "Theo Von - This Past Weekend", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/thispastweekend", "active": true },
+    { "name": "The Jordan B. Peterson Podcast", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/BVDWV6444647327", "active": true },
+    { "name": "Huberman Lab", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/hubermanlab", "active": true },
+    { "name": "Kill Tony", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/killtony", "active": true },
+    { "name": "Part of the Problem (Dave Smith)", "type": "podcast_rss", "url": "https://rss.art19.com/part-of-the-problem", "active": true },
+    { "name": "Coin Stories (Natalie Brunell)", "type": "podcast_rss", "url": "https://feeds.buzzsprout.com/1052956.rss", "active": true },
+    { "name": "Danny Jones Podcast", "type": "podcast_rss", "url": "https://feeds.buzzsprout.com/2048958.rss", "active": true },
+    { "name": "Dalton Fischer Podcast", "type": "podcast_rss", "url": "https://feeds.buzzsprout.com/2373344.rss", "active": true },
+    { "name": "John Kiriakou", "type": "podcast_rss", "url": "https://johnkiriakou.substack.com/feed", "active": false },
+    { "name": "After Party with Emily Jashinsky", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/afterparty", "active": false },
+    { "name": "Martin Shkreli", "type": "podcast_rss", "url": "https://martinshkreli.substack.com/feed", "active": false },
+    { "name": "Julian Dorey Podcast", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/juliandoreypodcast", "active": false },
+    { "name": "The Watch Floor (Sarah Adams)", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/VMP1204038685", "active": false },
+    { "name": "Let's Appreciate (Kyla Scanlon)", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/SCI8924001060", "active": false },
+    { "name": "Roaring Kitty (Keith Gill)", "type": "podcast_rss", "url": "", "active": false },
+    { "name": "Ellie in Space", "type": "podcast_rss", "url": "", "active": false }
   ],
-
   "watchedVoices": [
-    { "name": "Glenn Greenwald",       "keywords": ["Greenwald", "Glenn Greenwald"],              "active": true },
-    { "name": "Matt Taibbi",           "keywords": ["Taibbi", "Matt Taibbi"],                     "active": true },
-    { "name": "Bari Weiss",            "keywords": ["Bari Weiss"],                                "active": true },
-    { "name": "Michael Shellenberger", "keywords": ["Shellenberger", "Michael Shellenberger"],    "active": true },
-    { "name": "Lee Fang",              "keywords": ["Lee Fang"],                                  "active": true },
-    { "name": "Andy Ngo",              "keywords": ["Andy Ngo"],                                  "active": true },
-    { "name": "Alex Berenson",         "keywords": ["Berenson", "Alex Berenson"],                 "active": true },
-    { "name": "David Zweig",           "keywords": ["Zweig", "David Zweig"],                      "active": true },
-    { "name": "Robby Soave",           "keywords": ["Soave", "Robby Soave"],                      "active": true },
-    { "name": "John Kiriakou",         "keywords": ["Kiriakou", "John Kiriakou"],                 "active": true },
-    { "name": "Martin Shkreli",        "keywords": ["Shkreli", "Martin Shkreli"],                 "active": true },
-    { "name": "Sarah Adams",           "keywords": ["Sarah Adams", "Super Bad"],                  "active": true },
-    { "name": "Dave Smith",            "keywords": ["Dave Smith", "Part of the Problem"],         "active": true },
-    { "name": "Emily Jashinsky",       "keywords": ["Jashinsky", "Emily Jashinsky"],              "active": true },
-    { "name": "Julian Dorey",          "keywords": ["Julian Dorey"],                              "active": true },
-    { "name": "Kyla Scanlon",          "keywords": ["Kyla Scanlon"],                              "active": true },
-    { "name": "Roaring Kitty",         "keywords": ["Roaring Kitty", "Keith Gill", "GameStop"],   "active": true },
-    { "name": "Ellie in Space",        "keywords": ["Ellie in Space", "Eliana Sheriff"],          "active": true },
-    { "name": "Elon Musk",             "keywords": ["Elon Musk", "Elon", "SpaceX", "Tesla", "xAI", "Starship", "DOGE"], "active": true },
-    { "name": "Palmer Luckey",         "keywords": ["Palmer Luckey", "Anduril"],                  "active": true },
-    { "name": "Alex Karp",             "keywords": ["Alex Karp", "Karp", "Palantir"],             "active": true },
-    { "name": "Joe Lonsdale",          "keywords": ["Lonsdale", "Joe Lonsdale", "8VC"],           "active": true },
-    { "name": "Chamath",               "keywords": ["Chamath", "Chamath Palihapitiya"],           "active": true },
-    { "name": "Marc Andreessen",       "keywords": ["Andreessen", "Marc Andreessen", "pmarca"],   "active": true },
-    { "name": "David Sacks",           "keywords": ["David Sacks", "Sacks"],                      "active": true },
-    { "name": "Balaji Srinivasan",     "keywords": ["Balaji", "Balaji Srinivasan"],               "active": true },
-    { "name": "Packy McCormick",       "keywords": ["Packy McCormick", "Not Boring"],             "active": true },
-    { "name": "Peter Diamandis",       "keywords": ["Diamandis", "Peter Diamandis", "Abundance360"], "active": true },
-    { "name": "Jensen Huang",          "keywords": ["Jensen Huang", "Jensen", "Nvidia", "NVDA"],  "active": true }
-  ],
-
- "notes": [
-    "HOW TO ADD A NEWS JOURNALIST: Copy any sources block, set name/url/active:true, category:news",
-    "HOW TO ADD A TECH ABUNDANCE SOURCE: Copy any techSources block, set name/url/active:true",
-    "ALL tech articles pass through Claude sentiment filter — doom/negative articles dropped",
-    "Claude explicitly keeps positive coverage of key tech leaders",
-    "HOW TO ADD A PODCAST: Copy any podcastSources block, set name/url/active:true",
-    "Find RSS at podnews.net. ART19 pattern: https://rss.art19.com/SLUG",
-    "HOW TO ADD A WATCHED VOICE: Copy any watchedVoices block, set name/keywords/active:true",
-    "Keywords searched in ALL podcast episode titles and descriptions"
+    { "name": "Glenn Greenwald", "keywords": ["Greenwald", "Glenn Greenwald"], "active": true },
+    { "name": "Matt Taibbi", "keywords": ["Taibbi", "Matt Taibbi"], "active": true },
+    { "name": "Bari Weiss", "keywords": ["Bari Weiss"], "active": true },
+    { "name": "Michael Shellenberger", "keywords": ["Shellenberger", "Michael Shellenberger"], "active": true },
+    { "name": "Lee Fang", "keywords": ["Lee Fang"], "active": true },
+    { "name": "Andy Ngo", "keywords": ["Andy Ngo"], "active": true },
+    { "name": "Alex Berenson", "keywords": ["Berenson", "Alex Berenson"], "active": true },
+    { "name": "David Zweig", "keywords": ["Zweig", "David Zweig"], "active": true },
+    { "name": "Robby Soave", "keywords": ["Soave", "Robby Soave"], "active": true },
+    { "name": "John Kiriakou", "keywords": ["Kiriakou", "John Kiriakou"], "active": true },
+    { "name": "Martin Shkreli", "keywords": ["Shkreli", "Martin Shkreli"], "active": true },
+    { "name": "Sarah Adams", "keywords": ["Sarah Adams", "Super Bad"], "active": true },
+    { "name": "Dave Smith", "keywords": ["Dave Smith", "Part of the Problem"], "active": true },
+    { "name": "Emily Jashinsky", "keywords": ["Jashinsky", "Emily Jashinsky"], "active": true },
+    { "name": "Julian Dorey", "keywords": ["Julian Dorey"], "active": true },
+    { "name": "Kyla Scanlon", "keywords": ["Kyla Scanlon"], "active": true },
+    { "name": "Roaring Kitty", "keywords": ["Roaring Kitty", "Keith Gill", "GameStop"], "active": true },
+    { "name": "Ellie in Space", "keywords": ["Ellie in Space", "Eliana Sheriff"], "active": true },
+    { "name": "Elon Musk", "keywords": ["Elon Musk", "Elon", "SpaceX", "Tesla", "xAI", "Starship", "DOGE"], "active": true },
+    { "name": "Palmer Luckey", "keywords": ["Palmer Luckey", "Anduril"], "active": true },
+    { "name": "Alex Karp", "keywords": ["Alex Karp", "Karp", "Palantir"], "active": true },
+    { "name": "Joe Lonsdale", "keywords": ["Lonsdale", "Joe Lonsdale", "8VC"], "active": true },
+    { "name": "Chamath", "keywords": ["Chamath", "Chamath Palihapitiya"], "active": true },
+    { "name": "Marc Andreessen", "keywords": ["Andreessen", "Marc Andreessen", "pmarca"], "active": true },
+    { "name": "David Sacks", "keywords": ["David Sacks", "Sacks"], "active": true },
+    { "name": "Balaji Srinivasan", "keywords": ["Balaji", "Balaji Srinivasan"], "active": true },
+    { "name": "Packy McCormick", "keywords": ["Packy McCormick", "Not Boring"], "active": true },
+    { "name": "Peter Diamandis", "keywords": ["Diamandis", "Peter Diamandis", "Abundance360"], "active": true },
+    { "name": "Jensen Huang", "keywords": ["Jensen Huang", "Jensen", "Nvidia", "NVDA"], "active": true }
   ]
+}
