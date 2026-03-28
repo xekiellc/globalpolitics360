@@ -1,10 +1,8 @@
 // fetch-articles.js
-// Fetches news + tech abundance + podcast RSS feeds
-// Uses RSS proxy fallback for Substack feeds blocked by GitHub Actions CDN
-// Runs Claude sentiment filter on tech articles (positive/innovation only)
-// Explicitly keeps positive coverage of key tech leaders
-// Detects guest appearances via watchedVoices
-// Writes articles.json, tech.json, and podcasts.json
+// GP360 — fetches news, tech abundance, podcasts
+// Proxy fallback for blocked Substack feeds
+// Claude sentiment filter on tech articles
+// Guest detection via watchedVoices
 
 const fs = require('fs');
 const https = require('https');
@@ -18,73 +16,65 @@ const MAX_PODCAST_ARCHIVE = 500;
 const MIN_NEW_ARTICLES    = 1;
 const NEWS_TIMEOUT_MS     = 25000;
 const PODCAST_TIMEOUT_MS  = 30000;
+const RSS2JSON_BASE       = 'https://api.rss2json.com/v1/api.json?rss_url=';
 
-// RSS2JSON proxy — used as fallback when direct Substack fetch returns 0 items
-// Free tier: 10,000 requests/day, no key needed for basic use
-const RSS2JSON_BASE = 'https://api.rss2json.com/v1/api.json?rss_url=';
-
-// ── HTTP ─────────────────────────────────────────────────────────────────────
-function httpGet(url, timeoutMs = NEWS_TIMEOUT_MS) {
-  return new Promise((resolve, reject) => {
-    const lib = url.startsWith('https') ? https : http;
-    const req = lib.get(url, {
+function httpGet(url, timeoutMs) {
+  if (!timeoutMs) timeoutMs = NEWS_TIMEOUT_MS;
+  return new Promise(function(resolve, reject) {
+    var lib = url.startsWith('https') ? https : http;
+    var req = lib.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; RSS-Reader/1.0)',
         'Accept': 'application/rss+xml, application/xml, application/json, text/xml, */*',
         'Accept-Language': 'en-US,en;q=0.9',
         'Cache-Control': 'no-cache'
       }
-    }, (res) => {
-      if ([301,302,303,307,308].includes(res.statusCode) && res.headers.location) {
+    }, function(res) {
+      if ([301,302,303,307,308].indexOf(res.statusCode) !== -1 && res.headers.location) {
         return httpGet(res.headers.location, timeoutMs).then(resolve).catch(reject);
       }
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve(data));
+      var data = '';
+      res.on('data', function(chunk) { data += chunk; });
+      res.on('end', function() { resolve(data); });
     });
     req.on('error', reject);
-    req.setTimeout(timeoutMs, () => { req.destroy(); reject(new Error(`Timeout: ${url}`)); });
+    req.setTimeout(timeoutMs, function() { req.destroy(); reject(new Error('Timeout: ' + url)); });
   });
 }
 
-// ── PARSE HELPERS ─────────────────────────────────────────────────────────────
 function parseDate(str) {
   if (!str) return new Date(0);
-  const d = new Date(str);
+  var d = new Date(str);
   return isNaN(d.getTime()) ? new Date(0) : d;
 }
 
 function extractText(xml, tag) {
-  const patterns = [
-    new RegExp(`<${tag}[^>]*>\\s*<!\\[CDATA\\[([\\s\\S]*?)\\]\\]>\\s*<\\/${tag}>`, 'i'),
-    new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'),
-  ];
-  for (const re of patterns) {
-    const m = xml.match(re);
-    if (m) return m[1].replace(/<[^>]+>/g, '').trim();
-  }
-  return '';
+  var p1 = new RegExp('<' + tag + '[^>]*>\\s*<!\\[CDATA\\[([\\s\\S]*?)\\]\\]>\\s*<\\/' + tag + '>', 'i');
+  var p2 = new RegExp('<' + tag + '[^>]*>([\\s\\S]*?)<\\/' + tag + '>', 'i');
+  var m = xml.match(p1) || xml.match(p2);
+  return m ? m[1].replace(/<[^>]+>/g, '').trim() : '';
 }
 
 function extractAttr(xml, tag, attr) {
-  const re = new RegExp(`<${tag}[^>]*\\s${attr}=["']([^"']+)["'][^>]*>`, 'i');
-  const m = xml.match(re);
+  var re = new RegExp('<' + tag + '[^>]*\\s' + attr + '=["\']([^"\']+)["\'][^>]*>', 'i');
+  var m = xml.match(re);
   return m ? m[1] : '';
 }
 
 function extractImage(itemXml) {
-  let img = extractAttr(itemXml, 'media:content', 'url');
+  var img = extractAttr(itemXml, 'media:content', 'url');
   if (!img) img = extractAttr(itemXml, 'enclosure', 'url');
   if (!img) {
-    const m = itemXml.match(/<img[^>]+src=["']([^"']+\.(?:jpg|jpeg|png|webp))[^"']*["']/i);
+    var m = itemXml.match(/<img[^>]+src=["']([^"']+\.(?:jpg|jpeg|png|webp))[^"']*["']/i);
     if (m) img = m[1];
   }
-  return (img && !img.endsWith('.mp3') && !img.endsWith('.m4a')) ? img : '';
+  if (img && !img.endsWith('.mp3') && !img.endsWith('.m4a')) return img;
+  return '';
 }
 
 function extractAudio(itemXml) {
-  const u = extractAttr(itemXml, 'enclosure', 'url');
-  if (u && (u.includes('.mp3') || u.includes('.m4a') || u.includes('audio'))) return u;
+  var u = extractAttr(itemXml, 'enclosure', 'url');
+  if (u && (u.indexOf('.mp3') !== -1 || u.indexOf('.m4a') !== -1 || u.indexOf('audio') !== -1)) return u;
   return '';
 }
 
@@ -92,132 +82,119 @@ function makeId(url) {
   return Buffer.from(url).toString('base64').slice(0, 24);
 }
 
-// ── SAFE JSON PARSE ───────────────────────────────────────────────────────────
 function safeParseArray(text) {
   if (!text) return null;
-  let cleaned = text.replace(/```json|```/g, '').trim();
-  try { return JSON.parse(cleaned); } catch {}
-  const start = cleaned.indexOf('[');
-  const end   = cleaned.lastIndexOf(']');
+  var cleaned = text.replace(/```json|```/g, '').trim();
+  try { return JSON.parse(cleaned); } catch(e) {}
+  var start = cleaned.indexOf('[');
+  var end = cleaned.lastIndexOf(']');
   if (start !== -1 && end !== -1 && end > start) {
-    try { return JSON.parse(cleaned.slice(start, end + 1)); } catch {}
+    try { return JSON.parse(cleaned.slice(start, end + 1)); } catch(e) {}
   }
-  const lastComplete = cleaned.lastIndexOf('},');
-  if (lastComplete !== -1) {
-    try { return JSON.parse(cleaned.slice(0, lastComplete + 1) + ']'); } catch {}
+  var last = cleaned.lastIndexOf('},');
+  if (last !== -1) {
+    try { return JSON.parse(cleaned.slice(0, last + 1) + ']'); } catch(e) {}
   }
   return null;
 }
 
-// ── NEWS RSS PARSER ───────────────────────────────────────────────────────────
 function parseNewsRSS(xml, sourceName) {
-  const items = [];
-  const re = /<item[\s>]([\s\S]*?)<\/item>/gi;
-  let m;
+  var items = [];
+  var re = /<item[\s>]([\s\S]*?)<\/item>/gi;
+  var m;
   while ((m = re.exec(xml)) !== null) {
-    const item  = m[1];
-    const title = extractText(item, 'title');
-    const url   = extractText(item, 'link') || extractAttr(item, 'link', 'href');
-    const date  = extractText(item, 'pubDate') || extractText(item, 'published') || extractText(item, 'dc:date');
-    const image = extractImage(item);
-    if (title && url && !url.includes('.mp3')) {
+    var item = m[1];
+    var title = extractText(item, 'title');
+    var url = extractText(item, 'link') || extractAttr(item, 'link', 'href');
+    var date = extractText(item, 'pubDate') || extractText(item, 'published') || extractText(item, 'dc:date');
+    var image = extractImage(item);
+    if (title && url && url.indexOf('.mp3') === -1) {
       items.push({
-        title:  title.replace(/\s+/g, ' ').trim(),
-        url:    url.trim(),
-        date:   parseDate(date).toISOString(),
-        image,
+        title: title.replace(/\s+/g, ' ').trim(),
+        url: url.trim(),
+        date: parseDate(date).toISOString(),
+        image: image,
         source: sourceName,
         teaser: '',
-        id:     makeId(url)
+        id: makeId(url)
       });
     }
   }
   return items;
 }
 
-// ── RSS2JSON PROXY PARSER ─────────────────────────────────────────────────────
-// Parses the JSON response from api.rss2json.com into our article format
 function parseRss2JsonResponse(jsonText, sourceName) {
   try {
-    const data = JSON.parse(jsonText);
+    var data = JSON.parse(jsonText);
     if (!data || data.status !== 'ok' || !Array.isArray(data.items)) return [];
-    return data.items.map(item => {
-      const url = item.link || item.guid || '';
-      if (!url || url.includes('.mp3')) return null;
-      const image = item.thumbnail || item.enclosure?.link || '';
+    return data.items.map(function(item) {
+      var url = item.link || item.guid || '';
+      if (!url || url.indexOf('.mp3') !== -1) return null;
+      var image = item.thumbnail || (item.enclosure && item.enclosure.link) || '';
       return {
-        title:  (item.title || '').replace(/\s+/g, ' ').trim(),
-        url:    url.trim(),
-        date:   parseDate(item.pubDate).toISOString(),
-        image:  (image && !image.endsWith('.mp3')) ? image : '',
+        title: (item.title || '').replace(/\s+/g, ' ').trim(),
+        url: url.trim(),
+        date: parseDate(item.pubDate).toISOString(),
+        image: (image && !image.endsWith('.mp3')) ? image : '',
         source: sourceName,
         teaser: '',
-        id:     makeId(url)
+        id: makeId(url)
       };
     }).filter(Boolean);
-  } catch (e) {
+  } catch(e) {
     return [];
   }
 }
 
-// ── FETCH WITH PROXY FALLBACK ─────────────────────────────────────────────────
-// Tries direct RSS fetch first; if 0 items returned, retries via RSS2JSON proxy
 async function fetchFeedWithFallback(src, timeoutMs) {
-  // Direct fetch
   try {
-    const xml = await httpGet(src.url, timeoutMs);
-    const items = parseNewsRSS(xml, src.name);
-    if (items.length > 0) return { items, method: 'direct' };
-  } catch (e) {
-    // direct failed — fall through to proxy
-  }
+    var xml = await httpGet(src.url, timeoutMs);
+    var items = parseNewsRSS(xml, src.name);
+    if (items.length > 0) return { items: items, method: 'direct' };
+  } catch(e) {}
 
-  // Proxy fallback — only for substack.com feeds
-  if (src.url.includes('substack.com')) {
+  if (src.url.indexOf('substack.com') !== -1) {
     try {
-      const proxyUrl = RSS2JSON_BASE + encodeURIComponent(src.url) + '&count=20';
-      const jsonText = await httpGet(proxyUrl, timeoutMs);
-      const items = parseRss2JsonResponse(jsonText, src.name);
-      if (items.length > 0) return { items, method: 'proxy' };
-    } catch (e) {
-      // proxy also failed
-    }
+      var proxyUrl = RSS2JSON_BASE + encodeURIComponent(src.url) + '&count=20';
+      var jsonText = await httpGet(proxyUrl, timeoutMs);
+      var proxyItems = parseRss2JsonResponse(jsonText, src.name);
+      if (proxyItems.length > 0) return { items: proxyItems, method: 'proxy' };
+    } catch(e) {}
   }
 
   return { items: [], method: 'failed' };
 }
 
-// ── PODCAST RSS PARSER ────────────────────────────────────────────────────────
 function parsePodcastRSS(xml, showName) {
-  const episodes = [];
-  let showArt = '';
-  const artM = xml.match(/<itunes:image[^>]*href=["']([^"']+)["']/i)
-    || xml.match(/<image>[\s\S]*?<url>([^<]+)<\/url>/i);
+  var episodes = [];
+  var showArt = '';
+  var artM = xml.match(/<itunes:image[^>]*href=["']([^"']+)["']/i) ||
+             xml.match(/<image>[\s\S]*?<url>([^<]+)<\/url>/i);
   if (artM) showArt = artM[1];
 
-  const re = /<item[\s>]([\s\S]*?)<\/item>/gi;
-  let m;
+  var re = /<item[\s>]([\s\S]*?)<\/item>/gi;
+  var m;
   while ((m = re.exec(xml)) !== null) {
-    const item     = m[1];
-    const title    = extractText(item, 'title');
-    const pubDate  = extractText(item, 'pubDate') || extractText(item, 'published');
-    const audioUrl = extractAudio(item);
-    const link     = extractText(item, 'link') || extractAttr(item, 'link', 'href');
-    const duration = extractText(item, 'itunes:duration');
-    const desc     = (extractText(item, 'description') || extractText(item, 'itunes:summary') || '').slice(0, 400);
-    const epArt    = extractAttr(item, 'itunes:image', 'href') || showArt;
+    var item = m[1];
+    var title = extractText(item, 'title');
+    var pubDate = extractText(item, 'pubDate') || extractText(item, 'published');
+    var audioUrl = extractAudio(item);
+    var link = extractText(item, 'link') || extractAttr(item, 'link', 'href');
+    var duration = extractText(item, 'itunes:duration');
+    var desc = (extractText(item, 'description') || extractText(item, 'itunes:summary') || '').slice(0, 400);
+    var epArt = extractAttr(item, 'itunes:image', 'href') || showArt;
 
     if (title && (audioUrl || link)) {
       episodes.push({
-        id:        makeId(audioUrl || link),
-        show:      showName,
-        title:     title.replace(/\s+/g, ' ').trim(),
-        audioUrl:  audioUrl || '',
+        id: makeId(audioUrl || link),
+        show: showName,
+        title: title.replace(/\s+/g, ' ').trim(),
+        audioUrl: audioUrl || '',
         listenUrl: link || audioUrl || '',
-        date:      parseDate(pubDate).toISOString(),
-        duration:  duration || '',
-        image:     epArt,
-        desc,
+        date: parseDate(pubDate).toISOString(),
+        duration: duration || '',
+        image: epArt,
+        desc: desc,
         guestTags: []
       });
     }
@@ -225,37 +202,39 @@ function parsePodcastRSS(xml, showName) {
   return episodes;
 }
 
-// ── GUEST DETECTION ───────────────────────────────────────────────────────────
 function detectGuests(episodes, watchedVoices) {
-  const active = (watchedVoices || []).filter(v => v.active && v.keywords && v.keywords.length);
+  var active = (watchedVoices || []).filter(function(v) {
+    return v.active && v.keywords && v.keywords.length;
+  });
   if (!active.length) return episodes;
-  return episodes.map(ep => {
-    const haystack = `${ep.title} ${ep.desc}`.toLowerCase();
-    const tags = [];
-    for (const voice of active) {
-      for (const kw of voice.keywords) {
-        if (haystack.includes(kw.toLowerCase())) {
-          if (!tags.includes(voice.name)) tags.push(voice.name);
+  return episodes.map(function(ep) {
+    var haystack = (ep.title + ' ' + ep.desc).toLowerCase();
+    var tags = [];
+    for (var i = 0; i < active.length; i++) {
+      var voice = active[i];
+      for (var j = 0; j < voice.keywords.length; j++) {
+        if (haystack.indexOf(voice.keywords[j].toLowerCase()) !== -1) {
+          if (tags.indexOf(voice.name) === -1) tags.push(voice.name);
           break;
         }
       }
     }
-    return { ...ep, guestTags: tags };
+    return Object.assign({}, ep, { guestTags: tags });
   });
 }
 
-// ── CLAUDE API CALL ───────────────────────────────────────────────────────────
-async function callClaude(prompt, maxTokens = 1024) {
+async function callClaude(prompt, maxTokens) {
+  if (!maxTokens) maxTokens = 1024;
   if (!ANTHROPIC_API_KEY) return null;
 
-  const payload = JSON.stringify({
+  var payload = JSON.stringify({
     model: 'claude-sonnet-4-20250514',
     max_tokens: maxTokens,
     messages: [{ role: 'user', content: prompt }]
   });
 
-  const response = await new Promise((resolve, reject) => {
-    const req = https.request({
+  var response = await new Promise(function(resolve, reject) {
+    var req = https.request({
       hostname: 'api.anthropic.com',
       path: '/v1/messages',
       method: 'POST',
@@ -265,162 +244,167 @@ async function callClaude(prompt, maxTokens = 1024) {
         'anthropic-version': '2023-06-01',
         'Content-Length': Buffer.byteLength(payload)
       }
-    }, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve(data));
+    }, function(res) {
+      var data = '';
+      res.on('data', function(chunk) { data += chunk; });
+      res.on('end', function() { resolve(data); });
     });
     req.on('error', reject);
-    req.setTimeout(30000, () => { req.destroy(); reject(new Error('Claude timeout')); });
+    req.setTimeout(30000, function() { req.destroy(); reject(new Error('Claude timeout')); });
     req.write(payload);
     req.end();
   });
 
-  const json = JSON.parse(response);
-  return json.content?.[0]?.text || null;
+  var json = JSON.parse(response);
+  return (json.content && json.content[0] && json.content[0].text) ? json.content[0].text : null;
 }
 
-// ── TECH ABUNDANCE SENTIMENT FILTER ──────────────────────────────────────────
 async function filterTechArticles(articles) {
   if (!articles.length) return [];
   if (!ANTHROPIC_API_KEY) {
-    console.warn('  No API key — skipping sentiment filter, keeping all tech articles');
+    console.warn('  No API key - keeping all tech articles unfiltered');
     return articles;
   }
 
-  const BATCH = 25;
-  const approved = [];
+  var BATCH = 25;
+  var approved = [];
 
-  for (let i = 0; i < articles.length; i += BATCH) {
-    const batch = articles.slice(i, i + BATCH);
+  for (var i = 0; i < articles.length; i += BATCH) {
+    var batch = articles.slice(i, i + BATCH);
+    var batchNum = Math.floor(i / BATCH) + 1;
 
-    const prompt = `You are a curator for the "Tech Abundance" section of a news site. The editorial voice is pro-innovation, pro-builder, and relentlessly optimistic about technology.
-
-KEEP articles that are:
-- About AI breakthroughs, progress, capabilities, adoption
-- About crypto/Bitcoin growth, adoption, or policy wins
-- About space exploration, rockets, satellites, Mars
-- About defense tech innovation (Anduril, Palantir, new weapons systems)
-- About longevity, biotech, quantum computing, energy breakthroughs
-- About venture capital, startup launches, funding rounds
-- Positive or neutral coverage of: Elon Musk, SpaceX, Tesla, xAI, Palmer Luckey, Anduril, Alex Karp, Palantir, Joe Lonsdale, 8VC, Chamath, Marc Andreessen, a16z, David Sacks, Balaji Srinivasan, Jensen Huang, Nvidia, Peter Diamandis
-- About abundance, progress, innovation, building
-
-DROP articles that are:
-- Negative, critical, or attacking tech leaders or companies
-- About AI dangers, risks, or calls for regulation
-- About crypto crashes, scams, or failures
-- About tech layoffs, company failures, or scandals
-- General doom or anti-tech sentiment
-
-Return ONLY a valid JSON array of article IDs to KEEP. Example: ["id1","id2","id3"]
-No explanation, no markdown, no other text — just the JSON array.
-
-Articles:
-${JSON.stringify(batch.map(a => ({ id: a.id, title: a.title, source: a.source })))}`;
+    var prompt = 'You are a curator for the Tech Abundance section of a news site. ' +
+      'The editorial voice is pro-innovation, pro-builder, and relentlessly optimistic about technology.\n\n' +
+      'KEEP articles that are:\n' +
+      '- About AI breakthroughs, progress, capabilities, adoption\n' +
+      '- About crypto/Bitcoin growth, adoption, or policy wins\n' +
+      '- About space exploration, rockets, satellites, Mars\n' +
+      '- About defense tech innovation (Anduril, Palantir, new weapons systems)\n' +
+      '- About longevity, biotech, quantum computing, energy breakthroughs\n' +
+      '- About venture capital, startup launches, funding rounds\n' +
+      '- Positive or neutral coverage of: Elon Musk, SpaceX, Tesla, xAI, Palmer Luckey, Anduril, ' +
+      'Alex Karp, Palantir, Joe Lonsdale, 8VC, Chamath, Marc Andreessen, a16z, David Sacks, ' +
+      'Balaji Srinivasan, Jensen Huang, Nvidia, Peter Diamandis\n' +
+      '- About abundance, progress, innovation, building\n\n' +
+      'DROP articles that are:\n' +
+      '- Negative, critical, or attacking tech leaders or companies\n' +
+      '- About AI dangers, risks, or calls for regulation\n' +
+      '- About crypto crashes, scams, or failures\n' +
+      '- About tech layoffs, company failures, or scandals\n' +
+      '- General doom or anti-tech sentiment\n\n' +
+      'Return ONLY a valid JSON array of article IDs to KEEP. Example: ["id1","id2","id3"]\n' +
+      'No explanation, no markdown, no other text.\n\n' +
+      'Articles:\n' + JSON.stringify(batch.map(function(a) {
+        return { id: a.id, title: a.title, source: a.source };
+      }));
 
     try {
-      const result = await callClaude(prompt, 600);
-      if (!result) { approved.push(...batch); continue; }
-      const kept = safeParseArray(result);
-      if (!kept) { console.warn(`  Tech filter: could not parse — keeping batch`); approved.push(...batch); continue; }
-      const keptSet  = new Set(Array.isArray(kept) ? kept : []);
-      const filtered = batch.filter(a => keptSet.has(a.id));
-      console.log(`  Tech filter batch ${Math.floor(i/BATCH)+1}: ${batch.length} in → ${filtered.length} kept`);
-      approved.push(...filtered);
-    } catch (e) {
-      console.warn(`  Tech filter error: ${e.message} — keeping batch`);
-      approved.push(...batch);
+      var result = await callClaude(prompt, 600);
+      if (!result) { approved = approved.concat(batch); continue; }
+      var kept = safeParseArray(result);
+      if (!kept) {
+        console.warn('  Tech filter batch ' + batchNum + ': parse failed - keeping batch');
+        approved = approved.concat(batch);
+        continue;
+      }
+      var keptSet = {};
+      (Array.isArray(kept) ? kept : []).forEach(function(id) { keptSet[id] = true; });
+      var filtered = batch.filter(function(a) { return keptSet[a.id]; });
+      console.log('  Tech filter batch ' + batchNum + ': ' + batch.length + ' in -> ' + filtered.length + ' kept');
+      approved = approved.concat(filtered);
+    } catch(e) {
+      console.warn('  Tech filter error: ' + e.message + ' - keeping batch');
+      approved = approved.concat(batch);
     }
   }
 
   return approved;
 }
 
-// ── TEASER GENERATOR ──────────────────────────────────────────────────────────
 async function generateTeasers(articles) {
-  if (!ANTHROPIC_API_KEY) {
-    console.warn('No ANTHROPIC_API_KEY — skipping teasers');
-    return articles;
-  }
+  if (!ANTHROPIC_API_KEY) { console.warn('No API key - skipping teasers'); return articles; }
 
-  const prompt = `You are a sharp news editor. For each article, write ONE sentence (under 25 words) that teases the story — intriguing, factual, no hype. Return ONLY a valid JSON array with objects containing "id" and "teaser" fields. Example: [{"id":"abc","teaser":"One sentence here."}]
-No markdown, no explanation, no other text — just the JSON array.
-
-Articles:
-${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, source: a.source })))}`;
+  var prompt = 'You are a sharp news editor. For each article, write ONE sentence under 25 words ' +
+    'that teases the story - intriguing, factual, no hype. ' +
+    'Return ONLY a valid JSON array with objects containing id and teaser fields. ' +
+    'Example: [{"id":"abc","teaser":"One sentence here."}]\n' +
+    'No markdown, no explanation, no other text.\n\n' +
+    'Articles:\n' + JSON.stringify(articles.map(function(a) {
+      return { id: a.id, title: a.title, source: a.source };
+    }));
 
   try {
-    const result = await callClaude(prompt, 1200);
+    var result = await callClaude(prompt, 1200);
     if (!result) return articles;
-    const teasers = safeParseArray(result);
+    var teasers = safeParseArray(result);
     if (!teasers) { console.warn('Teaser: could not parse response'); return articles; }
-    const map = {};
-    teasers.forEach(t => { if (t && t.id) map[t.id] = t.teaser; });
-    return articles.map(a => ({ ...a, teaser: map[a.id] || '' }));
-  } catch (e) {
-    console.warn('Teaser error:', e.message);
+    var map = {};
+    teasers.forEach(function(t) { if (t && t.id) map[t.id] = t.teaser; });
+    return articles.map(function(a) { return Object.assign({}, a, { teaser: map[a.id] || '' }); });
+  } catch(e) {
+    console.warn('Teaser error: ' + e.message);
     return articles;
   }
 }
 
-// ── MAIN ──────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log('=== GP360 fetch started:', new Date().toISOString());
+  console.log('=== GP360 fetch started: ' + new Date().toISOString());
 
-  const cfg = JSON.parse(fs.readFileSync('sources.json', 'utf-8'));
-  const activeNews     = (cfg.sources       || []).filter(s => s.active && s.category === 'news');
-  const activeTech     = (cfg.techSources   || []).filter(s => s.active && s.url);
-  const activePodcasts = (cfg.podcastSources || []).filter(s => s.active && s.url);
-  const watchedVoices  = cfg.watchedVoices  || [];
+  var cfg = JSON.parse(fs.readFileSync('sources.json', 'utf-8'));
+  var activeNews     = (cfg.sources        || []).filter(function(s) { return s.active && s.category === 'news'; });
+  var activeTech     = (cfg.techSources    || []).filter(function(s) { return s.active && s.url; });
+  var activePodcasts = (cfg.podcastSources || []).filter(function(s) { return s.active && s.url; });
+  var watchedVoices  = cfg.watchedVoices   || [];
 
-  console.log(`News: ${activeNews.length} | Tech: ${activeTech.length} | Podcasts: ${activePodcasts.length} | Voices: ${watchedVoices.filter(v=>v.active).length}`);
+  console.log('News: ' + activeNews.length + ' | Tech: ' + activeTech.length + ' | Podcasts: ' + activePodcasts.length + ' | Voices: ' + watchedVoices.filter(function(v) { return v.active; }).length);
 
-  // Load existing data
-  let existingArticles = { articles: [] };
-  let existingTech     = { articles: [] };
-  let existingPodcasts = { latest: [], archive: [] };
-  try { existingArticles = JSON.parse(fs.readFileSync('articles.json', 'utf-8')); } catch {}
-  try { existingTech     = JSON.parse(fs.readFileSync('tech.json',     'utf-8')); } catch {}
-  try { existingPodcasts = JSON.parse(fs.readFileSync('podcasts.json', 'utf-8')); } catch {}
+  var existingArticles = { articles: [] };
+  var existingTech     = { articles: [] };
+  var existingPodcasts = { latest: [], archive: [] };
+  try { existingArticles = JSON.parse(fs.readFileSync('articles.json', 'utf-8')); } catch(e) {}
+  try { existingTech     = JSON.parse(fs.readFileSync('tech.json',     'utf-8')); } catch(e) {}
+  try { existingPodcasts = JSON.parse(fs.readFileSync('podcasts.json', 'utf-8')); } catch(e) {}
 
-  const existingArticleIds = new Set((existingArticles.articles || []).map(a => a.id));
-  const existingTechIds    = new Set((existingTech.articles     || []).map(a => a.id));
+  var existingArticleIds = {};
+  (existingArticles.articles || []).forEach(function(a) { existingArticleIds[a.id] = true; });
+  var existingTechIds = {};
+  (existingTech.articles || []).forEach(function(a) { existingTechIds[a.id] = true; });
 
-  // ── NEWS ──────────────────────────────────────────────────────────────────
+  // NEWS
   console.log('\n--- NEWS ---');
-  let allArticles = [];
-  for (const src of activeNews) {
+  var allArticles = [];
+  for (var i = 0; i < activeNews.length; i++) {
+    var src = activeNews[i];
     try {
-      console.log(`[NEWS] ${src.name}`);
-      const { items, method } = await fetchFeedWithFallback(src, NEWS_TIMEOUT_MS);
-      console.log(`  ✓ ${items.length}${method === 'proxy' ? ' (proxy)' : ''}`);
-      allArticles.push(...items);
-    } catch (e) { console.warn(`  ✗ ${src.name}: ${e.message}`); }
+      console.log('[NEWS] ' + src.name);
+      var r = await fetchFeedWithFallback(src, NEWS_TIMEOUT_MS);
+      console.log('  v ' + r.items.length + (r.method === 'proxy' ? ' (proxy)' : ''));
+      allArticles = allArticles.concat(r.items);
+    } catch(e) { console.warn('  x ' + src.name + ': ' + e.message); }
   }
 
-  const seenUrls = new Set();
-  allArticles = allArticles.filter(a => {
-    if (seenUrls.has(a.url)) return false;
-    seenUrls.add(a.url);
+  var seenUrls = {};
+  allArticles = allArticles.filter(function(a) {
+    if (seenUrls[a.url]) return false;
+    seenUrls[a.url] = true;
     return true;
   });
-  allArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+  allArticles.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
 
-  const teaserCache = {};
-  (existingArticles.articles || []).forEach(a => { if (a.teaser) teaserCache[a.id] = a.teaser; });
-  allArticles = allArticles.map(a => ({ ...a, teaser: teaserCache[a.id] || '' }));
+  var teaserCache = {};
+  (existingArticles.articles || []).forEach(function(a) { if (a.teaser) teaserCache[a.id] = a.teaser; });
+  allArticles = allArticles.map(function(a) { return Object.assign({}, a, { teaser: teaserCache[a.id] || '' }); });
 
-  const newArticles = allArticles.filter(a => !existingArticleIds.has(a.id));
+  var newArticles = allArticles.filter(function(a) { return !existingArticleIds[a.id]; });
   if (newArticles.length >= MIN_NEW_ARTICLES) {
-    const BATCH = 20;
-    for (let i = 0; i < newArticles.length; i += BATCH) {
-      const batch = newArticles.slice(i, i + BATCH);
-      console.log(`Teasers batch ${Math.floor(i/BATCH)+1}: ${batch.length}`);
-      const done = await generateTeasers(batch);
-      done.forEach(a => { teaserCache[a.id] = a.teaser; });
+    var NBATCH = 20;
+    for (var ni = 0; ni < newArticles.length; ni += NBATCH) {
+      var nbatch = newArticles.slice(ni, ni + NBATCH);
+      console.log('Teasers batch ' + (Math.floor(ni / NBATCH) + 1) + ': ' + nbatch.length);
+      var done = await generateTeasers(nbatch);
+      done.forEach(function(a) { teaserCache[a.id] = a.teaser; });
     }
-    allArticles = allArticles.map(a => ({ ...a, teaser: teaserCache[a.id] || '' }));
+    allArticles = allArticles.map(function(a) { return Object.assign({}, a, { teaser: teaserCache[a.id] || '' }); });
   }
 
   fs.writeFileSync('articles.json', JSON.stringify({
@@ -428,55 +412,58 @@ async function main() {
     articleCount: Math.min(allArticles.length, MAX_ARTICLES),
     articles:     allArticles.slice(0, MAX_ARTICLES)
   }, null, 2));
-  console.log(`✓ articles.json: ${Math.min(allArticles.length, MAX_ARTICLES)}`);
+  console.log('v articles.json: ' + Math.min(allArticles.length, MAX_ARTICLES));
 
-  // ── TECH ABUNDANCE ────────────────────────────────────────────────────────
+  // TECH ABUNDANCE
   console.log('\n--- TECH ABUNDANCE ---');
-  let allTechArticles = [];
-  for (const src of activeTech) {
+  var allTechArticles = [];
+  for (var ti = 0; ti < activeTech.length; ti++) {
+    var tsrc = activeTech[ti];
     try {
-      console.log(`[TECH] ${src.name}`);
-      const { items, method } = await fetchFeedWithFallback(src, NEWS_TIMEOUT_MS);
-      console.log(`  ✓ ${items.length}${method === 'proxy' ? ' (proxy)' : ''}`);
-      allTechArticles.push(...items);
-    } catch (e) { console.warn(`  ✗ ${src.name}: ${e.message}`); }
+      console.log('[TECH] ' + tsrc.name);
+      var tr = await fetchFeedWithFallback(tsrc, NEWS_TIMEOUT_MS);
+      console.log('  v ' + tr.items.length + (tr.method === 'proxy' ? ' (proxy)' : ''));
+      allTechArticles = allTechArticles.concat(tr.items);
+    } catch(e) { console.warn('  x ' + tsrc.name + ': ' + e.message); }
   }
 
-  const seenTechUrls = new Set();
-  allTechArticles = allTechArticles.filter(a => {
-    if (seenTechUrls.has(a.url)) return false;
-    seenTechUrls.add(a.url);
+  var seenTechUrls = {};
+  allTechArticles = allTechArticles.filter(function(a) {
+    if (seenTechUrls[a.url]) return false;
+    seenTechUrls[a.url] = true;
     return true;
   });
-  allTechArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+  allTechArticles.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
 
-  const newTechArticles = allTechArticles.filter(a => !existingTechIds.has(a.id));
-  console.log(`Sentiment filter: ${newTechArticles.length} new articles to evaluate...`);
-  const approvedNew = await filterTechArticles(newTechArticles);
-  console.log(`  ✓ ${approvedNew.length} approved after filter`);
+  var newTechArticles = allTechArticles.filter(function(a) { return !existingTechIds[a.id]; });
+  console.log('Sentiment filter: ' + newTechArticles.length + ' new articles to evaluate...');
+  var approvedNew = await filterTechArticles(newTechArticles);
+  console.log('  v ' + approvedNew.length + ' approved after filter');
 
-  const approvedNewIds      = new Set(approvedNew.map(a => a.id));
-  const existingApprovedIds = new Set((existingTech.articles || []).map(a => a.id));
-  const finalTechArticles   = allTechArticles.filter(a =>
-    approvedNewIds.has(a.id) || existingApprovedIds.has(a.id)
-  );
+  var approvedNewIds = {};
+  approvedNew.forEach(function(a) { approvedNewIds[a.id] = true; });
+  var existingApprovedIds = {};
+  (existingTech.articles || []).forEach(function(a) { existingApprovedIds[a.id] = true; });
+  var finalTechArticles = allTechArticles.filter(function(a) {
+    return approvedNewIds[a.id] || existingApprovedIds[a.id];
+  });
 
-  const techTeaserCache = {};
-  (existingTech.articles || []).forEach(a => { if (a.teaser) techTeaserCache[a.id] = a.teaser; });
-  const techNeedTeasers = approvedNew.filter(a => !techTeaserCache[a.id]);
+  var techTeaserCache = {};
+  (existingTech.articles || []).forEach(function(a) { if (a.teaser) techTeaserCache[a.id] = a.teaser; });
+  var techNeedTeasers = approvedNew.filter(function(a) { return !techTeaserCache[a.id]; });
 
   if (techNeedTeasers.length > 0) {
-    const BATCH = 20;
-    for (let i = 0; i < techNeedTeasers.length; i += BATCH) {
-      const batch = techNeedTeasers.slice(i, i + BATCH);
-      console.log(`Tech teasers batch ${Math.floor(i/BATCH)+1}: ${batch.length}`);
-      const done = await generateTeasers(batch);
-      done.forEach(a => { techTeaserCache[a.id] = a.teaser; });
+    var TBATCH = 20;
+    for (var tbi = 0; tbi < techNeedTeasers.length; tbi += TBATCH) {
+      var tbatch = techNeedTeasers.slice(tbi, tbi + TBATCH);
+      console.log('Tech teasers batch ' + (Math.floor(tbi / TBATCH) + 1) + ': ' + tbatch.length);
+      var tdone = await generateTeasers(tbatch);
+      tdone.forEach(function(a) { techTeaserCache[a.id] = a.teaser; });
     }
   }
 
-  const finalTechWithTeasers = finalTechArticles
-    .map(a => ({ ...a, teaser: techTeaserCache[a.id] || '' }))
+  var finalTechWithTeasers = finalTechArticles
+    .map(function(a) { return Object.assign({}, a, { teaser: techTeaserCache[a.id] || '' }); })
     .slice(0, MAX_TECH_ARTICLES);
 
   fs.writeFileSync('tech.json', JSON.stringify({
@@ -484,79 +471,74 @@ async function main() {
     articleCount: finalTechWithTeasers.length,
     articles:     finalTechWithTeasers
   }, null, 2));
-  console.log(`✓ tech.json: ${finalTechWithTeasers.length} articles`);
+  console.log('v tech.json: ' + finalTechWithTeasers.length + ' articles');
 
-  // ── PODCASTS ──────────────────────────────────────────────────────────────
+  // PODCASTS
   console.log('\n--- PODCASTS ---');
-  let allEpisodes = [];
-  for (const src of activePodcasts) {
+  var allEpisodes = [];
+  for (var pi = 0; pi < activePodcasts.length; pi++) {
+    var psrc = activePodcasts[pi];
     try {
-      console.log(`[POD] ${src.name}`);
-      const xml = await httpGet(src.url, PODCAST_TIMEOUT_MS);
-      const eps = parsePodcastRSS(xml, src.name);
-      console.log(`  ✓ ${eps.length}`);
-      allEpisodes.push(...eps);
-    } catch (e) { console.warn(`  ✗ ${src.name}: ${e.message}`); }
+      console.log('[POD] ' + psrc.name);
+      var xml = await httpGet(psrc.url, PODCAST_TIMEOUT_MS);
+      var eps = parsePodcastRSS(xml, psrc.name);
+      console.log('  v ' + eps.length);
+      allEpisodes = allEpisodes.concat(eps);
+    } catch(e) { console.warn('  x ' + psrc.name + ': ' + e.message); }
   }
 
   console.log('Running guest detection...');
   allEpisodes = detectGuests(allEpisodes, watchedVoices);
-  const taggedCount = allEpisodes.filter(e => e.guestTags.length > 0).length;
-  console.log(`  ✓ ${taggedCount} episodes tagged`);
+  var taggedCount = allEpisodes.filter(function(e) { return e.guestTags.length > 0; }).length;
+  console.log('  v ' + taggedCount + ' episodes tagged');
 
-  allEpisodes.sort((a, b) => new Date(b.date) - new Date(a.date));
-  const seenEpIds = new Set();
-  allEpisodes = allEpisodes.filter(e => {
-    if (seenEpIds.has(e.id)) return false;
-    seenEpIds.add(e.id);
+  allEpisodes.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
+  var seenEpIds = {};
+  allEpisodes = allEpisodes.filter(function(e) {
+    if (seenEpIds[e.id]) return false;
+    seenEpIds[e.id] = true;
     return true;
   });
 
-  const byShow = {};
-  allEpisodes.forEach(e => {
+  var byShow = {};
+  allEpisodes.forEach(function(e) {
     if (!byShow[e.show]) byShow[e.show] = [];
     byShow[e.show].push(e);
   });
-  const latestEpisodes = [];
-  Object.values(byShow).forEach(eps => latestEpisodes.push(...eps.slice(0, MAX_PODCAST_LIVE)));
-  latestEpisodes.sort((a, b) => new Date(b.date) - new Date(a.date));
+  var latestEpisodes = [];
+  Object.values(byShow).forEach(function(eps) {
+    latestEpisodes = latestEpisodes.concat(eps.slice(0, MAX_PODCAST_LIVE));
+  });
+  latestEpisodes.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
 
-  const archiveMap = {};
-  (existingPodcasts.archive || []).forEach(e => { archiveMap[e.id] = e; });
-  allEpisodes.forEach(e => { archiveMap[e.id] = e; });
-  const fullArchive = Object.values(archiveMap)
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
+  var archiveMap = {};
+  (existingPodcasts.archive || []).forEach(function(e) { archiveMap[e.id] = e; });
+  allEpisodes.forEach(function(e) { archiveMap[e.id] = e; });
+  var fullArchive = Object.values(archiveMap)
+    .sort(function(a, b) { return new Date(b.date) - new Date(a.date); })
     .slice(0, MAX_PODCAST_ARCHIVE);
 
-  const guestIndex = {};
-  for (const ep of fullArchive) {
-    for (const tag of (ep.guestTags || [])) {
+  var guestIndex = {};
+  fullArchive.forEach(function(ep) {
+    (ep.guestTags || []).forEach(function(tag) {
       if (!guestIndex[tag]) guestIndex[tag] = [];
       guestIndex[tag].push(ep.id);
-    }
-  }
+    });
+  });
 
   fs.writeFileSync('podcasts.json', JSON.stringify({
     lastUpdated:  new Date().toISOString(),
     showCount:    activePodcasts.length,
     episodeCount: latestEpisodes.length,
     archiveCount: fullArchive.length,
-    taggedCount,
+    taggedCount:  taggedCount,
     latest:       latestEpisodes,
     archive:      fullArchive,
-    guestIndex
+    guestIndex:   guestIndex
   }, null, 2));
 
-  console.log(`✓ podcasts.json: ${latestEpisodes.length} latest, ${fullArchive.length} archived, ${taggedCount} tagged`);
-  console.log('\n=== Done:', new Date().toISOString());
+  console.log('v podcasts.json: ' + latestEpisodes.length + ' latest, ' + fullArchive.length + ' archived, ' + taggedCount + ' tagged');
+  console.log('\n=== Done: ' + new Date().toISOString());
 }
 
-main().catch(e => { console.error('FATAL:', e); process.exit(1); });
-```
-
-Commit, trigger the manual run, and screenshot the logs. You should now see lines like:
-```
-[TECH] Peter Diamandis / Metatrends
-  ✓ 20 (proxy)
-[TECH] Marc Andreessen
-  ✓ 20 (proxy)
+main().catch(function(e) { console.error('FATAL:', e); process.exit(1); });
