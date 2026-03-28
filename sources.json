@@ -315,22 +315,13 @@
     { "name": "Jensen Huang",          "keywords": ["Jensen Huang", "Jensen", "Nvidia", "NVDA"],  "active": true }
   ],
 
-  "notes": [
-    "=== HOW TO ADD A NEWS JOURNALIST ===",
-    "Copy any sources block, set name/url/active:true, category:news",
-    "Substack pattern: https://NAME.substack.com/feed",
-    "",
-    "=== HOW TO ADD A TECH ABUNDANCE SOURCE ===",
-    "Copy any techSources block, set name/url/active:true",
-    "ALL tech articles pass through Claude sentiment filter",
+ "notes": [
+    "HOW TO ADD A NEWS JOURNALIST: Copy any sources block, set name/url/active:true, category:news",
+    "HOW TO ADD A TECH ABUNDANCE SOURCE: Copy any techSources block, set name/url/active:true",
+    "ALL tech articles pass through Claude sentiment filter — doom/negative articles dropped",
     "Claude explicitly keeps positive coverage of key tech leaders",
-    "",
-    "=== HOW TO ADD A PODCAST ===",
-    "Copy any podcastSources block, set name/url/active:true",
-    "Find RSS at podnews.net. ART19: https://rss.art19.com/SLUG",
-    "",
-    "=== HOW TO ADD A WATCHED VOICE ===",
-    "Copy any watchedVoices block, set name/keywords/active:true",
+    "HOW TO ADD A PODCAST: Copy any podcastSources block, set name/url/active:true",
+    "Find RSS at podnews.net. ART19 pattern: https://rss.art19.com/SLUG",
+    "HOW TO ADD A WATCHED VOICE: Copy any watchedVoices block, set name/keywords/active:true",
     "Keywords searched in ALL podcast episode titles and descriptions"
   ]
-}
