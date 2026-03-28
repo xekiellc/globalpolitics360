@@ -1,5 +1,6 @@
 // fetch-articles.js
 // Fetches news + tech abundance + podcast RSS feeds
+// Uses RSS proxy fallback for Substack feeds blocked by GitHub Actions CDN
 // Runs Claude sentiment filter on tech articles (positive/innovation only)
 // Explicitly keeps positive coverage of key tech leaders
 // Detects guest appearances via watchedVoices
@@ -9,14 +10,18 @@ const fs = require('fs');
 const https = require('https');
 const http = require('http');
 
-const ANTHROPIC_API_KEY    = process.env.ANTHROPIC_API_KEY;
-const MAX_ARTICLES         = 60;
-const MAX_TECH_ARTICLES    = 40;
-const MAX_PODCAST_LIVE     = 5;
-const MAX_PODCAST_ARCHIVE  = 500;
-const MIN_NEW_ARTICLES     = 1;
-const NEWS_TIMEOUT_MS      = 25000;
-const PODCAST_TIMEOUT_MS   = 30000;
+const ANTHROPIC_API_KEY   = process.env.ANTHROPIC_API_KEY;
+const MAX_ARTICLES        = 60;
+const MAX_TECH_ARTICLES   = 40;
+const MAX_PODCAST_LIVE    = 5;
+const MAX_PODCAST_ARCHIVE = 500;
+const MIN_NEW_ARTICLES    = 1;
+const NEWS_TIMEOUT_MS     = 25000;
+const PODCAST_TIMEOUT_MS  = 30000;
+
+// RSS2JSON proxy — used as fallback when direct Substack fetch returns 0 items
+// Free tier: 10,000 requests/day, no key needed for basic use
+const RSS2JSON_BASE = 'https://api.rss2json.com/v1/api.json?rss_url=';
 
 // ── HTTP ─────────────────────────────────────────────────────────────────────
 function httpGet(url, timeoutMs = NEWS_TIMEOUT_MS) {
@@ -25,7 +30,7 @@ function httpGet(url, timeoutMs = NEWS_TIMEOUT_MS) {
     const req = lib.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; RSS-Reader/1.0)',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+        'Accept': 'application/rss+xml, application/xml, application/json, text/xml, */*',
         'Accept-Language': 'en-US,en;q=0.9',
         'Cache-Control': 'no-cache'
       }
@@ -88,20 +93,15 @@ function makeId(url) {
 }
 
 // ── SAFE JSON PARSE ───────────────────────────────────────────────────────────
-// Handles truncated or malformed JSON from Claude by extracting valid array
 function safeParseArray(text) {
   if (!text) return null;
-  // Strip markdown fences
   let cleaned = text.replace(/```json|```/g, '').trim();
-  // Try direct parse first
   try { return JSON.parse(cleaned); } catch {}
-  // Try to extract just the array portion
   const start = cleaned.indexOf('[');
   const end   = cleaned.lastIndexOf(']');
   if (start !== -1 && end !== -1 && end > start) {
     try { return JSON.parse(cleaned.slice(start, end + 1)); } catch {}
   }
-  // Try trimming to last complete object — find last },  or }] pattern
   const lastComplete = cleaned.lastIndexOf('},');
   if (lastComplete !== -1) {
     try { return JSON.parse(cleaned.slice(0, lastComplete + 1) + ']'); } catch {}
@@ -133,6 +133,58 @@ function parseNewsRSS(xml, sourceName) {
     }
   }
   return items;
+}
+
+// ── RSS2JSON PROXY PARSER ─────────────────────────────────────────────────────
+// Parses the JSON response from api.rss2json.com into our article format
+function parseRss2JsonResponse(jsonText, sourceName) {
+  try {
+    const data = JSON.parse(jsonText);
+    if (!data || data.status !== 'ok' || !Array.isArray(data.items)) return [];
+    return data.items.map(item => {
+      const url = item.link || item.guid || '';
+      if (!url || url.includes('.mp3')) return null;
+      const image = item.thumbnail || item.enclosure?.link || '';
+      return {
+        title:  (item.title || '').replace(/\s+/g, ' ').trim(),
+        url:    url.trim(),
+        date:   parseDate(item.pubDate).toISOString(),
+        image:  (image && !image.endsWith('.mp3')) ? image : '',
+        source: sourceName,
+        teaser: '',
+        id:     makeId(url)
+      };
+    }).filter(Boolean);
+  } catch (e) {
+    return [];
+  }
+}
+
+// ── FETCH WITH PROXY FALLBACK ─────────────────────────────────────────────────
+// Tries direct RSS fetch first; if 0 items returned, retries via RSS2JSON proxy
+async function fetchFeedWithFallback(src, timeoutMs) {
+  // Direct fetch
+  try {
+    const xml = await httpGet(src.url, timeoutMs);
+    const items = parseNewsRSS(xml, src.name);
+    if (items.length > 0) return { items, method: 'direct' };
+  } catch (e) {
+    // direct failed — fall through to proxy
+  }
+
+  // Proxy fallback — only for substack.com feeds
+  if (src.url.includes('substack.com')) {
+    try {
+      const proxyUrl = RSS2JSON_BASE + encodeURIComponent(src.url) + '&count=20';
+      const jsonText = await httpGet(proxyUrl, timeoutMs);
+      const items = parseRss2JsonResponse(jsonText, src.name);
+      if (items.length > 0) return { items, method: 'proxy' };
+    } catch (e) {
+      // proxy also failed
+    }
+  }
+
+  return { items: [], method: 'failed' };
 }
 
 // ── PODCAST RSS PARSER ────────────────────────────────────────────────────────
@@ -177,7 +229,6 @@ function parsePodcastRSS(xml, showName) {
 function detectGuests(episodes, watchedVoices) {
   const active = (watchedVoices || []).filter(v => v.active && v.keywords && v.keywords.length);
   if (!active.length) return episodes;
-
   return episodes.map(ep => {
     const haystack = `${ep.title} ${ep.desc}`.toLowerCase();
     const tags = [];
@@ -272,7 +323,7 @@ ${JSON.stringify(batch.map(a => ({ id: a.id, title: a.title, source: a.source })
       const result = await callClaude(prompt, 600);
       if (!result) { approved.push(...batch); continue; }
       const kept = safeParseArray(result);
-      if (!kept) { console.warn(`  Tech filter: could not parse response — keeping batch`); approved.push(...batch); continue; }
+      if (!kept) { console.warn(`  Tech filter: could not parse — keeping batch`); approved.push(...batch); continue; }
       const keptSet  = new Set(Array.isArray(kept) ? kept : []);
       const filtered = batch.filter(a => keptSet.has(a.id));
       console.log(`  Tech filter batch ${Math.floor(i/BATCH)+1}: ${batch.length} in → ${filtered.length} kept`);
@@ -342,9 +393,8 @@ async function main() {
   for (const src of activeNews) {
     try {
       console.log(`[NEWS] ${src.name}`);
-      const xml = await httpGet(src.url, NEWS_TIMEOUT_MS);
-      const items = parseNewsRSS(xml, src.name);
-      console.log(`  ✓ ${items.length}`);
+      const { items, method } = await fetchFeedWithFallback(src, NEWS_TIMEOUT_MS);
+      console.log(`  ✓ ${items.length}${method === 'proxy' ? ' (proxy)' : ''}`);
       allArticles.push(...items);
     } catch (e) { console.warn(`  ✗ ${src.name}: ${e.message}`); }
   }
@@ -386,9 +436,8 @@ async function main() {
   for (const src of activeTech) {
     try {
       console.log(`[TECH] ${src.name}`);
-      const xml = await httpGet(src.url, NEWS_TIMEOUT_MS);
-      const items = parseNewsRSS(xml, src.name);
-      console.log(`  ✓ ${items.length}`);
+      const { items, method } = await fetchFeedWithFallback(src, NEWS_TIMEOUT_MS);
+      console.log(`  ✓ ${items.length}${method === 'proxy' ? ' (proxy)' : ''}`);
       allTechArticles.push(...items);
     } catch (e) { console.warn(`  ✗ ${src.name}: ${e.message}`); }
   }
@@ -503,3 +552,11 @@ async function main() {
 }
 
 main().catch(e => { console.error('FATAL:', e); process.exit(1); });
+```
+
+Commit, trigger the manual run, and screenshot the logs. You should now see lines like:
+```
+[TECH] Peter Diamandis / Metatrends
+  ✓ 20 (proxy)
+[TECH] Marc Andreessen
+  ✓ 20 (proxy)
