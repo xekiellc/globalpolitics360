@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-03-28T16:03:10.345Z",
+  "lastUpdated": "2026-03-28T16:13:36.003Z",
   "showCount": 18,
-  "episodeCount": 4,
+  "episodeCount": 7,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E266_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
+      "date": "2026-03-27T20:03:00.000Z",
+      "duration": "01:20:11",
+      "image": "https://static.libsyn.com/p/assets/9/7/9/6/979607b459154e0b16c3140a3186d450/1_Pod_E266.png",
+      "desc": "(0:00) Bestie intros!: Friedberg for Governor of California? (2:25) Anthropic's generational run (15:45) OpenAI: getting focused or panic mode? (36:56) AI valuation impacts, moats, and disruption (43:58) Liquidity speaker announcements, the 100x AI moment (50:35) Two landmark social media verdicts a"
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -13,6 +24,28 @@
       "duration": "9989",
       "image": "https://megaphone.imgix.net/podcasts/88ce39f6-297a-11f1-b972-2b8f4b0d54f5/image/7707d7111389a31ca9f4ed94a9cf8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Andrew Jarecki is a filmmaker, musician, entrepreneur, and documentarian. His latest documentary, “The Alabama Solution,” co-directed with Charlotte Kaufman, is available to stream on HBO Max and other digital platforms.www.thealabamasolution.com\n\n\n\nPerplexity: Download the app or ask Perplexity any"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#291 Joe Kent - His Message to President Trump on Ending the War With Iran",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1818554309.mp3?updated=1774491460",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1818554309.mp3?updated=1774491460",
+      "date": "2026-03-26T10:00:00.000Z",
+      "duration": "7402",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe Kent is a retired U.S. Army Special Forces officer, former CIA paramilitary officer, and until recently served as Director of the National Counterterrorism Center, stepping down from the post in March 2026 following a principled disagreement over U.S. policy in the Iran war.\n\n\nAn Oregon native a"
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Kill Tony",
+      "title": "#761 - KIM CONGDON + ADAM RAY",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8615960302.mp3?updated=1774285357",
+      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8615960302.mp3?updated=1774285357",
+      "date": "2026-03-24T01:00:00.000Z",
+      "duration": "9359",
+      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Adam Ray, Kim Congdon, Ari Matti, Dedrick Flynn, William Montgomery,Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling,Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED–02/28/2026\n\n\n\nRight now get 10% off at https://tecovas.com/killtony when you sign up for email an"
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -50,6 +83,17 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E266_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
+      "date": "2026-03-27T20:03:00.000Z",
+      "duration": "01:20:11",
+      "image": "https://static.libsyn.com/p/assets/9/7/9/6/979607b459154e0b16c3140a3186d450/1_Pod_E266.png",
+      "desc": "(0:00) Bestie intros!: Friedberg for Governor of California? (2:25) Anthropic's generational run (15:45) OpenAI: getting focused or panic mode? (36:56) AI valuation impacts, moats, and disruption (43:58) Liquidity speaker announcements, the 100x AI moment (50:35) Two landmark social media verdicts a"
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2475 - Andrew Jarecki",
@@ -59,6 +103,28 @@
       "duration": "9989",
       "image": "https://megaphone.imgix.net/podcasts/88ce39f6-297a-11f1-b972-2b8f4b0d54f5/image/7707d7111389a31ca9f4ed94a9cf8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Andrew Jarecki is a filmmaker, musician, entrepreneur, and documentarian. His latest documentary, “The Alabama Solution,” co-directed with Charlotte Kaufman, is available to stream on HBO Max and other digital platforms.www.thealabamasolution.com\n\n\n\nPerplexity: Download the app or ask Perplexity any"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#291 Joe Kent - His Message to President Trump on Ending the War With Iran",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1818554309.mp3?updated=1774491460",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1818554309.mp3?updated=1774491460",
+      "date": "2026-03-26T10:00:00.000Z",
+      "duration": "7402",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe Kent is a retired U.S. Army Special Forces officer, former CIA paramilitary officer, and until recently served as Director of the National Counterterrorism Center, stepping down from the post in March 2026 following a principled disagreement over U.S. policy in the Iran war.\n\n\nAn Oregon native a"
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Kill Tony",
+      "title": "#761 - KIM CONGDON + ADAM RAY",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8615960302.mp3?updated=1774285357",
+      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8615960302.mp3?updated=1774285357",
+      "date": "2026-03-24T01:00:00.000Z",
+      "duration": "9359",
+      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Adam Ray, Kim Congdon, Ari Matti, Dedrick Flynn, William Montgomery,Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling,Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED–02/28/2026\n\n\n\nRight now get 10% off at https://tecovas.com/killtony when you sign up for email an"
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
