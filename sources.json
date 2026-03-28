@@ -8,9 +8,9 @@
       "active": true
     },
     {
-      "name": "Michael Shellenberger",
+      "name": "Michael Shellenberger / Public",
       "type": "rss",
-      "url": "https://public.substack.com/feed",
+      "url": "https://www.public.news/feed",
       "category": "news",
       "active": true
     },
@@ -36,9 +36,9 @@
       "active": true
     },
     {
-      "name": "Andy Ngo",
+      "name": "Andy Ngo / Ngo Comment",
       "type": "rss",
-      "url": "https://andyngo.substack.com/feed",
+      "url": "https://www.ngocomment.com/feed",
       "category": "news",
       "active": true
     }
@@ -49,154 +49,130 @@
       "name": "The Joe Rogan Experience",
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/GLT1412515089",
-      "active": true,
-      "notes": "Official JRE Megaphone feed"
+      "active": true
     },
     {
       "name": "Shawn Ryan Show",
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/shawnryanshow",
-      "active": true,
-      "notes": "Former Navy SEAL / CIA contractor"
+      "active": true
     },
     {
       "name": "The Lex Fridman Podcast",
       "type": "podcast_rss",
       "url": "https://lexfridman.com/feed/podcast/",
-      "active": true,
-      "notes": "Science, tech, AI, long-form interviews"
+      "active": true
     },
     {
       "name": "All-In Podcast",
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/SIN9418370585",
-      "active": true,
-      "notes": "Chamath, Sacks, Friedberg, Palihapitiya"
+      "active": true
     },
     {
       "name": "Theo Von - This Past Weekend",
       "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/this-past-weekend",
-      "active": true,
-      "notes": "Comedy / life / culture"
+      "url": "https://feeds.megaphone.fm/TPW9608187421",
+      "active": true
     },
     {
       "name": "The Jordan B. Peterson Podcast",
       "type": "podcast_rss",
       "url": "https://feeds.transistor.fm/the-jordan-b-peterson-podcast",
-      "active": true,
-      "notes": "Psychology, philosophy, culture"
+      "active": true
     },
     {
       "name": "Huberman Lab",
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/hubermanlab",
-      "active": true,
-      "notes": "Andrew Huberman - neuroscience and health"
+      "active": true
     },
     {
       "name": "Kill Tony",
       "type": "podcast_rss",
-      "url": "https://feeds.megaphone.fm/kill-tony",
-      "active": true,
-      "notes": "Tony Hinchcliffe comedy podcast"
+      "url": "https://feeds.megaphone.fm/KT3968428196",
+      "active": true
     },
     {
       "name": "Part of the Problem (Dave Smith)",
       "type": "podcast_rss",
       "url": "https://feeds.libsyn.com/57649/rss",
-      "active": true,
-      "notes": "Libertarian political commentary"
+      "active": true
     },
     {
       "name": "John Kiriakou",
       "type": "podcast_rss",
       "url": "https://johnkiriakou.substack.com/feed",
-      "active": true,
-      "notes": "Former CIA officer, civil liberties"
+      "active": true
     },
     {
       "name": "Coin Stories (Natalie Brunell)",
       "type": "podcast_rss",
       "url": "https://feeds.buzzsprout.com/1052956.rss",
-      "active": true,
-      "notes": "Bitcoin and financial freedom"
+      "active": true
     },
     {
       "name": "After Party with Emily Jashinsky",
       "type": "podcast_rss",
       "url": "https://feeds.megaphone.fm/afterparty",
-      "active": true,
-      "notes": "Political/culture commentary"
+      "active": true
     },
     {
       "name": "Martin Shkreli",
       "type": "podcast_rss",
       "url": "https://martinshkreli.substack.com/feed",
-      "active": true,
-      "notes": "Pharma/finance/politics"
+      "active": true
     },
     {
       "name": "Danny Jones Podcast",
       "type": "podcast_rss",
       "url": "https://feeds.buzzsprout.com/2048958.rss",
-      "active": true,
-      "notes": "Long-form interview podcast"
+      "active": true
     },
     {
       "name": "Julian Dorey Podcast",
       "type": "podcast_rss",
-      "url": "",
-      "active": false,
-      "notes": "NEEDS RSS URL — find on podcastindex.org then set active: true"
+      "url": "https://feeds.megaphone.fm/juliandoreypodcast",
+      "active": true
     },
     {
-      "name": "Dalton Fisher",
+      "name": "Dalton Fischer Podcast",
       "type": "podcast_rss",
-      "url": "",
-      "active": false,
-      "notes": "NEEDS RSS URL — find on podcastindex.org then set active: true"
+      "url": "https://feeds.buzzsprout.com/2373344.rss",
+      "active": true
     },
     {
-      "name": "Kylan Scanlon",
+      "name": "The Watch Floor (Sarah Adams)",
       "type": "podcast_rss",
-      "url": "",
-      "active": false,
-      "notes": "NEEDS RSS URL — primarily YouTube, check for podcast feed"
+      "url": "https://feeds.megaphone.fm/thewatchfloor",
+      "active": true
+    },
+    {
+      "name": "Let's Appreciate (Kyla Scanlon)",
+      "type": "podcast_rss",
+      "url": "https://feeds.megaphone.fm/letsappreciate",
+      "active": true
     },
     {
       "name": "Roaring Kitty (Keith Gill)",
       "type": "podcast_rss",
       "url": "",
       "active": false,
-      "notes": "NEEDS RSS URL — primarily YouTube/streaming as of 2025"
+      "notes": "YouTube only — no podcast RSS"
     },
     {
-      "name": "Elle in Space",
+      "name": "Ellie in Space",
       "type": "podcast_rss",
       "url": "",
       "active": false,
-      "notes": "NEEDS RSS URL — find feed and paste here, then set active: true"
-    },
-    {
-      "name": "Sarah Adams",
-      "type": "podcast_rss",
-      "url": "",
-      "active": false,
-      "notes": "NEEDS RSS URL — confirm which Sarah Adams and find RSS feed"
+      "notes": "YouTube only — no podcast RSS"
     }
   ],
 
   "notes": [
-    "=== HOW TO ADD A NEW JOURNALIST (News tab) ===",
-    "Copy any block in 'sources'. Set name, url, active: true.",
-    "Substack pattern: https://NAME.substack.com/feed",
-    "",
-    "=== HOW TO ADD A NEW PODCAST ===",
-    "Copy any block in 'podcastSources'. Set name, url, active: true.",
-    "To find any RSS URL: go to podnews.net and search the show name.",
-    "",
-    "=== MISSING RSS URLS ===",
-    "Julian Dorey, Dalton Fisher, Kylan Scanlon, Roaring Kitty, Elle in Space, Sarah Adams"
+    "To add a journalist: copy any 'sources' block, set name/url/active:true",
+    "Substack RSS pattern: https://NAME.substack.com/feed",
+    "To add a podcast: copy any 'podcastSources' block, set name/url/active:true",
+    "To find any RSS URL: go to podnews.net and search the show name"
   ]
 }
