@@ -223,6 +223,7 @@
     .contact-form textarea { min-height: 140px; resize: vertical; }
     .btn-submit { background: var(--red); border: none; color: white; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: .18em; text-transform: uppercase; padding: 14px 32px; cursor: pointer; align-self: flex-start; transition: background .2s; }
     .btn-submit:hover { background: var(--red-dark); }
+    .form-success { display: none; background: var(--ink); border: 1px solid var(--gold); color: var(--gold); font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: .1em; padding: 16px 20px; margin-top: 8px; }
 
     /* ── FOOTER ── */
     footer { border-top: 1px solid var(--border); margin-top: 60px; padding: 24px 32px; display: flex; justify-content: space-between; align-items: center; }
@@ -254,6 +255,14 @@
   </style>
 </head>
 <body>
+
+<!-- ── NETLIFY FORM DETECTION (hidden) ── -->
+<form name="contact" netlify netlify-honeypot="bot-field" hidden>
+  <input type="text" name="name" />
+  <input type="email" name="email" />
+  <input type="text" name="subject" />
+  <textarea name="message"></textarea>
+</form>
 
 <header id="masthead">
   <div class="masthead-top">
@@ -311,7 +320,6 @@
   <!-- ── TECH ABUNDANCE TAB ── -->
   <div id="tab-tech" class="tab-panel">
     <div class="last-updated">Last updated: <span id="techLastUpdated">—</span></div>
-
     <div class="tech-banner">
       <div class="tech-banner-left">
         <div class="tech-banner-icon">⚡</div>
@@ -326,7 +334,6 @@
         <div class="tech-badge">Builders Only</div>
       </div>
     </div>
-
     <div id="techFeaturedStory" class="featured-wrapper">
       <div class="featured-image-side"><div class="featured-image-placeholder tech"><div class="globe-icon">⚡</div></div></div>
       <div class="featured-text-side"><div class="loading-state"><div class="spinner tech"></div><p>Loading abundance stories...</p></div></div>
@@ -383,12 +390,12 @@
       </ul>
       <h2>Tech Abundance</h2>
       <ul class="sources-list">
-        <li class="tech">Peter Diamandis / Metatrends</li><li class="tech">Marc Andreessen</li>
+        <li class="tech">Peter Diamandis</li><li class="tech">Marc Andreessen</li>
         <li class="tech">Joe Lonsdale / 8VC</li><li class="tech">Packy McCormick / Not Boring</li>
         <li class="tech">Mike Solana / Pirate Wires</li><li class="tech">a16z</li>
-        <li class="tech">David Sacks / Bottom Up</li><li class="tech">Nic Carter / Murmurations</li>
+        <li class="tech">David Sacks / Bottom Up</li><li class="tech">Nic Carter / Murmurations II</li>
         <li class="tech">Bitcoin Magazine</li><li class="tech">Balaji Srinivasan</li>
-        <li class="tech">Techno-Optimist (Owen Lewis)</li><li class="tech">&nbsp;</li>
+        <li class="tech">The Dispatch</li><li class="tech">&nbsp;</li>
       </ul>
       <h2>Podcasts</h2>
       <ul class="sources-list">
@@ -414,13 +421,14 @@
       <h1>Contact</h1>
       <div class="rule"></div>
       <p>Questions, source suggestions, or feedback? Use the form below.</p>
-      <div class="contact-form">
-        <input type="text" placeholder="Your name" />
-        <input type="email" placeholder="Your email" />
-        <input type="text" placeholder="Subject" />
-        <textarea placeholder="Your message..."></textarea>
+      <div class="contact-form" id="contactForm">
+        <input type="text" id="cf-name" placeholder="Your name" />
+        <input type="email" id="cf-email" placeholder="Your email" />
+        <input type="text" id="cf-subject" placeholder="Subject" />
+        <textarea id="cf-message" placeholder="Your message..."></textarea>
         <button class="btn-submit" onclick="handleContact()">Send Message</button>
       </div>
+      <div class="form-success" id="formSuccess">✓ &nbsp; Message received. We'll be in touch.</div>
     </div>
   </div>
 
@@ -446,7 +454,32 @@
     gtag('event', 'tab_view', { tab_name: name });
   }
 
-  function handleContact() { alert('Thank you. We will be in touch.'); }
+  async function handleContact() {
+    const name    = document.getElementById('cf-name').value.trim();
+    const email   = document.getElementById('cf-email').value.trim();
+    const subject = document.getElementById('cf-subject').value.trim();
+    const message = document.getElementById('cf-message').value.trim();
+    if (!name || !email || !message) { alert('Please fill in your name, email, and message.'); return; }
+    const btn = document.querySelector('.btn-submit');
+    btn.textContent = 'Sending...';
+    btn.disabled = true;
+    try {
+      const body = new URLSearchParams({ 'form-name': 'contact', name, email, subject, message });
+      const res = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: body.toString() });
+      if (res.ok) {
+        document.getElementById('contactForm').style.display = 'none';
+        const s = document.getElementById('formSuccess');
+        s.style.display = 'block';
+        gtag('event', 'contact_form_submit');
+      } else {
+        throw new Error('Network response was not ok');
+      }
+    } catch(e) {
+      btn.textContent = 'Send Message';
+      btn.disabled = false;
+      alert('Something went wrong. Please try again or email contact@globalpolitics360.com directly.');
+    }
+  }
 
   function esc(s) {
     if (!s) return '';
