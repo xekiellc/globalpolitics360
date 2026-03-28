@@ -12,17 +12,17 @@
     { "name": "Robby Soave / Reason", "type": "rss", "url": "https://reason.com/author/robby-soave/feed/", "category": "news", "active": true }
   ],
   "techSources": [
-    { "name": "Peter Diamandis / Metatrends", "type": "rss", "url": "https://metatrends.substack.com/feed", "active": true },
+    { "name": "Peter Diamandis", "type": "rss", "url": "https://www.diamandis.com/blog/rss.xml", "active": true },
     { "name": "Marc Andreessen", "type": "rss", "url": "https://pmarca.substack.com/feed", "active": true },
     { "name": "Joe Lonsdale / 8VC", "type": "rss", "url": "https://blog.joelonsdale.com/feed", "active": true },
     { "name": "Not Boring (Packy McCormick)", "type": "rss", "url": "https://www.notboring.co/feed", "active": true },
-    { "name": "Pirate Wires (Mike Solana)", "type": "rss", "url": "https://www.piratewires.com/feed", "active": true },
+    { "name": "Pirate Wires (Mike Solana)", "type": "rss", "url": "https://solana.substack.com/feed", "active": true },
     { "name": "a16z", "type": "rss", "url": "https://www.a16z.news/feed", "active": true },
     { "name": "David Sacks / Bottom Up", "type": "rss", "url": "https://sacks.substack.com/feed", "active": true },
-    { "name": "Nic Carter / Murmurations", "type": "rss", "url": "https://niccarter1.substack.com/feed", "active": true },
+    { "name": "Nic Carter / Murmurations II", "type": "rss", "url": "https://murmurationstwo.substack.com/feed", "active": true },
     { "name": "Bitcoin Magazine", "type": "rss", "url": "https://bitcoinmagazine.com/feed", "active": true },
     { "name": "Balaji Srinivasan", "type": "rss", "url": "https://balajis.com/feed", "active": true },
-    { "name": "Techno-Optimist (Owen Lewis)", "type": "rss", "url": "https://technooptimist1.substack.com/feed", "active": true }
+    { "name": "The Dispatch (technology)", "type": "rss", "url": "https://thedispatch.com/feed/", "active": true }
   ],
   "podcastSources": [
     { "name": "The Joe Rogan Experience", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/GLT1412515089", "active": true },
