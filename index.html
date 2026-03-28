@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GLOBAL POLITICS 360</title>
+  <meta name="description" content="Independent journalism. Unfiltered perspectives. Curated from the writers and podcasters who challenge the narrative." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌐</text></svg>" />
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SP3ELDRLNH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-SP3ELDRLNH');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --black: #0a0a0a;
+      --ink: #111111;
+      --paper: #f4f0e8;
+      --red: #c8102e;
+      --red-dark: #9a0c22;
+      --gold: #b8922a;
+      --gray: #555555;
+      --light-gray: #aaaaaa;
+      --border: #2a2a2a;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { background: var(--black); color: var(--paper); font-family: 'Libre Baskerville', Georgia, serif; min-height: 100vh; overflow-x: hidden; }
+
+    /* MASTHEAD */
+    #masthead { background: var(--black); border-bottom: 3px solid var(--red); position: sticky; top: 0; z-index: 100; }
+    .masthead-top { display: flex; align-items: center; justify-content: space-between; padding: 10px 32px 6px; border-bottom: 1px solid var(--border); }
+    .masthead-date { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--light-gray); letter-spacing: .05em; text-transform: uppercase; }
+    .masthead-tagline { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--gold); letter-spacing: .12em; text-transform: uppercase; }
+    .masthead-title-row { text-align: center; padding: 12px 32px 10px; }
+    .site-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(42px,7vw,88px); letter-spacing: .06em; color: var(--paper); line-height: 1; }
+    .site-title span { color: var(--red); }
+    .title-rule { display: flex; align-items: center; gap: 12px; margin: 6px auto 0; max-width: 600px; }
+    .title-rule hr { flex: 1; border: none; border-top: 1px solid var(--gold); }
+    .title-rule .diamond { color: var(--gold); font-size: 8px; }
+
+    /* NAV */
+    nav { display: flex; justify-content: center; padding: 0 32px; background: var(--ink); flex-wrap: wrap; }
+    nav button { background: none; border: none; color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; padding: 10px 18px; cursor: pointer; border-bottom: 2px solid transparent; transition: color .2s, border-color .2s; }
+    nav button:hover { color: var(--paper); }
+    nav button.active { color: var(--red); border-bottom-color: var(--red); }
+
+    /* TICKER */
+    .ticker-wrap { background: var(--red); overflow: hidden; padding: 5px 0; white-space: nowrap; }
+    .ticker-label { display: inline-block; background: var(--black); color: var(--red); font-family: 'IBM Plex Mono', monospace; font-size: 10px; font-weight: 500; letter-spacing: .1em; text-transform: uppercase; padding: 0 14px; margin-right: 16px; }
+    .ticker-inner { display: inline-block; animation: ticker 50s linear infinite; }
+    .ticker-inner span { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--paper); letter-spacing: .06em; margin-right: 60px; }
+    @keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+
+    /* MAIN */
+    main { max-width: 1280px; margin: 0 auto; padding: 32px 24px; }
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    /* FEATURED */
+    .featured-wrapper { margin-bottom: 36px; border: 1px solid var(--border); display: grid; grid-template-columns: 1fr 1fr; min-height: 340px; background: var(--ink); }
+    .featured-image-side { position: relative; overflow: hidden; background: var(--border); min-height: 280px; }
+    .featured-image-side img { width: 100%; height: 100%; object-fit: cover; opacity: .75; transition: opacity .3s; }
+    .featured-image-side:hover img { opacity: .9; }
+    .featured-image-placeholder { width: 100%; height: 100%; background: linear-gradient(135deg,#1a1a1a,#2a2020,#1a1a1a); display: flex; align-items: center; justify-content: center; }
+    .globe-icon { font-size: 80px; opacity: .15; }
+    .featured-text-side { padding: 32px 36px; display: flex; flex-direction: column; justify-content: center; border-left: 1px solid var(--border); }
+    .featured-label { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .18em; text-transform: uppercase; color: var(--red); margin-bottom: 14px; display: flex; align-items: center; gap: 10px; }
+    .featured-label::before { content: ''; display: inline-block; width: 24px; height: 2px; background: var(--red); }
+    .featured-headline { font-family: 'Bebas Neue', sans-serif; font-size: clamp(28px,3.5vw,46px); line-height: 1.05; color: var(--paper); margin-bottom: 16px; }
+    .featured-headline a { color: inherit; text-decoration: none; transition: color .2s; }
+    .featured-headline a:hover { color: var(--gold); }
+    .featured-teaser { font-size: 15px; line-height: 1.65; color: #c8c0b0; margin-bottom: 20px; font-style: italic; }
+    .featured-meta { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--light-gray); letter-spacing: .08em; text-transform: uppercase; }
+    .featured-meta .source-name { color: var(--gold); }
+
+    /* LOADING / EMPTY */
+    .loading-state { text-align: center; padding: 80px 20px; color: var(--light-gray); }
+    .loading-state .spinner { width: 32px; height: 32px; border: 2px solid var(--border); border-top-color: var(--red); border-radius: 50%; animation: spin .8s linear infinite; margin: 0 auto 20px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .loading-state p { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; }
+    .empty-state { text-align: center; padding: 60px 20px; border: 1px solid var(--border); background: var(--ink); }
+    .empty-state p { font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--light-gray); letter-spacing: .08em; }
+
+    /* SECTION HEADER */
+    .section-header { display: flex; align-items: center; gap: 16px; margin: 36px 0 20px; }
+    .section-header h2 { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--gold); white-space: nowrap; }
+    .section-header hr { flex: 1; border: none; border-top: 1px solid var(--border); }
+
+    /* ARTICLES GRID */
+    .articles-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); margin-bottom: 36px; }
+    .article-card { background: var(--ink); padding: 20px 22px; transition: background .2s; }
+    .article-card:hover { background: #1a1a1a; }
+    .article-source { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .15em; text-transform: uppercase; color: var(--gold); margin-bottom: 8px; }
+    .article-headline { font-size: 14px; font-weight: 700; line-height: 1.4; margin-bottom: 8px; }
+    .article-headline a { color: var(--paper); text-decoration: none; transition: color .15s; }
+    .article-headline a:hover { color: var(--gold); }
+    .article-teaser { font-size: 12px; line-height: 1.55; color: #999; font-style: italic; margin-bottom: 10px; }
+    .article-date { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gray); letter-spacing: .06em; }
+
+    /* LINK LIST */
+    .link-list { display: grid; grid-template-columns: repeat(3,1fr); border: 1px solid var(--border); }
+    .link-col { padding: 0 0 16px; border-right: 1px solid var(--border); }
+    .link-col:last-child { border-right: none; }
+    .link-col-header { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .18em; text-transform: uppercase; color: var(--black); background: var(--gold); padding: 7px 16px; margin-bottom: 12px; }
+    .link-item { display: block; padding: 5px 16px; font-size: 13px; line-height: 1.4; color: var(--paper); text-decoration: none; border-left: 2px solid transparent; transition: border-color .15s, color .15s, background .15s; }
+    .link-item:hover { color: var(--gold); border-left-color: var(--red); background: rgba(200,16,46,.06); }
+    .link-item .link-source { display: block; font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gray); letter-spacing: .08em; text-transform: uppercase; margin-top: 2px; }
+
+    /* LAST UPDATED */
+    .last-updated { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--gray); letter-spacing: .06em; text-align: right; margin-bottom: 16px; }
+    .last-updated span { color: var(--light-gray); }
+
+    /* PODCASTS */
+    .podcast-show-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+    .filter-btn { background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .12em; text-transform: uppercase; padding: 6px 14px; cursor: pointer; transition: all .2s; }
+    .filter-btn:hover, .filter-btn.active { background: var(--red); border-color: var(--red); color: white; }
+    .podcast-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(320px,1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); margin-bottom: 36px; }
+    .podcast-card { background: var(--ink); display: flex; gap: 16px; padding: 18px 20px; transition: background .2s; }
+    .podcast-card:hover { background: #181818; }
+    .podcast-thumb { width: 80px; height: 80px; flex-shrink: 0; background: var(--border); overflow: hidden; }
+    .podcast-thumb img { width: 100%; height: 100%; object-fit: cover; }
+    .podcast-thumb-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg,#1a1a1a,#222); font-size: 28px; opacity: .5; }
+    .podcast-info { flex: 1; min-width: 0; }
+    .podcast-show-name { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .15em; text-transform: uppercase; color: var(--gold); margin-bottom: 6px; }
+    .podcast-ep-title { font-size: 13px; font-weight: 700; line-height: 1.35; margin-bottom: 6px; }
+    .podcast-ep-title a { color: var(--paper); text-decoration: none; }
+    .podcast-ep-title a:hover { color: var(--gold); }
+    .podcast-meta { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gray); letter-spacing: .06em; margin-bottom: 8px; }
+    .podcast-listen-btn { display: inline-block; background: var(--red); color: white; font-family: 'IBM Plex Mono', monospace; font-size: 8px; letter-spacing: .14em; text-transform: uppercase; padding: 5px 10px; text-decoration: none; transition: background .15s; }
+    .podcast-listen-btn:hover { background: var(--red-dark); }
+
+    /* PODCAST ARCHIVE */
+    .podcast-archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
+    .archive-ep-item { display: grid; grid-template-columns: 120px 60px 1fr auto; align-items: center; gap: 16px; background: var(--ink); padding: 12px 20px; transition: background .15s; }
+    .archive-ep-item:hover { background: #181818; }
+    .archive-ep-date { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--light-gray); letter-spacing: .06em; }
+    .archive-ep-thumb { width: 48px; height: 48px; object-fit: cover; background: var(--border); }
+    .archive-ep-title { font-size: 13px; font-weight: 700; line-height: 1.3; }
+    .archive-ep-title a { color: var(--paper); text-decoration: none; }
+    .archive-ep-title a:hover { color: var(--gold); }
+    .archive-ep-show { display: block; font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gold); letter-spacing: .08em; text-transform: uppercase; margin-top: 3px; }
+    .archive-ep-link { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--red); letter-spacing: .1em; text-transform: uppercase; text-decoration: none; white-space: nowrap; }
+    .archive-ep-link:hover { color: var(--gold); }
+
+    /* NEWS ARCHIVE */
+    .archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
+    .archive-item { display: grid; grid-template-columns: 130px 1fr auto; align-items: center; gap: 20px; background: var(--ink); padding: 14px 20px; transition: background .15s; text-decoration: none; color: var(--paper); }
+    .archive-item:hover { background: #181818; }
+    .archive-date { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--light-gray); letter-spacing: .08em; }
+    .archive-title { font-size: 14px; font-weight: 700; }
+    .archive-source { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gold); letter-spacing: .1em; text-transform: uppercase; white-space: nowrap; }
+
+    /* ABOUT / CONTACT */
+    .prose-page { max-width: 720px; margin: 0 auto; }
+    .prose-page h1 { font-family: 'Bebas Neue', sans-serif; font-size: 48px; letter-spacing: .04em; color: var(--paper); margin-bottom: 6px; }
+    .prose-page .rule { width: 60px; height: 3px; background: var(--red); margin-bottom: 28px; }
+    .prose-page p { font-size: 16px; line-height: 1.8; color: #c8c0b0; margin-bottom: 20px; }
+    .prose-page h2 { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--gold); margin: 36px 0 14px; }
+    .sources-list { list-style: none; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .sources-list li { font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--paper); padding: 8px 12px; background: var(--ink); border-left: 2px solid var(--gold); }
+    .contact-form { display: flex; flex-direction: column; gap: 16px; margin-top: 20px; }
+    .contact-form input, .contact-form textarea { background: var(--ink); border: 1px solid var(--border); color: var(--paper); font-family: 'Libre Baskerville', serif; font-size: 14px; padding: 12px 16px; outline: none; transition: border-color .2s; width: 100%; }
+    .contact-form input:focus, .contact-form textarea:focus { border-color: var(--gold); }
+    .contact-form textarea { min-height: 140px; resize: vertical; }
+    .btn-submit { background: var(--red); border: none; color: white; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: .18em; text-transform: uppercase; padding: 14px 32px; cursor: pointer; align-self: flex-start; transition: background .2s; }
+    .btn-submit:hover { background: var(--red-dark); }
+
+    /* FOOTER */
+    footer { border-top: 1px solid var(--border); margin-top: 60px; padding: 24px 32px; display: flex; justify-content: space-between; align-items: center; }
+    .footer-brand { font-family: 'Bebas Neue', sans-serif; font-size: 18px; letter-spacing: .1em; color: var(--gray); }
+    .footer-brand span { color: var(--red); }
+    .footer-copy { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--gray); letter-spacing: .06em; }
+
+    /* RESPONSIVE */
+    @media (max-width: 900px) {
+      .featured-wrapper { grid-template-columns: 1fr; }
+      .featured-image-side { min-height: 200px; }
+      .featured-text-side { border-left: none; border-top: 1px solid var(--border); }
+      .articles-grid { grid-template-columns: 1fr 1fr; }
+      .link-list { grid-template-columns: 1fr; }
+      .link-col { border-right: none; border-bottom: 1px solid var(--border); }
+      .sources-list { grid-template-columns: 1fr; }
+      .archive-ep-item { grid-template-columns: 1fr; gap: 6px; }
+      .archive-ep-thumb { display: none; }
+    }
+    @media (max-width: 600px) {
+      .masthead-top { flex-direction: column; gap: 4px; text-align: center; }
+      nav button { padding: 8px 12px; font-size: 10px; }
+      .articles-grid { grid-template-columns: 1fr; }
+      .archive-item { grid-template-columns: 1fr; gap: 4px; }
+      footer { flex-direction: column; gap: 10px; text-align: center; }
+      .podcast-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header id="masthead">
+  <div class="masthead-top">
+    <div class="masthead-date" id="currentDate">Loading...</div>
+    <div class="masthead-tagline">Independent Voices ◆ Unfiltered Perspectives</div>
+  </div>
+  <div class="masthead-title-row">
+    <div class="site-title">GLOBAL POLITICS <span>360</span></div>
+    <div class="title-rule"><hr /><span class="diamond">◆</span><hr /></div>
+  </div>
+  <nav>
+    <button class="active" onclick="showTab('news',this)">News</button>
+    <button onclick="showTab('archive',this)">Archive</button>
+    <button onclick="showTab('podcasts',this)">Podcasts</button>
+    <button onclick="showTab('podcast-archive',this)">Podcast Archive</button>
+    <button onclick="showTab('about',this)">About</button>
+    <button onclick="showTab('contact',this)">Contact</button>
+  </nav>
+</header>
+
+<div class="ticker-wrap">
+  <span class="ticker-label">GP360</span>
+  <div class="ticker-inner" id="tickerInner">
+    <span>Greenwald ◆ Shellenberger ◆ Weiss ◆ Taibbi ◆ Fang ◆ Ngo ◆ Rogan ◆ Fridman ◆ Huberman ◆ Peterson ◆ All-In ◆ Shawn Ryan ◆ Theo Von ◆ Kill Tony ◆ Dave Smith ◆ Independent Voices ◆ Unfiltered Perspectives ◆ Greenwald ◆ Shellenberger ◆ Weiss ◆ Taibbi ◆ Fang ◆ Ngo ◆ Rogan ◆ Fridman ◆ Huberman ◆ Peterson ◆ All-In ◆ Shawn Ryan ◆ Theo Von ◆ Kill Tony ◆ Dave Smith ◆ Independent Voices ◆ Unfiltered Perspectives ◆</span>
+  </div>
+</div>
+
+<main>
+
+  <!-- NEWS TAB -->
+  <div id="tab-news" class="tab-panel active">
+    <div class="last-updated">Last updated: <span id="lastUpdated">—</span></div>
+    <div id="featuredStory" class="featured-wrapper">
+      <div class="featured-image-side"><div class="featured-image-placeholder"><div class="globe-icon">🌐</div></div></div>
+      <div class="featured-text-side"><div class="loading-state"><div class="spinner"></div><p>Loading latest stories...</p></div></div>
+    </div>
+    <div class="section-header"><h2>Top Stories</h2><hr /></div>
+    <div id="articlesGrid" class="articles-grid"></div>
+    <div class="section-header"><h2>More From The Desk</h2><hr /></div>
+    <div id="linkList" class="link-list">
+      <div class="link-col"><div class="link-col-header">Dispatches</div></div>
+      <div class="link-col"><div class="link-col-header">Investigations</div></div>
+      <div class="link-col"><div class="link-col-header">Analysis</div></div>
+    </div>
+  </div>
+
+  <!-- NEWS ARCHIVE TAB -->
+  <div id="tab-archive" class="tab-panel">
+    <div class="section-header"><h2>Article Archive</h2><hr /></div>
+    <div id="archiveList" class="archive-list">
+      <div class="empty-state"><p>Archive loads after first refresh cycle.</p></div>
+    </div>
+  </div>
+
+  <!-- PODCASTS TAB -->
+  <div id="tab-podcasts" class="tab-panel">
+    <div class="last-updated">Last updated: <span id="podLastUpdated">—</span></div>
+    <div class="section-header"><h2>Latest Episodes</h2><hr /></div>
+    <div class="podcast-show-filter" id="showFilter">
+      <button class="filter-btn active" onclick="filterPodcasts('all',this)">All Shows</button>
+    </div>
+    <div id="podcastGrid" class="podcast-grid">
+      <div class="empty-state" style="grid-column:1/-1"><div class="loading-state"><div class="spinner"></div><p>Loading episodes...</p></div></div>
+    </div>
+  </div>
+
+  <!-- PODCAST ARCHIVE TAB -->
+  <div id="tab-podcast-archive" class="tab-panel">
+    <div class="section-header"><h2>Podcast Archive</h2><hr /></div>
+    <div style="margin-bottom:16px;">
+      <input type="text" id="archiveSearch" placeholder="Search episodes by title or show..." oninput="filterArchive()"
+        style="background:var(--ink);border:1px solid var(--border);color:var(--paper);font-family:'IBM Plex Mono',monospace;font-size:12px;padding:10px 16px;width:100%;max-width:500px;outline:none;" />
+    </div>
+    <div id="podcastArchiveList" class="podcast-archive-list">
+      <div class="empty-state"><p>Podcast archive loads after first refresh cycle.</p></div>
+    </div>
+  </div>
+
+  <!-- ABOUT TAB -->
+  <div id="tab-about" class="tab-panel">
+    <div class="prose-page">
+      <h1>About GP360</h1>
+      <div class="rule"></div>
+      <p>Global Politics 360 is an independent news and podcast aggregator dedicated to voices that challenge mainstream narratives. We curate articles, investigations, analysis, and podcast episodes from a hand-selected list of journalists, commentators, and podcasters — updated every three hours.</p>
+      <p>This site does not produce original reporting. We surface and organize content so you can stay informed without the noise.</p>
+      <h2>Journalists & Writers</h2>
+      <ul class="sources-list">
+        <li>Glenn Greenwald</li><li>Michael Shellenberger</li>
+        <li>Bari Weiss / The Free Press</li><li>Matt Taibbi / Racket News</li>
+        <li>Lee Fang</li><li>Andy Ngo</li>
+      </ul>
+      <h2>Podcasts</h2>
+      <ul class="sources-list">
+        <li>Joe Rogan</li><li>Shawn Ryan</li>
+        <li>Lex Fridman</li><li>All-In Podcast</li>
+        <li>Theo Von</li><li>Jordan Peterson</li>
+        <li>Andrew Huberman</li><li>Kill Tony</li>
+        <li>Dave Smith</li><li>John Kiriakou</li>
+        <li>Natalie Brunell</li><li>Emily Jashinsky</li>
+        <li>Martin Shkreli</li><li>Danny Jones</li>
+      </ul>
+      <h2>How It Works</h2>
+      <p>Every three hours, an automated system fetches articles and podcast episodes from curated RSS feeds. An AI model writes a one-sentence teaser for each news article. New podcast episodes appear immediately; older episodes roll into the Podcast Archive automatically.</p>
+      <p>To suggest a source, use the Contact form.</p>
+    </div>
+  </div>
+
+  <!-- CONTACT TAB -->
+  <div id="tab-contact" class="tab-panel">
+    <div class="prose-page">
+      <h1>Contact</h1>
+      <div class="rule"></div>
+      <p>Questions, source suggestions, or feedback? Use the form below.</p>
+      <div class="contact-form">
+        <input type="text" placeholder="Your name" />
+        <input type="email" placeholder="Your email" />
+        <input type="text" placeholder="Subject" />
+        <textarea placeholder="Your message..."></textarea>
+        <button class="btn-submit" onclick="handleContact()">Send Message</button>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <div class="footer-brand">GLOBAL POLITICS <span>360</span></div>
+  <div class="footer-copy">© 2026 globalpolitics360.com — All rights reserved</div>
+</footer>
+
+<script>
+  document.getElementById('currentDate').textContent = new Date().toLocaleDateString('en-US',
+    { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+
+  function showTab(name, btn) {
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+    document.getElementById('tab-' + name).classList.add('active');
+    if (btn) btn.classList.add('active');
+    gtag('event', 'tab_view', { tab_name: name });
+  }
+
+  function handleContact() { alert('Thank you. We will be in touch.'); }
+
+  function esc(s) {
+    if (!s) return '';
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+  function fmtDate(s) {
+    if (!s) return '';
+    try { return new Date(s).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); } catch { return s; }
+  }
+  function fmtDuration(s) {
+    if (!s) return '';
+    if (/^\d+$/.test(s)) {
+      const t = parseInt(s), h = Math.floor(t/3600), m = Math.floor((t%3600)/60);
+      return h ? `${h}h ${m}m` : `${m}m`;
+    }
+    return s;
+  }
+
+  async function loadArticles() {
+    try {
+      const res = await fetch('articles.json?t=' + Date.now());
+      if (!res.ok) throw new Error('no data');
+      const data = await res.json();
+      if (data.lastUpdated) document.getElementById('lastUpdated').textContent =
+        new Date(data.lastUpdated).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'});
+      const arts = data.articles || [];
+      if (!arts.length) return;
+      const ticker = arts.slice(0,8).map(a=>a.title).join(' ◆ ');
+      document.getElementById('tickerInner').innerHTML = `<span>${ticker} ◆ ${ticker} ◆ </span>`;
+      renderFeatured(arts[0]);
+      renderGrid(arts.slice(1,7));
+      renderLinks(arts.slice(7));
+      renderNewsArchive(arts);
+    } catch(e) { console.log('Articles not ready yet'); }
+  }
+
+  function renderFeatured(a) {
+    document.getElementById('featuredStory').innerHTML = `
+      <div class="featured-image-side">
+        ${a.image ? `<img src="${esc(a.image)}" alt="" loading="lazy">` : `<div class="featured-image-placeholder"><div class="globe-icon">🌐</div></div>`}
+      </div>
+      <div class="featured-text-side">
+        <div class="featured-label">Featured Story</div>
+        <div class="featured-headline"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+        <div class="featured-teaser">${esc(a.teaser)}</div>
+        <div class="featured-meta"><span class="source-name">${esc(a.source)}</span> &nbsp;·&nbsp; ${fmtDate(a.date)}</div>
+      </div>`;
+  }
+
+  function renderGrid(arts) {
+    const el = document.getElementById('articlesGrid');
+    if (!arts.length) { el.innerHTML='<div class="empty-state" style="grid-column:1/-1"><p>More stories loading...</p></div>'; return; }
+    el.innerHTML = arts.map(a=>`
+      <div class="article-card">
+        <div class="article-source">${esc(a.source)}</div>
+        <div class="article-headline"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+        <div class="article-teaser">${esc(a.teaser)}</div>
+        <div class="article-date">${fmtDate(a.date)}</div>
+      </div>`).join('');
+  }
+
+  function renderLinks(arts) {
+    const cols = document.querySelectorAll('#linkList .link-col');
+    const thirds = [[],[],[]];
+    arts.forEach((a,i) => thirds[i%3].push(a));
+    thirds.forEach((grp,ci) => {
+      const hdr = cols[ci].querySelector('.link-col-header').outerHTML;
+      cols[ci].innerHTML = hdr + grp.map(a=>`
+        <a class="link-item" href="${esc(a.url)}" target="_blank" rel="noopener">
+          ${esc(a.title)}
+          <span class="link-source">${esc(a.source)} · ${fmtDate(a.date)}</span>
+        </a>`).join('');
+    });
+  }
+
+  function renderNewsArchive(arts) {
+    const el = document.getElementById('archiveList');
+    if (!arts.length) return;
+    el.innerHTML = arts.map(a=>`
+      <a class="archive-item" href="${esc(a.url)}" target="_blank" rel="noopener">
+        <div class="archive-date">${fmtDate(a.date)}</div>
+        <div class="archive-title">${esc(a.title)}</div>
+        <div class="archive-source">${esc(a.source)}</div>
+      </a>`).join('');
+  }
+
+  let allPodcastEpisodes = [];
+  let allArchiveEpisodes = [];
+
+  async function loadPodcasts() {
+    try {
+      const res = await fetch('podcasts.json?t=' + Date.now());
+      if (!res.ok) throw new Error('no data');
+      const data = await res.json();
+      if (data.lastUpdated) document.getElementById('podLastUpdated').textContent =
+        new Date(data.lastUpdated).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'});
+      allPodcastEpisodes = data.latest || [];
+      allArchiveEpisodes = data.archive || [];
+      buildShowFilters(allPodcastEpisodes);
+      renderPodcasts(allPodcastEpisodes);
+      renderPodcastArchive(allArchiveEpisodes);
+    } catch(e) { console.log('Podcasts not ready yet'); }
+  }
+
+  function buildShowFilters(eps) {
+    const shows = [...new Set(eps.map(e=>e.show))].sort();
+    document.getElementById('showFilter').innerHTML =
+      `<button class="filter-btn active" onclick="filterPodcasts('all',this)">All Shows</button>` +
+      shows.map(s=>`<button class="filter-btn" onclick="filterPodcasts(${JSON.stringify(s)},this)">${esc(s)}</button>`).join('');
+  }
+
+  function filterPodcasts(show, btn) {
+    document.querySelectorAll('#showFilter .filter-btn').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    renderPodcasts(show==='all' ? allPodcastEpisodes : allPodcastEpisodes.filter(e=>e.show===show));
+  }
+
+  function renderPodcasts(eps) {
+    const el = document.getElementById('podcastGrid');
+    if (!eps.length) { el.innerHTML='<div class="empty-state" style="grid-column:1/-1"><p>No episodes yet. Check back after first refresh.</p></div>'; return; }
+    el.innerHTML = eps.map(e=>`
+      <div class="podcast-card">
+        <div class="podcast-thumb">
+          ${e.image ? `<img src="${esc(e.image)}" alt="" loading="lazy">` : `<div class="podcast-thumb-placeholder">🎙️</div>`}
+        </div>
+        <div class="podcast-info">
+          <div class="podcast-show-name">${esc(e.show)}</div>
+          <div class="podcast-ep-title"><a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>
+          <div class="podcast-meta">${fmtDate(e.date)}${e.duration?' · '+fmtDuration(e.duration):''}</div>
+          <a class="podcast-listen-btn" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">▶ Listen</a>
+        </div>
+      </div>`).join('');
+  }
+
+  function renderPodcastArchive(eps) {
+    const el = document.getElementById('podcastArchiveList');
+    if (!eps.length) return;
+    el.innerHTML = eps.map(e=>`
+      <div class="archive-ep-item" data-show="${esc(e.show)}" data-title="${esc(e.title)}">
+        <div class="archive-ep-date">${fmtDate(e.date)}</div>
+        ${e.image?`<img class="archive-ep-thumb" src="${esc(e.image)}" alt="" loading="lazy">`:'<div class="archive-ep-thumb" style="background:var(--border);display:flex;align-items:center;justify-content:center;">🎙️</div>'}
+        <div class="archive-ep-title">
+          <a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a>
+          <span class="archive-ep-show">${esc(e.show)}</span>
+        </div>
+        <a class="archive-ep-link" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">Listen →</a>
+      </div>`).join('');
+  }
+
+  function filterArchive() {
+    const q = document.getElementById('archiveSearch').value.toLowerCase();
+    document.querySelectorAll('#podcastArchiveList .archive-ep-item').forEach(row => {
+      const match = !q || row.dataset.show.toLowerCase().includes(q) || row.dataset.title.toLowerCase().includes(q);
+      row.style.display = match ? '' : 'none';
+    });
+  }
+
+  loadArticles();
+  loadPodcasts();
+</script>
+</body>
+</html>
