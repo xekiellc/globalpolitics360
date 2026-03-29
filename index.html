@@ -4,8 +4,22 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>GLOBAL POLITICS 360</title>
-  <meta name="description" content="Independent journalism. Unfiltered perspectives. Curated from the writers and podcasters who challenge the narrative." />
+  <meta name="description" content="Independent voices. Unfiltered perspectives. AI-curated news and podcasts from the journalists and podcasters who challenge the narrative." />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌐</text></svg>" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://globalpolitics360.com/" />
+  <meta property="og:title" content="Global Politics 360" />
+  <meta property="og:description" content="Independent voices. Unfiltered perspectives. AI-curated news and podcasts from the journalists and podcasters who challenge the narrative." />
+  <meta property="og:image" content="https://globalpolitics360.com/og-image.svg" />
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="https://globalpolitics360.com/" />
+  <meta name="twitter:title" content="Global Politics 360" />
+  <meta name="twitter:description" content="Independent voices. Unfiltered perspectives. AI-curated news and podcasts from the journalists and podcasters who challenge the narrative." />
+  <meta name="twitter:image" content="https://globalpolitics360.com/og-image.svg" />
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SP3ELDRLNH"></script>
   <script>
@@ -499,7 +513,6 @@
     return s;
   }
 
-  // ── NEWS ───────────────────────────────────────────────────────────────────
   async function loadArticles() {
     try {
       const res = await fetch('articles.json?t=' + Date.now());
@@ -518,7 +531,6 @@
     } catch(e) { console.log('Articles not ready'); }
   }
 
-  // ── TECH ABUNDANCE ─────────────────────────────────────────────────────────
   async function loadTech() {
     try {
       const res = await fetch('tech.json?t=' + Date.now());
@@ -595,7 +607,6 @@
       </a>`).join('');
   }
 
-  // ── PODCASTS ───────────────────────────────────────────────────────────────
   let allLatestEps   = [];
   let allArchiveEps  = [];
   let guestIndex     = {};
@@ -723,7 +734,6 @@
   function filterArchive()  { archiveShowing = 50; renderArchive(); }
   function loadMoreArchive() { archiveShowing += 50; renderArchive(); }
 
-  // ── BOOT ───────────────────────────────────────────────────────────────────
   loadArticles();
   loadTech();
   loadPodcasts();
