@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-03-30T12:06:01.028Z",
+  "lastUpdated": "2026-03-30T18:07:59.932Z",
   "showCount": 12,
   "episodeCount": 7,
   "archiveCount": 7,
   "taggedCount": 382,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "The Hawks Are Not Sending Their Best",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/ab178e2b-5bbb-4751-9e83-0213eb65ef96.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/ab178e2b-5bbb-4751-9e83-0213eb65ef96.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-03-30T13:30:00.000Z",
+      "duration": "01:08:13",
+      "image": "https://content.production.cdn.art19.com/images/e7/f5/5b/9a/e7f55b9a-abf5-407b-8007-3ce78e6603c4/03926698d43c722dff587d8f4f88a672720369c9fea092fbcaf2673a705d67703228ac98d36911370c1f59a84479a17326851fd312601ddb65400fae1e1f7cae.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss some rebuttals online made to Dave's points on JRE, discussions from Trump and other prominent figures about \"boots on the ground\", and more.Support Our Sponsors:Fast Growing Trees - Use code PROBLEM at http://www.fastgrowingtrees.com to save an additional 20% off your",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
@@ -42,20 +56,6 @@
       "guestTags": [
         "Chamath",
         "David Sacks"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "The War Hawks vs. The Podcasters",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/54b71aa2-29c4-4d73-9ce8-96109869c233.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/54b71aa2-29c4-4d73-9ce8-96109869c233.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-03-24T12:00:00.000Z",
-      "duration": "01:09:37",
-      "image": "https://content.production.cdn.art19.com/images/e3/17/70/42/e3177042-0629-4ae9-9350-699bbcbe36a8/ddd62b6d55c692b1e95747e2c33b447bb8d67a986aff5de11a2a14f8fb625507c5ea681dbf1f88b92cd60461b473a531f1bca905383c95a606e59323a35839c4.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Trump's fumbling of the rollout of the war, discussion of specific target strikes, Jake Tapper pandering to a new audience by taking on a podcast set, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEM20CrowdHealth - https://www.j",
-      "guestTags": [
-        "Dave Smith"
       ]
     },
     {
@@ -99,6 +99,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "The Hawks Are Not Sending Their Best",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/ab178e2b-5bbb-4751-9e83-0213eb65ef96.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/ab178e2b-5bbb-4751-9e83-0213eb65ef96.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-03-30T13:30:00.000Z",
+      "duration": "01:08:13",
+      "image": "https://content.production.cdn.art19.com/images/e7/f5/5b/9a/e7f55b9a-abf5-407b-8007-3ce78e6603c4/03926698d43c722dff587d8f4f88a672720369c9fea092fbcaf2673a705d67703228ac98d36911370c1f59a84479a17326851fd312601ddb65400fae1e1f7cae.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss some rebuttals online made to Dave's points on JRE, discussions from Trump and other prominent figures about \"boots on the ground\", and more.Support Our Sponsors:Fast Growing Trees - Use code PROBLEM at http://www.fastgrowingtrees.com to save an additional 20% off your",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#292 Brett Adcock - Shawn Ryan Meets a Humanoid Robot",
@@ -135,20 +149,6 @@
       "guestTags": [
         "Chamath",
         "David Sacks"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "The War Hawks vs. The Podcasters",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/54b71aa2-29c4-4d73-9ce8-96109869c233.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/54b71aa2-29c4-4d73-9ce8-96109869c233.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-03-24T12:00:00.000Z",
-      "duration": "01:09:37",
-      "image": "https://content.production.cdn.art19.com/images/e3/17/70/42/e3177042-0629-4ae9-9350-699bbcbe36a8/ddd62b6d55c692b1e95747e2c33b447bb8d67a986aff5de11a2a14f8fb625507c5ea681dbf1f88b92cd60461b473a531f1bca905383c95a606e59323a35839c4.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Trump's fumbling of the rollout of the war, discussion of specific target strikes, Jake Tapper pandering to a new audience by taking on a podcast set, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEM20CrowdHealth - https://www.j",
-      "guestTags": [
-        "Dave Smith"
       ]
     },
     {
@@ -191,14 +191,14 @@
     }
   ],
   "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Chamath": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "David Sacks": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Dave Smith": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Jensen Huang": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
