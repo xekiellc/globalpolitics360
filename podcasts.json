@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-03-31T17:16:49.813Z",
+  "lastUpdated": "2026-03-31T20:04:49.127Z",
   "showCount": 15,
   "episodeCount": 7,
   "archiveCount": 7,
   "taggedCount": 610,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "The Government Isn’t Telling You This",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8543169326.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8543169326.mp3",
+      "date": "2026-03-31T17:28:00.000Z",
+      "duration": "1804",
+      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Today, we’re going to break down the signs most people miss before attacks by using real examples from around the world and translating them into what they might look like in everyday life here in the United States.\n\nMars Men: For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars Men at Mengotomars.com \nLearn more about your ad choices. Visit podcastchoice",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -15,18 +27,6 @@
       "duration": "6964",
       "image": "https://megaphone.imgix.net/podcasts/05def176-2cb2-11f1-b9ba-ef6387fb594d/image/54c3b1ee35cf8c054a408c049bb9d3d7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Shanna H. Swan, PhD, is an environmental epidemiologist and author of “Count Down.” She is the director of The Action Science Initiative, a program within the Million Marker Institute, and is featured in the documentary “The Plastic Detox,” now streaming on Netflix.www.netflix.com/title/82074244www.simonandschuster.com/books/Count-Down/Shanna-H-Swan/9781982113674www.mmresearch.orgwww.shannaswan.co",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "Andy Stumpf: Lethality of SEAL Team 6, Hostage Rescue Missions &amp; Getting Shot With an AK-47",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18933188-andy-stumpf-lethality-of-seal-team-6-hostage-rescue-missions-getting-shot-with-an-ak-47.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18933188-andy-stumpf-lethality-of-seal-team-6-hostage-rescue-missions-getting-shot-with-an-ak-47.mp3",
-      "date": "2026-03-31T17:00:00.000Z",
-      "duration": "16024",
-      "image": "https://storage.buzzsprout.com/8zzie1tt42nvffd89fae137pjuiz?.jpg",
-      "desc": "Andy Stumpf spent 17 years as a Navy SEAL, including as a SEAL Team 6 Operator. During a combat deployment in Iraq, he was shot at close range by an AK-47. He returned to the battlefield six months later, and went on to earn 5 Bronze Star Medals with Valor and the Purple Heart before being medically retired in 2013. Post-military, he has set two wingsuit world records, jumping from 36,500 feet and",
       "guestTags": []
     },
     {
@@ -96,6 +96,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "The Government Isn’t Telling You This",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8543169326.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8543169326.mp3",
+      "date": "2026-03-31T17:28:00.000Z",
+      "duration": "1804",
+      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Today, we’re going to break down the signs most people miss before attacks by using real examples from around the world and translating them into what they might look like in everyday life here in the United States.\n\nMars Men: For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars Men at Mengotomars.com \nLearn more about your ad choices. Visit podcastchoice",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2476 - Shanna H. Swan",
@@ -105,18 +117,6 @@
       "duration": "6964",
       "image": "https://megaphone.imgix.net/podcasts/05def176-2cb2-11f1-b9ba-ef6387fb594d/image/54c3b1ee35cf8c054a408c049bb9d3d7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Shanna H. Swan, PhD, is an environmental epidemiologist and author of “Count Down.” She is the director of The Action Science Initiative, a program within the Million Marker Institute, and is featured in the documentary “The Plastic Detox,” now streaming on Netflix.www.netflix.com/title/82074244www.simonandschuster.com/books/Count-Down/Shanna-H-Swan/9781982113674www.mmresearch.orgwww.shannaswan.co",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "Andy Stumpf: Lethality of SEAL Team 6, Hostage Rescue Missions &amp; Getting Shot With an AK-47",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18933188-andy-stumpf-lethality-of-seal-team-6-hostage-rescue-missions-getting-shot-with-an-ak-47.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18933188-andy-stumpf-lethality-of-seal-team-6-hostage-rescue-missions-getting-shot-with-an-ak-47.mp3",
-      "date": "2026-03-31T17:00:00.000Z",
-      "duration": "16024",
-      "image": "https://storage.buzzsprout.com/8zzie1tt42nvffd89fae137pjuiz?.jpg",
-      "desc": "Andy Stumpf spent 17 years as a Navy SEAL, including as a SEAL Team 6 Operator. During a combat deployment in Iraq, he was shot at close range by an AK-47. He returned to the battlefield six months later, and went on to earn 5 Bronze Star Medals with Valor and the Purple Heart before being medically retired in 2013. Post-military, he has set two wingsuit world records, jumping from 36,500 feet and",
       "guestTags": []
     },
     {
