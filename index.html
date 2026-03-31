@@ -6,7 +6,7 @@
   <title>GLOBAL POLITICS 360</title>
   <meta name="description" content="Independent journalism. Unfiltered perspectives. Curated from the writers and podcasters who challenge the narrative." />
 
-  <!-- ── OPEN GRAPH (Facebook, LinkedIn, iMessage) ── -->
+  <!-- ── OPEN GRAPH ── -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://globalpolitics360.com/" />
   <meta property="og:title" content="GLOBAL POLITICS 360" />
@@ -172,8 +172,8 @@
     .archive-load-more { width: 100%; background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; padding: 12px; cursor: pointer; margin-top: 1px; transition: all .2s; }
     .archive-load-more:hover { border-color: var(--gold); color: var(--gold); }
 
-    /* ── PODCAST FILTERS ── */
-    .podcast-show-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; align-items: center; }
+    /* ── PODCAST / VIDEO FILTERS ── */
+    .show-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; align-items: center; }
     .filter-btn { background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .12em; text-transform: uppercase; padding: 6px 14px; cursor: pointer; transition: all .2s; }
     .filter-btn:hover, .filter-btn.active { background: var(--red); border-color: var(--red); color: white; }
     .filter-btn.guest-filter { border-color: var(--gold); }
@@ -198,6 +198,25 @@
     .podcast-listen-btn { display: inline-block; background: var(--red); color: white; font-family: 'IBM Plex Mono', monospace; font-size: 8px; letter-spacing: .14em; text-transform: uppercase; padding: 5px 10px; text-decoration: none; transition: background .15s; }
     .podcast-listen-btn:hover { background: var(--red-dark); }
 
+    /* ── VIDEO GRID ── */
+    .video-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(300px,1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); margin-bottom: 36px; }
+    .video-card { background: var(--ink); transition: background .2s; }
+    .video-card:hover { background: #181818; }
+    .video-thumb-wrap { position: relative; width: 100%; padding-top: 56.25%; overflow: hidden; background: var(--border); }
+    .video-thumb-wrap img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: .85; transition: opacity .2s; }
+    .video-card:hover .video-thumb-wrap img { opacity: 1; }
+    .video-play-icon { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 48px; height: 48px; background: rgba(200,16,46,.85); border-radius: 50%; display: flex; align-items: center; justify-content: center; pointer-events: none; }
+    .video-play-icon::after { content: ''; border-left: 18px solid white; border-top: 11px solid transparent; border-bottom: 11px solid transparent; margin-left: 4px; }
+    .video-info { padding: 14px 16px; }
+    .video-channel { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .15em; text-transform: uppercase; color: var(--gold); margin-bottom: 6px; }
+    .video-title { font-size: 13px; font-weight: 700; line-height: 1.35; margin-bottom: 6px; }
+    .video-title a { color: var(--paper); text-decoration: none; }
+    .video-title a:hover { color: var(--gold); }
+    .video-meta { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--gray); letter-spacing: .06em; margin-bottom: 8px; }
+    .video-guest-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px; }
+    .video-watch-btn { display: inline-block; background: var(--red); color: white; font-family: 'IBM Plex Mono', monospace; font-size: 8px; letter-spacing: .14em; text-transform: uppercase; padding: 5px 10px; text-decoration: none; transition: background .15s; }
+    .video-watch-btn:hover { background: var(--red-dark); }
+
     /* ── ARCHIVE TOGGLE ── */
     .archive-toggle-wrap { text-align: center; margin: 8px 0 0; }
     .archive-toggle-btn { background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .16em; text-transform: uppercase; padding: 12px 32px; cursor: pointer; transition: all .2s; width: 100%; max-width: 400px; }
@@ -209,8 +228,8 @@
     .archive-search-bar { background: var(--ink); border: 1px solid var(--border); color: var(--paper); font-family: 'IBM Plex Mono', monospace; font-size: 12px; padding: 10px 16px; width: 100%; max-width: 500px; outline: none; letter-spacing: .04em; margin-bottom: 16px; transition: border-color .2s; }
     .archive-search-bar:focus { border-color: var(--gold); }
 
-    /* ── ARCHIVE LIST ── */
-    .podcast-archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
+    /* ── ARCHIVE LIST (podcast + video) ── */
+    .archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
     .archive-ep-item { display: grid; grid-template-columns: 110px 56px 1fr auto; align-items: center; gap: 14px; background: var(--ink); padding: 11px 18px; transition: background .15s; }
     .archive-ep-item:hover { background: #181818; }
     .archive-ep-date { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--light-gray); letter-spacing: .06em; }
@@ -223,8 +242,8 @@
     .archive-ep-guest-tags { display: flex; flex-wrap: wrap; gap: 3px; margin-top: 4px; }
     .archive-ep-link { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--red); letter-spacing: .1em; text-transform: uppercase; text-decoration: none; white-space: nowrap; }
     .archive-ep-link:hover { color: var(--gold); }
-    .archive-load-more-pod { width: 100%; background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; padding: 12px; cursor: pointer; margin-top: 1px; transition: all .2s; }
-    .archive-load-more-pod:hover { border-color: var(--gold); color: var(--gold); }
+    .archive-load-more-btn { width: 100%; background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; padding: 12px; cursor: pointer; margin-top: 1px; transition: all .2s; }
+    .archive-load-more-btn:hover { border-color: var(--gold); color: var(--gold); }
 
     /* ── NEWS ARCHIVE ── */
     .news-archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
@@ -269,6 +288,7 @@
       .archive-ep-item { grid-template-columns: 1fr; gap: 6px; }
       .archive-ep-thumb { display: none; }
       .tech-banner { flex-direction: column; align-items: flex-start; }
+      .video-grid { grid-template-columns: 1fr 1fr; }
     }
     @media (max-width: 600px) {
       .masthead-top { flex-direction: column; gap: 4px; text-align: center; }
@@ -277,6 +297,7 @@
       .news-archive-item { grid-template-columns: 1fr; gap: 4px; }
       footer { flex-direction: column; gap: 10px; text-align: center; }
       .podcast-grid { grid-template-columns: 1fr; }
+      .video-grid { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -296,6 +317,7 @@
     <button onclick="showTab('archive',this)">Archive</button>
     <button onclick="showTab('tech',this)">Tech Abundance</button>
     <button onclick="showTab('podcasts',this)">Podcasts</button>
+    <button onclick="showTab('videos',this)">Videos</button>
     <button onclick="showTab('about',this)">About</button>
     <button onclick="showTab('contact',this)">Contact</button>
   </nav>
@@ -375,7 +397,7 @@
   <div id="tab-podcasts" class="tab-panel">
     <div class="last-updated">Last updated: <span id="podLastUpdated">—</span></div>
     <div class="section-header"><h2>Latest Episodes</h2><hr /></div>
-    <div class="podcast-show-filter" id="showFilter">
+    <div class="show-filter" id="showFilter">
       <button class="filter-btn active" onclick="filterPodcasts('all',this)">All</button>
     </div>
     <div id="podcastGrid" class="podcast-grid">
@@ -384,15 +406,40 @@
       </div>
     </div>
     <div class="archive-toggle-wrap">
-      <button class="archive-toggle-btn" id="archiveToggleBtn" onclick="toggleArchive()">▼ &nbsp; Show Podcast Archive</button>
+      <button class="archive-toggle-btn" id="podArchiveToggleBtn" onclick="togglePodArchive()">▼ &nbsp; Show Podcast Archive</button>
     </div>
-    <div class="archive-panel" id="archivePanel">
+    <div class="archive-panel" id="podArchivePanel">
       <div class="section-header" style="margin-top:28px;"><h2>Podcast Archive</h2><hr /></div>
-      <input type="text" class="archive-search-bar" id="archiveSearch" placeholder="Search by episode title, show, or guest name..." oninput="filterArchive()" />
-      <div id="podcastArchiveList" class="podcast-archive-list">
+      <input type="text" class="archive-search-bar" id="podArchiveSearch" placeholder="Search by episode title, show, or guest name..." oninput="filterPodArchive()" />
+      <div id="podcastArchiveList" class="archive-list">
         <div class="empty-state"><p>Archive loads after first refresh cycle.</p></div>
       </div>
-      <button class="archive-load-more-pod" id="archiveLoadMore" onclick="loadMoreArchive()" style="display:none">Load More Episodes ▼</button>
+      <button class="archive-load-more-btn" id="podArchiveLoadMore" onclick="loadMorePodArchive()" style="display:none">Load More Episodes ▼</button>
+    </div>
+  </div>
+
+  <!-- ── VIDEOS TAB ── -->
+  <div id="tab-videos" class="tab-panel">
+    <div class="last-updated">Last updated: <span id="vidLastUpdated">—</span></div>
+    <div class="section-header"><h2>Latest Videos</h2><hr /></div>
+    <div class="show-filter" id="videoFilter">
+      <button class="filter-btn active" onclick="filterVideos('all',this)">All</button>
+    </div>
+    <div id="videoGrid" class="video-grid">
+      <div class="empty-state" style="grid-column:1/-1">
+        <div class="loading-state"><div class="spinner"></div><p>Loading videos...</p></div>
+      </div>
+    </div>
+    <div class="archive-toggle-wrap">
+      <button class="archive-toggle-btn" id="vidArchiveToggleBtn" onclick="toggleVidArchive()">▼ &nbsp; Show Video Archive</button>
+    </div>
+    <div class="archive-panel" id="vidArchivePanel">
+      <div class="section-header" style="margin-top:28px;"><h2>Video Archive</h2><hr /></div>
+      <input type="text" class="archive-search-bar" id="vidArchiveSearch" placeholder="Search by title, channel, or guest name..." oninput="filterVidArchive()" />
+      <div id="videoArchiveList" class="archive-list">
+        <div class="empty-state"><p>Archive loads after first refresh cycle.</p></div>
+      </div>
+      <button class="archive-load-more-btn" id="vidArchiveLoadMore" onclick="loadMoreVidArchive()" style="display:none">Load More Videos ▼</button>
     </div>
   </div>
 
@@ -401,7 +448,7 @@
     <div class="prose-page">
       <h1>About GP360</h1>
       <div class="rule"></div>
-      <p>Global Politics 360 is an independent news and podcast aggregator dedicated to voices that challenge mainstream narratives. We curate articles, investigations, analysis, and podcast episodes from a hand-selected list of journalists, commentators, and podcasters — updated every three hours.</p>
+      <p>Global Politics 360 is an independent news and podcast aggregator dedicated to voices that challenge mainstream narratives. We curate articles, investigations, analysis, podcast episodes, and videos from a hand-selected list of journalists, commentators, and podcasters — updated every three hours.</p>
       <p>This site does not produce original reporting. We surface and organize content so you can stay informed without the noise.</p>
       <h2>Journalists & Writers</h2>
       <ul class="sources-list">
@@ -436,12 +483,16 @@
         <li>Dave Smith</li><li>Natalie Brunell</li>
         <li>Danny Jones</li><li>Dalton Fischer</li>
       </ul>
-      <h2>Tech Abundance — Editorial Philosophy</h2>
-      <p>Every article in the Tech Abundance tab passes through an AI sentiment filter. Only optimistic, builder-focused, progress-positive content makes it through. Doom framing, regulation panic, and tech criticism are dropped automatically. The filter also explicitly surfaces positive coverage of key builders: Elon Musk, Palmer Luckey, Alex Karp, Joe Lonsdale, Jensen Huang, Chamath, Marc Andreessen, David Sacks, Balaji Srinivasan, and Peter Diamandis.</p>
-      <h2>Guest Detection</h2>
-      <p>GP360 automatically scans every podcast episode for mentions of curated voices. When someone appears as a guest on any tracked show, that episode is tagged and surfaced — so you never miss an appearance.</p>
+      <h2>Videos</h2>
+      <ul class="sources-list">
+        <li>Joe Rogan</li><li>Lex Fridman</li>
+        <li>Jordan Peterson</li><li>Huberman Lab</li>
+        <li>Shawn Ryan Show</li><li>All-In Podcast</li>
+        <li>Theo Von</li><li>Kill Tony</li>
+        <li>The Free Press</li><li>Danny Jones Podcast</li>
+      </ul>
       <h2>How It Works</h2>
-      <p>Every three hours, an automated system fetches articles and podcast episodes from curated RSS feeds. Claude AI writes one-sentence teasers for each news article, filters the Tech Abundance feed for optimism, and runs guest detection across all podcast episodes.</p>
+      <p>Every three hours, an automated system fetches articles, podcast episodes, and videos from curated RSS feeds. Claude AI writes one-sentence teasers for each news article, filters the Tech Abundance feed for optimism, and runs guest detection across all podcast episodes and videos.</p>
     </div>
   </div>
 
@@ -535,8 +586,8 @@
     } catch(e) { console.log('Articles not ready'); }
   }
 
-  // ── NEWS ARCHIVE (from archive.json — unlimited) ──────────────────────────
-  let allNewsArchive    = [];
+  // ── NEWS ARCHIVE ──────────────────────────────────────────────────────────
+  let allNewsArchive     = [];
   let newsArchiveShowing = 50;
 
   async function loadNewsArchive() {
@@ -547,7 +598,6 @@
       allNewsArchive = data.articles || [];
       renderNewsArchive();
     } catch(e) {
-      // Fallback to articles.json if archive.json doesn't exist yet
       try {
         const res2 = await fetch('articles.json?t=' + Date.now());
         const data2 = await res2.json();
@@ -560,9 +610,7 @@
   function getFilteredNewsArchive() {
     const q = (document.getElementById('newsArchiveSearch')?.value || '').toLowerCase().trim();
     if (!q) return allNewsArchive;
-    return allNewsArchive.filter(a => {
-      return (a.title + ' ' + a.source).toLowerCase().includes(q);
-    });
+    return allNewsArchive.filter(a => (a.title + ' ' + a.source).toLowerCase().includes(q));
   }
 
   function renderNewsArchive() {
@@ -571,14 +619,8 @@
     const el       = document.getElementById('newsArchiveList');
     const moreBtn  = document.getElementById('newsArchiveLoadMore');
     const countEl  = document.getElementById('newsArchiveCount');
-
     if (countEl) countEl.textContent = filtered.length + ' articles';
-
-    if (!filtered.length) {
-      el.innerHTML = '<div class="empty-state"><p>No articles found.</p></div>';
-      moreBtn.style.display = 'none';
-      return;
-    }
+    if (!filtered.length) { el.innerHTML = '<div class="empty-state"><p>No articles found.</p></div>'; moreBtn.style.display = 'none'; return; }
     el.innerHTML = slice.map(a => `
       <a class="news-archive-item" href="${esc(a.url)}" target="_blank" rel="noopener">
         <div class="news-archive-date">${fmtDate(a.date)}</div>
@@ -589,10 +631,10 @@
     moreBtn.textContent = `Load More Articles ▼ (${filtered.length - newsArchiveShowing} remaining)`;
   }
 
-  function filterNewsArchive()    { newsArchiveShowing = 50; renderNewsArchive(); }
-  function loadMoreNewsArchive()  { newsArchiveShowing += 50; renderNewsArchive(); }
+  function filterNewsArchive()   { newsArchiveShowing = 50; renderNewsArchive(); }
+  function loadMoreNewsArchive() { newsArchiveShowing += 50; renderNewsArchive(); }
 
-  // ── TECH ABUNDANCE ────────────────────────────────────────────────────────
+  // ── TECH ──────────────────────────────────────────────────────────────────
   async function loadTech() {
     try {
       const res = await fetch('tech.json?t=' + Date.now());
@@ -601,11 +643,7 @@
       if (data.lastUpdated) document.getElementById('techLastUpdated').textContent =
         new Date(data.lastUpdated).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'});
       const arts = data.articles || [];
-      if (!arts.length) {
-        document.getElementById('techFeaturedStory').innerHTML =
-          `<div style="grid-column:1/-1"><div class="empty-state"><p>Tech Abundance stories loading — check back after next refresh.</p></div></div>`;
-        return;
-      }
+      if (!arts.length) { document.getElementById('techFeaturedStory').innerHTML = `<div style="grid-column:1/-1"><div class="empty-state"><p>Tech Abundance stories loading — check back after next refresh.</p></div></div>`; return; }
       renderFeatured(arts[0], true);
       renderGrid(arts.slice(1,7), 'techArticlesGrid', true);
       renderLinks(arts.slice(7), 'techLinkList', true);
@@ -619,9 +657,7 @@
       ? `<div class="featured-image-placeholder tech"><div class="globe-icon">⚡</div></div>`
       : `<div class="featured-image-placeholder"><div class="globe-icon">🌐</div></div>`;
     document.getElementById(elId).innerHTML = `
-      <div class="featured-image-side">
-        ${a.image ? `<img src="${esc(a.image)}" alt="" loading="lazy">` : ph}
-      </div>
+      <div class="featured-image-side">${a.image ? `<img src="${esc(a.image)}" alt="" loading="lazy">` : ph}</div>
       <div class="featured-text-side">
         <div class="featured-label ${lClass}">${isTech ? "Builder's Pick" : 'Featured Story'}</div>
         <div class="featured-headline ${lClass}"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
@@ -650,18 +686,17 @@
       const hdr = cols[ci].querySelector('.link-col-header').outerHTML;
       cols[ci].innerHTML = hdr + grp.map(a => `
         <a class="link-item ${isTech ? 'tech' : ''}" href="${esc(a.url)}" target="_blank" rel="noopener">
-          ${esc(a.title)}
-          <span class="link-source">${esc(a.source)} · ${fmtDate(a.date)}</span>
+          ${esc(a.title)}<span class="link-source">${esc(a.source)} · ${fmtDate(a.date)}</span>
         </a>`).join('');
     });
   }
 
   // ── PODCASTS ──────────────────────────────────────────────────────────────
-  let allLatestEps   = [];
-  let allArchiveEps  = [];
-  let guestIndex     = {};
-  let archiveShowing = 50;
-  let archiveOpen    = false;
+  let allLatestEps    = [];
+  let allPodArchive   = [];
+  let podGuestIndex   = {};
+  let podArchiveShowing = 50;
+  let podArchiveOpen  = false;
 
   async function loadPodcasts() {
     try {
@@ -671,22 +706,22 @@
       if (data.lastUpdated) document.getElementById('podLastUpdated').textContent =
         new Date(data.lastUpdated).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'});
       allLatestEps  = data.latest  || [];
-      allArchiveEps = data.archive || [];
-      guestIndex    = data.guestIndex || {};
-      buildFilters();
+      allPodArchive = data.archive || [];
+      podGuestIndex = data.guestIndex || {};
+      buildPodFilters();
       renderPodcasts(allLatestEps);
-      renderArchive();
+      renderPodArchive();
     } catch(e) { console.log('Podcasts not ready'); }
   }
 
-  function buildFilters() {
+  function buildPodFilters() {
     const shows  = [...new Set(allLatestEps.map(e => e.show))].sort();
-    const voices = Object.keys(guestIndex).filter(v => (guestIndex[v]||[]).length > 0).sort();
+    const voices = Object.keys(podGuestIndex).filter(v => (podGuestIndex[v]||[]).length > 0).sort();
     let html = `<button class="filter-btn active" onclick="filterPodcasts('all',this)">All</button>`;
     shows.forEach(s => { html += `<button class="filter-btn" onclick="filterPodcasts(${JSON.stringify(s)},this)">${esc(s)}</button>`; });
     if (voices.length) {
       html += `<span class="filter-divider">Guests:</span>`;
-      voices.forEach(v => { html += `<button class="filter-btn guest-filter" onclick="filterByGuest(${JSON.stringify(v)},this)">${esc(v)}</button>`; });
+      voices.forEach(v => { html += `<button class="filter-btn guest-filter" onclick="filterPodByGuest(${JSON.stringify(v)},this)">${esc(v)}</button>`; });
     }
     document.getElementById('showFilter').innerHTML = html;
   }
@@ -694,101 +729,199 @@
   function filterPodcasts(show, btn) {
     document.querySelectorAll('#showFilter .filter-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    const filtered = show === 'all' ? allLatestEps : allLatestEps.filter(e => e.show === show);
-    renderPodcasts(filtered);
+    renderPodcasts(show === 'all' ? allLatestEps : allLatestEps.filter(e => e.show === show));
   }
 
-  function filterByGuest(voiceName, btn) {
+  function filterPodByGuest(v, btn) {
     document.querySelectorAll('#showFilter .filter-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    const epIds = new Set(guestIndex[voiceName] || []);
-    const eps   = allArchiveEps.filter(e => epIds.has(e.id)).slice(0, 20);
-    renderPodcasts(eps);
-    if (!archiveOpen) toggleArchive();
-    document.getElementById('archiveSearch').value = voiceName;
-    filterArchive();
+    const epIds = new Set(podGuestIndex[v] || []);
+    renderPodcasts(allPodArchive.filter(e => epIds.has(e.id)).slice(0,20));
+    if (!podArchiveOpen) togglePodArchive();
+    document.getElementById('podArchiveSearch').value = v;
+    filterPodArchive();
   }
 
   function podcastCardHtml(e) {
-    const tags = (e.guestTags || []).map(t => `<span class="guest-tag">${esc(t)}</span>`).join('');
-    return `
-      <div class="podcast-card">
-        <div class="podcast-thumb">
-          ${e.image
-            ? `<img src="${esc(e.image)}" alt="" loading="lazy">`
-            : `<div class="podcast-thumb-placeholder">🎙️</div>`}
-        </div>
-        <div class="podcast-info">
-          <div class="podcast-show-name">${esc(e.show)}</div>
-          <div class="podcast-ep-title"><a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>
-          <div class="podcast-meta">${fmtDate(e.date)}${e.duration ? ' · ' + fmtDuration(e.duration) : ''}</div>
-          ${tags ? `<div class="podcast-guest-tags">${tags}</div>` : ''}
-          <a class="podcast-listen-btn" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">▶ Listen</a>
-        </div>
-      </div>`;
+    const tags = (e.guestTags||[]).map(t => `<span class="guest-tag">${esc(t)}</span>`).join('');
+    return `<div class="podcast-card">
+      <div class="podcast-thumb">${e.image ? `<img src="${esc(e.image)}" alt="" loading="lazy">` : `<div class="podcast-thumb-placeholder">🎙️</div>`}</div>
+      <div class="podcast-info">
+        <div class="podcast-show-name">${esc(e.show)}</div>
+        <div class="podcast-ep-title"><a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>
+        <div class="podcast-meta">${fmtDate(e.date)}${e.duration ? ' · ' + fmtDuration(e.duration) : ''}</div>
+        ${tags ? `<div class="podcast-guest-tags">${tags}</div>` : ''}
+        <a class="podcast-listen-btn" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">▶ Listen</a>
+      </div></div>`;
   }
 
   function renderPodcasts(eps) {
     const el = document.getElementById('podcastGrid');
-    if (!eps.length) { el.innerHTML = '<div class="empty-state" style="grid-column:1/-1"><p>No episodes yet. Check back after next refresh.</p></div>'; return; }
+    if (!eps.length) { el.innerHTML = '<div class="empty-state" style="grid-column:1/-1"><p>No episodes yet.</p></div>'; return; }
     el.innerHTML = eps.map(podcastCardHtml).join('');
   }
 
-  function toggleArchive() {
-    archiveOpen = !archiveOpen;
-    document.getElementById('archivePanel').classList.toggle('open', archiveOpen);
-    const btn = document.getElementById('archiveToggleBtn');
-    btn.classList.toggle('open', archiveOpen);
-    btn.textContent = archiveOpen ? '▲   Hide Podcast Archive' : '▼   Show Podcast Archive';
+  function togglePodArchive() {
+    podArchiveOpen = !podArchiveOpen;
+    document.getElementById('podArchivePanel').classList.toggle('open', podArchiveOpen);
+    const btn = document.getElementById('podArchiveToggleBtn');
+    btn.classList.toggle('open', podArchiveOpen);
+    btn.textContent = podArchiveOpen ? '▲   Hide Podcast Archive' : '▼   Show Podcast Archive';
   }
 
-  function getFilteredArchive() {
-    const q = (document.getElementById('archiveSearch')?.value || '').toLowerCase().trim();
-    if (!q) return allArchiveEps;
-    return allArchiveEps.filter(e => {
-      const hay = `${e.title} ${e.show} ${(e.guestTags||[]).join(' ')} ${e.desc}`.toLowerCase();
-      return hay.includes(q);
-    });
+  function getFilteredPodArchive() {
+    const q = (document.getElementById('podArchiveSearch')?.value || '').toLowerCase().trim();
+    if (!q) return allPodArchive;
+    return allPodArchive.filter(e => `${e.title} ${e.show} ${(e.guestTags||[]).join(' ')} ${e.desc}`.toLowerCase().includes(q));
   }
 
-  function renderArchive() {
-    const filtered = getFilteredArchive();
-    const slice    = filtered.slice(0, archiveShowing);
+  function renderPodArchive() {
+    const filtered = getFilteredPodArchive();
+    const slice    = filtered.slice(0, podArchiveShowing);
     const el       = document.getElementById('podcastArchiveList');
-    const moreBtn  = document.getElementById('archiveLoadMore');
-    if (!filtered.length) {
-      el.innerHTML = '<div class="empty-state"><p>No episodes found.</p></div>';
-      moreBtn.style.display = 'none';
-      return;
-    }
+    const moreBtn  = document.getElementById('podArchiveLoadMore');
+    if (!filtered.length) { el.innerHTML = '<div class="empty-state"><p>No episodes found.</p></div>'; moreBtn.style.display = 'none'; return; }
     el.innerHTML = slice.map(e => {
       const tags = (e.guestTags||[]).map(t => `<span class="guest-tag" style="font-size:7px">${esc(t)}</span>`).join('');
-      return `
-        <div class="archive-ep-item">
-          <div class="archive-ep-date">${fmtDate(e.date)}</div>
-          ${e.image
-            ? `<img class="archive-ep-thumb" src="${esc(e.image)}" alt="" loading="lazy">`
-            : `<div class="archive-ep-thumb" style="background:var(--border);display:flex;align-items:center;justify-content:center;font-size:18px;">🎙️</div>`}
-          <div class="archive-ep-body">
-            <div class="archive-ep-title"><a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>
-            <span class="archive-ep-show">${esc(e.show)}</span>
-            ${tags ? `<div class="archive-ep-guest-tags">${tags}</div>` : ''}
-          </div>
-          <a class="archive-ep-link" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">Listen →</a>
-        </div>`;
+      return `<div class="archive-ep-item">
+        <div class="archive-ep-date">${fmtDate(e.date)}</div>
+        ${e.image ? `<img class="archive-ep-thumb" src="${esc(e.image)}" alt="" loading="lazy">` : `<div class="archive-ep-thumb" style="background:var(--border);display:flex;align-items:center;justify-content:center;font-size:18px;">🎙️</div>`}
+        <div class="archive-ep-body">
+          <div class="archive-ep-title"><a href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>
+          <span class="archive-ep-show">${esc(e.show)}</span>
+          ${tags ? `<div class="archive-ep-guest-tags">${tags}</div>` : ''}
+        </div>
+        <a class="archive-ep-link" href="${esc(e.listenUrl||e.audioUrl)}" target="_blank" rel="noopener">Listen →</a>
+      </div>`;
     }).join('');
-    moreBtn.style.display = filtered.length > archiveShowing ? '' : 'none';
-    moreBtn.textContent   = `Load More Episodes ▼ (${filtered.length - archiveShowing} remaining)`;
+    moreBtn.style.display = filtered.length > podArchiveShowing ? '' : 'none';
+    moreBtn.textContent = `Load More Episodes ▼ (${filtered.length - podArchiveShowing} remaining)`;
   }
 
-  function filterArchive()    { archiveShowing = 50; renderArchive(); }
-  function loadMoreArchive()  { archiveShowing += 50; renderArchive(); }
+  function filterPodArchive()   { podArchiveShowing = 50; renderPodArchive(); }
+  function loadMorePodArchive() { podArchiveShowing += 50; renderPodArchive(); }
+
+  // ── VIDEOS ────────────────────────────────────────────────────────────────
+  let allLatestVids    = [];
+  let allVidArchive    = [];
+  let vidGuestIndex    = {};
+  let vidArchiveShowing = 50;
+  let vidArchiveOpen   = false;
+
+  async function loadVideos() {
+    try {
+      const res = await fetch('videos.json?t=' + Date.now());
+      if (!res.ok) throw new Error('no data');
+      const data = await res.json();
+      if (data.lastUpdated) document.getElementById('vidLastUpdated').textContent =
+        new Date(data.lastUpdated).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'});
+      allLatestVids = data.latest  || [];
+      allVidArchive = data.archive || [];
+      vidGuestIndex = data.guestIndex || {};
+      buildVideoFilters();
+      renderVideos(allLatestVids);
+      renderVidArchive();
+    } catch(e) { console.log('Videos not ready'); }
+  }
+
+  function buildVideoFilters() {
+    const channels = [...new Set(allLatestVids.map(v => v.show))].sort();
+    const voices   = Object.keys(vidGuestIndex).filter(v => (vidGuestIndex[v]||[]).length > 0).sort();
+    let html = `<button class="filter-btn active" onclick="filterVideos('all',this)">All</button>`;
+    channels.forEach(c => { html += `<button class="filter-btn" onclick="filterVideos(${JSON.stringify(c)},this)">${esc(c)}</button>`; });
+    if (voices.length) {
+      html += `<span class="filter-divider">Guests:</span>`;
+      voices.forEach(v => { html += `<button class="filter-btn guest-filter" onclick="filterVidByGuest(${JSON.stringify(v)},this)">${esc(v)}</button>`; });
+    }
+    document.getElementById('videoFilter').innerHTML = html;
+  }
+
+  function filterVideos(channel, btn) {
+    document.querySelectorAll('#videoFilter .filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderVideos(channel === 'all' ? allLatestVids : allLatestVids.filter(v => v.show === channel));
+  }
+
+  function filterVidByGuest(voice, btn) {
+    document.querySelectorAll('#videoFilter .filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const vIds = new Set(vidGuestIndex[voice] || []);
+    renderVideos(allVidArchive.filter(v => vIds.has(v.id)).slice(0,20));
+    if (!vidArchiveOpen) toggleVidArchive();
+    document.getElementById('vidArchiveSearch').value = voice;
+    filterVidArchive();
+  }
+
+  function videoCardHtml(v) {
+    const tags = (v.guestTags||[]).map(t => `<span class="guest-tag">${esc(t)}</span>`).join('');
+    return `<div class="video-card">
+      <a href="${esc(v.url)}" target="_blank" rel="noopener">
+        <div class="video-thumb-wrap">
+          <img src="${esc(v.image)}" alt="" loading="lazy">
+          <div class="video-play-icon"></div>
+        </div>
+      </a>
+      <div class="video-info">
+        <div class="video-channel">${esc(v.show)}</div>
+        <div class="video-title"><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a></div>
+        <div class="video-meta">${fmtDate(v.date)}</div>
+        ${tags ? `<div class="video-guest-tags">${tags}</div>` : ''}
+        <a class="video-watch-btn" href="${esc(v.url)}" target="_blank" rel="noopener">▶ Watch</a>
+      </div></div>`;
+  }
+
+  function renderVideos(vids) {
+    const el = document.getElementById('videoGrid');
+    if (!vids.length) { el.innerHTML = '<div class="empty-state" style="grid-column:1/-1"><p>No videos yet. Check back after next refresh.</p></div>'; return; }
+    el.innerHTML = vids.map(videoCardHtml).join('');
+  }
+
+  function toggleVidArchive() {
+    vidArchiveOpen = !vidArchiveOpen;
+    document.getElementById('vidArchivePanel').classList.toggle('open', vidArchiveOpen);
+    const btn = document.getElementById('vidArchiveToggleBtn');
+    btn.classList.toggle('open', vidArchiveOpen);
+    btn.textContent = vidArchiveOpen ? '▲   Hide Video Archive' : '▼   Show Video Archive';
+  }
+
+  function getFilteredVidArchive() {
+    const q = (document.getElementById('vidArchiveSearch')?.value || '').toLowerCase().trim();
+    if (!q) return allVidArchive;
+    return allVidArchive.filter(v => `${v.title} ${v.show} ${(v.guestTags||[]).join(' ')}`.toLowerCase().includes(q));
+  }
+
+  function renderVidArchive() {
+    const filtered = getFilteredVidArchive();
+    const slice    = filtered.slice(0, vidArchiveShowing);
+    const el       = document.getElementById('videoArchiveList');
+    const moreBtn  = document.getElementById('vidArchiveLoadMore');
+    if (!filtered.length) { el.innerHTML = '<div class="empty-state"><p>No videos found.</p></div>'; moreBtn.style.display = 'none'; return; }
+    el.innerHTML = slice.map(v => {
+      const tags = (v.guestTags||[]).map(t => `<span class="guest-tag" style="font-size:7px">${esc(t)}</span>`).join('');
+      return `<div class="archive-ep-item">
+        <div class="archive-ep-date">${fmtDate(v.date)}</div>
+        <img class="archive-ep-thumb" src="${esc(v.image)}" alt="" loading="lazy">
+        <div class="archive-ep-body">
+          <div class="archive-ep-title"><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a></div>
+          <span class="archive-ep-show">${esc(v.show)}</span>
+          ${tags ? `<div class="archive-ep-guest-tags">${tags}</div>` : ''}
+        </div>
+        <a class="archive-ep-link" href="${esc(v.url)}" target="_blank" rel="noopener">Watch →</a>
+      </div>`;
+    }).join('');
+    moreBtn.style.display = filtered.length > vidArchiveShowing ? '' : 'none';
+    moreBtn.textContent = `Load More Videos ▼ (${filtered.length - vidArchiveShowing} remaining)`;
+  }
+
+  function filterVidArchive()   { vidArchiveShowing = 50; renderVidArchive(); }
+  function loadMoreVidArchive() { vidArchiveShowing += 50; renderVidArchive(); }
 
   // ── BOOT ──────────────────────────────────────────────────────────────────
   loadArticles();
   loadNewsArchive();
   loadTech();
   loadPodcasts();
+  loadVideos();
 </script>
 </body>
 </html>
