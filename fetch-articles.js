@@ -1,5 +1,5 @@
 // fetch-articles.js
-// GP360 — fetches news, tech abundance, podcasts
+// GP360 — fetches news, tech abundance, podcasts, videos
 // Proxy fallback for blocked Substack feeds
 // Claude sentiment filter on tech articles
 // Guest detection via watchedVoices
@@ -13,6 +13,8 @@ const MAX_ARTICLES        = 60;
 const MAX_TECH_ARTICLES   = 40;
 const MAX_PODCAST_LIVE    = 5;
 const MAX_PODCAST_ARCHIVE = 500;
+const MAX_VIDEO_LIVE      = 5;
+const MAX_VIDEO_ARCHIVE   = 500;
 const MIN_NEW_ARTICLES    = 1;
 const NEWS_TIMEOUT_MS     = 25000;
 const PODCAST_TIMEOUT_MS  = 30000;
@@ -165,6 +167,40 @@ async function fetchFeedWithFallback(src, timeoutMs) {
   return { items: [], method: 'failed' };
 }
 
+function parseYouTubeRSS(xml, channelName) {
+  var videos = [];
+  var re = /<entry>([\s\S]*?)<\/entry>/gi;
+  var m;
+  while ((m = re.exec(xml)) !== null) {
+    var entry = m[1];
+    var title = extractText(entry, 'title');
+    var videoId = extractText(entry, 'yt:videoId');
+    var published = extractText(entry, 'published');
+    var thumbnail = '';
+    var thumbM = entry.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i);
+    if (thumbM) thumbnail = thumbM[1];
+    var desc = '';
+    var descM = entry.match(/<media:description>([\s\S]*?)<\/media:description>/i);
+    if (descM) desc = descM[1].slice(0, 300);
+
+    if (title && videoId) {
+      var url = 'https://www.youtube.com/watch?v=' + videoId;
+      videos.push({
+        id: makeId(url),
+        videoId: videoId,
+        show: channelName,
+        title: title.replace(/\s+/g, ' ').trim(),
+        url: url,
+        date: parseDate(published).toISOString(),
+        image: thumbnail || 'https://img.youtube.com/vi/' + videoId + '/hqdefault.jpg',
+        desc: desc,
+        guestTags: []
+      });
+    }
+  }
+  return videos;
+}
+
 function parsePodcastRSS(xml, showName) {
   var episodes = [];
   var showArt = '';
@@ -202,13 +238,13 @@ function parsePodcastRSS(xml, showName) {
   return episodes;
 }
 
-function detectGuests(episodes, watchedVoices) {
+function detectGuests(items, watchedVoices) {
   var active = (watchedVoices || []).filter(function(v) {
     return v.active && v.keywords && v.keywords.length;
   });
-  if (!active.length) return episodes;
-  return episodes.map(function(ep) {
-    var haystack = (ep.title + ' ' + ep.desc).toLowerCase();
+  if (!active.length) return items;
+  return items.map(function(item) {
+    var haystack = (item.title + ' ' + (item.desc || '')).toLowerCase();
     var tags = [];
     for (var i = 0; i < active.length; i++) {
       var voice = active[i];
@@ -219,7 +255,7 @@ function detectGuests(episodes, watchedVoices) {
         }
       }
     }
-    return Object.assign({}, ep, { guestTags: tags });
+    return Object.assign({}, item, { guestTags: tags });
   });
 }
 
@@ -354,18 +390,21 @@ async function main() {
   var activeNews     = (cfg.sources        || []).filter(function(s) { return s.active && s.category === 'news'; });
   var activeTech     = (cfg.techSources    || []).filter(function(s) { return s.active && s.url; });
   var activePodcasts = (cfg.podcastSources || []).filter(function(s) { return s.active && s.url; });
+  var activeVideos   = (cfg.videoSources   || []).filter(function(s) { return s.active && s.channelId; });
   var watchedVoices  = cfg.watchedVoices   || [];
 
-  console.log('News: ' + activeNews.length + ' | Tech: ' + activeTech.length + ' | Podcasts: ' + activePodcasts.length + ' | Voices: ' + watchedVoices.filter(function(v) { return v.active; }).length);
+  console.log('News: ' + activeNews.length + ' | Tech: ' + activeTech.length + ' | Podcasts: ' + activePodcasts.length + ' | Videos: ' + activeVideos.length + ' | Voices: ' + watchedVoices.filter(function(v) { return v.active; }).length);
 
   var existingArticles = { articles: [] };
   var existingTech     = { articles: [] };
   var existingPodcasts = { latest: [], archive: [] };
+  var existingVideos   = { latest: [], archive: [] };
   var existingArchive  = { articles: [] };
 
   try { existingArticles = JSON.parse(fs.readFileSync('articles.json', 'utf-8')); } catch(e) {}
   try { existingTech     = JSON.parse(fs.readFileSync('tech.json',     'utf-8')); } catch(e) {}
   try { existingPodcasts = JSON.parse(fs.readFileSync('podcasts.json', 'utf-8')); } catch(e) {}
+  try { existingVideos   = JSON.parse(fs.readFileSync('videos.json',   'utf-8')); } catch(e) {}
   try { existingArchive  = JSON.parse(fs.readFileSync('archive.json',  'utf-8')); } catch(e) {}
 
   var existingArticleIds = {};
@@ -373,7 +412,6 @@ async function main() {
   var existingTechIds = {};
   (existingTech.articles || []).forEach(function(a) { existingTechIds[a.id] = true; });
 
-  // Build archive map from existing archive — this is the permanent store
   var archiveMap = {};
   (existingArchive.articles || []).forEach(function(a) { archiveMap[a.id] = a; });
 
@@ -398,7 +436,6 @@ async function main() {
   });
   allArticles.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
 
-  // Teaser cache — pull from both articles.json and archive.json
   var teaserCache = {};
   (existingArticles.articles || []).forEach(function(a) { if (a.teaser) teaserCache[a.id] = a.teaser; });
   (existingArchive.articles  || []).forEach(function(a) { if (a.teaser) teaserCache[a.id] = a.teaser; });
@@ -416,7 +453,6 @@ async function main() {
     allArticles = allArticles.map(function(a) { return Object.assign({}, a, { teaser: teaserCache[a.id] || '' }); });
   }
 
-  // Write articles.json — front page only, capped at MAX_ARTICLES
   fs.writeFileSync('articles.json', JSON.stringify({
     lastUpdated:  new Date().toISOString(),
     articleCount: Math.min(allArticles.length, MAX_ARTICLES),
@@ -424,14 +460,13 @@ async function main() {
   }, null, 2));
   console.log('v articles.json: ' + Math.min(allArticles.length, MAX_ARTICLES));
 
-  // Write archive.json — accumulates forever, never truncated
   allArticles.forEach(function(a) { archiveMap[a.id] = a; });
   var fullNewsArchive = Object.values(archiveMap)
     .sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
   fs.writeFileSync('archive.json', JSON.stringify({
-    lastUpdated:   new Date().toISOString(),
-    articleCount:  fullNewsArchive.length,
-    articles:      fullNewsArchive
+    lastUpdated:  new Date().toISOString(),
+    articleCount: fullNewsArchive.length,
+    articles:     fullNewsArchive
   }, null, 2));
   console.log('v archive.json: ' + fullNewsArchive.length + ' total articles');
 
@@ -508,7 +543,7 @@ async function main() {
     } catch(e) { console.warn('  x ' + psrc.name + ': ' + e.message); }
   }
 
-  console.log('Running guest detection...');
+  console.log('Running guest detection (podcasts)...');
   allEpisodes = detectGuests(allEpisodes, watchedVoices);
   var taggedCount = allEpisodes.filter(function(e) { return e.guestTags.length > 0; }).length;
   console.log('  v ' + taggedCount + ' episodes tagged');
@@ -535,12 +570,12 @@ async function main() {
   var podArchiveMap = {};
   (existingPodcasts.archive || []).forEach(function(e) { podArchiveMap[e.id] = e; });
   allEpisodes.forEach(function(e) { podArchiveMap[e.id] = e; });
-  var fullArchive = Object.values(podArchiveMap)
+  var fullPodArchive = Object.values(podArchiveMap)
     .sort(function(a, b) { return new Date(b.date) - new Date(a.date); })
     .slice(0, MAX_PODCAST_ARCHIVE);
 
   var guestIndex = {};
-  fullArchive.forEach(function(ep) {
+  fullPodArchive.forEach(function(ep) {
     (ep.guestTags || []).forEach(function(tag) {
       if (!guestIndex[tag]) guestIndex[tag] = [];
       guestIndex[tag].push(ep.id);
@@ -551,14 +586,80 @@ async function main() {
     lastUpdated:  new Date().toISOString(),
     showCount:    activePodcasts.length,
     episodeCount: latestEpisodes.length,
-    archiveCount: fullArchive.length,
+    archiveCount: fullPodArchive.length,
     taggedCount:  taggedCount,
     latest:       latestEpisodes,
-    archive:      fullArchive,
+    archive:      fullPodArchive,
     guestIndex:   guestIndex
   }, null, 2));
+  console.log('v podcasts.json: ' + latestEpisodes.length + ' latest, ' + fullPodArchive.length + ' archived, ' + taggedCount + ' tagged');
 
-  console.log('v podcasts.json: ' + latestEpisodes.length + ' latest, ' + fullArchive.length + ' archived, ' + taggedCount + ' tagged');
+  // VIDEOS
+  console.log('\n--- VIDEOS ---');
+  var allVideos = [];
+  for (var vi = 0; vi < activeVideos.length; vi++) {
+    var vsrc = activeVideos[vi];
+    try {
+      console.log('[VID] ' + vsrc.name);
+      var ytUrl = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + vsrc.channelId;
+      var ytXml = await httpGet(ytUrl, NEWS_TIMEOUT_MS);
+      var vids = parseYouTubeRSS(ytXml, vsrc.name);
+      console.log('  v ' + vids.length);
+      allVideos = allVideos.concat(vids);
+    } catch(e) { console.warn('  x ' + vsrc.name + ': ' + e.message); }
+  }
+
+  console.log('Running guest detection (videos)...');
+  allVideos = detectGuests(allVideos, watchedVoices);
+  var taggedVideoCount = allVideos.filter(function(v) { return v.guestTags.length > 0; }).length;
+  console.log('  v ' + taggedVideoCount + ' videos tagged');
+
+  allVideos.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
+  var seenVidIds = {};
+  allVideos = allVideos.filter(function(v) {
+    if (seenVidIds[v.id]) return false;
+    seenVidIds[v.id] = true;
+    return true;
+  });
+
+  var byChannel = {};
+  allVideos.forEach(function(v) {
+    if (!byChannel[v.show]) byChannel[v.show] = [];
+    byChannel[v.show].push(v);
+  });
+  var latestVideos = [];
+  Object.values(byChannel).forEach(function(vids) {
+    latestVideos = latestVideos.concat(vids.slice(0, MAX_VIDEO_LIVE));
+  });
+  latestVideos.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
+
+  var vidArchiveMap = {};
+  (existingVideos.archive || []).forEach(function(v) { vidArchiveMap[v.id] = v; });
+  allVideos.forEach(function(v) { vidArchiveMap[v.id] = v; });
+  var fullVidArchive = Object.values(vidArchiveMap)
+    .sort(function(a, b) { return new Date(b.date) - new Date(a.date); })
+    .slice(0, MAX_VIDEO_ARCHIVE);
+
+  var videoGuestIndex = {};
+  fullVidArchive.forEach(function(v) {
+    (v.guestTags || []).forEach(function(tag) {
+      if (!videoGuestIndex[tag]) videoGuestIndex[tag] = [];
+      videoGuestIndex[tag].push(v.id);
+    });
+  });
+
+  fs.writeFileSync('videos.json', JSON.stringify({
+    lastUpdated:      new Date().toISOString(),
+    channelCount:     activeVideos.length,
+    videoCount:       latestVideos.length,
+    archiveCount:     fullVidArchive.length,
+    taggedCount:      taggedVideoCount,
+    latest:           latestVideos,
+    archive:          fullVidArchive,
+    guestIndex:       videoGuestIndex
+  }, null, 2));
+  console.log('v videos.json: ' + latestVideos.length + ' latest, ' + fullVidArchive.length + ' archived, ' + taggedVideoCount + ' tagged');
+
   console.log('\n=== Done: ' + new Date().toISOString());
 }
 
