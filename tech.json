@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-03-31T14:43:57.303Z",
+  "lastUpdated": "2026-03-31T15:20:06.052Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Google’s New Quantum Research Reignites Push to Harden Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/googles-quantum-research-harden-bitcoin",
+      "date": "2026-03-31T14:49:06.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Googles-New-Quantum-Research-Reignites-Push-to-Harden-Bitcoin.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Labor Department Proposal Could Open 401(k)s to Bitcoin and Alternative Assets",
       "url": "https://bitcoinmagazine.com/news/labor-department-bitcoin-and-alt-assets",
@@ -100,15 +109,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "ICE Announces $600 Million Strategic Investment in Polymarket",
-      "url": "https://bitcoinmagazine.com/news/ice-announces-600-investment-polymarket",
-      "date": "2026-03-27T14:59:27.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/intercontinental-exchange-has-completed-a-600-million-direct-cash-investment-in-prediction-market-platform-polymarket.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "The Energy Situation, Explained for Tech People",

@@ -1,0 +1,47 @@
+{
+  "lastUpdated": "2026-03-31T15:20:10.025Z",
+  "channelCount": 10,
+  "videoCount": 1,
+  "archiveCount": 1,
+  "taggedCount": 15,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "iYBBHK9WpHM",
+      "show": "All-In Podcast",
+      "title": "Why Google Wins the AI War (It’s Already Over?)",
+      "url": "https://www.youtube.com/watch?v=iYBBHK9WpHM",
+      "date": "2026-03-31T14:22:34.000Z",
+      "image": "https://i2.ytimg.com/vi/iYBBHK9WpHM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "iYBBHK9WpHM",
+      "show": "All-In Podcast",
+      "title": "Why Google Wins the AI War (It’s Already Over?)",
+      "url": "https://www.youtube.com/watch?v=iYBBHK9WpHM",
+      "date": "2026-03-31T14:22:34.000Z",
+      "image": "https://i2.ytimg.com/vi/iYBBHK9WpHM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
+    }
+  ],
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
+}
