@@ -4,22 +4,26 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>GLOBAL POLITICS 360</title>
-  <meta name="description" content="Independent voices. Unfiltered perspectives. AI-curated news and podcasts from the journalists and podcasters who challenge the narrative." />
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌐</text></svg>" />
+  <meta name="description" content="Independent journalism. Unfiltered perspectives. Curated from the writers and podcasters who challenge the narrative." />
 
-  <!-- Open Graph / Facebook -->
+  <!-- ── OPEN GRAPH (Facebook, LinkedIn, iMessage) ── -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://globalpolitics360.com/" />
-  <meta property="og:title" content="Global Politics 360" />
-  <meta property="og:description" content="Independent voices. Unfiltered perspectives. AI-curated news and podcasts from the journalists and podcasters who challenge the narrative." />
-  <meta property="og:image" content="https://globalpolitics360.com/og-image.svg" />
+  <meta property="og:title" content="GLOBAL POLITICS 360" />
+  <meta property="og:description" content="Independent voices. Unfiltered perspectives. AI-curated news from Greenwald, Taibbi, Weiss, Shellenberger, Rogan, Fridman & more. Updated every 3 hours." />
+  <meta property="og:image" content="https://globalpolitics360.com/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:site_name" content="Global Politics 360" />
 
-  <!-- Twitter / X Card -->
+  <!-- ── TWITTER / X CARD ── -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:url" content="https://globalpolitics360.com/" />
-  <meta name="twitter:title" content="Global Politics 360" />
-  <meta name="twitter:description" content="Independent voices. Unfiltered perspectives. AI-curated news and podcasts from the journalists and podcasters who challenge the narrative." />
-  <meta name="twitter:image" content="https://globalpolitics360.com/og-image.svg" />
+  <meta name="twitter:site" content="@GP360x" />
+  <meta name="twitter:title" content="GLOBAL POLITICS 360" />
+  <meta name="twitter:description" content="Independent voices. Unfiltered perspectives. AI-curated news from Greenwald, Taibbi, Weiss, Shellenberger, Rogan, Fridman & more. Updated every 3 hours." />
+  <meta name="twitter:image" content="https://globalpolitics360.com/og-image.png" />
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌐</text></svg>" />
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SP3ELDRLNH"></script>
   <script>
@@ -237,7 +241,7 @@
     .contact-form textarea { min-height: 140px; resize: vertical; }
     .btn-submit { background: var(--red); border: none; color: white; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: .18em; text-transform: uppercase; padding: 14px 32px; cursor: pointer; align-self: flex-start; transition: background .2s; }
     .btn-submit:hover { background: var(--red-dark); }
-    .form-success { display: none; background: var(--ink); border: 1px solid var(--gold); color: var(--gold); font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: .1em; padding: 16px 20px; margin-top: 8px; }
+    .form-success { display: none; background: var(--ink); border: 1px solid var(--gold); padding: 20px 24px; font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--gold); letter-spacing: .08em; margin-top: 16px; }
 
     /* ── FOOTER ── */
     footer { border-top: 1px solid var(--border); margin-top: 60px; padding: 24px 32px; display: flex; justify-content: space-between; align-items: center; }
@@ -269,14 +273,6 @@
   </style>
 </head>
 <body>
-
-<!-- ── NETLIFY FORM DETECTION (hidden) ── -->
-<form name="contact" netlify netlify-honeypot="bot-field" hidden>
-  <input type="text" name="name" />
-  <input type="email" name="email" />
-  <input type="text" name="subject" />
-  <textarea name="message"></textarea>
-</form>
 
 <header id="masthead">
   <div class="masthead-top">
@@ -404,12 +400,12 @@
       </ul>
       <h2>Tech Abundance</h2>
       <ul class="sources-list">
-        <li class="tech">Peter Diamandis</li><li class="tech">Marc Andreessen</li>
+        <li class="tech">Peter Diamandis / Metatrends</li><li class="tech">Marc Andreessen</li>
         <li class="tech">Joe Lonsdale / 8VC</li><li class="tech">Packy McCormick / Not Boring</li>
         <li class="tech">Mike Solana / Pirate Wires</li><li class="tech">a16z</li>
-        <li class="tech">David Sacks / Bottom Up</li><li class="tech">Nic Carter / Murmurations II</li>
+        <li class="tech">David Sacks / Bottom Up</li><li class="tech">Nic Carter / Murmurations</li>
         <li class="tech">Bitcoin Magazine</li><li class="tech">Balaji Srinivasan</li>
-        <li class="tech">The Dispatch</li><li class="tech">&nbsp;</li>
+        <li class="tech">Techno-Optimist (Owen Lewis)</li><li class="tech">&nbsp;</li>
       </ul>
       <h2>Podcasts</h2>
       <ul class="sources-list">
@@ -435,13 +431,14 @@
       <h1>Contact</h1>
       <div class="rule"></div>
       <p>Questions, source suggestions, or feedback? Use the form below.</p>
-      <div class="contact-form" id="contactForm">
-        <input type="text" id="cf-name" placeholder="Your name" />
-        <input type="email" id="cf-email" placeholder="Your email" />
-        <input type="text" id="cf-subject" placeholder="Subject" />
-        <textarea id="cf-message" placeholder="Your message..."></textarea>
-        <button class="btn-submit" onclick="handleContact()">Send Message</button>
-      </div>
+      <form name="contact" method="POST" data-netlify="true" class="contact-form" onsubmit="handleContactSubmit(event)">
+        <input type="hidden" name="form-name" value="contact" />
+        <input type="text" name="name" placeholder="Your name" required />
+        <input type="email" name="email" placeholder="Your email" required />
+        <input type="text" name="subject" placeholder="Subject" />
+        <textarea name="message" placeholder="Your message..." required></textarea>
+        <button type="submit" class="btn-submit">Send Message</button>
+      </form>
       <div class="form-success" id="formSuccess">✓ &nbsp; Message received. We'll be in touch.</div>
     </div>
   </div>
@@ -468,30 +465,17 @@
     gtag('event', 'tab_view', { tab_name: name });
   }
 
-  async function handleContact() {
-    const name    = document.getElementById('cf-name').value.trim();
-    const email   = document.getElementById('cf-email').value.trim();
-    const subject = document.getElementById('cf-subject').value.trim();
-    const message = document.getElementById('cf-message').value.trim();
-    if (!name || !email || !message) { alert('Please fill in your name, email, and message.'); return; }
-    const btn = document.querySelector('.btn-submit');
-    btn.textContent = 'Sending...';
-    btn.disabled = true;
+  async function handleContactSubmit(e) {
+    e.preventDefault();
+    const form = e.target;
+    const data = new FormData(form);
     try {
-      const body = new URLSearchParams({ 'form-name': 'contact', name, email, subject, message });
-      const res = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: body.toString() });
-      if (res.ok) {
-        document.getElementById('contactForm').style.display = 'none';
-        const s = document.getElementById('formSuccess');
-        s.style.display = 'block';
-        gtag('event', 'contact_form_submit');
-      } else {
-        throw new Error('Network response was not ok');
-      }
-    } catch(e) {
-      btn.textContent = 'Send Message';
-      btn.disabled = false;
-      alert('Something went wrong. Please try again or email contact@globalpolitics360.com directly.');
+      await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams(data).toString() });
+      form.style.display = 'none';
+      document.getElementById('formSuccess').style.display = 'block';
+    } catch(err) {
+      alert('Something went wrong. Please email contact@globalpolitics360.com directly.');
     }
   }
 
@@ -553,8 +537,6 @@
   function renderFeatured(a, isTech) {
     const elId   = isTech ? 'techFeaturedStory' : 'featuredStory';
     const lClass = isTech ? 'tech' : '';
-    const hClass = isTech ? 'tech' : '';
-    const sClass = isTech ? 'tech' : '';
     const ph     = isTech
       ? `<div class="featured-image-placeholder tech"><div class="globe-icon">⚡</div></div>`
       : `<div class="featured-image-placeholder"><div class="globe-icon">🌐</div></div>`;
@@ -564,9 +546,9 @@
       </div>
       <div class="featured-text-side">
         <div class="featured-label ${lClass}">${isTech ? "Builder's Pick" : 'Featured Story'}</div>
-        <div class="featured-headline ${hClass}"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+        <div class="featured-headline ${lClass}"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
         <div class="featured-teaser">${esc(a.teaser)}</div>
-        <div class="featured-meta"><span class="source-name ${sClass}">${esc(a.source)}</span> &nbsp;·&nbsp; ${fmtDate(a.date)}</div>
+        <div class="featured-meta"><span class="source-name ${lClass}">${esc(a.source)}</span> &nbsp;·&nbsp; ${fmtDate(a.date)}</div>
       </div>`;
   }
 
