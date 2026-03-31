@@ -1,200 +1,117 @@
 {
-  "lastUpdated": "2026-03-31T15:54:45.677Z",
-  "showCount": 12,
-  "episodeCount": 7,
-  "archiveCount": 7,
-  "taggedCount": 394,
-  "latest": [
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#649 - Nate Diaz &amp; Chris Avila",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER3597232449.mp3?updated=1774943232",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER3597232449.mp3?updated=1774943232",
-      "date": "2026-03-31T13:00:00.000Z",
-      "duration": "6394",
-      "image": "https://megaphone.imgix.net/podcasts/82562a92-2cd2-11f1-ab3f-2f8e6fc2d797/image/62ae8a3fe7bf955f6f3e63208cbd47c8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Nate Diaz and Chris Avila are MMA fighters from Stockton, CA. Nate will fight Mike Perry and Chris will fight Brandon Jenkins for the MVP card live on Netflix May 16th.\n\nNate and Chris join Theo to talk about what the vibes in the 209 are really like, making their acting debut in “Busboys”, and Nate’s vision for where his fighting career goes next. \n\nNate Diaz: https://www.instagram.com/natediaz20",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#762 - ARI SHAFFIR + KEVIN RYAN + H. FOLEY",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU7176175174.mp3?updated=1774881391",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU7176175174.mp3?updated=1774881391",
-      "date": "2026-03-31T01:00:00.000Z",
-      "duration": "8376",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ari Shaffir, Kevin Ryan, H. Foley, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/09/2026\n\n\n\nSign up for your one-dollar-per-month trial today at https://shopify.com/killtony\n\n\n\nTry QUO for free PLUS get 20% off your first 6 months when you go to https://quo.co",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How Hormones Shape Sexual Orientation &amp; Behavior | Dr. Marc Breedlove",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM4059718139.mp3?updated=1774849241",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-hormones-shape-sexual-orientation-and-behavior-marc-breedlove",
-      "date": "2026-03-30T08:00:00.000Z",
-      "duration": "7892",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Marc Breedlove, PhD, is a professor of neuroscience at Michigan State University and an expert on how hormones shape brain development and sexual orientation. We discuss how prenatal testosterone impacts whether someone is romantically attracted to men or women later in life, and what correlates of sexual orientation — such as finger-length ratios — tell us about the role of hormones in brain ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E266_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
-      "date": "2026-03-27T20:03:00.000Z",
-      "duration": "01:20:11",
-      "image": "https://static.libsyn.com/p/assets/9/7/9/6/979607b459154e0b16c3140a3186d450/1_Pod_E266.png",
-      "desc": "(0:00) Bestie intros!: Friedberg for Governor of California? (2:25) Anthropic's generational run (15:45) OpenAI: getting focused or panic mode? (36:56) AI valuation impacts, moats, and disruption (43:58) Liquidity speaker announcements, the 100x AI moment (50:35) Two landmark social media verdicts against Meta (1:12:46) Sacks and Friedberg join PCAST! Follow the besties: https://x.com/chamath http",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#494 – Jensen Huang: NVIDIA &#8211; The $4 Trillion Company &#038; the AI Revolution",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
-      "listenUrl": "https://lexfridman.com/jensen-huang/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jensen-huang",
-      "date": "2026-03-23T16:28:42.000Z",
-      "duration": "",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/jensen-huang-transcript\nCONTACT LEX",
-      "guestTags": [
-        "Jensen Huang"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "Molly Bloom: Power, Overcoming Fear, &amp; The Darkness of Human Nature",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18761744-molly-bloom-power-overcoming-fear-the-darkness-of-human-nature.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18761744-molly-bloom-power-overcoming-fear-the-darkness-of-human-nature.mp3",
-      "date": "2026-02-28T16:00:00.000Z",
-      "duration": "12432",
-      "image": "https://storage.buzzsprout.com/vu5mmo4cvitiercwp4m07edkhbfp?.jpg",
-      "desc": "Molly Bloom is the real-life inspiration behind the Oscar-nominated film Molly’s Game. She built and ran the most exclusive high-stakes underground poker game in the world, attended by celebrities, billionaires, and powerful figures. In this interview, we discuss power, overcoming fear, self-talk, mental toughness, and the darker sides of human nature—along with the rise, collapse, and hard lesson",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYnV6enNw",
-      "show": "Danny Jones Podcast",
-      "title": "Ep.14 - #1 Whisky of 2022 Part 2 of 2",
-      "audioUrl": "https://www.buzzsprout.com/2048958/episodes/11903218-ep-14-1-whisky-of-2022-part-2-of-2.mp3",
-      "listenUrl": "https://www.buzzsprout.com/2048958/episodes/11903218-ep-14-1-whisky-of-2022-part-2-of-2.mp3",
-      "date": "2022-12-22T02:00:00.000Z",
-      "duration": "1778",
-      "image": "https://storage.buzzsprout.com/e621f9lpp8ux69vq4nh5yoherxmy?.jpg",
-      "desc": "Part 2 of 2 episode this week, we follow on with last weeks episode to continue our bottle opens from SeaBreeze Cellars Dromana!",
-      "guestTags": []
-    }
+  "sources": [
+    { "name": "Glenn Greenwald", "type": "rss", "url": "https://greenwald.substack.com/feed", "category": "news", "active": true },
+    { "name": "Glenn Greenwald (System Update)", "type": "rss", "url": "https://greenwald.substack.com/s/systemupdate/feed", "category": "news", "active": true },
+    { "name": "Michael Shellenberger / Public", "type": "rss", "url": "https://www.public.news/feed", "category": "news", "active": true },
+    { "name": "The Free Press (Bari Weiss)", "type": "rss", "url": "https://www.thefp.com/feed", "category": "news", "active": true },
+    { "name": "Matt Taibbi / Racket News", "type": "rss", "url": "https://www.racket.news/feed", "category": "news", "active": true },
+    { "name": "Lee Fang", "type": "rss", "url": "https://leefang.substack.com/feed", "category": "news", "active": true },
+    { "name": "Andy Ngo / Ngo Comment", "type": "rss", "url": "https://www.ngocomment.com/feed", "category": "news", "active": true },
+    { "name": "Alex Berenson / Unreported Truths", "type": "rss", "url": "https://alexberenson.substack.com/feed", "category": "news", "active": true },
+    { "name": "David Zweig / Silent Lunch", "type": "rss", "url": "https://www.silentlunch.net/feed", "category": "news", "active": true },
+    { "name": "Robby Soave / Reason", "type": "rss", "url": "https://reason.com/author/robby-soave/feed/", "category": "news", "active": true },
+    { "name": "Michael Tracey", "type": "rss", "url": "https://www.mtracey.net/feed", "category": "news", "active": true },
+    { "name": "Julie Kelly / J6", "type": "rss", "url": "https://juliekelly.substack.com/feed", "category": "news", "active": true },
+    { "name": "Kat Rosenfield", "type": "rss", "url": "https://katrosenfield.substack.com/feed", "category": "news", "active": true },
+    { "name": "Colin Wright / Reality's Last Stand", "type": "rss", "url": "https://colinwright.substack.com/feed", "category": "news", "active": true },
+    { "name": "Wesley Yang / Year Zero", "type": "rss", "url": "https://wesleyyang.substack.com/feed", "category": "news", "active": true },
+    { "name": "Chris Rufo", "type": "rss", "url": "https://chrisrufo.substack.com/feed", "category": "news", "active": true },
+    { "name": "Nellie Bowles / TGIF", "type": "rss", "url": "https://www.thefp.com/author/nellie-bowles/feed", "category": "news", "active": true },
+    { "name": "John Tierney / City Journal", "type": "rss", "url": "https://www.city-journal.org/author/john-tierney/feed", "category": "news", "active": true },
+    { "name": "Miranda Devine / NY Post", "type": "rss", "url": "https://nypost.com/author/miranda-devine/feed/", "category": "news", "active": true },
+    { "name": "Jim Bovard", "type": "rss", "url": "https://jimbovard.substack.com/feed", "category": "news", "active": true },
+    { "name": "Greg Lukianoff / FIRE", "type": "rss", "url": "https://greglukianoff.substack.com/feed", "category": "news", "active": true },
+    { "name": "Jonathan Haidt / After Babel", "type": "rss", "url": "https://jonathanhaidt.substack.com/feed", "category": "news", "active": true },
+    { "name": "Ayaan Hirsi Ali / Restoration", "type": "rss", "url": "https://ayaanhirsiali.substack.com/feed", "category": "news", "active": true },
+    { "name": "Jesse Singal / Singal-Minded", "type": "rss", "url": "https://jessesingal.substack.com/feed", "category": "news", "active": true },
+    { "name": "Andrew Sullivan / The Weekly Dish", "type": "rss", "url": "https://andrewsullivan.substack.com/feed", "category": "news", "active": true }
   ],
-  "archive": [
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#649 - Nate Diaz &amp; Chris Avila",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER3597232449.mp3?updated=1774943232",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER3597232449.mp3?updated=1774943232",
-      "date": "2026-03-31T13:00:00.000Z",
-      "duration": "6394",
-      "image": "https://megaphone.imgix.net/podcasts/82562a92-2cd2-11f1-ab3f-2f8e6fc2d797/image/62ae8a3fe7bf955f6f3e63208cbd47c8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Nate Diaz and Chris Avila are MMA fighters from Stockton, CA. Nate will fight Mike Perry and Chris will fight Brandon Jenkins for the MVP card live on Netflix May 16th.\n\nNate and Chris join Theo to talk about what the vibes in the 209 are really like, making their acting debut in “Busboys”, and Nate’s vision for where his fighting career goes next. \n\nNate Diaz: https://www.instagram.com/natediaz20",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#762 - ARI SHAFFIR + KEVIN RYAN + H. FOLEY",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU7176175174.mp3?updated=1774881391",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU7176175174.mp3?updated=1774881391",
-      "date": "2026-03-31T01:00:00.000Z",
-      "duration": "8376",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ari Shaffir, Kevin Ryan, H. Foley, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/09/2026\n\n\n\nSign up for your one-dollar-per-month trial today at https://shopify.com/killtony\n\n\n\nTry QUO for free PLUS get 20% off your first 6 months when you go to https://quo.co",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How Hormones Shape Sexual Orientation &amp; Behavior | Dr. Marc Breedlove",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM4059718139.mp3?updated=1774849241",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-hormones-shape-sexual-orientation-and-behavior-marc-breedlove",
-      "date": "2026-03-30T08:00:00.000Z",
-      "duration": "7892",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Marc Breedlove, PhD, is a professor of neuroscience at Michigan State University and an expert on how hormones shape brain development and sexual orientation. We discuss how prenatal testosterone impacts whether someone is romantically attracted to men or women later in life, and what correlates of sexual orientation — such as finger-length ratios — tell us about the role of hormones in brain ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E266_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
-      "date": "2026-03-27T20:03:00.000Z",
-      "duration": "01:20:11",
-      "image": "https://static.libsyn.com/p/assets/9/7/9/6/979607b459154e0b16c3140a3186d450/1_Pod_E266.png",
-      "desc": "(0:00) Bestie intros!: Friedberg for Governor of California? (2:25) Anthropic's generational run (15:45) OpenAI: getting focused or panic mode? (36:56) AI valuation impacts, moats, and disruption (43:58) Liquidity speaker announcements, the 100x AI moment (50:35) Two landmark social media verdicts against Meta (1:12:46) Sacks and Friedberg join PCAST! Follow the besties: https://x.com/chamath http",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#494 – Jensen Huang: NVIDIA &#8211; The $4 Trillion Company &#038; the AI Revolution",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
-      "listenUrl": "https://lexfridman.com/jensen-huang/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jensen-huang",
-      "date": "2026-03-23T16:28:42.000Z",
-      "duration": "",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/jensen-huang-transcript\nCONTACT LEX",
-      "guestTags": [
-        "Jensen Huang"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "Molly Bloom: Power, Overcoming Fear, &amp; The Darkness of Human Nature",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18761744-molly-bloom-power-overcoming-fear-the-darkness-of-human-nature.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18761744-molly-bloom-power-overcoming-fear-the-darkness-of-human-nature.mp3",
-      "date": "2026-02-28T16:00:00.000Z",
-      "duration": "12432",
-      "image": "https://storage.buzzsprout.com/vu5mmo4cvitiercwp4m07edkhbfp?.jpg",
-      "desc": "Molly Bloom is the real-life inspiration behind the Oscar-nominated film Molly’s Game. She built and ran the most exclusive high-stakes underground poker game in the world, attended by celebrities, billionaires, and powerful figures. In this interview, we discuss power, overcoming fear, self-talk, mental toughness, and the darker sides of human nature—along with the rise, collapse, and hard lesson",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYnV6enNw",
-      "show": "Danny Jones Podcast",
-      "title": "Ep.14 - #1 Whisky of 2022 Part 2 of 2",
-      "audioUrl": "https://www.buzzsprout.com/2048958/episodes/11903218-ep-14-1-whisky-of-2022-part-2-of-2.mp3",
-      "listenUrl": "https://www.buzzsprout.com/2048958/episodes/11903218-ep-14-1-whisky-of-2022-part-2-of-2.mp3",
-      "date": "2022-12-22T02:00:00.000Z",
-      "duration": "1778",
-      "image": "https://storage.buzzsprout.com/e621f9lpp8ux69vq4nh5yoherxmy?.jpg",
-      "desc": "Part 2 of 2 episode this week, we follow on with last weeks episode to continue our bottle opens from SeaBreeze Cellars Dromana!",
-      "guestTags": []
-    }
+  "techSources": [
+    { "name": "Peter Diamandis / Metatrends", "type": "rss", "url": "https://metatrends.substack.com/feed", "active": true },
+    { "name": "Marc Andreessen", "type": "rss", "url": "https://pmarca.substack.com/feed", "active": true },
+    { "name": "Joe Lonsdale / 8VC", "type": "rss", "url": "https://blog.joelonsdale.com/feed", "active": true },
+    { "name": "Not Boring (Packy McCormick)", "type": "rss", "url": "https://www.notboring.co/feed", "active": true },
+    { "name": "Pirate Wires (Mike Solana)", "type": "rss", "url": "https://www.piratewires.com/feed", "active": true },
+    { "name": "a16z", "type": "rss", "url": "https://www.a16z.news/feed", "active": true },
+    { "name": "David Sacks / Bottom Up", "type": "rss", "url": "https://sacks.substack.com/feed", "active": true },
+    { "name": "Nic Carter / Murmurations", "type": "rss", "url": "https://niccarter1.substack.com/feed", "active": true },
+    { "name": "Bitcoin Magazine", "type": "rss", "url": "https://bitcoinmagazine.com/feed", "active": true },
+    { "name": "Balaji Srinivasan", "type": "rss", "url": "https://balajis.com/feed", "active": true },
+    { "name": "Techno-Optimist (Owen Lewis)", "type": "rss", "url": "https://technooptimist1.substack.com/feed", "active": true }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Jensen Huang": [
-      "aHR0cHM6Ly9tZWRpYS5ibHVi"
-    ]
-  }
+  "podcastSources": [
+    { "name": "The Joe Rogan Experience", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/GLT1412515089", "active": true },
+    { "name": "Shawn Ryan Show", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/WWO7410387571", "active": true },
+    { "name": "The Lex Fridman Podcast", "type": "podcast_rss", "url": "https://lexfridman.com/feed/podcast/", "active": true },
+    { "name": "All-In Podcast", "type": "podcast_rss", "url": "https://allinchamathjason.libsyn.com/rss", "active": true },
+    { "name": "Theo Von - This Past Weekend", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/thispastweekend", "active": true },
+    { "name": "The Jordan B. Peterson Podcast", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/BVDWV6444647327", "active": true },
+    { "name": "Huberman Lab", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/hubermanlab", "active": true },
+    { "name": "Kill Tony", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/killtony", "active": true },
+    { "name": "Part of the Problem (Dave Smith)", "type": "podcast_rss", "url": "https://rss.art19.com/part-of-the-problem", "active": true },
+    { "name": "Coin Stories (Natalie Brunell)", "type": "podcast_rss", "url": "https://feeds.buzzsprout.com/1052956.rss", "active": true },
+    { "name": "Danny Jones Podcast", "type": "podcast_rss", "url": "https://feeds.buzzsprout.com/2048958.rss", "active": true },
+    { "name": "Dalton Fischer Podcast", "type": "podcast_rss", "url": "https://feeds.buzzsprout.com/2373344.rss", "active": true },
+    { "name": "After Party with Emily Jashinsky", "type": "podcast_rss", "url": "https://feeds.simplecast.com/SBwa8H9v", "active": true },
+    { "name": "Julian Dorey Podcast", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/QCD7565826865", "active": true },
+    { "name": "The Watch Floor (Sarah Adams)", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/QCD6055875541", "active": true },
+    { "name": "John Kiriakou", "type": "podcast_rss", "url": "https://johnkiriakou.substack.com/feed", "active": false },
+    { "name": "Martin Shkreli", "type": "podcast_rss", "url": "https://martinshkreli.substack.com/feed", "active": false },
+    { "name": "Let's Appreciate (Kyla Scanlon)", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/SCI8924001060", "active": false },
+    { "name": "Roaring Kitty (Keith Gill)", "type": "podcast_rss", "url": "", "active": false },
+    { "name": "Ellie in Space", "type": "podcast_rss", "url": "", "active": false }
+  ],
+  "videoSources": [
+    { "name": "Joe Rogan", "channelId": "UCzWQYUVCpZqtN93H8RR44Qw", "active": true },
+    { "name": "Lex Fridman", "channelId": "UCSHZKyawb77ixDdsGog4iWA", "active": true },
+    { "name": "Jordan Peterson", "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q", "active": true },
+    { "name": "Huberman Lab", "channelId": "UC2D2CMWXMOVWx7giW1n3LIg", "active": true },
+    { "name": "Shawn Ryan Show", "channelId": "UCkoujZQZatbqy4KGcgjpVxQ", "active": true },
+    { "name": "All-In Podcast", "channelId": "UCESLZhusAkFfsNsApnjF_Cg", "active": true },
+    { "name": "Theo Von", "channelId": "UCiEKV_MOhwZ7OEcgFyLKilw", "active": true },
+    { "name": "Kill Tony", "channelId": "UCwzCMiicL-hBUzyjWiJaseg", "active": true },
+    { "name": "The Free Press", "channelId": "UC5AQEUAwCh1sGDvkQtkDWUQ", "active": true },
+    { "name": "Danny Jones Podcast", "channelId": "UCbtV5L8TVB0zQ9khThGApLw", "active": true }
+  ],
+  "watchedVoices": [
+    { "name": "Glenn Greenwald", "keywords": ["Greenwald", "Glenn Greenwald"], "active": true },
+    { "name": "Matt Taibbi", "keywords": ["Taibbi", "Matt Taibbi"], "active": true },
+    { "name": "Bari Weiss", "keywords": ["Bari Weiss"], "active": true },
+    { "name": "Michael Shellenberger", "keywords": ["Shellenberger", "Michael Shellenberger"], "active": true },
+    { "name": "Lee Fang", "keywords": ["Lee Fang"], "active": true },
+    { "name": "Andy Ngo", "keywords": ["Andy Ngo"], "active": true },
+    { "name": "Alex Berenson", "keywords": ["Berenson", "Alex Berenson"], "active": true },
+    { "name": "David Zweig", "keywords": ["Zweig", "David Zweig"], "active": true },
+    { "name": "Robby Soave", "keywords": ["Soave", "Robby Soave"], "active": true },
+    { "name": "John Kiriakou", "keywords": ["Kiriakou", "John Kiriakou"], "active": true },
+    { "name": "Martin Shkreli", "keywords": ["Shkreli", "Martin Shkreli"], "active": true },
+    { "name": "Sarah Adams", "keywords": ["Sarah Adams", "Watch Floor"], "active": true },
+    { "name": "Dave Smith", "keywords": ["Dave Smith", "Part of the Problem"], "active": true },
+    { "name": "Emily Jashinsky", "keywords": ["Jashinsky", "Emily Jashinsky", "After Party"], "active": true },
+    { "name": "Julian Dorey", "keywords": ["Julian Dorey", "JDP"], "active": true },
+    { "name": "Kyla Scanlon", "keywords": ["Kyla Scanlon"], "active": true },
+    { "name": "Roaring Kitty", "keywords": ["Roaring Kitty", "Keith Gill", "GameStop"], "active": true },
+    { "name": "Ellie in Space", "keywords": ["Ellie in Space", "Eliana Sheriff"], "active": true },
+    { "name": "Elon Musk", "keywords": ["Elon Musk", "Elon", "SpaceX", "Tesla", "xAI", "Starship", "DOGE"], "active": true },
+    { "name": "Palmer Luckey", "keywords": ["Palmer Luckey", "Anduril"], "active": true },
+    { "name": "Alex Karp", "keywords": ["Alex Karp", "Karp", "Palantir"], "active": true },
+    { "name": "Joe Lonsdale", "keywords": ["Lonsdale", "Joe Lonsdale", "8VC"], "active": true },
+    { "name": "Chamath", "keywords": ["Chamath", "Chamath Palihapitiya"], "active": true },
+    { "name": "Marc Andreessen", "keywords": ["Andreessen", "Marc Andreessen", "pmarca"], "active": true },
+    { "name": "David Sacks", "keywords": ["David Sacks", "Sacks"], "active": true },
+    { "name": "Balaji Srinivasan", "keywords": ["Balaji", "Balaji Srinivasan"], "active": true },
+    { "name": "Packy McCormick", "keywords": ["Packy McCormick", "Not Boring"], "active": true },
+    { "name": "Peter Diamandis", "keywords": ["Diamandis", "Peter Diamandis", "Abundance360"], "active": true },
+    { "name": "Jensen Huang", "keywords": ["Jensen Huang", "Jensen", "Nvidia", "NVDA"], "active": true },
+    { "name": "Michael Tracey", "keywords": ["Michael Tracey", "Tracey"], "active": true },
+    { "name": "Julie Kelly", "keywords": ["Julie Kelly"], "active": true },
+    { "name": "Colin Wright", "keywords": ["Colin Wright"], "active": true },
+    { "name": "Wesley Yang", "keywords": ["Wesley Yang"], "active": true },
+    { "name": "Chris Rufo", "keywords": ["Rufo", "Chris Rufo"], "active": true },
+    { "name": "Miranda Devine", "keywords": ["Miranda Devine"], "active": true },
+    { "name": "Jim Bovard", "keywords": ["Bovard", "Jim Bovard"], "active": true },
+    { "name": "Andrew Sullivan", "keywords": ["Andrew Sullivan", "Sullivan"], "active": true },
+    { "name": "Ayaan Hirsi Ali", "keywords": ["Ayaan Hirsi Ali", "Ayaan"], "active": true },
+    { "name": "Jesse Singal", "keywords": ["Jesse Singal", "Singal"], "active": true }
+  ]
 }
