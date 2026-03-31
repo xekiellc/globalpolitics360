@@ -361,14 +361,21 @@ async function main() {
   var existingArticles = { articles: [] };
   var existingTech     = { articles: [] };
   var existingPodcasts = { latest: [], archive: [] };
+  var existingArchive  = { articles: [] };
+
   try { existingArticles = JSON.parse(fs.readFileSync('articles.json', 'utf-8')); } catch(e) {}
   try { existingTech     = JSON.parse(fs.readFileSync('tech.json',     'utf-8')); } catch(e) {}
   try { existingPodcasts = JSON.parse(fs.readFileSync('podcasts.json', 'utf-8')); } catch(e) {}
+  try { existingArchive  = JSON.parse(fs.readFileSync('archive.json',  'utf-8')); } catch(e) {}
 
   var existingArticleIds = {};
   (existingArticles.articles || []).forEach(function(a) { existingArticleIds[a.id] = true; });
   var existingTechIds = {};
   (existingTech.articles || []).forEach(function(a) { existingTechIds[a.id] = true; });
+
+  // Build archive map from existing archive — this is the permanent store
+  var archiveMap = {};
+  (existingArchive.articles || []).forEach(function(a) { archiveMap[a.id] = a; });
 
   // NEWS
   console.log('\n--- NEWS ---');
@@ -391,11 +398,13 @@ async function main() {
   });
   allArticles.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
 
+  // Teaser cache — pull from both articles.json and archive.json
   var teaserCache = {};
   (existingArticles.articles || []).forEach(function(a) { if (a.teaser) teaserCache[a.id] = a.teaser; });
+  (existingArchive.articles  || []).forEach(function(a) { if (a.teaser) teaserCache[a.id] = a.teaser; });
   allArticles = allArticles.map(function(a) { return Object.assign({}, a, { teaser: teaserCache[a.id] || '' }); });
 
-  var newArticles = allArticles.filter(function(a) { return !existingArticleIds[a.id]; });
+  var newArticles = allArticles.filter(function(a) { return !existingArticleIds[a.id] && !archiveMap[a.id]; });
   if (newArticles.length >= MIN_NEW_ARTICLES) {
     var NBATCH = 20;
     for (var ni = 0; ni < newArticles.length; ni += NBATCH) {
@@ -407,12 +416,24 @@ async function main() {
     allArticles = allArticles.map(function(a) { return Object.assign({}, a, { teaser: teaserCache[a.id] || '' }); });
   }
 
+  // Write articles.json — front page only, capped at MAX_ARTICLES
   fs.writeFileSync('articles.json', JSON.stringify({
     lastUpdated:  new Date().toISOString(),
     articleCount: Math.min(allArticles.length, MAX_ARTICLES),
     articles:     allArticles.slice(0, MAX_ARTICLES)
   }, null, 2));
   console.log('v articles.json: ' + Math.min(allArticles.length, MAX_ARTICLES));
+
+  // Write archive.json — accumulates forever, never truncated
+  allArticles.forEach(function(a) { archiveMap[a.id] = a; });
+  var fullNewsArchive = Object.values(archiveMap)
+    .sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
+  fs.writeFileSync('archive.json', JSON.stringify({
+    lastUpdated:   new Date().toISOString(),
+    articleCount:  fullNewsArchive.length,
+    articles:      fullNewsArchive
+  }, null, 2));
+  console.log('v archive.json: ' + fullNewsArchive.length + ' total articles');
 
   // TECH ABUNDANCE
   console.log('\n--- TECH ABUNDANCE ---');
@@ -511,10 +532,10 @@ async function main() {
   });
   latestEpisodes.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
 
-  var archiveMap = {};
-  (existingPodcasts.archive || []).forEach(function(e) { archiveMap[e.id] = e; });
-  allEpisodes.forEach(function(e) { archiveMap[e.id] = e; });
-  var fullArchive = Object.values(archiveMap)
+  var podArchiveMap = {};
+  (existingPodcasts.archive || []).forEach(function(e) { podArchiveMap[e.id] = e; });
+  allEpisodes.forEach(function(e) { podArchiveMap[e.id] = e; });
+  var fullArchive = Object.values(podArchiveMap)
     .sort(function(a, b) { return new Date(b.date) - new Date(a.date); })
     .slice(0, MAX_PODCAST_ARCHIVE);
 
