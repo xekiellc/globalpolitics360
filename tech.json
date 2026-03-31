@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-03-31T15:54:43.461Z",
+  "lastUpdated": "2026-03-31T16:09:33.797Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitfarms (BITF) Started Selling All of Its Bitcoin, Pivoting Fully to AI Infrastructure",
+      "url": "https://bitcoinmagazine.com/news/bitfarms-bitf-selling-its-bitcoin",
+      "date": "2026-03-31T16:05:26.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Pics-30.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "IT: The 6T Industry that Silicon Valley Hardly Ever Thinks About",
+      "url": "https://www.a16z.news/p/it-the-6t-industry-that-silicon-valley",
+      "date": "2026-03-31T16:05:02.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b9adb5c4-a640-45f4-8963-5102ec6e9434_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Treeline",
+      "url": "https://www.a16z.news/p/investing-in-treeline",
+      "date": "2026-03-31T16:03:41.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6bbcc601-227b-48f7-857e-47a7e11724de_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Google’s New Quantum Research Reignites Push to Harden Bitcoin",
       "url": "https://bitcoinmagazine.com/news/googles-quantum-research-harden-bitcoin",
@@ -88,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/featured/morgan-stanley-set-to-undercut-bitcoin",
       "date": "2026-03-27T21:52:35.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Morgan-Stanley-Set-to-Undercut-Bitcoin-ETF-Rivals-With-0.14-Fee-Ahead-of-Launch.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Fear and Greed Index Hits Extreme Fear at 13 Out of 100",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-fear-index-hits-extreme-fear",
-      "date": "2026-03-27T16:14:53.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/bitcoin-fear-and-greed-index-hits-extreme-fear-at-.webp",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -322,24 +340,6 @@
       "url": "https://www.a16z.news/p/institutional-ai-vs-individual-ai",
       "date": "2026-03-12T14:02:51.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/3f163a9c-ddef-430b-ab13-bd717ac631df_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Mind Robotics",
-      "url": "https://www.a16z.news/p/investing-in-mind-robotics",
-      "date": "2026-03-11T15:03:07.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5d2cfdcd-0731-4eaf-b9e1-f7651b086dbc_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "The world needs an AI lab — for Data",
-      "url": "https://www.a16z.news/p/the-world-needs-an-ai-lab-for-data",
-      "date": "2026-03-11T14:02:38.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/652063b5-b7a2-4dc5-83cf-c947aafb42dd_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
