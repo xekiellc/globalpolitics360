@@ -164,6 +164,14 @@
     .last-updated { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--gray); letter-spacing: .06em; text-align: right; margin-bottom: 16px; }
     .last-updated span { color: var(--light-gray); }
 
+    /* ── ARCHIVE SEARCH ── */
+    .archive-search-wrap { margin-bottom: 20px; }
+    .archive-search-input { background: var(--ink); border: 1px solid var(--border); color: var(--paper); font-family: 'IBM Plex Mono', monospace; font-size: 12px; padding: 10px 16px; width: 100%; max-width: 500px; outline: none; letter-spacing: .04em; transition: border-color .2s; }
+    .archive-search-input:focus { border-color: var(--gold); }
+    .archive-count { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--gray); letter-spacing: .06em; margin-top: 8px; }
+    .archive-load-more { width: 100%; background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; padding: 12px; cursor: pointer; margin-top: 1px; transition: all .2s; }
+    .archive-load-more:hover { border-color: var(--gold); color: var(--gold); }
+
     /* ── PODCAST FILTERS ── */
     .podcast-show-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; align-items: center; }
     .filter-btn { background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: .12em; text-transform: uppercase; padding: 6px 14px; cursor: pointer; transition: all .2s; }
@@ -215,8 +223,8 @@
     .archive-ep-guest-tags { display: flex; flex-wrap: wrap; gap: 3px; margin-top: 4px; }
     .archive-ep-link { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--red); letter-spacing: .1em; text-transform: uppercase; text-decoration: none; white-space: nowrap; }
     .archive-ep-link:hover { color: var(--gold); }
-    .archive-load-more { width: 100%; background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; padding: 12px; cursor: pointer; margin-top: 1px; transition: all .2s; }
-    .archive-load-more:hover { border-color: var(--gold); color: var(--gold); }
+    .archive-load-more-pod { width: 100%; background: var(--ink); border: 1px solid var(--border); color: var(--light-gray); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; padding: 12px; cursor: pointer; margin-top: 1px; transition: all .2s; }
+    .archive-load-more-pod:hover { border-color: var(--gold); color: var(--gold); }
 
     /* ── NEWS ARCHIVE ── */
     .news-archive-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
@@ -322,9 +330,14 @@
   <!-- ── ARCHIVE TAB ── -->
   <div id="tab-archive" class="tab-panel">
     <div class="section-header"><h2>Article Archive</h2><hr /></div>
-    <div id="newsArchiveList" class="news-archive-list">
-      <div class="empty-state"><p>Archive loads after first refresh cycle.</p></div>
+    <div class="archive-search-wrap">
+      <input type="text" class="archive-search-input" id="newsArchiveSearch" placeholder="Search by title or source..." oninput="filterNewsArchive()" />
+      <div class="archive-count" id="newsArchiveCount"></div>
     </div>
+    <div id="newsArchiveList" class="news-archive-list">
+      <div class="empty-state"><p>Loading archive...</p></div>
+    </div>
+    <button class="archive-load-more" id="newsArchiveLoadMore" onclick="loadMoreNewsArchive()" style="display:none">Load More Articles ▼</button>
   </div>
 
   <!-- ── TECH ABUNDANCE TAB ── -->
@@ -379,7 +392,7 @@
       <div id="podcastArchiveList" class="podcast-archive-list">
         <div class="empty-state"><p>Archive loads after first refresh cycle.</p></div>
       </div>
-      <button class="archive-load-more" id="archiveLoadMore" onclick="loadMoreArchive()" style="display:none">Load More Episodes ▼</button>
+      <button class="archive-load-more-pod" id="archiveLoadMore" onclick="loadMoreArchive()" style="display:none">Load More Episodes ▼</button>
     </div>
   </div>
 
@@ -396,7 +409,14 @@
         <li>Bari Weiss / The Free Press</li><li>Matt Taibbi / Racket News</li>
         <li>Lee Fang</li><li>Andy Ngo / Ngo Comment</li>
         <li>Alex Berenson</li><li>David Zweig</li>
-        <li>Robby Soave / Reason</li><li>&nbsp;</li>
+        <li>Robby Soave / Reason</li><li>Michael Tracey</li>
+        <li>Julie Kelly</li><li>Kat Rosenfield</li>
+        <li>Colin Wright</li><li>Wesley Yang</li>
+        <li>Chris Rufo</li><li>Nellie Bowles</li>
+        <li>John Tierney</li><li>Miranda Devine</li>
+        <li>Jim Bovard</li><li>Greg Lukianoff</li>
+        <li>Jonathan Haidt</li><li>Ayaan Hirsi Ali</li>
+        <li>Jesse Singal</li><li>Andrew Sullivan</li>
       </ul>
       <h2>Tech Abundance</h2>
       <ul class="sources-list">
@@ -497,6 +517,7 @@
     return s;
   }
 
+  // ── NEWS ──────────────────────────────────────────────────────────────────
   async function loadArticles() {
     try {
       const res = await fetch('articles.json?t=' + Date.now());
@@ -511,10 +532,67 @@
       renderFeatured(arts[0], false);
       renderGrid(arts.slice(1,7), 'articlesGrid', false);
       renderLinks(arts.slice(7), 'linkList', false);
-      renderNewsArchive(arts);
     } catch(e) { console.log('Articles not ready'); }
   }
 
+  // ── NEWS ARCHIVE (from archive.json — unlimited) ──────────────────────────
+  let allNewsArchive    = [];
+  let newsArchiveShowing = 50;
+
+  async function loadNewsArchive() {
+    try {
+      const res = await fetch('archive.json?t=' + Date.now());
+      if (!res.ok) throw new Error('no archive');
+      const data = await res.json();
+      allNewsArchive = data.articles || [];
+      renderNewsArchive();
+    } catch(e) {
+      // Fallback to articles.json if archive.json doesn't exist yet
+      try {
+        const res2 = await fetch('articles.json?t=' + Date.now());
+        const data2 = await res2.json();
+        allNewsArchive = data2.articles || [];
+        renderNewsArchive();
+      } catch(e2) { console.log('Archive not ready'); }
+    }
+  }
+
+  function getFilteredNewsArchive() {
+    const q = (document.getElementById('newsArchiveSearch')?.value || '').toLowerCase().trim();
+    if (!q) return allNewsArchive;
+    return allNewsArchive.filter(a => {
+      return (a.title + ' ' + a.source).toLowerCase().includes(q);
+    });
+  }
+
+  function renderNewsArchive() {
+    const filtered = getFilteredNewsArchive();
+    const slice    = filtered.slice(0, newsArchiveShowing);
+    const el       = document.getElementById('newsArchiveList');
+    const moreBtn  = document.getElementById('newsArchiveLoadMore');
+    const countEl  = document.getElementById('newsArchiveCount');
+
+    if (countEl) countEl.textContent = filtered.length + ' articles';
+
+    if (!filtered.length) {
+      el.innerHTML = '<div class="empty-state"><p>No articles found.</p></div>';
+      moreBtn.style.display = 'none';
+      return;
+    }
+    el.innerHTML = slice.map(a => `
+      <a class="news-archive-item" href="${esc(a.url)}" target="_blank" rel="noopener">
+        <div class="news-archive-date">${fmtDate(a.date)}</div>
+        <div class="news-archive-title">${esc(a.title)}</div>
+        <div class="news-archive-source">${esc(a.source)}</div>
+      </a>`).join('');
+    moreBtn.style.display = filtered.length > newsArchiveShowing ? '' : 'none';
+    moreBtn.textContent = `Load More Articles ▼ (${filtered.length - newsArchiveShowing} remaining)`;
+  }
+
+  function filterNewsArchive()    { newsArchiveShowing = 50; renderNewsArchive(); }
+  function loadMoreNewsArchive()  { newsArchiveShowing += 50; renderNewsArchive(); }
+
+  // ── TECH ABUNDANCE ────────────────────────────────────────────────────────
   async function loadTech() {
     try {
       const res = await fetch('tech.json?t=' + Date.now());
@@ -578,17 +656,7 @@
     });
   }
 
-  function renderNewsArchive(arts) {
-    const el = document.getElementById('newsArchiveList');
-    if (!arts.length) return;
-    el.innerHTML = arts.map(a => `
-      <a class="news-archive-item" href="${esc(a.url)}" target="_blank" rel="noopener">
-        <div class="news-archive-date">${fmtDate(a.date)}</div>
-        <div class="news-archive-title">${esc(a.title)}</div>
-        <div class="news-archive-source">${esc(a.source)}</div>
-      </a>`).join('');
-  }
-
+  // ── PODCASTS ──────────────────────────────────────────────────────────────
   let allLatestEps   = [];
   let allArchiveEps  = [];
   let guestIndex     = {};
@@ -713,10 +781,12 @@
     moreBtn.textContent   = `Load More Episodes ▼ (${filtered.length - archiveShowing} remaining)`;
   }
 
-  function filterArchive()  { archiveShowing = 50; renderArchive(); }
-  function loadMoreArchive() { archiveShowing += 50; renderArchive(); }
+  function filterArchive()    { archiveShowing = 50; renderArchive(); }
+  function loadMoreArchive()  { archiveShowing += 50; renderArchive(); }
 
+  // ── BOOT ──────────────────────────────────────────────────────────────────
   loadArticles();
+  loadNewsArchive();
   loadTech();
   loadPodcasts();
 </script>
