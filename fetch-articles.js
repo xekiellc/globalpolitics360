@@ -17,6 +17,7 @@ const MIN_NEW_ARTICLES    = 1;
 const NEWS_TIMEOUT_MS     = 25000;
 const PODCAST_TIMEOUT_MS  = 30000;
 const RSS2JSON_BASE       = 'https://api.rss2json.com/v1/api.json?rss_url=';
+const ALLORIGINS_BASE     = 'https://api.allorigins.win/raw?url=';
 
 function httpGet(url, timeoutMs) {
   if (!timeoutMs) timeoutMs = NEWS_TIMEOUT_MS;
@@ -146,19 +147,43 @@ function parseRss2JsonResponse(jsonText, sourceName) {
   }
 }
 
+function isSubstack(url) {
+  return url.indexOf('substack.com') !== -1;
+}
+
 async function fetchFeedWithFallback(src, timeoutMs) {
+  // 1 — direct fetch
   try {
     var xml = await httpGet(src.url, timeoutMs);
     var items = parseNewsRSS(xml, src.name);
     if (items.length > 0) return { items: items, method: 'direct' };
   } catch(e) {}
 
-  if (src.url.indexOf('substack.com') !== -1) {
+  // 2 — rss2json proxy (good for Substack)
+  if (isSubstack(src.url)) {
     try {
       var proxyUrl = RSS2JSON_BASE + encodeURIComponent(src.url) + '&count=20';
       var jsonText = await httpGet(proxyUrl, timeoutMs);
       var proxyItems = parseRss2JsonResponse(jsonText, src.name);
-      if (proxyItems.length > 0) return { items: proxyItems, method: 'proxy' };
+      if (proxyItems.length > 0) return { items: proxyItems, method: 'rss2json' };
+    } catch(e) {}
+  }
+
+  // 3 — allorigins proxy (works for any blocked URL)
+  try {
+    var aoUrl = ALLORIGINS_BASE + encodeURIComponent(src.url);
+    var aoXml = await httpGet(aoUrl, timeoutMs);
+    var aoItems = parseNewsRSS(aoXml, src.name);
+    if (aoItems.length > 0) return { items: aoItems, method: 'allorigins' };
+  } catch(e) {}
+
+  // 4 — allorigins + rss2json combo (last resort for stubborn Substack feeds)
+  if (isSubstack(src.url)) {
+    try {
+      var comboUrl = RSS2JSON_BASE + encodeURIComponent(ALLORIGINS_BASE + encodeURIComponent(src.url)) + '&count=20';
+      var comboText = await httpGet(comboUrl, timeoutMs);
+      var comboItems = parseRss2JsonResponse(comboText, src.name);
+      if (comboItems.length > 0) return { items: comboItems, method: 'combo' };
     } catch(e) {}
   }
 
@@ -378,7 +403,7 @@ async function main() {
     try {
       console.log('[NEWS] ' + src.name);
       var r = await fetchFeedWithFallback(src, NEWS_TIMEOUT_MS);
-      console.log('  v ' + r.items.length + (r.method === 'proxy' ? ' (proxy)' : ''));
+      console.log('  v ' + r.items.length + (r.method !== 'direct' ? ' (' + r.method + ')' : ''));
       allArticles = allArticles.concat(r.items);
     } catch(e) { console.warn('  x ' + src.name + ': ' + e.message); }
   }
@@ -422,7 +447,7 @@ async function main() {
     try {
       console.log('[TECH] ' + tsrc.name);
       var tr = await fetchFeedWithFallback(tsrc, NEWS_TIMEOUT_MS);
-      console.log('  v ' + tr.items.length + (tr.method === 'proxy' ? ' (proxy)' : ''));
+      console.log('  v ' + tr.items.length + (tr.method !== 'direct' ? ' (' + tr.method + ')' : ''));
       allTechArticles = allTechArticles.concat(tr.items);
     } catch(e) { console.warn('  x ' + tsrc.name + ': ' + e.message); }
   }
