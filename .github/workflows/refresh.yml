@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "GP360 Bot"
           git config user.email "bot@globalpolitics360.com"
-          git add articles.json podcasts.json tech.json archive.json
+          git add articles.json podcasts.json tech.json archive.json videos.json
           git diff --staged --quiet || git commit -m "chore: auto-refresh articles $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
