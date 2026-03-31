@@ -66,12 +66,12 @@
     { "name": "Lex Fridman", "channelId": "UCSHZKyawb77ixDdsGog4iWA", "active": true },
     { "name": "Jordan Peterson", "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q", "active": true },
     { "name": "Huberman Lab", "channelId": "UC2D2CMWXMOVWx7giW1n3LIg", "active": true },
-    { "name": "Shawn Ryan Show", "channelId": "UCNfl7ZiSPJfVVbD_oUFXFhg", "active": true },
+    { "name": "Shawn Ryan Show", "channelId": "UCkoujZQZatbqy4KGcgjpVxQ", "active": true },
     { "name": "All-In Podcast", "channelId": "UCESLZhusAkFfsNsApnjF_Cg", "active": true },
-    { "name": "Theo Von", "channelId": "UC8Cnonb5sHVMJGOr8UnnrOQ", "active": true },
-    { "name": "Kill Tony", "channelId": "UCkpZBMOFdCFvwYhJrFTRpkA", "active": true },
-    { "name": "The Free Press", "channelId": "UCFp_xhpMnf8cDyEAewY3n-w", "active": true },
-    { "name": "Danny Jones Podcast", "channelId": "UCyGgBFOhNxQCLfFHk3z-nVg", "active": true }
+    { "name": "Theo Von", "channelId": "UCiEKV_MOhwZ7OEcgFyLKilw", "active": true },
+    { "name": "Kill Tony", "channelId": "UCwzCMiicL-hBUzyjWiJaseg", "active": true },
+    { "name": "The Free Press", "channelId": "UC5AQEUAwCh1sGDvkQtkDWUQ", "active": true },
+    { "name": "Danny Jones Podcast", "channelId": "UCbtV5L8TVB0zQ9khThGApLw", "active": true }
   ],
   "watchedVoices": [
     { "name": "Glenn Greenwald", "keywords": ["Greenwald", "Glenn Greenwald"], "active": true },
