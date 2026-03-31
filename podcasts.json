@@ -1,10 +1,46 @@
 {
-  "lastUpdated": "2026-03-31T16:25:58.556Z",
+  "lastUpdated": "2026-03-31T17:09:43.147Z",
   "showCount": 15,
   "episodeCount": 7,
   "archiveCount": 7,
-  "taggedCount": 394,
+  "taggedCount": 610,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2476 - Shanna H. Swan",
+      "audioUrl": "https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365",
+      "listenUrl": "https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365",
+      "date": "2026-03-31T17:00:00.000Z",
+      "duration": "6964",
+      "image": "https://megaphone.imgix.net/podcasts/05def176-2cb2-11f1-b9ba-ef6387fb594d/image/54c3b1ee35cf8c054a408c049bb9d3d7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Shanna H. Swan, PhD, is an environmental epidemiologist and author of “Count Down.” She is the director of The Action Science Initiative, a program within the Million Marker Institute, and is featured in the documentary “The Plastic Detox,” now streaming on Netflix.www.netflix.com/title/82074244www.simonandschuster.com/books/Count-Down/Shanna-H-Swan/9781982113674www.mmresearch.orgwww.shannaswan.co",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "Dalton Fischer Podcast",
+      "title": "Andy Stumpf: Lethality of SEAL Team 6, Hostage Rescue Missions &amp; Getting Shot With an AK-47",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18933188-andy-stumpf-lethality-of-seal-team-6-hostage-rescue-missions-getting-shot-with-an-ak-47.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18933188-andy-stumpf-lethality-of-seal-team-6-hostage-rescue-missions-getting-shot-with-an-ak-47.mp3",
+      "date": "2026-03-31T17:00:00.000Z",
+      "duration": "16024",
+      "image": "https://storage.buzzsprout.com/8zzie1tt42nvffd89fae137pjuiz?.jpg",
+      "desc": "Andy Stumpf spent 17 years as a Navy SEAL, including as a SEAL Team 6 Operator. During a combat deployment in Iraq, he was shot at close range by an AK-47. He returned to the battlefield six months later, and went on to earn 5 Bronze Star Medals with Valor and the Purple Heart before being medically retired in 2013. Post-military, he has set two wingsuit world records, jumping from 36,500 feet and",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Julian Dorey Podcast",
+      "title": "#403 - “They’re GHOSTS!” - Cartel Sheriff on Sinaloa’s Tunnels, Secret Scouts &amp; El ChapO",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9933089385.mp3?updated=1774964858",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9933089385.mp3?updated=1774964858",
+      "date": "2026-03-31T16:00:00.000Z",
+      "duration": "9069",
+      "image": "https://megaphone.imgix.net/podcasts/b87d0f84-2c9e-11f1-b368-b33c417a66d9/image/7a6544cf1568c6974a0e20c47c4b2fb5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "SPONSORS:\n1) PROTECT MY DATA: Go to https://protectmydata.com and use code JULIAN for 30% off all annual plans.\n2) AMENTARA: Check out Amentara at https://www.amentara.com/go/JULIAN and use code JD22 for 22% off your first order.\n3) MIZZEN &amp; MAIN: Get 20% off your first purchase at https://mizzenandmain.com with promo code JULIAN20.\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
@@ -18,42 +54,17 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#762 - ARI SHAFFIR + KEVIN RYAN + H. FOLEY",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU7176175174.mp3?updated=1774881391",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU7176175174.mp3?updated=1774881391",
-      "date": "2026-03-31T01:00:00.000Z",
-      "duration": "8376",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ari Shaffir, Kevin Ryan, H. Foley, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/09/2026\n\n\n\nSign up for your one-dollar-per-month trial today at https://shopify.com/killtony\n\n\n\nTry QUO for free PLUS get 20% off your first 6 months when you go to https://quo.co",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How Hormones Shape Sexual Orientation &amp; Behavior | Dr. Marc Breedlove",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM4059718139.mp3?updated=1774849241",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-hormones-shape-sexual-orientation-and-behavior-marc-breedlove",
-      "date": "2026-03-30T08:00:00.000Z",
-      "duration": "7892",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Marc Breedlove, PhD, is a professor of neuroscience at Michigan State University and an expert on how hormones shape brain development and sexual orientation. We discuss how prenatal testosterone impacts whether someone is romantically attracted to men or women later in life, and what correlates of sexual orientation — such as finger-length ratios — tell us about the role of hormones in brain ",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E266_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
-      "date": "2026-03-27T20:03:00.000Z",
-      "duration": "01:20:11",
-      "image": "https://static.libsyn.com/p/assets/9/7/9/6/979607b459154e0b16c3140a3186d450/1_Pod_E266.png",
-      "desc": "(0:00) Bestie intros!: Friedberg for Governor of California? (2:25) Anthropic's generational run (15:45) OpenAI: getting focused or panic mode? (36:56) AI valuation impacts, moats, and disruption (43:58) Liquidity speaker announcements, the 100x AI moment (50:35) Two landmark social media verdicts against Meta (1:12:46) Sacks and Friedberg join PCAST! Follow the besties: https://x.com/chamath http",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Barkley Gets Political, MAHA Revolt, and What the Legacy Media Exodus Exposes, with Shelby Talcott and Jason Willick",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/8ba95e5e-b2c5-49b8-8745-fef08212fd3e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=8ba95e5e-b2c5-49b8-8745-fef08212fd3e&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-03-31T11:00:00.000Z",
+      "duration": "01:17:01",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/9b41d3fc-da9d-413e-812c-b526f2d7e44d/3000x3000/ap_77_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show with a look at the identity politics that continues to infect our discourse with a peak example coming over the weekend out of Canada’s NDP convention as activists get into arguments over pronouns and “equity” procedures. Emily argues this makes it harder for the left to connect with average voters. Then Emily is joined by Shelby Talcott, Semafor White House Correspo",
       "guestTags": [
-        "Chamath",
-        "David Sacks"
+        "Emily Jashinsky"
       ]
     },
     {
@@ -69,18 +80,6 @@
       "guestTags": [
         "Jensen Huang"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "Molly Bloom: Power, Overcoming Fear, &amp; The Darkness of Human Nature",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18761744-molly-bloom-power-overcoming-fear-the-darkness-of-human-nature.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18761744-molly-bloom-power-overcoming-fear-the-darkness-of-human-nature.mp3",
-      "date": "2026-02-28T16:00:00.000Z",
-      "duration": "12432",
-      "image": "https://storage.buzzsprout.com/vu5mmo4cvitiercwp4m07edkhbfp?.jpg",
-      "desc": "Molly Bloom is the real-life inspiration behind the Oscar-nominated film Molly’s Game. She built and ran the most exclusive high-stakes underground poker game in the world, attended by celebrities, billionaires, and powerful figures. In this interview, we discuss power, overcoming fear, self-talk, mental toughness, and the darker sides of human nature—along with the rise, collapse, and hard lesson",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
@@ -97,6 +96,42 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2476 - Shanna H. Swan",
+      "audioUrl": "https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365",
+      "listenUrl": "https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365",
+      "date": "2026-03-31T17:00:00.000Z",
+      "duration": "6964",
+      "image": "https://megaphone.imgix.net/podcasts/05def176-2cb2-11f1-b9ba-ef6387fb594d/image/54c3b1ee35cf8c054a408c049bb9d3d7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Shanna H. Swan, PhD, is an environmental epidemiologist and author of “Count Down.” She is the director of The Action Science Initiative, a program within the Million Marker Institute, and is featured in the documentary “The Plastic Detox,” now streaming on Netflix.www.netflix.com/title/82074244www.simonandschuster.com/books/Count-Down/Shanna-H-Swan/9781982113674www.mmresearch.orgwww.shannaswan.co",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "Dalton Fischer Podcast",
+      "title": "Andy Stumpf: Lethality of SEAL Team 6, Hostage Rescue Missions &amp; Getting Shot With an AK-47",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18933188-andy-stumpf-lethality-of-seal-team-6-hostage-rescue-missions-getting-shot-with-an-ak-47.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18933188-andy-stumpf-lethality-of-seal-team-6-hostage-rescue-missions-getting-shot-with-an-ak-47.mp3",
+      "date": "2026-03-31T17:00:00.000Z",
+      "duration": "16024",
+      "image": "https://storage.buzzsprout.com/8zzie1tt42nvffd89fae137pjuiz?.jpg",
+      "desc": "Andy Stumpf spent 17 years as a Navy SEAL, including as a SEAL Team 6 Operator. During a combat deployment in Iraq, he was shot at close range by an AK-47. He returned to the battlefield six months later, and went on to earn 5 Bronze Star Medals with Valor and the Purple Heart before being medically retired in 2013. Post-military, he has set two wingsuit world records, jumping from 36,500 feet and",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Julian Dorey Podcast",
+      "title": "#403 - “They’re GHOSTS!” - Cartel Sheriff on Sinaloa’s Tunnels, Secret Scouts &amp; El ChapO",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9933089385.mp3?updated=1774964858",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9933089385.mp3?updated=1774964858",
+      "date": "2026-03-31T16:00:00.000Z",
+      "duration": "9069",
+      "image": "https://megaphone.imgix.net/podcasts/b87d0f84-2c9e-11f1-b368-b33c417a66d9/image/7a6544cf1568c6974a0e20c47c4b2fb5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "SPONSORS:\n1) PROTECT MY DATA: Go to https://protectmydata.com and use code JULIAN for 30% off all annual plans.\n2) AMENTARA: Check out Amentara at https://www.amentara.com/go/JULIAN and use code JD22 for 22% off your first order.\n3) MIZZEN &amp; MAIN: Get 20% off your first purchase at https://mizzenandmain.com with promo code JULIAN20.\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
       "title": "#649 - Nate Diaz &amp; Chris Avila",
@@ -109,42 +144,17 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#762 - ARI SHAFFIR + KEVIN RYAN + H. FOLEY",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU7176175174.mp3?updated=1774881391",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU7176175174.mp3?updated=1774881391",
-      "date": "2026-03-31T01:00:00.000Z",
-      "duration": "8376",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ari Shaffir, Kevin Ryan, H. Foley, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/09/2026\n\n\n\nSign up for your one-dollar-per-month trial today at https://shopify.com/killtony\n\n\n\nTry QUO for free PLUS get 20% off your first 6 months when you go to https://quo.co",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How Hormones Shape Sexual Orientation &amp; Behavior | Dr. Marc Breedlove",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM4059718139.mp3?updated=1774849241",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-hormones-shape-sexual-orientation-and-behavior-marc-breedlove",
-      "date": "2026-03-30T08:00:00.000Z",
-      "duration": "7892",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Marc Breedlove, PhD, is a professor of neuroscience at Michigan State University and an expert on how hormones shape brain development and sexual orientation. We discuss how prenatal testosterone impacts whether someone is romantically attracted to men or women later in life, and what correlates of sexual orientation — such as finger-length ratios — tell us about the role of hormones in brain ",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E266_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
-      "date": "2026-03-27T20:03:00.000Z",
-      "duration": "01:20:11",
-      "image": "https://static.libsyn.com/p/assets/9/7/9/6/979607b459154e0b16c3140a3186d450/1_Pod_E266.png",
-      "desc": "(0:00) Bestie intros!: Friedberg for Governor of California? (2:25) Anthropic's generational run (15:45) OpenAI: getting focused or panic mode? (36:56) AI valuation impacts, moats, and disruption (43:58) Liquidity speaker announcements, the 100x AI moment (50:35) Two landmark social media verdicts against Meta (1:12:46) Sacks and Friedberg join PCAST! Follow the besties: https://x.com/chamath http",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Barkley Gets Political, MAHA Revolt, and What the Legacy Media Exodus Exposes, with Shelby Talcott and Jason Willick",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/8ba95e5e-b2c5-49b8-8745-fef08212fd3e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=8ba95e5e-b2c5-49b8-8745-fef08212fd3e&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-03-31T11:00:00.000Z",
+      "duration": "01:17:01",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/9b41d3fc-da9d-413e-812c-b526f2d7e44d/3000x3000/ap_77_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show with a look at the identity politics that continues to infect our discourse with a peak example coming over the weekend out of Canada’s NDP convention as activists get into arguments over pronouns and “equity” procedures. Emily argues this makes it harder for the left to connect with average voters. Then Emily is joined by Shelby Talcott, Semafor White House Correspo",
       "guestTags": [
-        "Chamath",
-        "David Sacks"
+        "Emily Jashinsky"
       ]
     },
     {
@@ -162,18 +172,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "Molly Bloom: Power, Overcoming Fear, &amp; The Darkness of Human Nature",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18761744-molly-bloom-power-overcoming-fear-the-darkness-of-human-nature.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/18761744-molly-bloom-power-overcoming-fear-the-darkness-of-human-nature.mp3",
-      "date": "2026-02-28T16:00:00.000Z",
-      "duration": "12432",
-      "image": "https://storage.buzzsprout.com/vu5mmo4cvitiercwp4m07edkhbfp?.jpg",
-      "desc": "Molly Bloom is the real-life inspiration behind the Oscar-nominated film Molly’s Game. She built and ran the most exclusive high-stakes underground poker game in the world, attended by celebrities, billionaires, and powerful figures. In this interview, we discuss power, overcoming fear, self-talk, mental toughness, and the darker sides of human nature—along with the rise, collapse, and hard lesson",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
       "show": "Danny Jones Podcast",
       "title": "Ep.14 - #1 Whisky of 2022 Part 2 of 2",
@@ -187,10 +185,7 @@
     }
   ],
   "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "David Sacks": [
+    "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Jensen Huang": [
