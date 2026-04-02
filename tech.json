@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-04-02T09:42:05.790Z",
+  "lastUpdated": "2026-04-02T15:38:52.608Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "LNVPN Rebrands to Nadanada.me as Privacy Infrastructure Expands with Anonymous eSIMs and Lightning Payments",
+      "url": "https://bitcoinmagazine.com/business/lnvpn-rebrands-to-nadanada-me-as-privacy-infrastructure-expands-with-anonymous-esims-and-lightning-payments",
+      "date": "2026-04-02T15:36:18.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/image-e1775144126268.png",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Price Continues Sliding as President Trump Signals Iran Escalation, Raising Risk of Drop Toward $60,000",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-continues-sliding",
+      "date": "2026-04-02T14:47:38.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Price-Continues-Sliding-as-President-Trump-Signals-Iran-Escalation-Raising-Risk-of-Drop-Toward-60000.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Treasuries Are Cracking as Public Companies Turn into BTC Sellers",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-treasuries-are-cracking",
+      "date": "2026-04-02T14:19:10.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Treasuries-Are-Cracking-as-Public-Companies-Turn-into-Sellers.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Et Tu, Agent? Did You Install the Backdoor?",
+      "url": "https://www.a16z.news/p/et-tu-agent-did-you-install-the-backdoor",
+      "date": "2026-04-02T14:02:45.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ec5e30ae-f1ab-43b7-974b-5cefb6221b2f_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Bad Analogies",
+      "url": "https://www.notboring.co/p/bad-analogies",
+      "date": "2026-04-02T14:01:40.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!_5Nn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ec39fd3-f1f4-4132-a244-a0e2dee1de05_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Metaplanet Surpasses MARA Holdings to Become Third-Largest Corporate Bitcoin Holder",
+      "url": "https://bitcoinmagazine.com/news/metaplanet-surpasses-mara-holdings",
+      "date": "2026-04-02T13:40:25.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Metaplanet-Raises-255-Million-Eyes-531-Million-Bitcoin-Buying-Spree.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Interactive Brokers Adds Bitcoin Trading in European Economic Area",
       "url": "https://bitcoinmagazine.com/news/interactive-brokers-adds-bitcoin-trading",
@@ -57,49 +111,13 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Luxor Launches ‘Commander’ Fleet Management Software to Optimize Bitcoin Mining Operations",
-      "url": "https://bitcoinmagazine.com/news/luxor-launches-commander-fleet-software",
-      "date": "2026-04-01T14:09:10.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Luxor-Launches-‘Commander-Fleet-Management-Software-to-Optimize-Bitcoin-Mining-Operations.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "America’s Energy Problem Isn��t Supply. It’s Delivery.",
+      "title": "America’s Energy Problem Isn’t Supply. It’s Delivery.",
       "url": "https://www.a16z.news/p/americas-energy-problem-isnt-supply",
       "date": "2026-04-01T14:00:14.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/6d8e5587-1422-405b-8cc6-bbcaaedd54c4_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Franklin Templeton to Acquire CoinFund Spinoff for Institutional Crypto Push: WSJ",
-      "url": "https://bitcoinmagazine.com/news/franklin-templeton-to-crypto-coinfund",
-      "date": "2026-04-01T12:23:26.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Franklin-Templeton-to-Acquire-CoinFund-Spinoff-for-Institutional-Crypto-Push-WSJ.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Australia Passes Landmark Crypto Law, Mandates Licensing for Exchanges and Custodians",
-      "url": "https://bitcoinmagazine.com/news/australia-passes-landmark-crypto-law",
-      "date": "2026-04-01T12:05:11.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Australia-Passes-Landmark-Crypto-Law-Mandates-Licensing-for-Exchanges-and-Custodians.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "New Hampshire’s Bitcoin-Backed Municipal Bond Moves Closer With Moody’s Rating",
-      "url": "https://bitcoinmagazine.com/news/new-hampshires-bitcoin-municipal-bond",
-      "date": "2026-03-31T21:38:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/New-Hampshires-Bitcoin-Backed-Municipal-Bond-Moves-Closer-With-Moodys-Rating.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "IT: The 6T Industry that Silicon Valley Hardly Ever Thinks About",
@@ -318,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Charts of the Week: Monitoring the Situation in Hormuz",
-      "url": "https://www.a16z.news/p/charts-of-the-week-monitoring-the",
-      "date": "2026-03-13T14:03:19.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/addeeedf-bfeb-4a63-9fce-1f7fe79ec8ae_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #184",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-184",
       "date": "2026-03-13T12:54:26.000Z",
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-183",
       "date": "2026-03-06T14:02:45.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!qnHQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81df0dd2-5c1c-4190-83c9-9fb9d81f8428_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Costless Sacrifice",
-      "url": "https://www.notboring.co/p/costless-sacrifice",
-      "date": "2026-03-05T15:14:24.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!aAag!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ee42247-0602-415b-b1c7-388f9e83632b_1200x600.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
