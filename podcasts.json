@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-02T05:52:54.651Z",
+  "lastUpdated": "2026-04-02T09:42:11.883Z",
   "showCount": 15,
   "episodeCount": 7,
   "archiveCount": 7,
   "taggedCount": 610,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: How to Build Strength, Muscle Size &amp; Endurance | Dr. Andy Galpin",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM9369885937.mp3?updated=1775106274",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-build-strength-muscle-size-and-endurance-andy-galpin",
+      "date": "2026-04-02T08:00:00.000Z",
+      "duration": "2359",
+      "image": "https://megaphone.imgix.net/podcasts/73f0c80a-2e4d-11f1-9770-17ae1ea27b2c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, Executive Director of the Human Performance Center at Parker University and an expert in building strength and muscle size (hypertrophy). We cover the core principles and protocols for building strength and muscle, including science-based guidance on reps, sets, frequency and rest intervals. We also discuss how breathing an",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -29,18 +41,6 @@
       "duration": "2027",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Palm Sunday is meant to be a time of peace, reflection, and faith—but this year, in multiple regions, it unfolded in the shadow of persecution. Let's talk about it.\n\nBUBS Naturals: Live Better Longer with BUBS Naturals. For A limited\ntime get 20% Off your entire order with code WATCH at https://Bubsnaturals.com\n\nMars Men: For a limited time, our listeners get 50% off\nFOR LIFE, Free Shipping, AND 3",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2477 - Rick Perry &amp; W. Bryan Hubbard",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956",
-      "date": "2026-04-01T17:00:00.000Z",
-      "duration": "8399",
-      "image": "https://megaphone.imgix.net/podcasts/94e8eeac-2d67-11f1-b04f-73a1aba27057/image/f8edfdef51d9cb843f1ea27158a2da8e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Rick Perry is the former Governor of Texas and former U.S. Secretary of Energy. W. Bryan Hubbard is the Chief Executive Officer of Americans for Ibogaine, a public policy education and advocacy organization working to medicalize ibogaine in the United States.www.americansforibogaine.org/joe\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nThis video is sponso",
       "guestTags": []
     },
     {
@@ -98,6 +98,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: How to Build Strength, Muscle Size &amp; Endurance | Dr. Andy Galpin",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM9369885937.mp3?updated=1775106274",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-build-strength-muscle-size-and-endurance-andy-galpin",
+      "date": "2026-04-02T08:00:00.000Z",
+      "duration": "2359",
+      "image": "https://megaphone.imgix.net/podcasts/73f0c80a-2e4d-11f1-9770-17ae1ea27b2c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, Executive Director of the Human Performance Center at Parker University and an expert in building strength and muscle size (hypertrophy). We cover the core principles and protocols for building strength and muscle, including science-based guidance on reps, sets, frequency and rest intervals. We also discuss how breathing an",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Dan Bongino the Fraud",
@@ -121,18 +133,6 @@
       "duration": "2027",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Palm Sunday is meant to be a time of peace, reflection, and faith—but this year, in multiple regions, it unfolded in the shadow of persecution. Let's talk about it.\n\nBUBS Naturals: Live Better Longer with BUBS Naturals. For A limited\ntime get 20% Off your entire order with code WATCH at https://Bubsnaturals.com\n\nMars Men: For a limited time, our listeners get 50% off\nFOR LIFE, Free Shipping, AND 3",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2477 - Rick Perry &amp; W. Bryan Hubbard",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956",
-      "date": "2026-04-01T17:00:00.000Z",
-      "duration": "8399",
-      "image": "https://megaphone.imgix.net/podcasts/94e8eeac-2d67-11f1-b04f-73a1aba27057/image/f8edfdef51d9cb843f1ea27158a2da8e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Rick Perry is the former Governor of Texas and former U.S. Secretary of Energy. W. Bryan Hubbard is the Chief Executive Officer of Americans for Ibogaine, a public policy education and advocacy organization working to medicalize ibogaine in the United States.www.americansforibogaine.org/joe\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nThis video is sponso",
       "guestTags": []
     },
     {
