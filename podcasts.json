@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-02T15:38:56.861Z",
+  "lastUpdated": "2026-04-02T20:02:30.002Z",
   "showCount": 15,
   "episodeCount": 7,
   "archiveCount": 7,
   "taggedCount": 611,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2478 - Theo Von",
+      "audioUrl": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870",
+      "listenUrl": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870",
+      "date": "2026-04-02T17:00:00.000Z",
+      "duration": "9987",
+      "image": "https://megaphone.imgix.net/podcasts/7a2534e4-2e49-11f1-aa8b-d7da5b28e9c3/image/d40677418282f92b14820a04032597a5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Theo Von is a comedian and host of the podcast “This Past Weekend with Theo Von.” Tickets are on sale now for his new movie \"Busboys\" only in theaters on April 17.www.theovon.comwww.youtube.com/theovon\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nMANSCAPED® TCS Ball Hero Bundle 15% off\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -29,18 +41,6 @@
       "duration": "10415",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Jeremiah J. Johnston is a world-renowned scholar on the Historical Jesus, specializing in archaeology, ancient history, and the New Testament. \n\nIn 2026, Dr. Johnston became the only academic invited to present evidence for Jesus and the Resurrection at the World Economic Forum in Davos—bringing the Gospel into one of the most influential global stages. His evidence-based approach bridges rigo",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How to Build Strength, Muscle Size &amp; Endurance | Dr. Andy Galpin",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM9369885937.mp3?updated=1775106274",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-build-strength-muscle-size-and-endurance-andy-galpin",
-      "date": "2026-04-02T08:00:00.000Z",
-      "duration": "2359",
-      "image": "https://megaphone.imgix.net/podcasts/73f0c80a-2e4d-11f1-9770-17ae1ea27b2c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, Executive Director of the Human Performance Center at Parker University and an expert in building strength and muscle size (hypertrophy). We cover the core principles and protocols for building strength and muscle, including science-based guidance on reps, sets, frequency and rest intervals. We also discuss how breathing an",
       "guestTags": []
     },
     {
@@ -98,6 +98,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2478 - Theo Von",
+      "audioUrl": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870",
+      "listenUrl": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870",
+      "date": "2026-04-02T17:00:00.000Z",
+      "duration": "9987",
+      "image": "https://megaphone.imgix.net/podcasts/7a2534e4-2e49-11f1-aa8b-d7da5b28e9c3/image/d40677418282f92b14820a04032597a5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Theo Von is a comedian and host of the podcast “This Past Weekend with Theo Von.” Tickets are on sale now for his new movie \"Busboys\" only in theaters on April 17.www.theovon.comwww.youtube.com/theovon\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nMANSCAPED® TCS Ball Hero Bundle 15% off\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Trump’s Iran Reset, Vance’s Alien Bombshell, and the Darkness of Hollywood, with Billy Hallowell, PLUS Don Lemon for President?!",
@@ -121,18 +133,6 @@
       "duration": "10415",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Jeremiah J. Johnston is a world-renowned scholar on the Historical Jesus, specializing in archaeology, ancient history, and the New Testament. \n\nIn 2026, Dr. Johnston became the only academic invited to present evidence for Jesus and the Resurrection at the World Economic Forum in Davos—bringing the Gospel into one of the most influential global stages. His evidence-based approach bridges rigo",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How to Build Strength, Muscle Size &amp; Endurance | Dr. Andy Galpin",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM9369885937.mp3?updated=1775106274",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-build-strength-muscle-size-and-endurance-andy-galpin",
-      "date": "2026-04-02T08:00:00.000Z",
-      "duration": "2359",
-      "image": "https://megaphone.imgix.net/podcasts/73f0c80a-2e4d-11f1-9770-17ae1ea27b2c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, Executive Director of the Human Performance Center at Parker University and an expert in building strength and muscle size (hypertrophy). We cover the core principles and protocols for building strength and muscle, including science-based guidance on reps, sets, frequency and rest intervals. We also discuss how breathing an",
       "guestTags": []
     },
     {
