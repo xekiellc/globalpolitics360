@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T01:39:38.115Z",
+  "lastUpdated": "2026-04-03T01:47:42.347Z",
   "articleCount": 40,
   "articles": [
     {
@@ -336,6 +336,15 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
+      "title": "New Book: The Stolguard Incident",
+      "url": "https://www.lynalden.com/the-stolguard-incident/",
+      "date": "2026-03-13T13:29:44.000Z",
+      "image": "",
+      "source": "Lyn Alden",
+      "teaser": "Lyn Alden breaks down how the current monetary system became fundamentally broken.",
+      "id": "aHR0cHM6Ly93d3cubHluYWxk"
+    },
+    {
       "title": "Weekly Dose of Optimism #184",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-184",
       "date": "2026-03-13T12:54:26.000Z",
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Weekly Dose of Optimism #183",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-183",
-      "date": "2026-03-06T14:02:45.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!qnHQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81df0dd2-5c1c-4190-83c9-9fb9d81f8428_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
