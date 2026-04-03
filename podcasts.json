@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-03T14:30:17.093Z",
+  "lastUpdated": "2026-04-03T17:02:36.142Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1572,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2479 - Bob Lazar &amp; Luigi Vendittelli",
+      "audioUrl": "https://traffic.megaphone.fm/GLT6476784414.mp3?updated=1775235793",
+      "listenUrl": "https://traffic.megaphone.fm/GLT6476784414.mp3?updated=1775235793",
+      "date": "2026-04-03T17:00:00.000Z",
+      "duration": "11108",
+      "image": "https://megaphone.imgix.net/podcasts/1ac15128-2f0b-11f1-8ec6-af2d607f733b/image/69e40ae0cfb55cd685ce4b6d7e0b5c84.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Bob Lazar made headlines in 1989 during an anonymous interview with journalist George Knapp, where he described working with extraterrestrial technology at a site near Area 51. He is the subject of the documentary directed by Luigi Vendittelli “S4: The Bob Lazar Story,” now streaming on Amazon Prime Video.\n\nhttp://wearenotalone.comwww.projectgravitaur.comwww.simonandschuster.com/books/Dreamland/Bo",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -18,18 +30,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2478 - Theo Von",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870",
-      "date": "2026-04-02T17:00:00.000Z",
-      "duration": "9987",
-      "image": "https://megaphone.imgix.net/podcasts/7a2534e4-2e49-11f1-aa8b-d7da5b28e9c3/image/d40677418282f92b14820a04032597a5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Theo Von is a comedian and host of the podcast “This Past Weekend with Theo Von.” Tickets are on sale now for his new movie \"Busboys\" only in theaters on April 17.www.theovon.comwww.youtube.com/theovon\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nMANSCAPED® TCS Ball Hero Bundle 15% off\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -110,6 +110,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2479 - Bob Lazar &amp; Luigi Vendittelli",
+      "audioUrl": "https://traffic.megaphone.fm/GLT6476784414.mp3?updated=1775235793",
+      "listenUrl": "https://traffic.megaphone.fm/GLT6476784414.mp3?updated=1775235793",
+      "date": "2026-04-03T17:00:00.000Z",
+      "duration": "11108",
+      "image": "https://megaphone.imgix.net/podcasts/1ac15128-2f0b-11f1-8ec6-af2d607f733b/image/69e40ae0cfb55cd685ce4b6d7e0b5c84.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Bob Lazar made headlines in 1989 during an anonymous interview with journalist George Knapp, where he described working with extraterrestrial technology at a site near Area 51. He is the subject of the documentary directed by Luigi Vendittelli “S4: The Bob Lazar Story,” now streaming on Amazon Prime Video.\n\nhttp://wearenotalone.comwww.projectgravitaur.comwww.simonandschuster.com/books/Dreamland/Bo",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "A Response to Trump &amp; The PBD Podcast",
@@ -122,18 +134,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2478 - Theo Von",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870",
-      "date": "2026-04-02T17:00:00.000Z",
-      "duration": "9987",
-      "image": "https://megaphone.imgix.net/podcasts/7a2534e4-2e49-11f1-aa8b-d7da5b28e9c3/image/d40677418282f92b14820a04032597a5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Theo Von is a comedian and host of the podcast “This Past Weekend with Theo Von.” Tickets are on sale now for his new movie \"Busboys\" only in theaters on April 17.www.theovon.comwww.youtube.com/theovon\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nMANSCAPED® TCS Ball Hero Bundle 15% off\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",

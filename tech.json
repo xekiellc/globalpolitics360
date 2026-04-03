@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-03T14:30:09.618Z",
+  "lastUpdated": "2026-04-03T17:02:29.526Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Cathie Wood Calls Bitcoin’s 50% Crash a “Victory” as Market Tests New Floor",
+      "url": "https://bitcoinmagazine.com/news/cathie-wood-calls-bitcoins-crash-victory",
+      "date": "2026-04-03T16:14:33.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Cathie-Wood-Calls-Bitcoins-50-Crash-a-Victory-as-Market-Tests-New-Floor.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Charts of the Week: SaaSpocalypse Interrupted",
       "url": "https://www.a16z.news/p/charts-of-the-week-saaspocalypse",
@@ -127,15 +136,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Metaplanet Surpasses MARA Holdings to Become Third-Largest Corporate Bitcoin Holder",
-      "url": "https://bitcoinmagazine.com/news/metaplanet-surpasses-mara-holdings",
-      "date": "2026-04-02T13:40:25.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Metaplanet-Raises-255-Million-Eyes-531-Million-Bitcoin-Buying-Spree.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "America’s Energy Problem Isn’t Supply. It’s Delivery.",
