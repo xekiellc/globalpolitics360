@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-04-03T11:26:15.539Z",
+  "lastUpdated": "2026-04-03T14:30:09.618Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Charts of the Week: SaaSpocalypse Interrupted",
+      "url": "https://www.a16z.news/p/charts-of-the-week-saaspocalypse",
+      "date": "2026-04-03T14:02:50.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ce2901ff-7373-47e9-8ac6-341cf7b39fc2_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Ep 148: JoeBen Bevirt, Founder & CEO of Joby Aviation — Flying Cars Have Arrived",
+      "url": "https://blog.joelonsdale.com/p/ep-148-joeben-bevirt-founder-and",
+      "date": "2026-04-03T13:55:11.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "Riot Platforms Sells 3,778 Bitcoin in Q1 as Miner Strategy Shifts Toward AI Infrastructure",
+      "url": "https://bitcoinmagazine.com/news/riot-platforms-sells-3778-bitcoin-in-q1",
+      "date": "2026-04-03T13:51:05.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Riot-Platforms-Sells-3778-Bitcoin-in-Q1-as-Miner-Strategy-Shifts-Toward-AI-Infrastructure.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #187",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-187",
+      "date": "2026-04-03T12:35:07.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!5QId!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b5001a7-c88e-44f2-bb20-1e5abdce61ec_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "The Bitcoin Treasury Model With a Built-In Valuation Floor",
+      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-treasury-valuation-floor",
+      "date": "2026-04-03T12:18:18.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/The-Bitcoin-Treasury-Model-With-a-Built-In-Valuation-Floor.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "How Real Is The Quantum Threat?",
       "url": "https://bitcoinmagazine.com/conference/how-real-is-the-quantum-threat",
@@ -88,24 +133,6 @@
       "url": "https://bitcoinmagazine.com/news/metaplanet-surpasses-mara-holdings",
       "date": "2026-04-02T13:40:25.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Metaplanet-Raises-255-Million-Eyes-531-Million-Bitcoin-Buying-Spree.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Interactive Brokers Adds Bitcoin Trading in European Economic Area",
-      "url": "https://bitcoinmagazine.com/news/interactive-brokers-adds-bitcoin-trading",
-      "date": "2026-04-01T18:50:15.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Interactive-Brokers-Adds-Bitcoin-Trading-in-European-Economic-Area.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "U.S. Treasury Launches First GENIUS Act Rulemaking With 87-Page Proposal",
-      "url": "https://bitcoinmagazine.com/news/u-s-treasury-launches-genius-act-proposal",
-      "date": "2026-04-01T18:05:16.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/U.S.-Treasury-Launches-First-GENIUS-Act-Rulemaking-With-87-Page-Proposal.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -327,15 +354,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "AI’s Oppenheimer Moment",
-      "url": "https://www.a16z.news/p/ais-oppenheimer-moment",
-      "date": "2026-03-16T13:41:02.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/10a86982-e476-494e-af6a-292a931c37d7_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "New Book: The Stolguard Incident",
       "url": "https://www.lynalden.com/the-stolguard-incident/",
       "date": "2026-03-13T13:29:44.000Z",
@@ -343,24 +361,6 @@
       "source": "Lyn Alden",
       "teaser": "Lyn Alden breaks down how the current monetary system became fundamentally broken.",
       "id": "aHR0cHM6Ly93d3cubHluYWxk"
-    },
-    {
-      "title": "Weekly Dose of Optimism #184",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-184",
-      "date": "2026-03-13T12:54:26.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!tLIL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49a9b2a3-4474-418f-9e1c-9153f1a1df2b_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 145: SBA Administrator Kelly Loeffler on Exposing Billions in Fraud & What AI Means for Small Business",
-      "url": "https://blog.joelonsdale.com/p/ep-145-sba-administrator-kelly-loeffler",
-      "date": "2026-03-13T01:23:09.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
