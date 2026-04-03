@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-03T17:02:36.142Z",
+  "lastUpdated": "2026-04-03T19:56:27.055Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1572,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "4/3/26: Iran Shoots Down US Jet, Trump Purges Military, CNN Loses It On Hasan",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/5ae34a84-2d79-4bcb-9a54-b421011d2fa2/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/4-3-26-iran-shoots-down-us-jet-trump-purges-military-cnn-loses-it-on-hasan",
+      "date": "2026-04-03T17:24:48.000Z",
+      "duration": "3649",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Emily, Ryan and Griffin discuss Iran shooting down a US jet, Trump purges top military officials, Pam Bondi forced out, CNN meltdown over Hasan Piker &amp; MORE. Effie:&nbsp;https://effieforcongress.com/Griffin:&nbsp;https://x.com/griffinpdavis To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.comMerch Store:&nbsp",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -30,18 +42,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "4/2/26: Oil Prices Spike As Markets Tank, Iran Predicts US Invasion As Key Negotiator Wounded",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/2ee2d2fb-0f11-4dc6-957a-b42000f89d30/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/4-2-26-oil-prices-spike-as-markets-tank-iran-predicts-us-invasion-as-key-negotiator-wounded",
-      "date": "2026-04-02T15:17:11.000Z",
-      "duration": "2788",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss oil prices spiking, Iran predicts ground invasion. &nbsp; &nbsp; &nbsp;Trita Parsi: https://x.com/tparsi?s=20 Nicholas Mulder: https://x.com/njtmulder?s=20&nbsp; &nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.comMerch Store:&nbsp;https://shop.breakingpoints.com/See omnys",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -110,6 +110,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "4/3/26: Iran Shoots Down US Jet, Trump Purges Military, CNN Loses It On Hasan",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/5ae34a84-2d79-4bcb-9a54-b421011d2fa2/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/4-3-26-iran-shoots-down-us-jet-trump-purges-military-cnn-loses-it-on-hasan",
+      "date": "2026-04-03T17:24:48.000Z",
+      "duration": "3649",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Emily, Ryan and Griffin discuss Iran shooting down a US jet, Trump purges top military officials, Pam Bondi forced out, CNN meltdown over Hasan Piker &amp; MORE. Effie:&nbsp;https://effieforcongress.com/Griffin:&nbsp;https://x.com/griffinpdavis To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.comMerch Store:&nbsp",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2479 - Bob Lazar &amp; Luigi Vendittelli",
@@ -134,18 +146,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "4/2/26: Oil Prices Spike As Markets Tank, Iran Predicts US Invasion As Key Negotiator Wounded",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/2ee2d2fb-0f11-4dc6-957a-b42000f89d30/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/4-2-26-oil-prices-spike-as-markets-tank-iran-predicts-us-invasion-as-key-negotiator-wounded",
-      "date": "2026-04-02T15:17:11.000Z",
-      "duration": "2788",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss oil prices spiking, Iran predicts ground invasion. &nbsp; &nbsp; &nbsp;Trita Parsi: https://x.com/tparsi?s=20 Nicholas Mulder: https://x.com/njtmulder?s=20&nbsp; &nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.comMerch Store:&nbsp;https://shop.breakingpoints.com/See omnys",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
