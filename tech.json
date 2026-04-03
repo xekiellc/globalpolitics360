@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-02T22:53:52.929Z",
+  "lastUpdated": "2026-04-03T01:39:38.115Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "How Real Is The Quantum Threat?",
+      "url": "https://bitcoinmagazine.com/conference/how-real-is-the-quantum-threat",
+      "date": "2026-04-02T22:55:56.000Z",
+      "image": "https://www.youtube.com/embed/zCgwHtG40hg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "MARA Conducts Ongoing Layoffs Following $1.1B Bitcoin Sale and Debt Reduction Push",
       "url": "https://bitcoinmagazine.com/news/mara-conducts-ongoing-layoffs",
@@ -97,15 +106,6 @@
       "url": "https://bitcoinmagazine.com/news/u-s-treasury-launches-genius-act-proposal",
       "date": "2026-04-01T18:05:16.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/U.S.-Treasury-Launches-First-GENIUS-Act-Rulemaking-With-87-Page-Proposal.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Citadel-Backed EDX Markets Applies for US Trust Bank Charter to Expand Crypto Services",
-      "url": "https://bitcoinmagazine.com/news/edx-markets-us-trust-bank-charter",
-      "date": "2026-04-01T17:21:21.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Citadel-Backed-EDX-Markets-Applies-for-US-Trust-Bank-Charter-to-Expand-Crypto-Services.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
