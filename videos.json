@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T19:56:28.033Z",
+  "lastUpdated": "2026-04-03T22:03:20.577Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aPOPC244JEw",
-      "show": "Danny Jones Podcast",
-      "title": "“FBI Still Hiding Epstein Worst Secret” Death Magic, Blackmail &amp; Deep Politics | Kris Millegan",
-      "url": "https://www.youtube.com/watch?v=aPOPC244JEw",
-      "date": "2026-04-03T18:29:59.000Z",
-      "image": "https://i2.ytimg.com/vi/aPOPC244JEw/hqdefault.jpg",
-      "desc": "Watch every episode ad-free &amp; uncensored on Patreon: https://patreon.com/dannyjones\nKris Millegan is an independent researcher, publisher &amp; founder of TrineDay. Millegan’s work focuses on secret societies, deep politics, intelligence agencies, occult symbolism, and the long shadow of covert ",
-      "guestTags": []
+      "videoId": "N-pust8qtGI",
+      "show": "All-In Podcast",
+      "title": "SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity",
+      "url": "https://www.youtube.com/watch?v=N-pust8qtGI",
+      "date": "2026-04-03T21:49:17.000Z",
+      "image": "https://i3.ytimg.com/vi/N-pust8qtGI/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros!\n(0:12) SpaceX IPO, the economic opportunity of space: a new industrial frontier\n(21:00) 2026 IPO explosion, OpenAI down round?\n(36:33) Iran War costs, fertilizer crisis, downstream impacts\n(49:58) Trump's Iran messaging problems, Bondi out, why the US is in Iran\n(1:04:18) Quant",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aPOPC244JEw",
-      "show": "Danny Jones Podcast",
-      "title": "“FBI Still Hiding Epstein Worst Secret” Death Magic, Blackmail &amp; Deep Politics | Kris Millegan",
-      "url": "https://www.youtube.com/watch?v=aPOPC244JEw",
-      "date": "2026-04-03T18:29:59.000Z",
-      "image": "https://i2.ytimg.com/vi/aPOPC244JEw/hqdefault.jpg",
-      "desc": "Watch every episode ad-free &amp; uncensored on Patreon: https://patreon.com/dannyjones\nKris Millegan is an independent researcher, publisher &amp; founder of TrineDay. Millegan’s work focuses on secret societies, deep politics, intelligence agencies, occult symbolism, and the long shadow of covert ",
-      "guestTags": []
+      "videoId": "N-pust8qtGI",
+      "show": "All-In Podcast",
+      "title": "SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity",
+      "url": "https://www.youtube.com/watch?v=N-pust8qtGI",
+      "date": "2026-04-03T21:49:17.000Z",
+      "image": "https://i3.ytimg.com/vi/N-pust8qtGI/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros!\n(0:12) SpaceX IPO, the economic opportunity of space: a new industrial frontier\n(21:00) 2026 IPO explosion, OpenAI down round?\n(36:33) Iran War costs, fertilizer crisis, downstream impacts\n(49:58) Trump's Iran messaging problems, Bondi out, why the US is in Iran\n(1:04:18) Quant",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
