@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T09:41:41.512Z",
+  "lastUpdated": "2026-04-05T13:03:11.514Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "OxDNaae3zsw",
-      "show": "All-In Podcast",
-      "title": "David Friedberg: Mining the Moon is Humanity's Next Industrial Revolution",
-      "url": "https://www.youtube.com/watch?v=OxDNaae3zsw",
-      "date": "2026-04-05T02:26:52.000Z",
-      "image": "https://i4.ytimg.com/vi/OxDNaae3zsw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "pWnTGtBILak",
+      "show": "The Free Press",
+      "title": "Jake Paul | This Past Weekend w/ Theo Von #650",
+      "url": "https://www.youtube.com/watch?v=pWnTGtBILak",
+      "date": "2026-04-05T12:01:16.000Z",
+      "image": "https://i1.ytimg.com/vi/pWnTGtBILak/hqdefault.jpg",
+      "desc": "Jake Paul is a professional boxer, entrepreneur and content mogul. His promotion MVP will host its first ever MMA card live on Netflix May 16th.\n\nJake joins Theo to talk about how his family has navigated their unique fame, his reaction to the callout from Nate Diaz, and why he thinks comedy will sa",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "OxDNaae3zsw",
-      "show": "All-In Podcast",
-      "title": "David Friedberg: Mining the Moon is Humanity's Next Industrial Revolution",
-      "url": "https://www.youtube.com/watch?v=OxDNaae3zsw",
-      "date": "2026-04-05T02:26:52.000Z",
-      "image": "https://i4.ytimg.com/vi/OxDNaae3zsw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "pWnTGtBILak",
+      "show": "The Free Press",
+      "title": "Jake Paul | This Past Weekend w/ Theo Von #650",
+      "url": "https://www.youtube.com/watch?v=pWnTGtBILak",
+      "date": "2026-04-05T12:01:16.000Z",
+      "image": "https://i1.ytimg.com/vi/pWnTGtBILak/hqdefault.jpg",
+      "desc": "Jake Paul is a professional boxer, entrepreneur and content mogul. His promotion MVP will host its first ever MMA card live on Netflix May 16th.\n\nJake joins Theo to talk about how his family has navigated their unique fame, his reaction to the callout from Nate Diaz, and why he thinks comedy will sa",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
