@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-05T05:56:13.035Z",
+  "lastUpdated": "2026-04-05T07:13:07.111Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1575,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#650 - Jake Paul",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER6452778915.mp3?updated=1775365462",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER6452778915.mp3?updated=1775365462",
+      "date": "2026-04-05T06:00:00.000Z",
+      "duration": "7686",
+      "image": "https://megaphone.imgix.net/podcasts/14cb3f5a-30a9-11f1-9381-dfd1ebae0202/image/f4508c2f7de9d43a263485e291288897.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jake Paul is a professional boxer, entrepreneur and content mogul. His promotion MVP will host its first ever MMA card live on Netflix May 16th.\n\nJake joins Theo to talk about how his family has navigated their unique fame, his reaction to the callout from Nate Diaz, and why he thinks comedy will save America. \n\nJake Paul: https://www.instagram.com/jakepaul/ \n\n-------------------------------------",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -56,18 +68,6 @@
       "duration": "11108",
       "image": "https://megaphone.imgix.net/podcasts/1ac15128-2f0b-11f1-8ec6-af2d607f733b/image/69e40ae0cfb55cd685ce4b6d7e0b5c84.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Bob Lazar made headlines in 1989 during an anonymous interview with journalist George Knapp, where he described working with extraterrestrial technology at a site near Area 51. He is the subject of the documentary directed by Luigi Vendittelli “S4: The Bob Lazar Story,” now streaming on Amazon Prime Video.\n\nhttp://wearenotalone.comwww.projectgravitaur.comwww.simonandschuster.com/books/Dreamland/Bo",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#293 Jeremiah Johnston - Codex Vaticanus, Book of Enoch and the Resurrection of Jesus",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6088422907.mp3?updated=1775084500",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6088422907.mp3?updated=1775084500",
-      "date": "2026-04-02T10:00:00.000Z",
-      "duration": "10415",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Jeremiah J. Johnston is a world-renowned scholar on the Historical Jesus, specializing in archaeology, ancient history, and the New Testament. \n\nIn 2026, Dr. Johnston became the only academic invited to present evidence for Jesus and the Resurrection at the World Economic Forum in Davos—bringing the Gospel into one of the most influential global stages. His evidence-based approach bridges rigo",
       "guestTags": []
     },
     {
@@ -111,6 +111,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#650 - Jake Paul",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER6452778915.mp3?updated=1775365462",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER6452778915.mp3?updated=1775365462",
+      "date": "2026-04-05T06:00:00.000Z",
+      "duration": "7686",
+      "image": "https://megaphone.imgix.net/podcasts/14cb3f5a-30a9-11f1-9381-dfd1ebae0202/image/f4508c2f7de9d43a263485e291288897.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jake Paul is a professional boxer, entrepreneur and content mogul. His promotion MVP will host its first ever MMA card live on Netflix May 16th.\n\nJake joins Theo to talk about how his family has navigated their unique fame, his reaction to the callout from Nate Diaz, and why he thinks comedy will save America. \n\nJake Paul: https://www.instagram.com/jakepaul/ \n\n-------------------------------------",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "#404 - Epstein Files NEWEST, Bondi Replacement WORSE &amp; Israel-Trump Divide WIDENS | Julian Dorey",
@@ -161,18 +173,6 @@
       "duration": "11108",
       "image": "https://megaphone.imgix.net/podcasts/1ac15128-2f0b-11f1-8ec6-af2d607f733b/image/69e40ae0cfb55cd685ce4b6d7e0b5c84.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Bob Lazar made headlines in 1989 during an anonymous interview with journalist George Knapp, where he described working with extraterrestrial technology at a site near Area 51. He is the subject of the documentary directed by Luigi Vendittelli “S4: The Bob Lazar Story,” now streaming on Amazon Prime Video.\n\nhttp://wearenotalone.comwww.projectgravitaur.comwww.simonandschuster.com/books/Dreamland/Bo",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#293 Jeremiah Johnston - Codex Vaticanus, Book of Enoch and the Resurrection of Jesus",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6088422907.mp3?updated=1775084500",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6088422907.mp3?updated=1775084500",
-      "date": "2026-04-02T10:00:00.000Z",
-      "duration": "10415",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Jeremiah J. Johnston is a world-renowned scholar on the Historical Jesus, specializing in archaeology, ancient history, and the New Testament. \n\nIn 2026, Dr. Johnston became the only academic invited to present evidence for Jesus and the Resurrection at the World Economic Forum in Davos—bringing the Gospel into one of the most influential global stages. His evidence-based approach bridges rigo",
       "guestTags": []
     },
     {
