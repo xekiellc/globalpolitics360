@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-04-05T15:36:30.610Z",
+  "lastUpdated": "2026-04-05T18:49:17.091Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1575,
+  "taggedCount": 1576,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "TRIGGERnometry",
+      "title": "“We Need Regime Change” - Elica Le Bon",
+      "audioUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT5517498242.mp3",
+      "listenUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT5517498242.mp3",
+      "date": "2026-04-05T18:00:00.000Z",
+      "duration": "4286",
+      "image": "https://megaphone.imgix.net/podcasts/37103898-3033-11f1-9038-cf315b4f1dbc/image/0553cc3e3b0e6569ab5b96379772bda7.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible: \n\n- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ conditions. Click https://superpower.com \n\n\n- CyberGhost VPN: Our VPN of choice. Grab the offer at https://cyberghost.com/triggernometry \n\n\n- Wild Alaskan Company: premium, wild-caught seafood. Go to https://wildalaskan.com/TRIG for $35 of",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
@@ -16,20 +30,6 @@
       "image": "https://megaphone.imgix.net/podcasts/14cb3f5a-30a9-11f1-9381-dfd1ebae0202/image/f4508c2f7de9d43a263485e291288897.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Jake Paul is a professional boxer, entrepreneur and content mogul. His promotion MVP will host its first ever MMA card live on Netflix May 16th.\n\nJake joins Theo to talk about how his family has navigated their unique fame, his reaction to the callout from Nate Diaz, and why he thinks comedy will save America. \n\nJake Paul: https://www.instagram.com/jakepaul/ \n\n-------------------------------------",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "#404 - Epstein Files NEWEST, Bondi Replacement WORSE &amp; Israel-Trump Divide WIDENS | Julian Dorey",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5072188461.mp3?updated=1775322214",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5072188461.mp3?updated=1775322214",
-      "date": "2026-04-04T19:00:00.000Z",
-      "duration": "5745",
-      "image": "https://megaphone.imgix.net/podcasts/b60f9fd0-3042-11f1-84f1-9bb5ebfccd5f/image/6c33cb963d1288d4bf24463e28c19661.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) ULTRA POUCHES: Don’t sleep on @ultrapouches. New customers get 15% Off with code JULIAN at https://takeultra.com! #UltraPouches #ad\n\n\n\nWATCH PREVIOUS EPSTEIN FILES EPISODE:\n\nhttps://open.spotify.com/episode/1LbSr0RDK2k8YMyOTDmRxU?si=3d5ad7dd65e64e1e\n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES: https://www.patreon.com/JulianDorey \n\n\n\nCLIPPERS DISCORD: https://discord.gg/8QmW",
-      "guestTags": [
-        "Julian Dorey"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -111,6 +111,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "TRIGGERnometry",
+      "title": "“We Need Regime Change” - Elica Le Bon",
+      "audioUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT5517498242.mp3",
+      "listenUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT5517498242.mp3",
+      "date": "2026-04-05T18:00:00.000Z",
+      "duration": "4286",
+      "image": "https://megaphone.imgix.net/podcasts/37103898-3033-11f1-9038-cf315b4f1dbc/image/0553cc3e3b0e6569ab5b96379772bda7.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible: \n\n- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ conditions. Click https://superpower.com \n\n\n- CyberGhost VPN: Our VPN of choice. Grab the offer at https://cyberghost.com/triggernometry \n\n\n- Wild Alaskan Company: premium, wild-caught seafood. Go to https://wildalaskan.com/TRIG for $35 of",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
       "title": "#650 - Jake Paul",
@@ -121,20 +135,6 @@
       "image": "https://megaphone.imgix.net/podcasts/14cb3f5a-30a9-11f1-9381-dfd1ebae0202/image/f4508c2f7de9d43a263485e291288897.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Jake Paul is a professional boxer, entrepreneur and content mogul. His promotion MVP will host its first ever MMA card live on Netflix May 16th.\n\nJake joins Theo to talk about how his family has navigated their unique fame, his reaction to the callout from Nate Diaz, and why he thinks comedy will save America. \n\nJake Paul: https://www.instagram.com/jakepaul/ \n\n-------------------------------------",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "#404 - Epstein Files NEWEST, Bondi Replacement WORSE &amp; Israel-Trump Divide WIDENS | Julian Dorey",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5072188461.mp3?updated=1775322214",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5072188461.mp3?updated=1775322214",
-      "date": "2026-04-04T19:00:00.000Z",
-      "duration": "5745",
-      "image": "https://megaphone.imgix.net/podcasts/b60f9fd0-3042-11f1-84f1-9bb5ebfccd5f/image/6c33cb963d1288d4bf24463e28c19661.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) ULTRA POUCHES: Don’t sleep on @ultrapouches. New customers get 15% Off with code JULIAN at https://takeultra.com! #UltraPouches #ad\n\n\n\nWATCH PREVIOUS EPSTEIN FILES EPISODE:\n\nhttps://open.spotify.com/episode/1LbSr0RDK2k8YMyOTDmRxU?si=3d5ad7dd65e64e1e\n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES: https://www.patreon.com/JulianDorey \n\n\n\nCLIPPERS DISCORD: https://discord.gg/8QmW",
-      "guestTags": [
-        "Julian Dorey"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -215,7 +215,7 @@
     }
   ],
   "guestIndex": {
-    "Julian Dorey": [
+    "Konstantin Kisin": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Elon Musk": [
