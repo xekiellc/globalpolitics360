@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-04-06T13:16:32.419Z",
+  "lastUpdated": "2026-04-06T15:51:39.249Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 31,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Tmw2dW0a9DY",
-      "show": "Huberman Lab",
-      "title": "Cultivating Awe &amp; Emotional Connection in Daily Life | Dr. Dacher Keltner",
-      "url": "https://www.youtube.com/watch?v=Tmw2dW0a9DY",
-      "date": "2026-04-06T12:01:00.000Z",
-      "image": "https://i1.ytimg.com/vi/Tmw2dW0a9DY/hqdefault.jpg",
-      "desc": "Dr. Dacher Keltner, PhD, is a professor of psychology at the University of California, Berkeley, and a leading expert on the science of emotions and human connection. We discuss the science of awe—what evokes it and how to access it. Dr. Keltner explains how awe helps us frame our experience of life",
-      "guestTags": []
+      "videoId": "mjNP5IOzCbA",
+      "show": "All-In Podcast",
+      "title": "Anduril &amp; Palantir: How Silicon Valley Is Rebuilding America's Military",
+      "url": "https://www.youtube.com/watch?v=mjNP5IOzCbA",
+      "date": "2026-04-06T13:06:43.000Z",
+      "image": "https://i2.ytimg.com/vi/mjNP5IOzCbA/hqdefault.jpg",
+      "desc": "(0:00) Friedberg intros Palantir’s Shyam Sankar and Anduril’s Trae Stephens\n(0:56) Palantir Origins: CIA Analyst Joins 20-Person Startup\n(2:54) War, Deterrence &amp; Silicon Valley's Defense Tech Taboo\n(8:39) US vs China: Drone Gap, Shipbuilding &amp; 2027 Taiwan Threat\n(12:27) Anduril's Arsenal-1 F",
+      "guestTags": [
+        "Palmer Luckey",
+        "Alex Karp"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Tmw2dW0a9DY",
-      "show": "Huberman Lab",
-      "title": "Cultivating Awe &amp; Emotional Connection in Daily Life | Dr. Dacher Keltner",
-      "url": "https://www.youtube.com/watch?v=Tmw2dW0a9DY",
-      "date": "2026-04-06T12:01:00.000Z",
-      "image": "https://i1.ytimg.com/vi/Tmw2dW0a9DY/hqdefault.jpg",
-      "desc": "Dr. Dacher Keltner, PhD, is a professor of psychology at the University of California, Berkeley, and a leading expert on the science of emotions and human connection. We discuss the science of awe—what evokes it and how to access it. Dr. Keltner explains how awe helps us frame our experience of life",
-      "guestTags": []
+      "videoId": "mjNP5IOzCbA",
+      "show": "All-In Podcast",
+      "title": "Anduril &amp; Palantir: How Silicon Valley Is Rebuilding America's Military",
+      "url": "https://www.youtube.com/watch?v=mjNP5IOzCbA",
+      "date": "2026-04-06T13:06:43.000Z",
+      "image": "https://i2.ytimg.com/vi/mjNP5IOzCbA/hqdefault.jpg",
+      "desc": "(0:00) Friedberg intros Palantir’s Shyam Sankar and Anduril’s Trae Stephens\n(0:56) Palantir Origins: CIA Analyst Joins 20-Person Startup\n(2:54) War, Deterrence &amp; Silicon Valley's Defense Tech Taboo\n(8:39) US vs China: Drone Gap, Shipbuilding &amp; 2027 Taiwan Threat\n(12:27) Anduril's Arsenal-1 F",
+      "guestTags": [
+        "Palmer Luckey",
+        "Alex Karp"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Palmer Luckey": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "Alex Karp": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

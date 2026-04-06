@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-04-06T13:16:26.180Z",
+  "lastUpdated": "2026-04-06T15:51:27.395Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "We Can (and Do) Solve Crime",
+      "url": "https://www.a16z.news/p/we-can-and-do-solve-crime",
+      "date": "2026-04-06T14:03:33.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/078fe037-6e27-438e-9f57-19cf6891c511_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Bitcoin Price Briefly Tops $70,000 as Donald Trump’s Iran Signals Rattle Markets",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-briefly-tops-70000",
+      "date": "2026-04-06T13:51:58.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Price-Briefly-Tops-70000-as-Donald-Trumps-Iran-Signals-Rattle-Markets.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Michael Saylor’s Strategy (MSTR) Buys $330 Million in Bitcoin, Holdings Near 767K BTC",
+      "url": "https://bitcoinmagazine.com/news/michael-saylors-strategy-buys-330-million",
+      "date": "2026-04-06T13:45:37.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-is-About-to-Have-More-Bitcoin-Than-BlackRocks-IBIT-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Investing in Stipple Bio",
       "url": "https://www.a16z.news/p/investing-in-stipple-bio",
@@ -106,24 +133,6 @@
       "url": "https://bitcoinmagazine.com/news/coinbase-receives-conditional-occ-approval",
       "date": "2026-04-02T16:12:35.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Coinbase-Receives-Conditional-OCC-Approval-to-Form-National-Trust-Company.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Wall Street Firms and Crypto Companies to Review New Market Structure Proposal in Private Sessions",
-      "url": "https://bitcoinmagazine.com/news/wall-street-firms-and-crypto-companies",
-      "date": "2026-04-02T16:03:09.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Wall-Street-Firms-and-Crypto-Companies-to-Review-New-Market-Structure-Proposal-in-Private-Sessions.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "LNVPN Rebrands to Nadanada.me as Privacy Infrastructure Expands with Anonymous eSIMs and Lightning Payments",
-      "url": "https://bitcoinmagazine.com/business/lnvpn-rebrands-to-nadanada-me-as-privacy-infrastructure-expands-with-anonymous-esims-and-lightning-payments",
-      "date": "2026-04-02T15:36:18.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/image-e1775144126268.png",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -340,15 +349,6 @@
       "url": "https://www.a16z.news/p/the-internet-ruined-customer-service",
       "date": "2026-03-18T14:02:52.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/72230dd7-4257-40b1-91be-5c7a5ce952cb_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Your product won’t sell itself",
-      "url": "https://www.a16z.news/p/your-product-wont-sell-itself",
-      "date": "2026-03-17T14:02:28.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7185df7e-ee88-4151-baf3-eff9d1eeadd5_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
