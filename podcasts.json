@@ -1,18 +1,33 @@
 {
-  "lastUpdated": "2026-04-06T10:11:50.239Z",
+  "lastUpdated": "2026-04-06T13:16:32.069Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1576,
+  "taggedCount": 1577,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "The Companies Changing Warfare Forever: Palantir &amp; Anduril Execs on Drones, AI &amp; the Future of War",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Palantir_Anduril.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/the-state-of-modern-war-palantir-anduril-execs-on-drones-ai-and-the-end-of-traditional-warfare",
+      "date": "2026-04-06T12:51:00.000Z",
+      "duration": "01:09:22",
+      "image": "https://static.libsyn.com/p/assets/7/a/6/1/7a61a2a17e8bf93316c3140a3186d450/1_Pod_Palantir_Anduril.png",
+      "desc": "(0:00) Friedberg Intros Palantir's Shyam Sankar and Anduril's Trae Stephens (0:56) Palantir Origins: CIA Analyst Joins 20-Person Startup (2:54) War, Deterrence & Silicon Valley's Defense Tech Taboo (8:39) US vs China: Drone Gap, Shipbuilding & 2027 Taiwan Threat (12:27) Anduril's Arsenal-1 Factory & Fixing US Munitions Supply Chain (41:48) Autonomous Weapons, AI Decision-Making & Future of War (47",
+      "guestTags": [
+        "Palmer Luckey",
+        "Alex Karp"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
-      "title": "#294 Pete Blaber - Part 1: Delta Force Commander on Roberts Ridge: The Battle of Takur Ghar",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3408072176.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3408072176.mp3",
-      "date": "2026-04-06T10:00:00.000Z",
-      "duration": "19433",
+      "title": "#294 Pete Blaber - Part 2: Delta Force Commander on Pablo Escobar, Takur Ghar, and Pat Tillman",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5145309657.mp3?updated=1775443904",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5145309657.mp3?updated=1775443904",
+      "date": "2026-04-06T10:10:00.000Z",
+      "duration": "25182",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Pete Blaber is a retired Delta Force commander renowned for leading elite counter-terrorism and special operations teams across the globe, now applying his battle-tested leadership principles to corporate environments, authorship, and innovative security solutions.\n\nBorn and raised in Oak Park, Illinois, as one of nine children in an Irish-Catholic household. Pete attended Southern Illinois Univer",
       "guestTags": []
@@ -41,21 +56,6 @@
       "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible: \n\n- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ conditions. Click https://superpower.com \n\n\n- CyberGhost VPN: Our VPN of choice. Grab the offer at https://cyberghost.com/triggernometry \n\n\n- Wild Alaskan Company: premium, wild-caught seafood. Go to https://wildalaskan.com/TRIG for $35 of",
       "guestTags": [
         "Konstantin Kisin"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E267_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity",
-      "date": "2026-04-03T21:08:00.000Z",
-      "duration": "01:20:32",
-      "image": "https://static.libsyn.com/p/assets/4/c/6/4/4c64b40f4b8c6d6616c3140a3186d450/1_Pod_E267.png",
-      "desc": "(0:00) Bestie intros! (0:12) SpaceX IPO, the economic opportunity of space: a new industrial frontier (21:00) 2026 IPO explosion, OpenAI down round? (36:33) Iran War costs, fertilizer crisis, downstream impacts (49:58) Trump's Iran messaging problems, Bondi out, why the US is in Iran (1:04:18) Quantum Bitcoin hack possibilities, how crypto should react Follow the besties: https://x.com/chamath htt",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath"
       ]
     },
     {
@@ -111,13 +111,28 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "The Companies Changing Warfare Forever: Palantir &amp; Anduril Execs on Drones, AI &amp; the Future of War",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Palantir_Anduril.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/the-state-of-modern-war-palantir-anduril-execs-on-drones-ai-and-the-end-of-traditional-warfare",
+      "date": "2026-04-06T12:51:00.000Z",
+      "duration": "01:09:22",
+      "image": "https://static.libsyn.com/p/assets/7/a/6/1/7a61a2a17e8bf93316c3140a3186d450/1_Pod_Palantir_Anduril.png",
+      "desc": "(0:00) Friedberg Intros Palantir's Shyam Sankar and Anduril's Trae Stephens (0:56) Palantir Origins: CIA Analyst Joins 20-Person Startup (2:54) War, Deterrence & Silicon Valley's Defense Tech Taboo (8:39) US vs China: Drone Gap, Shipbuilding & 2027 Taiwan Threat (12:27) Anduril's Arsenal-1 Factory & Fixing US Munitions Supply Chain (41:48) Autonomous Weapons, AI Decision-Making & Future of War (47",
+      "guestTags": [
+        "Palmer Luckey",
+        "Alex Karp"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
-      "title": "#294 Pete Blaber - Part 1: Delta Force Commander on Roberts Ridge: The Battle of Takur Ghar",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3408072176.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3408072176.mp3",
-      "date": "2026-04-06T10:00:00.000Z",
-      "duration": "19433",
+      "title": "#294 Pete Blaber - Part 2: Delta Force Commander on Pablo Escobar, Takur Ghar, and Pat Tillman",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5145309657.mp3?updated=1775443904",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5145309657.mp3?updated=1775443904",
+      "date": "2026-04-06T10:10:00.000Z",
+      "duration": "25182",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Pete Blaber is a retired Delta Force commander renowned for leading elite counter-terrorism and special operations teams across the globe, now applying his battle-tested leadership principles to corporate environments, authorship, and innovative security solutions.\n\nBorn and raised in Oak Park, Illinois, as one of nine children in an Irish-Catholic household. Pete attended Southern Illinois Univer",
       "guestTags": []
@@ -146,21 +161,6 @@
       "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible: \n\n- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ conditions. Click https://superpower.com \n\n\n- CyberGhost VPN: Our VPN of choice. Grab the offer at https://cyberghost.com/triggernometry \n\n\n- Wild Alaskan Company: premium, wild-caught seafood. Go to https://wildalaskan.com/TRIG for $35 of",
       "guestTags": [
         "Konstantin Kisin"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E267_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity",
-      "date": "2026-04-03T21:08:00.000Z",
-      "duration": "01:20:32",
-      "image": "https://static.libsyn.com/p/assets/4/c/6/4/4c64b40f4b8c6d6616c3140a3186d450/1_Pod_E267.png",
-      "desc": "(0:00) Bestie intros! (0:12) SpaceX IPO, the economic opportunity of space: a new industrial frontier (21:00) 2026 IPO explosion, OpenAI down round? (36:33) Iran War costs, fertilizer crisis, downstream impacts (49:58) Trump's Iran messaging problems, Bondi out, why the US is in Iran (1:04:18) Quantum Bitcoin hack possibilities, how crypto should react Follow the besties: https://x.com/chamath htt",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath"
       ]
     },
     {
@@ -215,14 +215,14 @@
     }
   ],
   "guestIndex": {
+    "Palmer Luckey": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Alex Karp": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Elon Musk": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Jensen Huang": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
