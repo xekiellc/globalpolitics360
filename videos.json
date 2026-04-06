@@ -1,47 +1,34 @@
 {
-  "lastUpdated": "2026-04-06T15:51:39.249Z",
+  "lastUpdated": "2026-04-06T19:04:44.917Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 33,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mjNP5IOzCbA",
-      "show": "All-In Podcast",
-      "title": "Anduril &amp; Palantir: How Silicon Valley Is Rebuilding America's Military",
-      "url": "https://www.youtube.com/watch?v=mjNP5IOzCbA",
-      "date": "2026-04-06T13:06:43.000Z",
-      "image": "https://i2.ytimg.com/vi/mjNP5IOzCbA/hqdefault.jpg",
-      "desc": "(0:00) Friedberg intros Palantir’s Shyam Sankar and Anduril’s Trae Stephens\n(0:56) Palantir Origins: CIA Analyst Joins 20-Person Startup\n(2:54) War, Deterrence &amp; Silicon Valley's Defense Tech Taboo\n(8:39) US vs China: Drone Gap, Shipbuilding &amp; 2027 Taiwan Threat\n(12:27) Anduril's Arsenal-1 F",
-      "guestTags": [
-        "Palmer Luckey",
-        "Alex Karp"
-      ]
+      "videoId": "FX_hG7wRbpc",
+      "show": "Shawn Ryan Show",
+      "title": "Why This Delta Force Operator Carries a Glock 19",
+      "url": "https://www.youtube.com/watch?v=FX_hG7wRbpc",
+      "date": "2026-04-06T18:00:14.000Z",
+      "image": "https://i3.ytimg.com/vi/FX_hG7wRbpc/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mjNP5IOzCbA",
-      "show": "All-In Podcast",
-      "title": "Anduril &amp; Palantir: How Silicon Valley Is Rebuilding America's Military",
-      "url": "https://www.youtube.com/watch?v=mjNP5IOzCbA",
-      "date": "2026-04-06T13:06:43.000Z",
-      "image": "https://i2.ytimg.com/vi/mjNP5IOzCbA/hqdefault.jpg",
-      "desc": "(0:00) Friedberg intros Palantir’s Shyam Sankar and Anduril’s Trae Stephens\n(0:56) Palantir Origins: CIA Analyst Joins 20-Person Startup\n(2:54) War, Deterrence &amp; Silicon Valley's Defense Tech Taboo\n(8:39) US vs China: Drone Gap, Shipbuilding &amp; 2027 Taiwan Threat\n(12:27) Anduril's Arsenal-1 F",
-      "guestTags": [
-        "Palmer Luckey",
-        "Alex Karp"
-      ]
+      "videoId": "FX_hG7wRbpc",
+      "show": "Shawn Ryan Show",
+      "title": "Why This Delta Force Operator Carries a Glock 19",
+      "url": "https://www.youtube.com/watch?v=FX_hG7wRbpc",
+      "date": "2026-04-06T18:00:14.000Z",
+      "image": "https://i3.ytimg.com/vi/FX_hG7wRbpc/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Palmer Luckey": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "Alex Karp": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
