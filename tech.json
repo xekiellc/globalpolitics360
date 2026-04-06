@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-04-06T19:04:38.085Z",
+  "lastUpdated": "2026-04-06T21:40:03.146Z",
   "articleCount": 40,
   "articles": [
     {
-      "title": "SecondHQ’s Bark Boasts New era of Bitcoin Payments, drawing in former Blockstream developers",
+      "title": "Rwanda Reaffirms Crypto Ban After Bybit Adds Franc Support",
+      "url": "https://bitcoinmagazine.com/news/rwanda-reaffirms-crypto-ban",
+      "date": "2026-04-06T20:16:09.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Rwanda-Reaffirms-Crypto-Ban-After-Bybit-Adds-Franc-Support.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Demonstration of &#8220;Attack Blocks&#8221; On Bitcoin&#8217;s Signet Test Network",
+      "url": "https://bitcoinmagazine.com/news/demonstration-of-attack-blocks-on-bitcoins-signet-test-network",
+      "date": "2026-04-06T19:41:53.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/attackblock2-fotor-20260406143857.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Polymarket Unveils Exchange Overhaul, Native Stablecoin as U.S. Expansion Looms",
+      "url": "https://bitcoinmagazine.com/news/polymarket-unveils-exchange-overhaul",
+      "date": "2026-04-06T19:21:53.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Polymarket-Unveils-Exchange-Overhaul-Native-Stablecoin-as-U.S.-Expansion-Looms.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Second’s Bark Boasts New era of Bitcoin Payments, drawing in former Blockstream developers",
       "url": "https://bitcoinmagazine.com/business/secondhqs-bark-boasts-new-era-of-bitcoin-payments-drawing-in-former-blockstream-developers",
       "date": "2026-04-06T18:34:47.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Gemini_Generated_Image_9ew06z9ew06z9ew0.webp",
@@ -102,15 +129,6 @@
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     },
     {
-      "title": "Riot Platforms Sells 3,778 Bitcoin in Q1 as Miner Strategy Shifts Toward AI Infrastructure",
-      "url": "https://bitcoinmagazine.com/news/riot-platforms-sells-3778-bitcoin-in-q1",
-      "date": "2026-04-03T13:51:05.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Riot-Platforms-Sells-3778-Bitcoin-in-Q1-as-Miner-Strategy-Shifts-Toward-AI-Infrastructure.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Weekly Dose of Optimism #187",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-187",
       "date": "2026-04-03T12:35:07.000Z",
@@ -118,24 +136,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "The Bitcoin Treasury Model With a Built-In Valuation Floor",
-      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-treasury-valuation-floor",
-      "date": "2026-04-03T12:18:18.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/The-Bitcoin-Treasury-Model-With-a-Built-In-Valuation-Floor.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "How Real Is The Quantum Threat?",
-      "url": "https://bitcoinmagazine.com/conference/how-real-is-the-quantum-threat",
-      "date": "2026-04-02T22:55:56.000Z",
-      "image": "https://www.youtube.com/embed/zCgwHtG40hg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Et Tu, Agent? Did You Install the Backdoor?",
