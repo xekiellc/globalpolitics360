@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-07T07:22:01.052Z",
+  "lastUpdated": "2026-04-07T10:09:31.987Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1577,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#651 - Ella Langley",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1981655745.mp3?updated=1775555465",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1981655745.mp3?updated=1775555465",
+      "date": "2026-04-07T09:35:00.000Z",
+      "duration": "6694",
+      "image": "https://megaphone.imgix.net/podcasts/58db311c-3263-11f1-9c85-6f53b2c8b115/image/ba53fbd96a91b2c1e2d2f245215c770e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Ella Langley is a country singer-songwriter from Hope Hull, Alabama. Her new album “Dandelion” is out this Friday April 10th wherever you stream music. \n\nElla joins Theo to talk about growing up in a hippie Baptist family, the stars she looked up to as she found her way in Nashville, and what she thinks of all the alternate lyrics to “Choosin’ Texas.”\n\nElla Langley: https://www.instagram.com/ellal",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Kill Tony",
@@ -43,18 +55,6 @@
         "Palmer Luckey",
         "Alex Karp"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#294 Pete Blaber - Part 2: Delta Force Commander on Pablo Escobar, Takur Ghar, and Pat Tillman",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5145309657.mp3?updated=1775443904",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5145309657.mp3?updated=1775443904",
-      "date": "2026-04-06T10:10:00.000Z",
-      "duration": "25182",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Pete Blaber is a retired Delta Force commander renowned for leading elite counter-terrorism and special operations teams across the globe, now applying his battle-tested leadership principles to corporate environments, authorship, and innovative security solutions.\n\nBorn and raised in Oak Park, Illinois, as one of nine children in an Irish-Catholic household. Pete attended Southern Illinois Univer",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -109,6 +109,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#651 - Ella Langley",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1981655745.mp3?updated=1775555465",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1981655745.mp3?updated=1775555465",
+      "date": "2026-04-07T09:35:00.000Z",
+      "duration": "6694",
+      "image": "https://megaphone.imgix.net/podcasts/58db311c-3263-11f1-9c85-6f53b2c8b115/image/ba53fbd96a91b2c1e2d2f245215c770e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Ella Langley is a country singer-songwriter from Hope Hull, Alabama. Her new album “Dandelion” is out this Friday April 10th wherever you stream music. \n\nElla joins Theo to talk about growing up in a hippie Baptist family, the stars she looked up to as she found her way in Nashville, and what she thinks of all the alternate lyrics to “Choosin’ Texas.”\n\nElla Langley: https://www.instagram.com/ellal",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Kill Tony",
       "title": "#763 - JEFF ROSS",
@@ -146,18 +158,6 @@
         "Palmer Luckey",
         "Alex Karp"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#294 Pete Blaber - Part 2: Delta Force Commander on Pablo Escobar, Takur Ghar, and Pat Tillman",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5145309657.mp3?updated=1775443904",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5145309657.mp3?updated=1775443904",
-      "date": "2026-04-06T10:10:00.000Z",
-      "duration": "25182",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Pete Blaber is a retired Delta Force commander renowned for leading elite counter-terrorism and special operations teams across the globe, now applying his battle-tested leadership principles to corporate environments, authorship, and innovative security solutions.\n\nBorn and raised in Oak Park, Illinois, as one of nine children in an Irish-Catholic household. Pete attended Southern Illinois Univer",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
