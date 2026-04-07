@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-04-06T21:40:10.127Z",
+  "lastUpdated": "2026-04-07T02:37:28.634Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 13,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ckl4KECnJmQ",
-      "show": "Theo Von",
-      "title": "Jake Paul on His Political Future",
-      "url": "https://www.youtube.com/watch?v=Ckl4KECnJmQ",
-      "date": "2026-04-06T21:31:50.000Z",
-      "image": "https://i4.ytimg.com/vi/Ckl4KECnJmQ/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #650 | Jake Paul\nFull Episode: https://youtu.be/pWnTGtBILak\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: h",
-      "guestTags": []
+      "videoId": "kV65-IJ1DE0",
+      "show": "All-In Podcast",
+      "title": "Retardmaxxing: The Next Great Modern Philosophy?",
+      "url": "https://www.youtube.com/watch?v=kV65-IJ1DE0",
+      "date": "2026-04-06T17:33:47.000Z",
+      "image": "https://i4.ytimg.com/vi/kV65-IJ1DE0/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ckl4KECnJmQ",
-      "show": "Theo Von",
-      "title": "Jake Paul on His Political Future",
-      "url": "https://www.youtube.com/watch?v=Ckl4KECnJmQ",
-      "date": "2026-04-06T21:31:50.000Z",
-      "image": "https://i4.ytimg.com/vi/Ckl4KECnJmQ/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #650 | Jake Paul\nFull Episode: https://youtu.be/pWnTGtBILak\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: h",
-      "guestTags": []
+      "videoId": "kV65-IJ1DE0",
+      "show": "All-In Podcast",
+      "title": "Retardmaxxing: The Next Great Modern Philosophy?",
+      "url": "https://www.youtube.com/watch?v=kV65-IJ1DE0",
+      "date": "2026-04-06T17:33:47.000Z",
+      "image": "https://i4.ytimg.com/vi/kV65-IJ1DE0/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
