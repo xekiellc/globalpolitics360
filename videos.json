@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T13:24:43.246Z",
+  "lastUpdated": "2026-04-08T16:16:32.555Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nBapzTHEL18",
-      "show": "TRIGGERnometry",
-      "title": "Are Podcasters Destroying MAGA? - Batya Ungar-Sargon",
-      "url": "https://www.youtube.com/watch?v=nBapzTHEL18",
-      "date": "2026-04-08T10:14:15.000Z",
-      "image": "https://i3.ytimg.com/vi/nBapzTHEL18/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "Cjj-mmhi7q0",
+      "show": "Theo Von",
+      "title": "Theo and Ella Langley Talk Waffle House",
+      "url": "https://www.youtube.com/watch?v=Cjj-mmhi7q0",
+      "date": "2026-04-08T15:48:25.000Z",
+      "image": "https://i4.ytimg.com/vi/Cjj-mmhi7q0/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #651 Ella Langley\nFull Episode: https://www.youtube.com/watch?v=8jqyklYKjMU\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastwee",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nBapzTHEL18",
-      "show": "TRIGGERnometry",
-      "title": "Are Podcasters Destroying MAGA? - Batya Ungar-Sargon",
-      "url": "https://www.youtube.com/watch?v=nBapzTHEL18",
-      "date": "2026-04-08T10:14:15.000Z",
-      "image": "https://i3.ytimg.com/vi/nBapzTHEL18/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "Cjj-mmhi7q0",
+      "show": "Theo Von",
+      "title": "Theo and Ella Langley Talk Waffle House",
+      "url": "https://www.youtube.com/watch?v=Cjj-mmhi7q0",
+      "date": "2026-04-08T15:48:25.000Z",
+      "image": "https://i4.ytimg.com/vi/Cjj-mmhi7q0/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #651 Ella Langley\nFull Episode: https://www.youtube.com/watch?v=8jqyklYKjMU\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastwee",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
