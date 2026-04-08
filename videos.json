@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-04-08T05:13:23.407Z",
+  "lastUpdated": "2026-04-08T07:24:54.975Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 33,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "Fp5MTDmj7W8",
+      "show": "Shawn Ryan Show",
+      "title": "Pete Hegseth Should See This 🤬",
+      "url": "https://www.youtube.com/watch?v=Fp5MTDmj7W8",
+      "date": "2026-04-08T00:00:27.000Z",
+      "image": "https://i3.ytimg.com/vi/Fp5MTDmj7W8/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "H5aOuGfkRd4",
-      "show": "Kill Tony",
-      "title": "KT #763 - JEFF ROSS",
-      "url": "https://www.youtube.com/watch?v=H5aOuGfkRd4",
-      "date": "2026-04-07T01:00:07.000Z",
-      "image": "https://i1.ytimg.com/vi/H5aOuGfkRd4/hqdefault.jpg",
-      "desc": "Jeff Ross, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/23/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)\n\nBRIAN REDBAN\n@",
+      "videoId": "Fp5MTDmj7W8",
+      "show": "Shawn Ryan Show",
+      "title": "Pete Hegseth Should See This 🤬",
+      "url": "https://www.youtube.com/watch?v=Fp5MTDmj7W8",
+      "date": "2026-04-08T00:00:27.000Z",
+      "image": "https://i3.ytimg.com/vi/Fp5MTDmj7W8/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
       "guestTags": []
     }
   ],
