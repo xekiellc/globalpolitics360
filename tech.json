@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-08T19:20:45.491Z",
+  "lastUpdated": "2026-04-08T21:46:36.208Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Adam Back Says Quantum Threat to Bitcoin Is Decades Away, Urges Gradual Migration to Post-Quantum Security",
+      "url": "https://bitcoinmagazine.com/news/adam-back-says-quantum-threat-to-bitcoin",
+      "date": "2026-04-08T21:03:09.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/BTQ-Deploys-First-Working-BIP-360-Implementation-on-Bitcoin-Quantum-Testnet.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Nunchuk Releases Open-Source Tools for Bitcoin Agents With Bounded Authority",
       "url": "https://bitcoinmagazine.com/news/nunchuk-releases-bitcoin-agents",
@@ -97,15 +106,6 @@
       "url": "https://bitcoinmagazine.com/news/demand-for-crypto-pay-surges-but-payroll-systems-fall-behind-research",
       "date": "2026-04-07T19:53:33.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Demand-for-Crypto-Pay-Surges-but-Payroll-Systems-Fall-Behind-Research.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Paolo Ardoino Confirmed as a Bitcoin 2026 Speaker",
-      "url": "https://bitcoinmagazine.com/conference/paolo-ardoino-confirmed-as-a-bitcoin-2026-speaker",
-      "date": "2026-04-07T19:07:47.000Z",
-      "image": "https://www.youtube.com/embed/zCgwHtG40hg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
