@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-04-09T19:11:08.815Z",
+  "lastUpdated": "2026-04-09T21:47:52.217Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin Could Be Quantum-Safe Without Protocol Changes, New Proposal Claims",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-could-be-quantum-safe",
+      "date": "2026-04-09T20:56:54.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Could-Be-Quantum-Safe-Without-Protocol-Changes-New-Proposal-Claims.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Strategy&#8217;s (MSTR) Bitcoin Ambition Is Reshaping Corporate Finance. Everyone Else Is Falling Behind",
+      "url": "https://bitcoinmagazine.com/news/strategys-bitcoin-ambition-is-reshaping",
+      "date": "2026-04-09T19:42:20.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-is-About-to-Have-More-Bitcoin-Than-BlackRocks-IBIT-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Stacked (formerly Lightning Pay) launches self-custodial Lightning wallet as New Zealand’s last major non-custodial Bitcoin exchange",
+      "url": "https://bitcoinmagazine.com/business/stacked-formerly-lightning-pay-launches-self-custodial-lightning-wallet-as-new-zealands-last-major-non-custodial-bitcoin-exchange",
+      "date": "2026-04-09T19:23:37.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Gemini_Generated_Image_2oo9ig2oo9ig2oo9.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Ep 149: Will Fry on the Small Business Succession Crisis & New Opportunities in the AI Age",
+      "url": "https://blog.joelonsdale.com/p/ep-149-will-fry-on-the-small-business",
+      "date": "2026-04-09T19:21:47.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
     {
       "title": "Tim Draper Confirmed as a Bitcoin 2026 Speaker",
       "url": "https://bitcoinmagazine.com/conference/tim-draper-confirmed-as-a-bitcoin-2026-speaker",
@@ -70,33 +106,6 @@
       "url": "https://bitcoinmagazine.com/culture/relics-of-a-revolution-part-i-standing-outside-in-the-cold",
       "date": "2026-04-09T13:17:00.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Relics-of-a-Revolution-Part-I-Standing-Outside-in-the-Cold.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Adam Back Says Quantum Threat to Bitcoin Is Decades Away, Urges Gradual Migration to Post-Quantum Security",
-      "url": "https://bitcoinmagazine.com/news/adam-back-says-quantum-threat-to-bitcoin",
-      "date": "2026-04-08T21:03:09.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/BTQ-Deploys-First-Working-BIP-360-Implementation-on-Bitcoin-Quantum-Testnet.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Nunchuk Releases Open-Source Tools for Bitcoin Agents With Bounded Authority",
-      "url": "https://bitcoinmagazine.com/news/nunchuk-releases-bitcoin-agents",
-      "date": "2026-04-08T19:12:51.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Trust-Wallet-Launches-Agent-Kit-That-Lets-AI-Execute-Crypto-Transactions-Under-User-Control.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bernstein Pushes Back on Bitcoin Quantum Threat Fears, Says It’s Not a Crisis: Report",
-      "url": "https://bitcoinmagazine.com/news/bernstein-pushes-back-on-bitcoin-quantum",
-      "date": "2026-04-08T16:50:28.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bernstein-Pushes-Back-on-Bitcoin-Quantum-Threat-Fears-Says-Its-Not-a-Crisis-Report.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "New Book: The Stolguard Incident",
-      "url": "https://www.lynalden.com/the-stolguard-incident/",
-      "date": "2026-03-13T13:29:44.000Z",
-      "image": "",
-      "source": "Lyn Alden",
-      "teaser": "Lyn Alden breaks down why modern monetary systems are fundamentally flawed in educational video format.",
-      "id": "aHR0cHM6Ly93d3cubHluYWxk"
     }
   ]
 }
