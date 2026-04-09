@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-09T07:26:53.853Z",
+  "lastUpdated": "2026-04-09T10:15:22.055Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1579,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: The Biology of Aggression, Mating &amp; Arousal | Dr. David Anderson",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM8499505944.mp3?updated=1775702271",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-biology-of-aggression-mating-and-arousal-david-anderson",
+      "date": "2026-04-09T08:00:00.000Z",
+      "duration": "2281",
+      "image": "https://megaphone.imgix.net/podcasts/179fc9fa-339f-11f1-bfdc-23c7ba4982f2/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. David Anderson, PhD, a professor of biology at the California Institute of Technology (Caltech) and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits that underlie how emotions emerge and shape behaviors, including the neural control of fear, aggression and pain. We also explore how hormones and neu",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -29,18 +41,6 @@
       "duration": "1462",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Hawaii doctor Gerhardt Konig took his wife, Arielle Konig, on a hike on the Pali Puka Trail, where he allegedly tried to kill her. Today, I’ll break down the case and the red flags you should be looking for.\n\nUltra Pouches:\nDon’t sleep on @ultrapouches. New customers get 15% Off with code WATCH at https://takeultra.com! \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2480 - Arsenio Hall",
-      "audioUrl": "https://traffic.megaphone.fm/GLT3162202677.mp3?updated=1775667417",
-      "listenUrl": "https://traffic.megaphone.fm/GLT3162202677.mp3?updated=1775667417",
-      "date": "2026-04-08T17:00:00.000Z",
-      "duration": "10691",
-      "image": "https://megaphone.imgix.net/podcasts/40c67136-32f4-11f1-8fff-17c75e7b3806/image/c431436ce2ac4d5b79fb3fb2e89e0a55.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Arsenio Hall is a comedian, producer, writer, and actor. He hosted “The Arsenio Hall Show” and has appeared in films including “Coming to America” and “Harlem Nights.” His new book, “Arsenio Hall: A Memoir,” is available now.www.simonandschuster.com/books/Arsenio/Arsenio-Hall/9781982191368www.arseniohall.com\n\n\n\n\n\n\n\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
       "guestTags": []
     },
     {
@@ -108,6 +108,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: The Biology of Aggression, Mating &amp; Arousal | Dr. David Anderson",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM8499505944.mp3?updated=1775702271",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-biology-of-aggression-mating-and-arousal-david-anderson",
+      "date": "2026-04-09T08:00:00.000Z",
+      "duration": "2281",
+      "image": "https://megaphone.imgix.net/podcasts/179fc9fa-339f-11f1-bfdc-23c7ba4982f2/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. David Anderson, PhD, a professor of biology at the California Institute of Technology (Caltech) and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits that underlie how emotions emerge and shape behaviors, including the neural control of fear, aggression and pain. We also explore how hormones and neu",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Trump Backed Down",
@@ -131,18 +143,6 @@
       "duration": "1462",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Hawaii doctor Gerhardt Konig took his wife, Arielle Konig, on a hike on the Pali Puka Trail, where he allegedly tried to kill her. Today, I’ll break down the case and the red flags you should be looking for.\n\nUltra Pouches:\nDon’t sleep on @ultrapouches. New customers get 15% Off with code WATCH at https://takeultra.com! \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2480 - Arsenio Hall",
-      "audioUrl": "https://traffic.megaphone.fm/GLT3162202677.mp3?updated=1775667417",
-      "listenUrl": "https://traffic.megaphone.fm/GLT3162202677.mp3?updated=1775667417",
-      "date": "2026-04-08T17:00:00.000Z",
-      "duration": "10691",
-      "image": "https://megaphone.imgix.net/podcasts/40c67136-32f4-11f1-8fff-17c75e7b3806/image/c431436ce2ac4d5b79fb3fb2e89e0a55.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Arsenio Hall is a comedian, producer, writer, and actor. He hosted “The Arsenio Hall Show” and has appeared in films including “Coming to America” and “Harlem Nights.” His new book, “Arsenio Hall: A Memoir,” is available now.www.simonandschuster.com/books/Arsenio/Arsenio-Hall/9781982191368www.arseniohall.com\n\n\n\n\n\n\n\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
       "guestTags": []
     },
     {
