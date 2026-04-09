@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-04-09T16:20:14.371Z",
+  "lastUpdated": "2026-04-09T19:11:14.636Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1580,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#495 – Vikings, Ragnar, Berserkers, Valhalla &#038; the Warriors of the Viking Age",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
+      "listenUrl": "https://lexfridman.com/lars-brownworth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lars-brownworth",
+      "date": "2026-04-09T17:43:17.000Z",
+      "duration": "2:09:56",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/lars-brownworth-transcript\nCONTACT LEX:\n",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2481 - Duncan Trussell",
+      "audioUrl": "https://traffic.megaphone.fm/GLT3393412202.mp3?updated=1775753732",
+      "listenUrl": "https://traffic.megaphone.fm/GLT3393412202.mp3?updated=1775753732",
+      "date": "2026-04-09T17:00:00.000Z",
+      "duration": "11574",
+      "image": "https://megaphone.imgix.net/podcasts/3ae530aa-340b-11f1-a2fc-ff8c0ea5e298/image/ba7072ca8e4dac5cc07ae17a05eaf3f1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Duncan Trussell is a stand-up comedian, voice actor, and host of “The Duncan Trussell Family Hour.” He will perform live April 9–11 at Zanies Comedy Club Rosemont in Rosemont, Illinois. Tickets are on sale now.https://rosemont.zanies.com/show/category/series/2026-duncan-trussell/zanies-comedy-club-rosemont/rosemont-illinois/www.youtube.com/@duncantrussellfamilyhourwww.patreon.com/dtfhwww.duncantru",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -31,18 +55,6 @@
         "Glenn Greenwald",
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Biology of Aggression, Mating &amp; Arousal | Dr. David Anderson",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8499505944.mp3?updated=1775702271",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-biology-of-aggression-mating-and-arousal-david-anderson",
-      "date": "2026-04-09T08:00:00.000Z",
-      "duration": "2281",
-      "image": "https://megaphone.imgix.net/podcasts/179fc9fa-339f-11f1-bfdc-23c7ba4982f2/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. David Anderson, PhD, a professor of biology at the California Institute of Technology (Caltech) and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits that underlie how emotions emerge and shape behaviors, including the neural control of fear, aggression and pain. We also explore how hormones and neu",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -81,20 +93,6 @@
       "image": "https://megaphone.imgix.net/podcasts/58db311c-3263-11f1-9c85-6f53b2c8b115/image/ba53fbd96a91b2c1e2d2f245215c770e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Ella Langley is a country singer-songwriter from Hope Hull, Alabama. Her new album “Dandelion” is out this Friday April 10th wherever you stream music. \n\nElla joins Theo to talk about growing up in a hippie Baptist family, the stars she looked up to as she found her way in Nashville, and what she thinks of all the alternate lyrics to “Choosin’ Texas.”\n\nElla Langley: https://www.instagram.com/ellal",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#494 – Jensen Huang: NVIDIA &#8211; The $4 Trillion Company &#038; the AI Revolution",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
-      "listenUrl": "https://lexfridman.com/jensen-huang/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jensen-huang",
-      "date": "2026-03-23T16:28:42.000Z",
-      "duration": "",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/jensen-huang-transcript\nCONTACT LEX",
-      "guestTags": [
-        "Jensen Huang"
-      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
@@ -111,6 +109,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#495 – Vikings, Ragnar, Berserkers, Valhalla &#038; the Warriors of the Viking Age",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
+      "listenUrl": "https://lexfridman.com/lars-brownworth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lars-brownworth",
+      "date": "2026-04-09T17:43:17.000Z",
+      "duration": "2:09:56",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/lars-brownworth-transcript\nCONTACT LEX:\n",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2481 - Duncan Trussell",
+      "audioUrl": "https://traffic.megaphone.fm/GLT3393412202.mp3?updated=1775753732",
+      "listenUrl": "https://traffic.megaphone.fm/GLT3393412202.mp3?updated=1775753732",
+      "date": "2026-04-09T17:00:00.000Z",
+      "duration": "11574",
+      "image": "https://megaphone.imgix.net/podcasts/3ae530aa-340b-11f1-a2fc-ff8c0ea5e298/image/ba7072ca8e4dac5cc07ae17a05eaf3f1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Duncan Trussell is a stand-up comedian, voice actor, and host of “The Duncan Trussell Family Hour.” He will perform live April 9–11 at Zanies Comedy Club Rosemont in Rosemont, Illinois. Tickets are on sale now.https://rosemont.zanies.com/show/category/series/2026-duncan-trussell/zanies-comedy-club-rosemont/rosemont-illinois/www.youtube.com/@duncantrussellfamilyhourwww.patreon.com/dtfhwww.duncantru",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "4/9/26: WH Humiliated By Israel, Lebanon Bombings, Yanis Varoufakis On China Winning",
@@ -136,18 +158,6 @@
         "Glenn Greenwald",
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Biology of Aggression, Mating &amp; Arousal | Dr. David Anderson",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8499505944.mp3?updated=1775702271",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-biology-of-aggression-mating-and-arousal-david-anderson",
-      "date": "2026-04-09T08:00:00.000Z",
-      "duration": "2281",
-      "image": "https://megaphone.imgix.net/podcasts/179fc9fa-339f-11f1-bfdc-23c7ba4982f2/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. David Anderson, PhD, a professor of biology at the California Institute of Technology (Caltech) and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits that underlie how emotions emerge and shape behaviors, including the neural control of fear, aggression and pain. We also explore how hormones and neu",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -186,20 +196,6 @@
       "image": "https://megaphone.imgix.net/podcasts/58db311c-3263-11f1-9c85-6f53b2c8b115/image/ba53fbd96a91b2c1e2d2f245215c770e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Ella Langley is a country singer-songwriter from Hope Hull, Alabama. Her new album “Dandelion” is out this Friday April 10th wherever you stream music. \n\nElla joins Theo to talk about growing up in a hippie Baptist family, the stars she looked up to as she found her way in Nashville, and what she thinks of all the alternate lyrics to “Choosin’ Texas.”\n\nElla Langley: https://www.instagram.com/ellal",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#494 – Jensen Huang: NVIDIA &#8211; The $4 Trillion Company &#038; the AI Revolution",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
-      "listenUrl": "https://lexfridman.com/jensen-huang/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jensen-huang",
-      "date": "2026-03-23T16:28:42.000Z",
-      "duration": "",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/jensen-huang-transcript\nCONTACT LEX",
-      "guestTags": [
-        "Jensen Huang"
-      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
@@ -223,9 +219,6 @@
     ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Jensen Huang": [
-      "aHR0cHM6Ly9tZWRpYS5ibHVi"
     ]
   }
 }

@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-09T16:20:06.317Z",
+  "lastUpdated": "2026-04-09T19:11:08.815Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Tim Draper Confirmed as a Bitcoin 2026 Speaker",
+      "url": "https://bitcoinmagazine.com/conference/tim-draper-confirmed-as-a-bitcoin-2026-speaker",
+      "date": "2026-04-09T18:56:58.000Z",
+      "image": "https://www.youtube.com/embed/zCgwHtG40hg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "SEC Chair Paul Atkins, Treasury Secretary Scott Bessent, David Sacks Push Congress to Pass Crypto Market Structure Bill ‘Now’",
       "url": "https://bitcoinmagazine.com/news/congress-crypto-market-structure-bill",
@@ -100,15 +109,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "NYT Names Adam Back as Bitcoin&#8217;s Creator, but Back Says No",
-      "url": "https://bitcoinmagazine.com/news/nyt-names-adam-back-as-bitcoins-creator",
-      "date": "2026-04-08T15:00:34.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/NYT-Names-Adam-Back-as-Bitcoins-Creator-but-Back-Says-No-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "AI Adoption by the Numbers",
