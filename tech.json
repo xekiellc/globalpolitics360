@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-04-10T13:16:49.159Z",
+  "lastUpdated": "2026-04-10T15:56:32.358Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Japan Moves to Classify Bitcoin and Crypto as Financial Instruments Under New Bill",
+      "url": "https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto",
+      "date": "2026-04-10T14:14:45.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Pics-32.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Charts of the Week: Venture's $300B Quarter",
+      "url": "https://www.a16z.news/p/charts-of-the-week-ventures-300b",
+      "date": "2026-04-10T14:02:48.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d40737cc-bd67-4845-8af1-d7938ba0d9da_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Weekly Dose of Optimism #188",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-188",
@@ -109,15 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Relics of a Revolution, Part I: Standing Outside in the Cold",
-      "url": "https://bitcoinmagazine.com/culture/relics-of-a-revolution-part-i-standing-outside-in-the-cold",
-      "date": "2026-04-09T13:17:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Relics-of-a-Revolution-Part-I-Standing-Outside-in-the-Cold.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Investing in GitButler",
@@ -334,15 +343,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Revolut: The Algorithm That Keeps Compounding",
-      "url": "https://www.a16z.news/p/the-algorithm-that-keeps-compounding",
-      "date": "2026-03-24T08:25:33.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/a4a0368e-5380-4377-829e-ca59f6084f0a_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Weekly Dose of Optimism #185",
