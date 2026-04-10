@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-10T10:09:33.589Z",
+  "lastUpdated": "2026-04-10T13:16:49.159Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Weekly Dose of Optimism #188",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-188",
+      "date": "2026-04-10T12:32:59.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!DYnb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda9eb73c-d54f-45b7-8660-d56aa46888e9_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin Could Be Quantum-Safe Without Protocol Changes, New Proposal Claims",
       "url": "https://bitcoinmagazine.com/news/bitcoin-could-be-quantum-safe",
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 146: Jake Paul & Geoff Woo on Building Anti Fund, the Future of the Creator Economy & How to Change the Culture",
-      "url": "https://blog.joelonsdale.com/p/ep-146-jake-paul-and-geoff-woo-on",
-      "date": "2026-03-19T00:51:47.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
