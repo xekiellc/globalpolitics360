@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-10T21:41:03.193Z",
+  "lastUpdated": "2026-04-11T02:29:22.654Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1580,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E268_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence",
+      "date": "2026-04-10T22:17:00.000Z",
+      "duration": "01:29:18",
+      "image": "https://static.libsyn.com/p/assets/9/3/b/3/93b381a492da6d06d959afa2a1bf1c87/1_Pod_E268-20260410-lusrx3kb2k.png",
+      "desc": "(0:00) Bestie intros: Brad Gerstner joins the show! (4:22) Anthropic blocks Mythos release for security concerns: serious or marketing stunt? (24:07) Are OpenAI and Anthropic trying to kill OpenClaw? Does Anthropic already have market dominance in AI coding? (42:20) Anthropic $30B run rate, fastest revenue ramp ever, the TAM for intelligence (58:01) Major vibe shift: Anthropic ripping, OpenAI reel",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -15,18 +27,6 @@
       "duration": "1016",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "There’s a lot of noise around the Tyler Robinson case, so today we’re going to ground this in facts.\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "“Happy Hour”: Emily’s Makeover, Trump Cabinet Shake-Up, &amp; Jennifer Siebel Newsom’s WILD Comments: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/ae2d1664-05c7-4f24-83b0-d110c2d3a196/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=ae2d1664-05c7-4f24-83b0-d110c2d3a196&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-04-10T20:00:00.000Z",
-      "duration": "01:04:04",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily opens with some comments about her ‘makeover’ on The Megyn Kelly Show. She then moves on to discuss the break between President Trump and Tucker Carlson and the infamous Easter Day message. Then Emily shares some thoughts about members of the Trump administration including Harmeet Dhillon’s free speech advocacy and why Emily believes Dhillon doesn’t ge",
       "guestTags": []
     },
     {
@@ -104,6 +104,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E268_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence",
+      "date": "2026-04-10T22:17:00.000Z",
+      "duration": "01:29:18",
+      "image": "https://static.libsyn.com/p/assets/9/3/b/3/93b381a492da6d06d959afa2a1bf1c87/1_Pod_E268-20260410-lusrx3kb2k.png",
+      "desc": "(0:00) Bestie intros: Brad Gerstner joins the show! (4:22) Anthropic blocks Mythos release for security concerns: serious or marketing stunt? (24:07) Are OpenAI and Anthropic trying to kill OpenClaw? Does Anthropic already have market dominance in AI coding? (42:20) Anthropic $30B run rate, fastest revenue ramp ever, the TAM for intelligence (58:01) Major vibe shift: Anthropic ripping, OpenAI reel",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "What No One’s Telling You About Tyler Robinson",
@@ -113,18 +125,6 @@
       "duration": "1016",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "There’s a lot of noise around the Tyler Robinson case, so today we’re going to ground this in facts.\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "“Happy Hour”: Emily’s Makeover, Trump Cabinet Shake-Up, &amp; Jennifer Siebel Newsom’s WILD Comments: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/ae2d1664-05c7-4f24-83b0-d110c2d3a196/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=ae2d1664-05c7-4f24-83b0-d110c2d3a196&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-04-10T20:00:00.000Z",
-      "duration": "01:04:04",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily opens with some comments about her ‘makeover’ on The Megyn Kelly Show. She then moves on to discuss the break between President Trump and Tucker Carlson and the infamous Easter Day message. Then Emily shares some thoughts about members of the Trump administration including Harmeet Dhillon’s free speech advocacy and why Emily believes Dhillon doesn’t ge",
       "guestTags": []
     },
     {
