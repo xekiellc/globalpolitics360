@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-11T09:42:59.848Z",
+  "lastUpdated": "2026-04-11T13:03:53.657Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "The Core Issue: The Role and History of Bitcoin Core Maintainers",
+      "url": "https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers",
+      "date": "2026-04-11T13:00:00.000Z",
+      "image": "https://www.youtube.com/embed/8JmvkyQyD8w",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Bitcoin Policy Institute Warns Quantum Advances Are Compressing Timeline for Network Upgrades",
       "url": "https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum",
@@ -106,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/congress-crypto-market-structure-bill",
       "date": "2026-04-09T16:12:17.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/SEC-Chair-Paul-Atkins-Treasury-Secretary-Scott-Bessent-David-Sacks-Push-Congress-to-Pass-Crypto-Market-Structure-Bill-‘Now.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Depot Reports $3.7 Million Stolen in Wallet Security Breach",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-depot-reports-3-7-million",
-      "date": "2026-04-09T15:25:51.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Depot-Reports-3.7-Million-Stolen-in-Wallet-Security-Breach.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
