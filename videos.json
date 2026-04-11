@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-04-11T13:03:58.856Z",
+  "lastUpdated": "2026-04-11T15:36:55.744Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 33,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "GebVynLVt8s",
-      "show": "Shawn Ryan Show",
-      "title": "He Watched an RPG Fly Right at Him 😳",
-      "url": "https://www.youtube.com/watch?v=GebVynLVt8s",
-      "date": "2026-04-11T00:00:17.000Z",
-      "image": "https://i4.ytimg.com/vi/GebVynLVt8s/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "xMRcAocdHtY",
+      "show": "All-In Podcast",
+      "title": "Why they are trying to KILL OpenClaw",
+      "url": "https://www.youtube.com/watch?v=xMRcAocdHtY",
+      "date": "2026-04-11T15:01:36.000Z",
+      "image": "https://i1.ytimg.com/vi/xMRcAocdHtY/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "GebVynLVt8s",
-      "show": "Shawn Ryan Show",
-      "title": "He Watched an RPG Fly Right at Him 😳",
-      "url": "https://www.youtube.com/watch?v=GebVynLVt8s",
-      "date": "2026-04-11T00:00:17.000Z",
-      "image": "https://i4.ytimg.com/vi/GebVynLVt8s/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "xMRcAocdHtY",
+      "show": "All-In Podcast",
+      "title": "Why they are trying to KILL OpenClaw",
+      "url": "https://www.youtube.com/watch?v=xMRcAocdHtY",
+      "date": "2026-04-11T15:01:36.000Z",
+      "image": "https://i1.ytimg.com/vi/xMRcAocdHtY/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
