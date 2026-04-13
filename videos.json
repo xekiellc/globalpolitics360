@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T13:43:54.180Z",
+  "lastUpdated": "2026-04-13T16:15:39.232Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,41 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jXOpgbsQE88",
-      "show": "Theo Von",
-      "title": "Will AI Lead to a Tech Kingdom?",
-      "url": "https://www.youtube.com/watch?v=jXOpgbsQE88",
-      "date": "2026-04-13T13:01:20.000Z",
-      "image": "https://i3.ytimg.com/vi/jXOpgbsQE88/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #652 | Matt McCusker\nFull Episode: https://youtu.be/ljerfYGfCeE\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitte",
-      "guestTags": []
+      "videoId": "4FIDVjbcBL8",
+      "show": "All-In Podcast",
+      "title": "Anthropic is kicking OpenAI’s ass: Insights from the largest revenue explosion in tech history",
+      "url": "https://www.youtube.com/watch?v=4FIDVjbcBL8",
+      "date": "2026-04-13T15:49:43.000Z",
+      "image": "https://i1.ytimg.com/vi/4FIDVjbcBL8/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jXOpgbsQE88",
-      "show": "Theo Von",
-      "title": "Will AI Lead to a Tech Kingdom?",
-      "url": "https://www.youtube.com/watch?v=jXOpgbsQE88",
-      "date": "2026-04-13T13:01:20.000Z",
-      "image": "https://i3.ytimg.com/vi/jXOpgbsQE88/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #652 | Matt McCusker\nFull Episode: https://youtu.be/ljerfYGfCeE\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitte",
-      "guestTags": []
+      "videoId": "4FIDVjbcBL8",
+      "show": "All-In Podcast",
+      "title": "Anthropic is kicking OpenAI’s ass: Insights from the largest revenue explosion in tech history",
+      "url": "https://www.youtube.com/watch?v=4FIDVjbcBL8",
+      "date": "2026-04-13T15:49:43.000Z",
+      "image": "https://i1.ytimg.com/vi/4FIDVjbcBL8/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
