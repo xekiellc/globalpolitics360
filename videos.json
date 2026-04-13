@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T10:48:57.580Z",
+  "lastUpdated": "2026-04-13T13:43:54.180Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "LQGpBapwx2A",
-      "show": "TRIGGERnometry",
-      "title": "Francis Wrote A Book. Pre-Order It Now!",
-      "url": "https://www.youtube.com/watch?v=LQGpBapwx2A",
-      "date": "2026-04-13T09:35:43.000Z",
-      "image": "https://i1.ytimg.com/vi/LQGpBapwx2A/hqdefault.jpg",
-      "desc": "As many of you know, Francis used to be a teacher… and that experience led him to write a book.\n\n(Un)educated: My Life as a Teacher, and Why You Should Never Become One, is officially available for pre-order.\n\nPre-order link in the comments below ⬇️\n\nJoin our exclusive TRIGGERnometry community on Su",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "jXOpgbsQE88",
+      "show": "Theo Von",
+      "title": "Will AI Lead to a Tech Kingdom?",
+      "url": "https://www.youtube.com/watch?v=jXOpgbsQE88",
+      "date": "2026-04-13T13:01:20.000Z",
+      "image": "https://i3.ytimg.com/vi/jXOpgbsQE88/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #652 | Matt McCusker\nFull Episode: https://youtu.be/ljerfYGfCeE\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitte",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "LQGpBapwx2A",
-      "show": "TRIGGERnometry",
-      "title": "Francis Wrote A Book. Pre-Order It Now!",
-      "url": "https://www.youtube.com/watch?v=LQGpBapwx2A",
-      "date": "2026-04-13T09:35:43.000Z",
-      "image": "https://i1.ytimg.com/vi/LQGpBapwx2A/hqdefault.jpg",
-      "desc": "As many of you know, Francis used to be a teacher… and that experience led him to write a book.\n\n(Un)educated: My Life as a Teacher, and Why You Should Never Become One, is officially available for pre-order.\n\nPre-order link in the comments below ⬇️\n\nJoin our exclusive TRIGGERnometry community on Su",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "jXOpgbsQE88",
+      "show": "Theo Von",
+      "title": "Will AI Lead to a Tech Kingdom?",
+      "url": "https://www.youtube.com/watch?v=jXOpgbsQE88",
+      "date": "2026-04-13T13:01:20.000Z",
+      "image": "https://i3.ytimg.com/vi/jXOpgbsQE88/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #652 | Matt McCusker\nFull Episode: https://youtu.be/ljerfYGfCeE\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitte",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
