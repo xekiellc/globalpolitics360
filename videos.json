@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T08:08:11.527Z",
+  "lastUpdated": "2026-04-13T10:48:57.580Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3vYw8xfmYRk",
-      "show": "Shawn Ryan Show",
-      "title": "Return of Christ in 2026?! 😳",
-      "url": "https://www.youtube.com/watch?v=3vYw8xfmYRk",
-      "date": "2026-04-12T20:00:03.000Z",
-      "image": "https://i4.ytimg.com/vi/3vYw8xfmYRk/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "LQGpBapwx2A",
+      "show": "TRIGGERnometry",
+      "title": "Francis Wrote A Book. Pre-Order It Now!",
+      "url": "https://www.youtube.com/watch?v=LQGpBapwx2A",
+      "date": "2026-04-13T09:35:43.000Z",
+      "image": "https://i1.ytimg.com/vi/LQGpBapwx2A/hqdefault.jpg",
+      "desc": "As many of you know, Francis used to be a teacher… and that experience led him to write a book.\n\n(Un)educated: My Life as a Teacher, and Why You Should Never Become One, is officially available for pre-order.\n\nPre-order link in the comments below ⬇️\n\nJoin our exclusive TRIGGERnometry community on Su",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3vYw8xfmYRk",
-      "show": "Shawn Ryan Show",
-      "title": "Return of Christ in 2026?! 😳",
-      "url": "https://www.youtube.com/watch?v=3vYw8xfmYRk",
-      "date": "2026-04-12T20:00:03.000Z",
-      "image": "https://i4.ytimg.com/vi/3vYw8xfmYRk/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "LQGpBapwx2A",
+      "show": "TRIGGERnometry",
+      "title": "Francis Wrote A Book. Pre-Order It Now!",
+      "url": "https://www.youtube.com/watch?v=LQGpBapwx2A",
+      "date": "2026-04-13T09:35:43.000Z",
+      "image": "https://i1.ytimg.com/vi/LQGpBapwx2A/hqdefault.jpg",
+      "desc": "As many of you know, Francis used to be a teacher… and that experience led him to write a book.\n\n(Un)educated: My Life as a Teacher, and Why You Should Never Become One, is officially available for pre-order.\n\nPre-order link in the comments below ⬇️\n\nJoin our exclusive TRIGGERnometry community on Su",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
