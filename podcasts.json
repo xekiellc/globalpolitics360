@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-13T05:45:02.495Z",
+  "lastUpdated": "2026-04-13T08:08:10.491Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1582,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7009544360.mp3?updated=1776053814",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-women-can-improve-their-fertility-and-hormone-health-natalie-crawford",
+      "date": "2026-04-13T08:00:00.000Z",
+      "duration": "9377",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Natalie Crawford, MD, is a double board-certified OB-GYN and reproductive endocrinologist. We discuss how to improve hormone health at any age and the importance of fertility markers not just for pregnancy, but as a powerful window into overall health, vitality and longevity. We discuss hormone replacement therapy, egg freezing, IVF, and what biomarkers like AMH really indicate. Plus, how anti",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "TRIGGERnometry",
@@ -53,18 +65,6 @@
       "duration": "6725",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "The BP team&nbsp;looks at updates on the Iran ceasefire negotiations and destruction of Lebanon, Professor John Mearsheimer joins to demand Trump surrender to the Iranians and the global&nbsp;fallout especially in East Asia, Elissa Slotkin has a tense townhall with voters asking about AIPAC, Olivia Reingold causes a commotion at an Abdul El Sayed rally, and Melania gives a surprising speech distan",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #177 - Protect Ya Neck",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7244998855.mp3?updated=1775829921",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7244998855.mp3?updated=1775829921",
-      "date": "2026-04-10T17:00:00.000Z",
-      "duration": "11303",
-      "image": "https://megaphone.imgix.net/podcasts/07615520-3487-11f1-a651-832d3537b146/image/100db81302172a0484121b396a9654be.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe is joined by mixed martial artists John Rallo, Matt Serra, and Din Thomas.John Rallo owns Shogun Fights and is the owner and head coach at Ground Control Mixed Martial Arts Academy.www.groundcontrolbaltimore.comwww.shogunfights.comMatt Serra is a mixed martial artist and host of “UFC Unfiltered” with Jim Norton and “Geeking Out with Matt Serra.” He is the owner and an instructor at Serra BJJ.w",
       "guestTags": []
     },
     {
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7009544360.mp3?updated=1776053814",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-women-can-improve-their-fertility-and-hormone-health-natalie-crawford",
+      "date": "2026-04-13T08:00:00.000Z",
+      "duration": "9377",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Natalie Crawford, MD, is a double board-certified OB-GYN and reproductive endocrinologist. We discuss how to improve hormone health at any age and the importance of fertility markers not just for pregnancy, but as a powerful window into overall health, vitality and longevity. We discuss hormone replacement therapy, egg freezing, IVF, and what biomarkers like AMH really indicate. Plus, how anti",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "TRIGGERnometry",
       "title": "The Funniest Conversation We've Ever Had - Mark Normand",
@@ -153,18 +165,6 @@
       "duration": "6725",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "The BP team&nbsp;looks at updates on the Iran ceasefire negotiations and destruction of Lebanon, Professor John Mearsheimer joins to demand Trump surrender to the Iranians and the global&nbsp;fallout especially in East Asia, Elissa Slotkin has a tense townhall with voters asking about AIPAC, Olivia Reingold causes a commotion at an Abdul El Sayed rally, and Melania gives a surprising speech distan",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #177 - Protect Ya Neck",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7244998855.mp3?updated=1775829921",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7244998855.mp3?updated=1775829921",
-      "date": "2026-04-10T17:00:00.000Z",
-      "duration": "11303",
-      "image": "https://megaphone.imgix.net/podcasts/07615520-3487-11f1-a651-832d3537b146/image/100db81302172a0484121b396a9654be.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe is joined by mixed martial artists John Rallo, Matt Serra, and Din Thomas.John Rallo owns Shogun Fights and is the owner and head coach at Ground Control Mixed Martial Arts Academy.www.groundcontrolbaltimore.comwww.shogunfights.comMatt Serra is a mixed martial artist and host of “UFC Unfiltered” with Jim Norton and “Geeking Out with Matt Serra.” He is the owner and an instructor at Serra BJJ.w",
       "guestTags": []
     },
     {
