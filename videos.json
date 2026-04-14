@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T10:17:39.932Z",
+  "lastUpdated": "2026-04-14T13:47:15.944Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "azbmLRPRfxM",
-      "show": "Danny Jones Podcast",
-      "title": "The Podcaster Israel Is MOST Worried About.",
-      "url": "https://www.youtube.com/watch?v=azbmLRPRfxM",
-      "date": "2026-04-14T01:59:02.000Z",
-      "image": "https://i2.ytimg.com/vi/azbmLRPRfxM/hqdefault.jpg",
-      "desc": "Full Episode:\nhttps://www.youtube.com/watch?v=dvDjBgsZNAQ",
-      "guestTags": []
+      "videoId": "z7zSD5O9Rs0",
+      "show": "TRIGGERnometry",
+      "title": "Is This The Biggest Threat To Our Society?",
+      "url": "https://www.youtube.com/watch?v=z7zSD5O9Rs0",
+      "date": "2026-04-14T11:08:45.000Z",
+      "image": "https://i3.ytimg.com/vi/z7zSD5O9Rs0/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "azbmLRPRfxM",
-      "show": "Danny Jones Podcast",
-      "title": "The Podcaster Israel Is MOST Worried About.",
-      "url": "https://www.youtube.com/watch?v=azbmLRPRfxM",
-      "date": "2026-04-14T01:59:02.000Z",
-      "image": "https://i2.ytimg.com/vi/azbmLRPRfxM/hqdefault.jpg",
-      "desc": "Full Episode:\nhttps://www.youtube.com/watch?v=dvDjBgsZNAQ",
-      "guestTags": []
+      "videoId": "z7zSD5O9Rs0",
+      "show": "TRIGGERnometry",
+      "title": "Is This The Biggest Threat To Our Society?",
+      "url": "https://www.youtube.com/watch?v=z7zSD5O9Rs0",
+      "date": "2026-04-14T11:08:45.000Z",
+      "image": "https://i3.ytimg.com/vi/z7zSD5O9Rs0/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

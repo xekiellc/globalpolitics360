@@ -1,10 +1,25 @@
 {
-  "lastUpdated": "2026-04-14T10:17:39.106Z",
+  "lastUpdated": "2026-04-14T13:47:15.128Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1580,
+  "taggedCount": 1503,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Podcast Wars and MAGA Discourse, Dr. Jesus Trump Post, and Eric Swalwell&apos;s Gross Exit, with Dave Smith",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/1503640e-40ad-4c89-afa5-b84e11e84ddc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=1503640e-40ad-4c89-afa5-b84e11e84ddc&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-04-14T11:00:00.000Z",
+      "duration": "01:35:15",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/b5fc3a0b-0f12-4a41-bbe8-38b4e4e4ddc8/3000x3000/ap_81_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Dave Smith, comedian and host of “Part Of The Problem” Podcast, to discuss the ongoing war with Iran, what he views as the trouble with America’s strategy, and thoughts on dissenting voices among podcasters who supported President Trump in 2024. Emily and Dave also discuss backlash over a controversial Truth Social post by President Trump that appeared to depict him as",
+      "guestTags": [
+        "Dave Smith",
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Kill Tony",
@@ -51,18 +66,6 @@
       "duration": "9377",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Natalie Crawford, MD, is a double board-certified OB-GYN and reproductive endocrinologist. We discuss how to improve hormone health at any age and the importance of fertility markers not just for pregnancy, but as a powerful window into overall health, vitality and longevity. We discuss hormone replacement therapy, egg freezing, IVF, and what biomarkers like AMH really indicate. Plus, how anti",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E268_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence",
-      "date": "2026-04-10T22:17:00.000Z",
-      "duration": "01:29:18",
-      "image": "https://static.libsyn.com/p/assets/9/3/b/3/93b381a492da6d06d959afa2a1bf1c87/1_Pod_E268-20260410-lusrx3kb2k.png",
-      "desc": "(0:00) Bestie intros: Brad Gerstner joins the show! (4:22) Anthropic blocks Mythos release for security concerns: serious or marketing stunt? (24:07) Are OpenAI and Anthropic trying to kill OpenClaw? Does Anthropic already have market dominance in AI coding? (42:20) Anthropic $30B run rate, fastest revenue ramp ever, the TAM for intelligence (58:01) Major vibe shift: Anthropic ripping, OpenAI reel",
       "guestTags": []
     },
     {
@@ -104,6 +107,21 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Podcast Wars and MAGA Discourse, Dr. Jesus Trump Post, and Eric Swalwell&apos;s Gross Exit, with Dave Smith",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/1503640e-40ad-4c89-afa5-b84e11e84ddc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=1503640e-40ad-4c89-afa5-b84e11e84ddc&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-04-14T11:00:00.000Z",
+      "duration": "01:35:15",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/b5fc3a0b-0f12-4a41-bbe8-38b4e4e4ddc8/3000x3000/ap_81_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Dave Smith, comedian and host of “Part Of The Problem” Podcast, to discuss the ongoing war with Iran, what he views as the trouble with America’s strategy, and thoughts on dissenting voices among podcasters who supported President Trump in 2024. Emily and Dave also discuss backlash over a controversial Truth Social post by President Trump that appeared to depict him as",
+      "guestTags": [
+        "Dave Smith",
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Kill Tony",
       "title": "#764 - JELLY ROLL + THEO VON",
@@ -152,18 +170,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E268_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence",
-      "date": "2026-04-10T22:17:00.000Z",
-      "duration": "01:29:18",
-      "image": "https://static.libsyn.com/p/assets/9/3/b/3/93b381a492da6d06d959afa2a1bf1c87/1_Pod_E268-20260410-lusrx3kb2k.png",
-      "desc": "(0:00) Bestie intros: Brad Gerstner joins the show! (4:22) Anthropic blocks Mythos release for security concerns: serious or marketing stunt? (24:07) Are OpenAI and Anthropic trying to kill OpenClaw? Does Anthropic already have market dominance in AI coding? (42:20) Anthropic $30B run rate, fastest revenue ramp ever, the TAM for intelligence (58:01) Major vibe shift: Anthropic ripping, OpenAI reel",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "What No One’s Telling You About Tyler Robinson",
@@ -200,5 +206,12 @@
       "guestTags": []
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ]
+  }
 }
