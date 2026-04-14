@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T13:47:15.944Z",
+  "lastUpdated": "2026-04-14T16:10:56.169Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "z7zSD5O9Rs0",
-      "show": "TRIGGERnometry",
-      "title": "Is This The Biggest Threat To Our Society?",
-      "url": "https://www.youtube.com/watch?v=z7zSD5O9Rs0",
-      "date": "2026-04-14T11:08:45.000Z",
-      "image": "https://i3.ytimg.com/vi/z7zSD5O9Rs0/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "-4LlxXCrgRU",
+      "show": "Danny Jones Podcast",
+      "title": "How Mossad Spies on America &amp; Gets Away With It.",
+      "url": "https://www.youtube.com/watch?v=-4LlxXCrgRU",
+      "date": "2026-04-14T15:00:00.000Z",
+      "image": "https://i2.ytimg.com/vi/-4LlxXCrgRU/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://www.youtube.com/watch?v=ElMSJDkqSYQ",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "z7zSD5O9Rs0",
-      "show": "TRIGGERnometry",
-      "title": "Is This The Biggest Threat To Our Society?",
-      "url": "https://www.youtube.com/watch?v=z7zSD5O9Rs0",
-      "date": "2026-04-14T11:08:45.000Z",
-      "image": "https://i3.ytimg.com/vi/z7zSD5O9Rs0/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "-4LlxXCrgRU",
+      "show": "Danny Jones Podcast",
+      "title": "How Mossad Spies on America &amp; Gets Away With It.",
+      "url": "https://www.youtube.com/watch?v=-4LlxXCrgRU",
+      "date": "2026-04-14T15:00:00.000Z",
+      "image": "https://i2.ytimg.com/vi/-4LlxXCrgRU/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://www.youtube.com/watch?v=ElMSJDkqSYQ",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
