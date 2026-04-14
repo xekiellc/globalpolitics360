@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-13T21:53:19.505Z",
+  "lastUpdated": "2026-04-14T02:46:01.141Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1580,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Kill Tony",
+      "title": "#764 - JELLY ROLL + THEO VON",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU2019097462.mp3?updated=1776110235",
+      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU2019097462.mp3?updated=1776110235",
+      "date": "2026-04-14T01:00:00.000Z",
+      "duration": "7947",
+      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Theo Von, Jelly Roll, Dedrick Flynn, William Montgomery, Hans Kim, DMadness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White,Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/30/2026\n\n\n\nRight now, when you buy two months of BlueChew Gold, you get the third for FREE with promo code TONY - just visit https://bluechew.com\n\n\n\n Sign up for your one-dollar-per-month trial and start s",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -40,20 +52,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Natalie Crawford, MD, is a double board-certified OB-GYN and reproductive endocrinologist. We discuss how to improve hormone health at any age and the importance of fertility markers not just for pregnancy, but as a powerful window into overall health, vitality and longevity. We discuss hormone replacement therapy, egg freezing, IVF, and what biomarkers like AMH really indicate. Plus, how anti",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "TRIGGERnometry",
-      "title": "The Funniest Conversation We've Ever Had - Mark Normand",
-      "audioUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT2260248520.mp3",
-      "listenUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT2260248520.mp3",
-      "date": "2026-04-12T18:00:00.000Z",
-      "duration": "4730",
-      "image": "https://megaphone.imgix.net/podcasts/a1ed38c4-35af-11f1-8005-a73d4e6f9dda/image/50027282c8c192eee6b9352573918e2a.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Monarch, the all-in-one financial tool. Get 50% Off with CODE: TRIGGER at https://www.monarchmoney.com\n\n- Earn a yield on gold",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -106,6 +104,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Kill Tony",
+      "title": "#764 - JELLY ROLL + THEO VON",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU2019097462.mp3?updated=1776110235",
+      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU2019097462.mp3?updated=1776110235",
+      "date": "2026-04-14T01:00:00.000Z",
+      "duration": "7947",
+      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Theo Von, Jelly Roll, Dedrick Flynn, William Montgomery, Hans Kim, DMadness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White,Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/30/2026\n\n\n\nRight now, when you buy two months of BlueChew Gold, you get the third for FREE with promo code TONY - just visit https://bluechew.com\n\n\n\n Sign up for your one-dollar-per-month trial and start s",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "4/13/26: Trump Blockades Hormuz Strait, Negotiations Break Down, Gas Prices Spike",
@@ -140,20 +150,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Natalie Crawford, MD, is a double board-certified OB-GYN and reproductive endocrinologist. We discuss how to improve hormone health at any age and the importance of fertility markers not just for pregnancy, but as a powerful window into overall health, vitality and longevity. We discuss hormone replacement therapy, egg freezing, IVF, and what biomarkers like AMH really indicate. Plus, how anti",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "TRIGGERnometry",
-      "title": "The Funniest Conversation We've Ever Had - Mark Normand",
-      "audioUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT2260248520.mp3",
-      "listenUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT2260248520.mp3",
-      "date": "2026-04-12T18:00:00.000Z",
-      "duration": "4730",
-      "image": "https://megaphone.imgix.net/podcasts/a1ed38c4-35af-11f1-8005-a73d4e6f9dda/image/50027282c8c192eee6b9352573918e2a.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Monarch, the all-in-one financial tool. Get 50% Off with CODE: TRIGGER at https://www.monarchmoney.com\n\n- Earn a yield on gold",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -204,9 +200,5 @@
       "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ]
-  }
+  "guestIndex": {}
 }
