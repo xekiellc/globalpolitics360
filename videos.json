@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-04-15T05:27:24.629Z",
+  "lastUpdated": "2026-04-15T07:51:17.706Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 1,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "_vmG4f4EtYo",
-      "show": "Kill Tony",
-      "title": "KT #764 - THEO VON + JELLY ROLL",
-      "url": "https://www.youtube.com/watch?v=_vmG4f4EtYo",
-      "date": "2026-04-14T01:00:06.000Z",
-      "image": "https://i4.ytimg.com/vi/_vmG4f4EtYo/hqdefault.jpg",
-      "desc": "Theo Von, Jelly Roll, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/30/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)\n\nBRIAN REDBAN\n@",
-      "guestTags": []
+      "videoId": "CyLml3Whg9c",
+      "show": "All-In Podcast",
+      "title": "David Sacks on Mythos Threat: We have no choice but to take this seriously",
+      "url": "https://www.youtube.com/watch?v=CyLml3Whg9c",
+      "date": "2026-04-15T00:27:24.000Z",
+      "image": "https://i4.ytimg.com/vi/CyLml3Whg9c/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "_vmG4f4EtYo",
-      "show": "Kill Tony",
-      "title": "KT #764 - THEO VON + JELLY ROLL",
-      "url": "https://www.youtube.com/watch?v=_vmG4f4EtYo",
-      "date": "2026-04-14T01:00:06.000Z",
-      "image": "https://i4.ytimg.com/vi/_vmG4f4EtYo/hqdefault.jpg",
-      "desc": "Theo Von, Jelly Roll, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/30/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)\n\nBRIAN REDBAN\n@",
-      "guestTags": []
+      "videoId": "CyLml3Whg9c",
+      "show": "All-In Podcast",
+      "title": "David Sacks on Mythos Threat: We have no choice but to take this seriously",
+      "url": "https://www.youtube.com/watch?v=CyLml3Whg9c",
+      "date": "2026-04-15T00:27:24.000Z",
+      "image": "https://i4.ytimg.com/vi/CyLml3Whg9c/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
