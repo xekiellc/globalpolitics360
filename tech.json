@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-04-15T13:42:29.620Z",
+  "lastUpdated": "2026-04-15T16:08:00.798Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Investing in Hilbert",
+      "url": "https://www.a16z.news/p/investing-in-hilbert",
+      "date": "2026-04-15T15:13:12.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/fd0a8a39-abb4-4e9e-b5ae-de43f862971b_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Virginia Enacts Law Requiring State to Hold ‘Unclaimed’ Crypto in Original Form for One Year",
+      "url": "https://bitcoinmagazine.com/news/virginia-enacts-law-state-crypto",
+      "date": "2026-04-15T14:12:23.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Virginia-Enacts-Law-Requiring-State-to-Hold-‘Unclaimed-Crypto-in-Original-Form-for-One-Year.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Frontier Systems for the Physical World",
+      "url": "https://www.a16z.news/p/frontier-systems-for-the-physical",
+      "date": "2026-04-15T14:01:35.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/260a21d4-ce67-4ac4-a66f-7c840abd4cd3_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Pakistan Ends Bitcoin and Crypto Banking Ban, Opens Financial System to Licensed Firms",
       "url": "https://bitcoinmagazine.com/news/pakistan-ends-bitcoin-and-crypto-banking",
@@ -79,15 +106,6 @@
       "url": "https://bitcoinmagazine.com/news/kevin-warsh-stake-bitcoin-startup",
       "date": "2026-04-14T16:58:46.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Trump-Fed-Pick-Kevin-Warsh-Reveals-Stake-in-Bitcoin-Lightning-Startup-Flashnet.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "$3.5 Trillion Goldman Sachs Files for Bitcoin Premium Income ETF",
-      "url": "https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-premium-income-etf",
-      "date": "2026-04-14T15:30:47.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/3.5-Trillion-Goldman-Sachs-Files-for-Bitcoin-Premium-Income-ETF.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -313,24 +331,6 @@
       "url": "https://www.a16z.news/p/the-sovereign-wall-why-ais-next-billion",
       "date": "2026-03-26T15:03:04.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/f33a0b72-7faa-4d0a-a302-34894a0516b3_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Why We Founded Airbase",
-      "url": "https://www.a16z.news/p/why-we-founded-airbase",
-      "date": "2026-03-25T19:08:37.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/579366d5-8fd6-4e3e-ac79-74426b408c5b_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "The Truth about Venture Capitalists (in 2007)",
-      "url": "https://www.a16z.news/p/the-truth-about-venture-capitalists",
-      "date": "2026-03-25T14:00:51.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f685f8c2-a958-4415-a352-b7917f2dd72f_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"

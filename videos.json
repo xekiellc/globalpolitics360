@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T13:42:36.241Z",
+  "lastUpdated": "2026-04-15T16:08:10.047Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "bH6OfhgCCLU",
-      "show": "TRIGGERnometry",
-      "title": "Divorce Lawyer Explains What Women &amp; Men Want",
-      "url": "https://www.youtube.com/watch?v=bH6OfhgCCLU",
-      "date": "2026-04-15T11:06:20.000Z",
-      "image": "https://i3.ytimg.com/vi/bH6OfhgCCLU/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "FuyfMaLq_SU",
+      "show": "Danny Jones Podcast",
+      "title": "Ancient Knowledge In Da Vinci Paintings.",
+      "url": "https://www.youtube.com/watch?v=FuyfMaLq_SU",
+      "date": "2026-04-15T15:00:32.000Z",
+      "image": "https://i3.ytimg.com/vi/FuyfMaLq_SU/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://www.youtube.com/watch?v=xEmVrE-qSho",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "bH6OfhgCCLU",
-      "show": "TRIGGERnometry",
-      "title": "Divorce Lawyer Explains What Women &amp; Men Want",
-      "url": "https://www.youtube.com/watch?v=bH6OfhgCCLU",
-      "date": "2026-04-15T11:06:20.000Z",
-      "image": "https://i3.ytimg.com/vi/bH6OfhgCCLU/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "FuyfMaLq_SU",
+      "show": "Danny Jones Podcast",
+      "title": "Ancient Knowledge In Da Vinci Paintings.",
+      "url": "https://www.youtube.com/watch?v=FuyfMaLq_SU",
+      "date": "2026-04-15T15:00:32.000Z",
+      "image": "https://i3.ytimg.com/vi/FuyfMaLq_SU/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://www.youtube.com/watch?v=xEmVrE-qSho",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
