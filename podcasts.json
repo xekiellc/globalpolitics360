@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-04-14T21:54:13.784Z",
+  "lastUpdated": "2026-04-15T02:43:13.571Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1533,
+  "taggedCount": 1581,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Their Arguments Haven't Been Weaker",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/85dbad27-7136-4129-b153-0cccb0f25d3f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/85dbad27-7136-4129-b153-0cccb0f25d3f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-04-15T00:00:00.000Z",
+      "duration": "01:03:59",
+      "image": "https://content.production.cdn.art19.com/images/05/6e/15/1a/056e151a-7eb4-45b4-ac19-90b7048ac170/ebde685cce61dc0677b200755abb5f1d0fc589360204ee260b7e97933dc7157269239c84c8517ade259871f46d2edd2410adf5b5831faba79770de17ad602e8c.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Ben Shapiro attempting to portray the war with Iran in a positive light, Douglas Murray on Bill Maher saying that we should finish the war because we should \"start what we finish\", and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -55,18 +69,6 @@
         "Dave Smith",
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#764 - JELLY ROLL + THEO VON",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU2019097462.mp3?updated=1776110235",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU2019097462.mp3?updated=1776110235",
-      "date": "2026-04-14T01:00:00.000Z",
-      "duration": "7947",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Theo Von, Jelly Roll, Dedrick Flynn, William Montgomery, Hans Kim, DMadness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White,Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/30/2026\n\n\n\nRight now, when you buy two months of BlueChew Gold, you get the third for FREE with promo code TONY - just visit https://bluechew.com\n\n\n\n Sign up for your one-dollar-per-month trial and start s",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -107,6 +109,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Their Arguments Haven't Been Weaker",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/85dbad27-7136-4129-b153-0cccb0f25d3f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/85dbad27-7136-4129-b153-0cccb0f25d3f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-04-15T00:00:00.000Z",
+      "duration": "01:03:59",
+      "image": "https://content.production.cdn.art19.com/images/05/6e/15/1a/056e151a-7eb4-45b4-ac19-90b7048ac170/ebde685cce61dc0677b200755abb5f1d0fc589360204ee260b7e97933dc7157269239c84c8517ade259871f46d2edd2410adf5b5831faba79770de17ad602e8c.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Ben Shapiro attempting to portray the war with Iran in a positive light, Douglas Murray on Bill Maher saying that we should finish the war because we should \"start what we finish\", and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "Why Peace Talks With Iran Aren’t Working",
@@ -158,18 +174,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#764 - JELLY ROLL + THEO VON",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU2019097462.mp3?updated=1776110235",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU2019097462.mp3?updated=1776110235",
-      "date": "2026-04-14T01:00:00.000Z",
-      "duration": "7947",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Theo Von, Jelly Roll, Dedrick Flynn, William Montgomery, Hans Kim, DMadness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White,Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/30/2026\n\n\n\nRight now, when you buy two months of BlueChew Gold, you get the third for FREE with promo code TONY - just visit https://bluechew.com\n\n\n\n Sign up for your one-dollar-per-month trial and start s",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#295 Samuel Reineberg - First-Hand Account of the Old Dominion Terrorist Attack",
@@ -208,6 +212,7 @@
   ],
   "guestIndex": {
     "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Emily Jashinsky": [
