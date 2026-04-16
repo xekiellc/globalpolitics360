@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T07:51:29.905Z",
+  "lastUpdated": "2026-04-16T10:18:03.074Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "uxfPJGpnJBA",
-      "show": "Shawn Ryan Show",
-      "title": "The MOST Important Event in History",
-      "url": "https://www.youtube.com/watch?v=uxfPJGpnJBA",
-      "date": "2026-04-16T00:00:56.000Z",
-      "image": "https://i2.ytimg.com/vi/uxfPJGpnJBA/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "GS_FYvKkl28",
+      "show": "TRIGGERnometry",
+      "title": "When Ideology Enables Extremism",
+      "url": "https://www.youtube.com/watch?v=GS_FYvKkl28",
+      "date": "2026-04-16T09:39:42.000Z",
+      "image": "https://i4.ytimg.com/vi/GS_FYvKkl28/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "uxfPJGpnJBA",
-      "show": "Shawn Ryan Show",
-      "title": "The MOST Important Event in History",
-      "url": "https://www.youtube.com/watch?v=uxfPJGpnJBA",
-      "date": "2026-04-16T00:00:56.000Z",
-      "image": "https://i2.ytimg.com/vi/uxfPJGpnJBA/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "GS_FYvKkl28",
+      "show": "TRIGGERnometry",
+      "title": "When Ideology Enables Extremism",
+      "url": "https://www.youtube.com/watch?v=GS_FYvKkl28",
+      "date": "2026-04-16T09:39:42.000Z",
+      "image": "https://i4.ytimg.com/vi/GS_FYvKkl28/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
