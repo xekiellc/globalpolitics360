@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-04-16T05:33:23.354Z",
+  "lastUpdated": "2026-04-16T07:51:29.905Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 32,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "uxfPJGpnJBA",
+      "show": "Shawn Ryan Show",
+      "title": "The MOST Important Event in History",
+      "url": "https://www.youtube.com/watch?v=uxfPJGpnJBA",
+      "date": "2026-04-16T00:00:56.000Z",
+      "image": "https://i2.ytimg.com/vi/uxfPJGpnJBA/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "RTPNJgHeZBI",
-      "show": "Huberman Lab",
-      "title": "How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford",
-      "url": "https://www.youtube.com/watch?v=RTPNJgHeZBI",
-      "date": "2026-04-13T12:00:49.000Z",
-      "image": "https://i3.ytimg.com/vi/RTPNJgHeZBI/hqdefault.jpg",
-      "desc": "Dr. Natalie Crawford, MD, is a double board-certified OB-GYN and reproductive endocrinologist. We discuss how to improve hormone health at any age and the importance of fertility markers not just for pregnancy, but as a powerful window into overall health, vitality and longevity. We discuss hormone ",
+      "videoId": "uxfPJGpnJBA",
+      "show": "Shawn Ryan Show",
+      "title": "The MOST Important Event in History",
+      "url": "https://www.youtube.com/watch?v=uxfPJGpnJBA",
+      "date": "2026-04-16T00:00:56.000Z",
+      "image": "https://i2.ytimg.com/vi/uxfPJGpnJBA/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
       "guestTags": []
     }
   ],
