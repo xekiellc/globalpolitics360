@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-04-16T10:18:02.293Z",
+  "lastUpdated": "2026-04-16T13:51:19.800Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1582,
+  "taggedCount": 1583,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "The Dark Side of Looksmaxxing, with Nick Freitas, and Dave Chappelle vs. Comedy Police, with Spencer Klavan",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/dd5ec5a5-3dd5-4022-a434-48f3cd62ba67/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=dd5ec5a5-3dd5-4022-a434-48f3cd62ba67&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-04-16T11:00:00.000Z",
+      "duration": "01:29:07",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/911688bd-fa9c-48bf-9861-ef230ed60f22/3000x3000/ap_82_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Nick Freitas to discuss his new book, “THE MANBOOK: A Point-by-Point Guide to Sucking It Up and Getting the Job Done.” Nick is a retired Green Beret and former member of the Virginia House of Delegates, turned social media star. They discuss how the current culture has alienated young men, what parents can do about it, and the impact of ‘looksmaxxing’ influencers like ",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
@@ -66,21 +80,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Emily and Saagar discuss troops surged to Iran, dire economic warnings, JD Vance begs young voters, Italy clashes with Israel. Lauren Conlin: https://x.com/conlin_lauren&nbsp;&nbsp; Shaiel Ben-Ephraim: https://x.com/academic_la&nbsp; Robert Pape: https://escalationtrap.substack.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Podcast Wars and MAGA Discourse, Dr. Jesus Trump Post, and Eric Swalwell&apos;s Gross Exit, with Dave Smith",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/1503640e-40ad-4c89-afa5-b84e11e84ddc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=1503640e-40ad-4c89-afa5-b84e11e84ddc&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-04-14T11:00:00.000Z",
-      "duration": "01:35:15",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/b5fc3a0b-0f12-4a41-bbe8-38b4e4e4ddc8/3000x3000/ap_81_pip.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky is joined by Dave Smith, comedian and host of “Part Of The Problem” Podcast, to discuss the ongoing war with Iran, what he views as the trouble with America’s strategy, and thoughts on dissenting voices among podcasters who supported President Trump in 2024. Emily and Dave also discuss backlash over a controversial Truth Social post by President Trump that appeared to depict him as",
-      "guestTags": [
-        "Dave Smith",
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -109,6 +108,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "The Dark Side of Looksmaxxing, with Nick Freitas, and Dave Chappelle vs. Comedy Police, with Spencer Klavan",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/dd5ec5a5-3dd5-4022-a434-48f3cd62ba67/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=dd5ec5a5-3dd5-4022-a434-48f3cd62ba67&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-04-16T11:00:00.000Z",
+      "duration": "01:29:07",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/911688bd-fa9c-48bf-9861-ef230ed60f22/3000x3000/ap_82_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Nick Freitas to discuss his new book, “THE MANBOOK: A Point-by-Point Guide to Sucking It Up and Getting the Job Done.” Nick is a retired Green Beret and former member of the Virginia House of Delegates, turned social media star. They discuss how the current culture has alienated young men, what parents can do about it, and the impact of ‘looksmaxxing’ influencers like ",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#296 Meg Appelgate - Why Parents Are Being Lied To About Teen “Treatment”",
@@ -171,21 +184,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Podcast Wars and MAGA Discourse, Dr. Jesus Trump Post, and Eric Swalwell&apos;s Gross Exit, with Dave Smith",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/1503640e-40ad-4c89-afa5-b84e11e84ddc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=1503640e-40ad-4c89-afa5-b84e11e84ddc&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-04-14T11:00:00.000Z",
-      "duration": "01:35:15",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/b5fc3a0b-0f12-4a41-bbe8-38b4e4e4ddc8/3000x3000/ap_81_pip.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky is joined by Dave Smith, comedian and host of “Part Of The Problem” Podcast, to discuss the ongoing war with Iran, what he views as the trouble with America’s strategy, and thoughts on dissenting voices among podcasters who supported President Trump in 2024. Emily and Dave also discuss backlash over a controversial Truth Social post by President Trump that appeared to depict him as",
-      "guestTags": [
-        "Dave Smith",
-        "Emily Jashinsky"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
       "title": "#495 – Vikings, Ragnar, Berserkers, Valhalla &#038; the Warriors of the Viking Age",
@@ -211,12 +209,11 @@
     }
   ],
   "guestIndex": {
-    "Dave Smith": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
   }
 }

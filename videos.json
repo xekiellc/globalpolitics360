@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T10:18:03.074Z",
+  "lastUpdated": "2026-04-16T13:51:21.142Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "GS_FYvKkl28",
-      "show": "TRIGGERnometry",
-      "title": "When Ideology Enables Extremism",
-      "url": "https://www.youtube.com/watch?v=GS_FYvKkl28",
-      "date": "2026-04-16T09:39:42.000Z",
-      "image": "https://i4.ytimg.com/vi/GS_FYvKkl28/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "U6dnOVth7-I",
+      "show": "Huberman Lab",
+      "title": "Understand &amp; Improve Memory Using Science-Based Tools | Huberman Lab Essentials",
+      "url": "https://www.youtube.com/watch?v=U6dnOVth7-I",
+      "date": "2026-04-16T12:00:52.000Z",
+      "image": "https://i2.ytimg.com/vi/U6dnOVth7-I/hqdefault.jpg",
+      "desc": "In this ⁠Huberman Lab Essentials⁠ episode, I explain how memories are formed and how key neurochemicals, such as adrenaline, can be leveraged to enhance memory formation. I also share science-based protocols to enhance learning, strengthen memory recall and reduce the number of repetitions needed to",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "GS_FYvKkl28",
-      "show": "TRIGGERnometry",
-      "title": "When Ideology Enables Extremism",
-      "url": "https://www.youtube.com/watch?v=GS_FYvKkl28",
-      "date": "2026-04-16T09:39:42.000Z",
-      "image": "https://i4.ytimg.com/vi/GS_FYvKkl28/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "U6dnOVth7-I",
+      "show": "Huberman Lab",
+      "title": "Understand &amp; Improve Memory Using Science-Based Tools | Huberman Lab Essentials",
+      "url": "https://www.youtube.com/watch?v=U6dnOVth7-I",
+      "date": "2026-04-16T12:00:52.000Z",
+      "image": "https://i2.ytimg.com/vi/U6dnOVth7-I/hqdefault.jpg",
+      "desc": "In this ⁠Huberman Lab Essentials⁠ episode, I explain how memories are formed and how key neurochemicals, such as adrenaline, can be leveraged to enhance memory formation. I also share science-based protocols to enhance learning, strengthen memory recall and reduce the number of repetitions needed to",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
