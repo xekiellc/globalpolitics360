@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-04-17T19:04:44.492Z",
+  "lastUpdated": "2026-04-17T21:44:42.730Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Y3Coq7nzhiM",
-      "show": "TRIGGERnometry",
-      "title": "Why More Jews Died in the Netherlands Than in France During WWII",
-      "url": "https://www.youtube.com/watch?v=Y3Coq7nzhiM",
-      "date": "2026-04-17T18:00:29.000Z",
-      "image": "https://i2.ytimg.com/vi/Y3Coq7nzhiM/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "SFdqX7IY7RY",
+      "show": "All-In Podcast",
+      "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+      "url": "https://www.youtube.com/watch?v=SFdqX7IY7RY",
+      "date": "2026-04-17T20:58:37.000Z",
+      "image": "https://i4.ytimg.com/vi/SFdqX7IY7RY/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros: Travis Kalanick joins the show!\n(0:42) Mamdani taxes the rich: new pied-à-terre tax coming to NYC\n(11:23) OpenAI's identity crisis: Leaked memo, enterprise pivot, Anthropic valuation flip\n(27:28) Big Tech's compute dominance: How will this impact frontier labs?\n(33:53) Allbirds",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Y3Coq7nzhiM",
-      "show": "TRIGGERnometry",
-      "title": "Why More Jews Died in the Netherlands Than in France During WWII",
-      "url": "https://www.youtube.com/watch?v=Y3Coq7nzhiM",
-      "date": "2026-04-17T18:00:29.000Z",
-      "image": "https://i2.ytimg.com/vi/Y3Coq7nzhiM/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "SFdqX7IY7RY",
+      "show": "All-In Podcast",
+      "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+      "url": "https://www.youtube.com/watch?v=SFdqX7IY7RY",
+      "date": "2026-04-17T20:58:37.000Z",
+      "image": "https://i4.ytimg.com/vi/SFdqX7IY7RY/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros: Travis Kalanick joins the show!\n(0:42) Mamdani taxes the rich: new pied-à-terre tax coming to NYC\n(11:23) OpenAI's identity crisis: Leaked memo, enterprise pivot, Anthropic valuation flip\n(27:28) Big Tech's compute dominance: How will this impact frontier labs?\n(33:53) Allbirds",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

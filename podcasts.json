@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-17T19:04:43.368Z",
+  "lastUpdated": "2026-04-17T21:44:42.324Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1583,
+  "taggedCount": 1584,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E269_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out",
+      "date": "2026-04-17T20:35:00.000Z",
+      "duration": "01:30:57",
+      "image": "https://static.libsyn.com/p/assets/4/a/4/7/4a47e010a4064246d959afa2a1bf1c87/1_Pod_E269.png",
+      "desc": "(0:00) Bestie intros: Travis Kalanick joins the show! (0:42) Mamdani taxes the rich: new pied-à-terre tax coming to NYC (11:23) OpenAI's identity crisis: Leaked memo, enterprise pivot, Anhropic valuation flip (27:28) Big Tech's compute dominance: How will this impact frontier labs? (33:53) Allbirds stock up over 400% on AI pivot, and what's behind the datacenter disaster? (54:37) The Price is Wron",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -64,20 +76,6 @@
       "image": "https://megaphone.imgix.net/podcasts/61ed99e8-c300-11eb-988a-035a13090bdf/image/de7d459aa04f578168c94fa76dd04dc8.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Today, on our inaugural episode of Second Thought, Suzy Weiss sits down with one of the most influential people in YouTube’s history: Casey Neistat. Casey has millions of followers and billions of views to his name—and he saw early on that YouTube would change everything. It certainly changed his own life.\n\nIn this conversation, Casey talks about riding the wave of the YouTube tsunami, his love of",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "The Dark Side of Looksmaxxing, with Nick Freitas, and Dave Chappelle vs. Comedy Police, with Spencer Klavan",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/dd5ec5a5-3dd5-4022-a434-48f3cd62ba67/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=dd5ec5a5-3dd5-4022-a434-48f3cd62ba67&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-04-16T11:00:00.000Z",
-      "duration": "01:29:07",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/911688bd-fa9c-48bf-9861-ef230ed60f22/3000x3000/ap_82_pip.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky is joined by Nick Freitas to discuss his new book, “THE MANBOOK: A Point-by-Point Guide to Sucking It Up and Getting the Job Done.” Nick is a retired Green Beret and former member of the Virginia House of Delegates, turned social media star. They discuss how the current culture has alienated young men, what parents can do about it, and the impact of ‘looksmaxxing’ influencers like ",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -106,6 +104,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E269_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out",
+      "date": "2026-04-17T20:35:00.000Z",
+      "duration": "01:30:57",
+      "image": "https://static.libsyn.com/p/assets/4/a/4/7/4a47e010a4064246d959afa2a1bf1c87/1_Pod_E269.png",
+      "desc": "(0:00) Bestie intros: Travis Kalanick joins the show! (0:42) Mamdani taxes the rich: new pied-à-terre tax coming to NYC (11:23) OpenAI's identity crisis: Leaked memo, enterprise pivot, Anhropic valuation flip (27:28) Big Tech's compute dominance: How will this impact frontier labs? (33:53) Allbirds stock up over 400% on AI pivot, and what's behind the datacenter disaster? (54:37) The Price is Wron",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "4/17/26: Iran OPENS STRAIT, Zohran Triggers Billionaire Crashout, College Grad Unemployment Apocalypse, AOC Flamed On Pelosi Replacement",
@@ -166,20 +176,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "The Dark Side of Looksmaxxing, with Nick Freitas, and Dave Chappelle vs. Comedy Police, with Spencer Klavan",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/dd5ec5a5-3dd5-4022-a434-48f3cd62ba67/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=dd5ec5a5-3dd5-4022-a434-48f3cd62ba67&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-04-16T11:00:00.000Z",
-      "duration": "01:29:07",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/911688bd-fa9c-48bf-9861-ef230ed60f22/3000x3000/ap_82_pip.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky is joined by Nick Freitas to discuss his new book, “THE MANBOOK: A Point-by-Point Guide to Sucking It Up and Getting the Job Done.” Nick is a retired Green Beret and former member of the Virginia House of Delegates, turned social media star. They discuss how the current culture has alienated young men, what parents can do about it, and the impact of ‘looksmaxxing’ influencers like ",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
       "title": "#495 – Vikings, Ragnar, Berserkers, Valhalla &#038; the Warriors of the Viking Age",
@@ -204,9 +200,5 @@
       "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ]
-  }
+  "guestIndex": {}
 }
