@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-04-18T18:55:16.919Z",
+  "lastUpdated": "2026-04-18T21:38:38.309Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "lyo-QbiXrRE",
-      "show": "Shawn Ryan Show",
-      "title": "She Was Expelled for Being a Victim 🤬",
-      "url": "https://www.youtube.com/watch?v=lyo-QbiXrRE",
-      "date": "2026-04-18T18:00:42.000Z",
-      "image": "https://i1.ytimg.com/vi/lyo-QbiXrRE/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "MjAfC_9Jii0",
+      "show": "All-In Podcast",
+      "title": "“AGI is not here yet, and it's silly for folks to say it is.”",
+      "url": "https://www.youtube.com/watch?v=MjAfC_9Jii0",
+      "date": "2026-04-18T17:00:34.000Z",
+      "image": "https://i2.ytimg.com/vi/MjAfC_9Jii0/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "lyo-QbiXrRE",
-      "show": "Shawn Ryan Show",
-      "title": "She Was Expelled for Being a Victim 🤬",
-      "url": "https://www.youtube.com/watch?v=lyo-QbiXrRE",
-      "date": "2026-04-18T18:00:42.000Z",
-      "image": "https://i1.ytimg.com/vi/lyo-QbiXrRE/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "MjAfC_9Jii0",
+      "show": "All-In Podcast",
+      "title": "“AGI is not here yet, and it's silly for folks to say it is.”",
+      "url": "https://www.youtube.com/watch?v=MjAfC_9Jii0",
+      "date": "2026-04-18T17:00:34.000Z",
+      "image": "https://i2.ytimg.com/vi/MjAfC_9Jii0/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
