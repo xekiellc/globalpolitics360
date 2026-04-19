@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-04-18T21:38:38.309Z",
+  "lastUpdated": "2026-04-19T02:53:28.813Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 30,
+  "taggedCount": 27,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "MjAfC_9Jii0",
-      "show": "All-In Podcast",
-      "title": "“AGI is not here yet, and it's silly for folks to say it is.”",
-      "url": "https://www.youtube.com/watch?v=MjAfC_9Jii0",
-      "date": "2026-04-18T17:00:34.000Z",
-      "image": "https://i2.ytimg.com/vi/MjAfC_9Jii0/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "videoId": "RfVy9hUKa6c",
+      "show": "TRIGGERnometry",
+      "title": "An Honest Conversation with a Christian Nationalist - Andrew Wilson",
+      "url": "https://www.youtube.com/watch?v=RfVy9hUKa6c",
+      "date": "2026-04-18T23:00:35.000Z",
+      "image": "https://i3.ytimg.com/vi/RfVy9hUKa6c/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice AI: Enjoy private, uncensored AI https://venice.ai/triggernometry - use code TRIGGERNOMETRY to get 20% off a pro plan #sponsorUmi:\n\n- Smart global data &amp; connectivity. Go to https://link.reach",
       "guestTags": [
-        "Chamath",
-        "David Sacks"
+        "Konstantin Kisin"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "MjAfC_9Jii0",
-      "show": "All-In Podcast",
-      "title": "“AGI is not here yet, and it's silly for folks to say it is.”",
-      "url": "https://www.youtube.com/watch?v=MjAfC_9Jii0",
-      "date": "2026-04-18T17:00:34.000Z",
-      "image": "https://i2.ytimg.com/vi/MjAfC_9Jii0/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "videoId": "RfVy9hUKa6c",
+      "show": "TRIGGERnometry",
+      "title": "An Honest Conversation with a Christian Nationalist - Andrew Wilson",
+      "url": "https://www.youtube.com/watch?v=RfVy9hUKa6c",
+      "date": "2026-04-18T23:00:35.000Z",
+      "image": "https://i3.ytimg.com/vi/RfVy9hUKa6c/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice AI: Enjoy private, uncensored AI https://venice.ai/triggernometry - use code TRIGGERNOMETRY to get 20% off a pro plan #sponsorUmi:\n\n- Smart global data &amp; connectivity. Go to https://link.reach",
       "guestTags": [
-        "Chamath",
-        "David Sacks"
+        "Konstantin Kisin"
       ]
     }
   ],
   "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
+    "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }
