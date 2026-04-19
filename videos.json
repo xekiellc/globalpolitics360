@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-04-19T18:55:43.835Z",
+  "lastUpdated": "2026-04-19T21:39:18.259Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 31,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "bJvnPqaRDJc",
-      "show": "Danny Jones Podcast",
-      "title": "Phoenix Lights Witness Shares His Encounter.",
-      "url": "https://www.youtube.com/watch?v=bJvnPqaRDJc",
-      "date": "2026-04-19T15:00:57.000Z",
-      "image": "https://i3.ytimg.com/vi/bJvnPqaRDJc/hqdefault.jpg",
-      "desc": "Full Episode: https://youtu.be/xQOWXfDIUzM?si=u2OV5hPwg8PmY3dU",
-      "guestTags": []
+      "videoId": "RfVy9hUKa6c",
+      "show": "TRIGGERnometry",
+      "title": "An Honest Conversation with a Christian Nationalist - Andrew Wilson",
+      "url": "https://www.youtube.com/watch?v=RfVy9hUKa6c",
+      "date": "2026-04-18T23:00:35.000Z",
+      "image": "https://i3.ytimg.com/vi/RfVy9hUKa6c/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice AI: Enjoy private, uncensored AI https://venice.ai/triggernometry - use code TRIGGERNOMETRY to get 20% off a pro plan #sponsorUmi:\n\n- Smart global data &amp; connectivity. Go to https://link.reach",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "bJvnPqaRDJc",
-      "show": "Danny Jones Podcast",
-      "title": "Phoenix Lights Witness Shares His Encounter.",
-      "url": "https://www.youtube.com/watch?v=bJvnPqaRDJc",
-      "date": "2026-04-19T15:00:57.000Z",
-      "image": "https://i3.ytimg.com/vi/bJvnPqaRDJc/hqdefault.jpg",
-      "desc": "Full Episode: https://youtu.be/xQOWXfDIUzM?si=u2OV5hPwg8PmY3dU",
-      "guestTags": []
+      "videoId": "RfVy9hUKa6c",
+      "show": "TRIGGERnometry",
+      "title": "An Honest Conversation with a Christian Nationalist - Andrew Wilson",
+      "url": "https://www.youtube.com/watch?v=RfVy9hUKa6c",
+      "date": "2026-04-18T23:00:35.000Z",
+      "image": "https://i3.ytimg.com/vi/RfVy9hUKa6c/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice AI: Enjoy private, uncensored AI https://venice.ai/triggernometry - use code TRIGGERNOMETRY to get 20% off a pro plan #sponsorUmi:\n\n- Smart global data &amp; connectivity. Go to https://link.reach",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
