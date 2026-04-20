@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T16:12:56.716Z",
+  "lastUpdated": "2026-04-20T19:09:42.152Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "wKgrYAXjJvg",
-      "show": "All-In Podcast",
-      "title": "David Friedberg: Eric Swalwell's allegations were held for the perfect moment to take him out",
-      "url": "https://www.youtube.com/watch?v=wKgrYAXjJvg",
-      "date": "2026-04-20T15:08:44.000Z",
-      "image": "https://i4.ytimg.com/vi/wKgrYAXjJvg/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "62bA2i0Ok1Q",
+      "show": "Theo Von",
+      "title": "Hannah Strickland Says The Darndest Things",
+      "url": "https://www.youtube.com/watch?v=62bA2i0Ok1Q",
+      "date": "2026-04-20T19:03:40.000Z",
+      "image": "https://i3.ytimg.com/vi/62bA2i0Ok1Q/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #653 | Hannah Strickland\nFull Episode: https://youtu.be/aoKVW8tcHc0?si=mbj1Dunq4n3a8FNi\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "wKgrYAXjJvg",
-      "show": "All-In Podcast",
-      "title": "David Friedberg: Eric Swalwell's allegations were held for the perfect moment to take him out",
-      "url": "https://www.youtube.com/watch?v=wKgrYAXjJvg",
-      "date": "2026-04-20T15:08:44.000Z",
-      "image": "https://i4.ytimg.com/vi/wKgrYAXjJvg/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "62bA2i0Ok1Q",
+      "show": "Theo Von",
+      "title": "Hannah Strickland Says The Darndest Things",
+      "url": "https://www.youtube.com/watch?v=62bA2i0Ok1Q",
+      "date": "2026-04-20T19:03:40.000Z",
+      "image": "https://i3.ytimg.com/vi/62bA2i0Ok1Q/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #653 | Hannah Strickland\nFull Episode: https://youtu.be/aoKVW8tcHc0?si=mbj1Dunq4n3a8FNi\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

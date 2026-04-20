@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-20T16:12:55.846Z",
-  "showCount": 21,
+  "lastUpdated": "2026-04-20T19:09:41.202Z",
+  "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1586,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#654 - Something New",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1802810198.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1802810198.mp3",
+      "date": "2026-04-20T18:53:00.000Z",
+      "duration": "4153",
+      "image": "https://megaphone.imgix.net/podcasts/39adee80-3ce8-11f1-9aab-e7188f6d6695/image/f08a8ed3661edb77824d6c3f27d13f44.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Theo is back with a solo episode to talk about his weekend at the Supercross, the beef between the Pope and the President, and how crows are cleaning up the streets of Sweden. He also responds to some of your voicemails and talks to a caller about breaking negative cycles.\n\nBusboys Movie: Get tickets at https://www.busboysmovie.com \n\n-------------------------------------------------\n\nTour Dates! h",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -18,18 +30,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#297 Nick Shirley - Inside California’s $222 Billion Medi-Cal Crisis",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9178017887.mp3?updated=1776652185",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9178017887.mp3?updated=1776652185",
-      "date": "2026-04-20T10:00:00.000Z",
-      "duration": "4283",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Nick Shirley is an American independent journalist, YouTuber, and content creator known for on-the-ground investigative reporting and street interviews. He initially gained attention as a teenager producing prank and shock-style content, including a 2019 video documenting a solo trip to New York at age 16. He later transitioned into political and cultural journalism, focusing on protests, immigrat",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
@@ -38,7 +38,7 @@
       "date": "2026-04-20T08:00:00.000Z",
       "duration": "8872",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Marc Brackett, PhD, is a professor of psychology at Yale University and director of the Yale Center for Emotional Intelligence. We discuss the science of emotion regulation and practical tools to increase your emotional intelligence. Dr. Brackett clarifies exactly how to do that both in the context of relationships, but also things that you can do on your own to become more emotionally intelli",
+      "desc": "Dr. Marc Brackett, PhD, is founding director of the Yale Center for Emotional Intelligence and a professor in the Child Study Center at Yale University. We discuss the science of emotion regulation and practical tools to increase your emotional intelligence. Dr. Brackett clarifies exactly how to do that both in the context of relationships, but also things that you can do on your own to become mor",
       "guestTags": []
     },
     {
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#654 - Something New",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1802810198.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1802810198.mp3",
+      "date": "2026-04-20T18:53:00.000Z",
+      "duration": "4153",
+      "image": "https://megaphone.imgix.net/podcasts/39adee80-3ce8-11f1-9aab-e7188f6d6695/image/f08a8ed3661edb77824d6c3f27d13f44.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Theo is back with a solo episode to talk about his weekend at the Supercross, the beef between the Pope and the President, and how crows are cleaning up the streets of Sweden. He also responds to some of your voicemails and talks to a caller about breaking negative cycles.\n\nBusboys Movie: Get tickets at https://www.busboysmovie.com \n\n-------------------------------------------------\n\nTour Dates! h",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "4/20/26: Kash Patel Meltdown, Sam Harris Smears Zohran, Pro-Trump AI Bots Exposed, Cuba Under New Trump Threat",
@@ -118,18 +130,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#297 Nick Shirley - Inside California’s $222 Billion Medi-Cal Crisis",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9178017887.mp3?updated=1776652185",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9178017887.mp3?updated=1776652185",
-      "date": "2026-04-20T10:00:00.000Z",
-      "duration": "4283",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Nick Shirley is an American independent journalist, YouTuber, and content creator known for on-the-ground investigative reporting and street interviews. He initially gained attention as a teenager producing prank and shock-style content, including a 2019 video documenting a solo trip to New York at age 16. He later transitioned into political and cultural journalism, focusing on protests, immigrat",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
@@ -138,7 +138,7 @@
       "date": "2026-04-20T08:00:00.000Z",
       "duration": "8872",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Marc Brackett, PhD, is a professor of psychology at Yale University and director of the Yale Center for Emotional Intelligence. We discuss the science of emotion regulation and practical tools to increase your emotional intelligence. Dr. Brackett clarifies exactly how to do that both in the context of relationships, but also things that you can do on your own to become more emotionally intelli",
+      "desc": "Dr. Marc Brackett, PhD, is founding director of the Yale Center for Emotional Intelligence and a professor in the Child Study Center at Yale University. We discuss the science of emotion regulation and practical tools to increase your emotional intelligence. Dr. Brackett clarifies exactly how to do that both in the context of relationships, but also things that you can do on your own to become mor",
       "guestTags": []
     },
     {
