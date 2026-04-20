@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-20T08:12:47.648Z",
+  "lastUpdated": "2026-04-20T10:51:04.541Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1586,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#297 Nick Shirley - Inside California’s $222 Billion Medi-Cal Crisis",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9178017887.mp3?updated=1776652185",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9178017887.mp3?updated=1776652185",
+      "date": "2026-04-20T10:00:00.000Z",
+      "duration": "4283",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Nick Shirley is an American independent journalist, YouTuber, and content creator known for on-the-ground investigative reporting and street interviews. He initially gained attention as a teenager producing prank and shock-style content, including a 2019 video documenting a solo trip to New York at age 16. He later transitioned into political and cultural journalism, focusing on protests, immigrat",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
@@ -65,18 +77,6 @@
       "duration": "2003",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "I worked on Capitol Hill from 2015 to 2017. I’m not speaking as an outsider looking in. I’m speaking as someone who saw how the system operates from the inside—how it protects itself, how it manages risk, and how accountability often comes after the fact, if it comes at all.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Honestly with Bari Weiss",
-      "title": "We’re All Living in Casey Neistat’s World",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/tracking.swap.fm/track/VOdNgcECFk0maZgOJbmx/traffic.megaphone.fm/CBS2096003143.mp3?updated=1776375003",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/tracking.swap.fm/track/VOdNgcECFk0maZgOJbmx/traffic.megaphone.fm/CBS2096003143.mp3?updated=1776375003",
-      "date": "2026-04-17T10:00:00.000Z",
-      "duration": "4878",
-      "image": "https://megaphone.imgix.net/podcasts/88e2622c-3a74-11f1-9a98-1b4f12f508c8/image/0c4b47ce9212454d9f2533863a5a148e.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Today, on our inaugural episode of Second Thought, Suzy Weiss sits down with one of the most influential people in YouTube’s history: Casey Neistat. Casey has millions of followers and billions of views to his name—and he saw early on that YouTube would change everything. It certainly changed his own life.\n\nIn this conversation, Casey talks about riding the wave of the YouTube tsunami, his love of",
       "guestTags": []
     },
     {
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#297 Nick Shirley - Inside California’s $222 Billion Medi-Cal Crisis",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9178017887.mp3?updated=1776652185",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9178017887.mp3?updated=1776652185",
+      "date": "2026-04-20T10:00:00.000Z",
+      "duration": "4283",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Nick Shirley is an American independent journalist, YouTuber, and content creator known for on-the-ground investigative reporting and street interviews. He initially gained attention as a teenager producing prank and shock-style content, including a 2019 video documenting a solo trip to New York at age 16. He later transitioned into political and cultural journalism, focusing on protests, immigrat",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
@@ -165,18 +177,6 @@
       "duration": "2003",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "I worked on Capitol Hill from 2015 to 2017. I’m not speaking as an outsider looking in. I’m speaking as someone who saw how the system operates from the inside—how it protects itself, how it manages risk, and how accountability often comes after the fact, if it comes at all.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Honestly with Bari Weiss",
-      "title": "We’re All Living in Casey Neistat’s World",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/tracking.swap.fm/track/VOdNgcECFk0maZgOJbmx/traffic.megaphone.fm/CBS2096003143.mp3?updated=1776375003",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/tracking.swap.fm/track/VOdNgcECFk0maZgOJbmx/traffic.megaphone.fm/CBS2096003143.mp3?updated=1776375003",
-      "date": "2026-04-17T10:00:00.000Z",
-      "duration": "4878",
-      "image": "https://megaphone.imgix.net/podcasts/88e2622c-3a74-11f1-9a98-1b4f12f508c8/image/0c4b47ce9212454d9f2533863a5a148e.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Today, on our inaugural episode of Second Thought, Suzy Weiss sits down with one of the most influential people in YouTube’s history: Casey Neistat. Casey has millions of followers and billions of views to his name—and he saw early on that YouTube would change everything. It certainly changed his own life.\n\nIn this conversation, Casey talks about riding the wave of the YouTube tsunami, his love of",
       "guestTags": []
     },
     {
