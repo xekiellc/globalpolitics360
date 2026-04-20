@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-20T05:44:57.491Z",
+  "lastUpdated": "2026-04-20T08:12:47.648Z",
   "showCount": 21,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1586,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM6338474733.mp3?updated=1776663863",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-to-better-regulate-your-emotions-marc-brackett",
+      "date": "2026-04-20T08:00:00.000Z",
+      "duration": "8872",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Marc Brackett, PhD, is a professor of psychology at Yale University and director of the Yale Center for Emotional Intelligence. We discuss the science of emotion regulation and practical tools to increase your emotional intelligence. Dr. Brackett clarifies exactly how to do that both in the context of relationships, but also things that you can do on your own to become more emotionally intelli",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "TRIGGERnometry",
@@ -53,18 +65,6 @@
       "duration": "2003",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "I worked on Capitol Hill from 2015 to 2017. I’m not speaking as an outsider looking in. I’m speaking as someone who saw how the system operates from the inside—how it protects itself, how it manages risk, and how accountability often comes after the fact, if it comes at all.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2485 - John Fogerty",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206",
-      "date": "2026-04-17T17:00:00.000Z",
-      "duration": "9939",
-      "image": "https://megaphone.imgix.net/podcasts/90196f1e-3a19-11f1-bbe7-032d1a4ac003/image/9a4e4683c4b54445cb73a8257432c24b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "John Fogerty is a Grammy-winning solo musician, former leader of Creedence Clearwater Revival, and an inductee of the Rock &amp; Roll Hall of Fame and the Songwriters Hall of Fame. His latest album is “Legacy: The Creedence Clearwater Revival Years.”www.concordrecords.com/collections/john-fogerty/products/legacy-the-creedence-clearwater-revival-years-liberty-2lp-vinylwww.youtube.com/johnfogertywww",
       "guestTags": []
     },
     {
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM6338474733.mp3?updated=1776663863",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-to-better-regulate-your-emotions-marc-brackett",
+      "date": "2026-04-20T08:00:00.000Z",
+      "duration": "8872",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Marc Brackett, PhD, is a professor of psychology at Yale University and director of the Yale Center for Emotional Intelligence. We discuss the science of emotion regulation and practical tools to increase your emotional intelligence. Dr. Brackett clarifies exactly how to do that both in the context of relationships, but also things that you can do on your own to become more emotionally intelli",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "TRIGGERnometry",
       "title": "An Honest Conversation with a Christian Nationalist - Andrew Wilson",
@@ -153,18 +165,6 @@
       "duration": "2003",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "I worked on Capitol Hill from 2015 to 2017. I’m not speaking as an outsider looking in. I’m speaking as someone who saw how the system operates from the inside—how it protects itself, how it manages risk, and how accountability often comes after the fact, if it comes at all.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2485 - John Fogerty",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206",
-      "date": "2026-04-17T17:00:00.000Z",
-      "duration": "9939",
-      "image": "https://megaphone.imgix.net/podcasts/90196f1e-3a19-11f1-bbe7-032d1a4ac003/image/9a4e4683c4b54445cb73a8257432c24b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "John Fogerty is a Grammy-winning solo musician, former leader of Creedence Clearwater Revival, and an inductee of the Rock &amp; Roll Hall of Fame and the Songwriters Hall of Fame. His latest album is “Legacy: The Creedence Clearwater Revival Years.”www.concordrecords.com/collections/john-fogerty/products/legacy-the-creedence-clearwater-revival-years-liberty-2lp-vinylwww.youtube.com/johnfogertywww",
       "guestTags": []
     },
     {

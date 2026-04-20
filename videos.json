@@ -1,28 +1,34 @@
 {
-  "lastUpdated": "2026-04-20T05:44:57.895Z",
+  "lastUpdated": "2026-04-20T08:12:49.405Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 31,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "bJvnPqaRDJc",
+      "show": "Danny Jones Podcast",
+      "title": "Phoenix Lights Witness Shares His Encounter.",
+      "url": "https://www.youtube.com/watch?v=bJvnPqaRDJc",
+      "date": "2026-04-19T15:00:57.000Z",
+      "image": "https://i3.ytimg.com/vi/bJvnPqaRDJc/hqdefault.jpg",
+      "desc": "Full Episode: https://youtu.be/xQOWXfDIUzM?si=u2OV5hPwg8PmY3dU",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "RfVy9hUKa6c",
-      "show": "TRIGGERnometry",
-      "title": "An Honest Conversation with a Christian Nationalist - Andrew Wilson",
-      "url": "https://www.youtube.com/watch?v=RfVy9hUKa6c",
-      "date": "2026-04-18T23:00:35.000Z",
-      "image": "https://i3.ytimg.com/vi/RfVy9hUKa6c/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice AI: Enjoy private, uncensored AI https://venice.ai/triggernometry - use code TRIGGERNOMETRY to get 20% off a pro plan #sponsorUmi:\n\n- Smart global data &amp; connectivity. Go to https://link.reach",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "bJvnPqaRDJc",
+      "show": "Danny Jones Podcast",
+      "title": "Phoenix Lights Witness Shares His Encounter.",
+      "url": "https://www.youtube.com/watch?v=bJvnPqaRDJc",
+      "date": "2026-04-19T15:00:57.000Z",
+      "image": "https://i3.ytimg.com/vi/bJvnPqaRDJc/hqdefault.jpg",
+      "desc": "Full Episode: https://youtu.be/xQOWXfDIUzM?si=u2OV5hPwg8PmY3dU",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
