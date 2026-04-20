@@ -64,7 +64,7 @@
     { "name": "The Fifth Column", "type": "podcast_rss", "url": "https://api.substack.com/feed/podcast/815642.rss", "active": true },
     { "name": "Breaking Points", "type": "podcast_rss", "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4c1a5135-4197-47c9-b19b-b0ab0164b667/podcast.rss", "active": true },
     { "name": "John Kiriakou", "type": "podcast_rss", "url": "https://johnkiriakou.substack.com/feed", "active": true },
-    { "name": "Martin Shkreli", "type": "podcast_rss", "url": "https://martinshkreli.substack.com/feed", "active": false },
+    { "name": "Martin Shkreli", "type": "podcast_rss", "url": "https://martinshkreli.substack.com/feed", "active": true },
     { "name": "Let's Appreciate (Kyla Scanlon)", "type": "podcast_rss", "url": "https://feeds.megaphone.fm/SCI8924001060", "active": false },
     { "name": "Roaring Kitty (Keith Gill)", "type": "podcast_rss", "url": "", "active": false },
     { "name": "Ellie in Space", "type": "podcast_rss", "url": "", "active": false }
