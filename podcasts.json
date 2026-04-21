@@ -1,10 +1,25 @@
 {
-  "lastUpdated": "2026-04-21T10:20:06.095Z",
+  "lastUpdated": "2026-04-21T13:46:56.584Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1586,
+  "taggedCount": 1587,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "The Amnesty Divide, and &quot;Toxic Empathy&quot; Clash, with Rachel and Inez, Plus Bieber&apos;s Deep Nostalgia at Coachella",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/9b8ac3bf-8f49-4ba4-bc23-d188aace6cce/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=9b8ac3bf-8f49-4ba4-bc23-d188aace6cce&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-04-21T11:00:00.000Z",
+      "duration": "01:28:28",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/df72c50d-ea65-4c06-ad26-429a51087af5/3000x3000/ap_83_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show with breaking news of a Trump Cabinet shake-up. U.S. Labor Secretary Lori Chavez-DeRemer is leaving amid misconduct allegations. Then Emily is joined by her friends, Rachel Bovard, Vice President at the Conservative Partnership Institute, and Inez Stepman, Legal analyst for Independent Women. They open the discussion with a look at the House extending temporary immig",
+      "guestTags": [
+        "Emily Jashinsky",
+        "Jim Bovard"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
@@ -54,18 +69,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E269_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out",
-      "date": "2026-04-17T20:35:00.000Z",
-      "duration": "01:30:57",
-      "image": "https://static.libsyn.com/p/assets/4/a/4/7/4a47e010a4064246d959afa2a1bf1c87/1_Pod_E269.png",
-      "desc": "(0:00) Bestie intros: Travis Kalanick joins the show! (0:42) Mamdani taxes the rich: new pied-à-terre tax coming to NYC (11:23) OpenAI's identity crisis: Leaked memo, enterprise pivot, Anhropic valuation flip (27:28) Big Tech's compute dominance: How will this impact frontier labs? (33:53) Allbirds stock up over 400% on AI pivot, and what's behind the datacenter disaster? (54:37) The Price is Wron",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -106,6 +109,21 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "The Amnesty Divide, and &quot;Toxic Empathy&quot; Clash, with Rachel and Inez, Plus Bieber&apos;s Deep Nostalgia at Coachella",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/9b8ac3bf-8f49-4ba4-bc23-d188aace6cce/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=9b8ac3bf-8f49-4ba4-bc23-d188aace6cce&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-04-21T11:00:00.000Z",
+      "duration": "01:28:28",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/df72c50d-ea65-4c06-ad26-429a51087af5/3000x3000/ap_83_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show with breaking news of a Trump Cabinet shake-up. U.S. Labor Secretary Lori Chavez-DeRemer is leaving amid misconduct allegations. Then Emily is joined by her friends, Rachel Bovard, Vice President at the Conservative Partnership Institute, and Inez Stepman, Legal analyst for Independent Women. They open the discussion with a look at the House extending temporary immig",
+      "guestTags": [
+        "Emily Jashinsky",
+        "Jim Bovard"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
       "title": "#654 - Something New",
@@ -156,18 +174,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E269_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out",
-      "date": "2026-04-17T20:35:00.000Z",
-      "duration": "01:30:57",
-      "image": "https://static.libsyn.com/p/assets/4/a/4/7/4a47e010a4064246d959afa2a1bf1c87/1_Pod_E269.png",
-      "desc": "(0:00) Bestie intros: Travis Kalanick joins the show! (0:42) Mamdani taxes the rich: new pied-à-terre tax coming to NYC (11:23) OpenAI's identity crisis: Leaked memo, enterprise pivot, Anhropic valuation flip (27:28) Big Tech's compute dominance: How will this impact frontier labs? (33:53) Allbirds stock up over 400% on AI pivot, and what's behind the datacenter disaster? (54:37) The Price is Wron",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "Congress Has a Dirty Secret",
@@ -205,6 +211,12 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Jim Bovard": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
