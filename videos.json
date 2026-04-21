@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T13:46:57.209Z",
+  "lastUpdated": "2026-04-21T16:12:27.635Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aUjWmwkjQiQ",
-      "show": "TRIGGERnometry",
-      "title": "Facts vs Feelings in Politics - Andrew Wilson",
-      "url": "https://www.youtube.com/watch?v=aUjWmwkjQiQ",
-      "date": "2026-04-21T09:13:08.000Z",
-      "image": "https://i2.ytimg.com/vi/aUjWmwkjQiQ/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "_CEBLOSswMo",
+      "show": "Danny Jones Podcast",
+      "title": "The CIA Spy Working with Mexican Cartels.",
+      "url": "https://www.youtube.com/watch?v=_CEBLOSswMo",
+      "date": "2026-04-21T15:39:10.000Z",
+      "image": "https://i4.ytimg.com/vi/_CEBLOSswMo/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://youtu.be/xQOWXfDIUzM",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aUjWmwkjQiQ",
-      "show": "TRIGGERnometry",
-      "title": "Facts vs Feelings in Politics - Andrew Wilson",
-      "url": "https://www.youtube.com/watch?v=aUjWmwkjQiQ",
-      "date": "2026-04-21T09:13:08.000Z",
-      "image": "https://i2.ytimg.com/vi/aUjWmwkjQiQ/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "_CEBLOSswMo",
+      "show": "Danny Jones Podcast",
+      "title": "The CIA Spy Working with Mexican Cartels.",
+      "url": "https://www.youtube.com/watch?v=_CEBLOSswMo",
+      "date": "2026-04-21T15:39:10.000Z",
+      "image": "https://i4.ytimg.com/vi/_CEBLOSswMo/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://youtu.be/xQOWXfDIUzM",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
