@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-04-21T05:30:21.821Z",
+  "lastUpdated": "2026-04-21T07:56:28.306Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 32,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "0z3A8UO4ljU",
+      "show": "Kill Tony",
+      "title": "TONIGHTS EPISODE IS ON NETFLIX!",
+      "url": "https://www.youtube.com/watch?v=0z3A8UO4ljU",
+      "date": "2026-04-21T01:27:36.000Z",
+      "image": "https://i1.ytimg.com/vi/0z3A8UO4ljU/hqdefault.jpg",
+      "desc": "",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "dYrrdZqpgsg",
-      "show": "Shawn Ryan Show",
-      "title": "He Got Roasted Online for Saying &quot;Benevolent?!&quot; 🤯",
-      "url": "https://www.youtube.com/watch?v=dYrrdZqpgsg",
-      "date": "2026-04-20T20:00:32.000Z",
-      "image": "https://i1.ytimg.com/vi/dYrrdZqpgsg/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "videoId": "0z3A8UO4ljU",
+      "show": "Kill Tony",
+      "title": "TONIGHTS EPISODE IS ON NETFLIX!",
+      "url": "https://www.youtube.com/watch?v=0z3A8UO4ljU",
+      "date": "2026-04-21T01:27:36.000Z",
+      "image": "https://i1.ytimg.com/vi/0z3A8UO4ljU/hqdefault.jpg",
+      "desc": "",
       "guestTags": []
     }
   ],
