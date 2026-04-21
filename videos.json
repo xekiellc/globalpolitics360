@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T07:56:28.306Z",
+  "lastUpdated": "2026-04-21T10:20:07.011Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "0z3A8UO4ljU",
-      "show": "Kill Tony",
-      "title": "TONIGHTS EPISODE IS ON NETFLIX!",
-      "url": "https://www.youtube.com/watch?v=0z3A8UO4ljU",
-      "date": "2026-04-21T01:27:36.000Z",
-      "image": "https://i1.ytimg.com/vi/0z3A8UO4ljU/hqdefault.jpg",
-      "desc": "",
-      "guestTags": []
+      "videoId": "aUjWmwkjQiQ",
+      "show": "TRIGGERnometry",
+      "title": "Facts vs Feelings in Politics - Andrew Wilson",
+      "url": "https://www.youtube.com/watch?v=aUjWmwkjQiQ",
+      "date": "2026-04-21T09:13:08.000Z",
+      "image": "https://i2.ytimg.com/vi/aUjWmwkjQiQ/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "0z3A8UO4ljU",
-      "show": "Kill Tony",
-      "title": "TONIGHTS EPISODE IS ON NETFLIX!",
-      "url": "https://www.youtube.com/watch?v=0z3A8UO4ljU",
-      "date": "2026-04-21T01:27:36.000Z",
-      "image": "https://i1.ytimg.com/vi/0z3A8UO4ljU/hqdefault.jpg",
-      "desc": "",
-      "guestTags": []
+      "videoId": "aUjWmwkjQiQ",
+      "show": "TRIGGERnometry",
+      "title": "Facts vs Feelings in Politics - Andrew Wilson",
+      "url": "https://www.youtube.com/watch?v=aUjWmwkjQiQ",
+      "date": "2026-04-21T09:13:08.000Z",
+      "image": "https://i2.ytimg.com/vi/aUjWmwkjQiQ/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
