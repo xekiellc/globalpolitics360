@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T13:47:14.954Z",
+  "lastUpdated": "2026-04-22T16:10:34.773Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "R4bSfq9_NzQ",
-      "show": "The Free Press",
-      "title": "the original autopilot",
-      "url": "https://www.youtube.com/watch?v=R4bSfq9_NzQ",
-      "date": "2026-04-22T12:01:01.000Z",
-      "image": "https://i3.ytimg.com/vi/R4bSfq9_NzQ/hqdefault.jpg",
-      "desc": "#shorts #theovon #amish #thispastweekend",
-      "guestTags": []
+      "videoId": "ysHjAWYw200",
+      "show": "TRIGGERnometry",
+      "title": "The Dark Truth About Power - Robert Greene",
+      "url": "https://www.youtube.com/watch?v=ysHjAWYw200",
+      "date": "2026-04-22T16:01:39.000Z",
+      "image": "https://i2.ytimg.com/vi/ysHjAWYw200/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "R4bSfq9_NzQ",
-      "show": "The Free Press",
-      "title": "the original autopilot",
-      "url": "https://www.youtube.com/watch?v=R4bSfq9_NzQ",
-      "date": "2026-04-22T12:01:01.000Z",
-      "image": "https://i3.ytimg.com/vi/R4bSfq9_NzQ/hqdefault.jpg",
-      "desc": "#shorts #theovon #amish #thispastweekend",
-      "guestTags": []
+      "videoId": "ysHjAWYw200",
+      "show": "TRIGGERnometry",
+      "title": "The Dark Truth About Power - Robert Greene",
+      "url": "https://www.youtube.com/watch?v=ysHjAWYw200",
+      "date": "2026-04-22T16:01:39.000Z",
+      "image": "https://i2.ytimg.com/vi/ysHjAWYw200/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
