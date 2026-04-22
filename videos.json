@@ -1,22 +1,42 @@
 {
-  "lastUpdated": "2026-04-22T05:28:48.340Z",
+  "lastUpdated": "2026-04-22T07:52:39.313Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 32,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "pm485zX7Xkc",
+      "show": "TRIGGERnometry",
+      "title": "Christianity was never a ‘be passive and get walked over’ religion.” - Andrew Wilson",
+      "url": "https://www.youtube.com/watch?v=pm485zX7Xkc",
+      "date": "2026-04-22T07:48:07.000Z",
+      "image": "https://i1.ytimg.com/vi/pm485zX7Xkc/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Wv7lEyck2mg",
-      "show": "Jordan Peterson",
-      "title": "The Sermon on the Mount | Lecture One (Official) | Peterson Academy",
-      "url": "https://www.youtube.com/watch?v=Wv7lEyck2mg",
-      "date": "2026-01-10T21:27:17.000Z",
-      "image": "https://i4.ytimg.com/vi/Wv7lEyck2mg/hqdefault.jpg",
-      "desc": "In The Sermon on the Mount, an eight-hour course, Dr. Jordan B. Peterson explores the profound wisdom and symbolism embedded in this foundational biblical text, highlighting the transformative power of living by Christ-like principles. He offers a deep dive into key passages, such as the Beatitudes ",
-      "guestTags": []
+      "videoId": "pm485zX7Xkc",
+      "show": "TRIGGERnometry",
+      "title": "Christianity was never a ‘be passive and get walked over’ religion.” - Andrew Wilson",
+      "url": "https://www.youtube.com/watch?v=pm485zX7Xkc",
+      "date": "2026-04-22T07:48:07.000Z",
+      "image": "https://i1.ytimg.com/vi/pm485zX7Xkc/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
