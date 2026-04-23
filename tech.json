@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-04-23T10:22:56.627Z",
+  "lastUpdated": "2026-04-23T13:49:15.537Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "The Great Blue Frontier",
+      "url": "https://www.notboring.co/p/the-great-blue-frontier",
+      "date": "2026-04-23T12:59:00.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!Xs-R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F388e06a4-2ab5-44fb-9a87-04b525c97bb9_2400x1260.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Investing in Petual",
+      "url": "https://www.a16z.news/p/investing-in-petual",
+      "date": "2026-04-23T12:00:58.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f632ca72-30f8-4c9b-badc-db125c438d80_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About &#8220;Ending the War on Bitcoin&#8221;",
       "url": "https://bitcoinmagazine.com/conference/fbi-director-kash-patel-to-speak-at-bitcoin-2026-conference-about-ending-the-war-on-bitcoin",
@@ -300,15 +318,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Charts of the Week: SaaSpocalypse Interrupted",
-      "url": "https://www.a16z.news/p/charts-of-the-week-saaspocalypse",
-      "date": "2026-04-03T14:02:50.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ce2901ff-7373-47e9-8ac6-341cf7b39fc2_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Ep 148: JoeBen Bevirt, Founder & CEO of Joby Aviation — Flying Cars Have Arrived",
       "url": "https://blog.joelonsdale.com/p/ep-148-joeben-bevirt-founder-and",
       "date": "2026-04-03T13:55:11.000Z",
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-186",
       "date": "2026-03-27T12:39:57.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!lKxk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5d73fb-d0d3-475e-a612-7c64685f5571_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Electromagnetism Secretly Runs the World",
-      "url": "https://www.notboring.co/p/electromagnetism-secretly-runs-the",
-      "date": "2026-03-24T12:57:34.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!0OgS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff740bc32-c78b-42e5-903d-118bbcf2aa84_2400x1260.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
