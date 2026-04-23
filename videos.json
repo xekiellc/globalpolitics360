@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-04-23T02:49:04.349Z",
+  "lastUpdated": "2026-04-23T05:33:23.220Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
+  "taggedCount": 2,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Wv7lEyck2mg",
-      "show": "Jordan Peterson",
-      "title": "The Sermon on the Mount | Lecture One (Official) | Peterson Academy",
-      "url": "https://www.youtube.com/watch?v=Wv7lEyck2mg",
-      "date": "2026-01-10T21:27:17.000Z",
-      "image": "https://i4.ytimg.com/vi/Wv7lEyck2mg/hqdefault.jpg",
-      "desc": "In The Sermon on the Mount, an eight-hour course, Dr. Jordan B. Peterson explores the profound wisdom and symbolism embedded in this foundational biblical text, highlighting the transformative power of living by Christ-like principles. He offers a deep dive into key passages, such as the Beatitudes ",
+      "videoId": "R4bSfq9_NzQ",
+      "show": "The Free Press",
+      "title": "the original autopilot",
+      "url": "https://www.youtube.com/watch?v=R4bSfq9_NzQ",
+      "date": "2026-04-22T12:01:01.000Z",
+      "image": "https://i3.ytimg.com/vi/R4bSfq9_NzQ/hqdefault.jpg",
+      "desc": "#shorts #theovon #amish #thispastweekend",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Wv7lEyck2mg",
-      "show": "Jordan Peterson",
-      "title": "The Sermon on the Mount | Lecture One (Official) | Peterson Academy",
-      "url": "https://www.youtube.com/watch?v=Wv7lEyck2mg",
-      "date": "2026-01-10T21:27:17.000Z",
-      "image": "https://i4.ytimg.com/vi/Wv7lEyck2mg/hqdefault.jpg",
-      "desc": "In The Sermon on the Mount, an eight-hour course, Dr. Jordan B. Peterson explores the profound wisdom and symbolism embedded in this foundational biblical text, highlighting the transformative power of living by Christ-like principles. He offers a deep dive into key passages, such as the Beatitudes ",
+      "videoId": "R4bSfq9_NzQ",
+      "show": "The Free Press",
+      "title": "the original autopilot",
+      "url": "https://www.youtube.com/watch?v=R4bSfq9_NzQ",
+      "date": "2026-04-22T12:01:01.000Z",
+      "image": "https://i3.ytimg.com/vi/R4bSfq9_NzQ/hqdefault.jpg",
+      "desc": "#shorts #theovon #amish #thispastweekend",
       "guestTags": []
     }
   ],
