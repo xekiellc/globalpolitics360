@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-04-23T13:49:20.101Z",
+  "lastUpdated": "2026-04-23T19:14:27.547Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1590,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2488 - James McCann",
+      "audioUrl": "https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776960350",
+      "listenUrl": "https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776960350",
+      "date": "2026-04-23T17:00:00.000Z",
+      "duration": "10332",
+      "image": "https://megaphone.imgix.net/podcasts/b76e32c6-3eb9-11f1-907c-8b28c04c10f1/image/b5ede2c730d1a03c5b1081efd76cc964.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "James Donald Forbes McCann is a comedian, author, and host of “The James Donald Forbes McCann Catamaran Plan.” His latest special, “Island of Strangers,” is streaming on YouTube.https://youtu.be/7VfTqlatcKMwww.youtube.com/@JamesDonaldForbesMcCannwww.jamesdonaldforbesmccanntour.comwww.jdfmccann.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free we",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "4/23/26: Navy Sec Fired, WH Freaks Over Intel On Iran Military, Food Inflation Spikes",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/c1663824-6fe3-47e3-9e5e-b43500f9e204/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/4-23-26-navy-sec-fired-wh-freaks-over-intel-on-iran-military-food-inflation-spikes",
+      "date": "2026-04-23T15:17:31.000Z",
+      "duration": "3748",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss the Navy Sec fired amid Iran war, WH freaks over intel on Iran military capacity, food inflation spikes. &nbsp; Jacob Wasserman: https://x.com/jacob_wass&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;S",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -32,18 +56,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Neuroscience of Speech, Language &amp; Music | Dr. Erich Jarvis",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM1556675193.mp3?updated=1776925537",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-neuroscience-of-speech-language-and-music-erich-jarvis",
-      "date": "2026-04-23T08:00:00.000Z",
-      "duration": "2376",
-      "image": "https://megaphone.imgix.net/podcasts/c43eecb2-3ec7-11f1-ba1c-678e21968de5/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Erich Jarvis, PhD, a professor and Head of the Laboratory of Neurogenetics of Language at Rockefeller University and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits and genes underlying spoken language and why the ability to learn and produce vocalizations is extraordinarily rare in the animal kin",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "The Death of the SPLC",
@@ -67,18 +79,6 @@
       "duration": "1759",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Scammers are running coordinated, highly sophisticated campaigns that target trust, emotion, and routine. Here’s how they choose victims and quietly drain life savings.\n\nOneSkin: Get 15% off OneSkin with the code WATCH at https://www.oneskin.co/WATCH \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "4/22/26: Iran Fires On Ships In Hormuz Strait, Ryan Debunks Laura Loomer, Robert Pape On Iran War",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/2d2aca52-f322-498e-a4c3-b4340102f5a6/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/4-22-26-iran-fires-on-ships-in-hormuz-strait-ryan-debunks-laura-loomer-robert-pape-on-iran-war",
-      "date": "2026-04-22T15:50:50.000Z",
-      "duration": "4176",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Iran fires on Hormuz ships, Ryan debunks Laura Loomer plot, Robert Pape on latest Iran talks. &nbsp; GoFundMe: https://www.gofundme.com/f/justice-and-freedom-for-sarinasadat-hosseiny&nbsp;&nbsp; Parenti Event: https://www.eventcreate.com/e/rememberingmichael&nbsp; Jeremy Scahill: https://x.com/jeremyscahill?s=20&nbsp; Juan David Rojas: https://substack.com/@rojasrjuand&nbsp;",
       "guestTags": []
     },
     {
@@ -108,6 +108,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2488 - James McCann",
+      "audioUrl": "https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776960350",
+      "listenUrl": "https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776960350",
+      "date": "2026-04-23T17:00:00.000Z",
+      "duration": "10332",
+      "image": "https://megaphone.imgix.net/podcasts/b76e32c6-3eb9-11f1-907c-8b28c04c10f1/image/b5ede2c730d1a03c5b1081efd76cc964.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "James Donald Forbes McCann is a comedian, author, and host of “The James Donald Forbes McCann Catamaran Plan.” His latest special, “Island of Strangers,” is streaming on YouTube.https://youtu.be/7VfTqlatcKMwww.youtube.com/@JamesDonaldForbesMcCannwww.jamesdonaldforbesmccanntour.comwww.jdfmccann.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free we",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "4/23/26: Navy Sec Fired, WH Freaks Over Intel On Iran Military, Food Inflation Spikes",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/c1663824-6fe3-47e3-9e5e-b43500f9e204/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/4-23-26-navy-sec-fired-wh-freaks-over-intel-on-iran-military-food-inflation-spikes",
+      "date": "2026-04-23T15:17:31.000Z",
+      "duration": "3748",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss the Navy Sec fired amid Iran war, WH freaks over intel on Iran military capacity, food inflation spikes. &nbsp; Jacob Wasserman: https://x.com/jacob_wass&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;S",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "SPLC’s Despicable Grift, Plus Weaponized DOJ, and Secrets of the Dobbs Decision, with Mollie Hemingway",
@@ -134,18 +158,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Neuroscience of Speech, Language &amp; Music | Dr. Erich Jarvis",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM1556675193.mp3?updated=1776925537",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-neuroscience-of-speech-language-and-music-erich-jarvis",
-      "date": "2026-04-23T08:00:00.000Z",
-      "duration": "2376",
-      "image": "https://megaphone.imgix.net/podcasts/c43eecb2-3ec7-11f1-ba1c-678e21968de5/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Erich Jarvis, PhD, a professor and Head of the Laboratory of Neurogenetics of Language at Rockefeller University and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits and genes underlying spoken language and why the ability to learn and produce vocalizations is extraordinarily rare in the animal kin",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "The Death of the SPLC",
@@ -169,18 +181,6 @@
       "duration": "1759",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Scammers are running coordinated, highly sophisticated campaigns that target trust, emotion, and routine. Here’s how they choose victims and quietly drain life savings.\n\nOneSkin: Get 15% off OneSkin with the code WATCH at https://www.oneskin.co/WATCH \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "4/22/26: Iran Fires On Ships In Hormuz Strait, Ryan Debunks Laura Loomer, Robert Pape On Iran War",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/2d2aca52-f322-498e-a4c3-b4340102f5a6/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/4-22-26-iran-fires-on-ships-in-hormuz-strait-ryan-debunks-laura-loomer-robert-pape-on-iran-war",
-      "date": "2026-04-22T15:50:50.000Z",
-      "duration": "4176",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Iran fires on Hormuz ships, Ryan debunks Laura Loomer plot, Robert Pape on latest Iran talks. &nbsp; GoFundMe: https://www.gofundme.com/f/justice-and-freedom-for-sarinasadat-hosseiny&nbsp;&nbsp; Parenti Event: https://www.eventcreate.com/e/rememberingmichael&nbsp; Jeremy Scahill: https://x.com/jeremyscahill?s=20&nbsp; Juan David Rojas: https://substack.com/@rojasrjuand&nbsp;",
       "guestTags": []
     },
     {

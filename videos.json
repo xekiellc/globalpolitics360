@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-04-23T13:49:20.842Z",
+  "lastUpdated": "2026-04-23T19:14:30.215Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 31,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3bnLgOxHMB8",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Neuroscience of Speech, Language &amp; Music | Dr. Erich Jarvis",
-      "url": "https://www.youtube.com/watch?v=3bnLgOxHMB8",
-      "date": "2026-04-23T12:00:06.000Z",
-      "image": "https://i4.ytimg.com/vi/3bnLgOxHMB8/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Erich Jarvis, PhD, a professor and Head of the Laboratory of Neurogenetics of Language at Rockefeller University and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits and genes underlying spoken langu",
+      "videoId": "5Tohufh6EyY",
+      "show": "The Free Press",
+      "title": "you decide",
+      "url": "https://www.youtube.com/watch?v=5Tohufh6EyY",
+      "date": "2026-04-23T18:21:05.000Z",
+      "image": "https://i2.ytimg.com/vi/5Tohufh6EyY/hqdefault.jpg",
+      "desc": "#shorts #theovon #sketch",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3bnLgOxHMB8",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Neuroscience of Speech, Language &amp; Music | Dr. Erich Jarvis",
-      "url": "https://www.youtube.com/watch?v=3bnLgOxHMB8",
-      "date": "2026-04-23T12:00:06.000Z",
-      "image": "https://i4.ytimg.com/vi/3bnLgOxHMB8/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Erich Jarvis, PhD, a professor and Head of the Laboratory of Neurogenetics of Language at Rockefeller University and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits and genes underlying spoken langu",
+      "videoId": "5Tohufh6EyY",
+      "show": "The Free Press",
+      "title": "you decide",
+      "url": "https://www.youtube.com/watch?v=5Tohufh6EyY",
+      "date": "2026-04-23T18:21:05.000Z",
+      "image": "https://i2.ytimg.com/vi/5Tohufh6EyY/hqdefault.jpg",
+      "desc": "#shorts #theovon #sketch",
       "guestTags": []
     }
   ],
