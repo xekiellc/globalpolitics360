@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-04-24T16:05:57.059Z",
+  "lastUpdated": "2026-04-24T18:56:19.339Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Ep 151: The Myth of Michael Milken with Richard Sandler",
+      "url": "https://blog.joelonsdale.com/p/ep-151-the-myth-of-michael-milken",
+      "date": "2026-04-24T18:29:00.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "DOJ Drops Criminal Probe of Fed Chair Powell, Clearing Path for Warsh",
+      "url": "https://bitcoinmagazine.com/news/doj-drops-probe-of-fed-chair-powell",
+      "date": "2026-04-24T17:13:14.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Bitcoin-Price-Steadies-Near-90000-as-Fed-Pauses-Rate-Cuts-Powell-Signals-Neutral-Stance.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "7 Reasons JPX Should Reconsider Its Proposed Digital Asset Exclusion From TOPIX",
       "url": "https://bitcoinmagazine.com/news/jpx-crypto-exclusion-topix",
@@ -133,15 +151,6 @@
       "url": "https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node",
       "date": "2026-04-22T19:52:18.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/The-U.S.-Military-Is-Running-a-Bitcoin-Node-Admiral-Paparo-Reveals.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "&#8220;Bitcoin as Everyday Money&#8221; Event to Rally Industry Behind De Minimis Tax Framework at Bitcoin 2026",
-      "url": "https://bitcoinmagazine.com/politics/bitcoin-as-everyday-money-event-to-rally-industry-behind-de-minimis-tax-framework-at-bitcoin-2026",
-      "date": "2026-04-22T19:11:39.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/tn2.webp",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 147: Scott Wu & Russell Kaplan on the New Era of Software Abundance",
-      "url": "https://blog.joelonsdale.com/p/ep-147-scott-wu-and-russell-kaplan",
-      "date": "2026-03-27T15:00:36.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
