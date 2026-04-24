@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-04-23T21:50:18.328Z",
+  "lastUpdated": "2026-04-24T02:50:16.180Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 30,
+  "taggedCount": 15,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "XYx8K80f8SY",
-      "show": "Shawn Ryan Show",
-      "title": "The Darkest Story on the Internet 🤬",
-      "url": "https://www.youtube.com/watch?v=XYx8K80f8SY",
-      "date": "2026-04-23T20:00:20.000Z",
-      "image": "https://i1.ytimg.com/vi/XYx8K80f8SY/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "videoId": "3bnLgOxHMB8",
+      "show": "Huberman Lab",
+      "title": "Essentials: The Neuroscience of Speech, Language &amp; Music | Dr. Erich Jarvis",
+      "url": "https://www.youtube.com/watch?v=3bnLgOxHMB8",
+      "date": "2026-04-23T12:00:06.000Z",
+      "image": "https://i4.ytimg.com/vi/3bnLgOxHMB8/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Erich Jarvis, PhD, a professor and Head of the Laboratory of Neurogenetics of Language at Rockefeller University and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits and genes underlying spoken langu",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "XYx8K80f8SY",
-      "show": "Shawn Ryan Show",
-      "title": "The Darkest Story on the Internet 🤬",
-      "url": "https://www.youtube.com/watch?v=XYx8K80f8SY",
-      "date": "2026-04-23T20:00:20.000Z",
-      "image": "https://i1.ytimg.com/vi/XYx8K80f8SY/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "videoId": "3bnLgOxHMB8",
+      "show": "Huberman Lab",
+      "title": "Essentials: The Neuroscience of Speech, Language &amp; Music | Dr. Erich Jarvis",
+      "url": "https://www.youtube.com/watch?v=3bnLgOxHMB8",
+      "date": "2026-04-23T12:00:06.000Z",
+      "image": "https://i4.ytimg.com/vi/3bnLgOxHMB8/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Erich Jarvis, PhD, a professor and Head of the Laboratory of Neurogenetics of Language at Rockefeller University and an investigator at the Howard Hughes Medical Institute (HHMI). We discuss the brain circuits and genes underlying spoken langu",
       "guestTags": []
     }
   ],
