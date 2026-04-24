@@ -1,23 +1,21 @@
 {
-  "lastUpdated": "2026-04-24T13:28:41.248Z",
+  "lastUpdated": "2026-04-24T16:06:01.640Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1546,
+  "taggedCount": 1590,
   "latest": [
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Stop Stealing, Commie",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/d78865d4-99f8-4726-bbf3-fd9c0b21fcf0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/d78865d4-99f8-4726-bbf3-fd9c0b21fcf0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-04-24T00:00:00.000Z",
-      "duration": "01:11:57",
-      "image": "https://content.production.cdn.art19.com/images/45/10/5e/ac/45105eac-5d55-4a36-9a05-9702e87d56bf/da1369610dcc647813b34527de31155abd0f77ccca96a63914ffa3b54c0be2fa33b555d55530364c19f759a7ca863d557f256a14d89b3fc37cf02b34d0b7f831.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Vivek Ramaswamy riding the fence regarding Israel, the interview with Hasan Piker in which he discusses the ethics of stealing, and more.Support Our Sponsors:USA compounded, The Wellness Company’s RX Parasite Cleanse! Click http://www.twc.health/problem  and use code P",
-      "guestTags": [
-        "Dave Smith"
-      ]
+      "show": "Julian Dorey Podcast",
+      "title": "#413 - \"NASA Connection!\" - Disturbing Missing Scientist Case Getting Weird | Lauren Conlin",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7599142274.mp3?updated=1777038033",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7599142274.mp3?updated=1777038033",
+      "date": "2026-04-24T16:00:00.000Z",
+      "duration": "11058",
+      "image": "https://megaphone.imgix.net/podcasts/9be50c32-3f77-11f1-849c-53cfe3aba6f5/image/c8694446226c63aea41e7e6f901eb708.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "SPONSORS:\n1) RAG &amp; BONE: Upgrade your denim game with rag &amp; bone! Get 20% off sitewide with code JULIAN at https://www.rag-bone.com #ragandbonepod\n2) GHOST BED: Get an extra 10% off GhostBed mattresses—built for cooling, comfort, and support—by going to https://GhostBed.com/julian  and using promo code JULIAN at checkout. Some exclusions apply; see site for details.\n\nJOIN PATREON FOR EARLY",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -109,17 +107,15 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Stop Stealing, Commie",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/d78865d4-99f8-4726-bbf3-fd9c0b21fcf0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/d78865d4-99f8-4726-bbf3-fd9c0b21fcf0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-04-24T00:00:00.000Z",
-      "duration": "01:11:57",
-      "image": "https://content.production.cdn.art19.com/images/45/10/5e/ac/45105eac-5d55-4a36-9a05-9702e87d56bf/da1369610dcc647813b34527de31155abd0f77ccca96a63914ffa3b54c0be2fa33b555d55530364c19f759a7ca863d557f256a14d89b3fc37cf02b34d0b7f831.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Vivek Ramaswamy riding the fence regarding Israel, the interview with Hasan Piker in which he discusses the ethics of stealing, and more.Support Our Sponsors:USA compounded, The Wellness Company’s RX Parasite Cleanse! Click http://www.twc.health/problem  and use code P",
-      "guestTags": [
-        "Dave Smith"
-      ]
+      "show": "Julian Dorey Podcast",
+      "title": "#413 - \"NASA Connection!\" - Disturbing Missing Scientist Case Getting Weird | Lauren Conlin",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7599142274.mp3?updated=1777038033",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7599142274.mp3?updated=1777038033",
+      "date": "2026-04-24T16:00:00.000Z",
+      "duration": "11058",
+      "image": "https://megaphone.imgix.net/podcasts/9be50c32-3f77-11f1-849c-53cfe3aba6f5/image/c8694446226c63aea41e7e6f901eb708.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "SPONSORS:\n1) RAG &amp; BONE: Upgrade your denim game with rag &amp; bone! Get 20% off sitewide with code JULIAN at https://www.rag-bone.com #ragandbonepod\n2) GHOST BED: Get an extra 10% off GhostBed mattresses—built for cooling, comfort, and support—by going to https://GhostBed.com/julian  and using promo code JULIAN at checkout. Some exclusions apply; see site for details.\n\nJOIN PATREON FOR EARLY",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -209,9 +205,6 @@
     }
   ],
   "guestIndex": {
-    "Dave Smith": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
