@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-24T10:24:36.951Z",
+  "lastUpdated": "2026-04-24T13:28:36.012Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Weekly Dose of Optimism #190",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-190",
+      "date": "2026-04-24T12:55:48.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!Dfxm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27da2d1e-d261-4110-bc18-6669ef1c0c47_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin&#8217;s Quantum Problem Is Really a Governance Crisis in Disguise: UTXO",
       "url": "https://bitcoinmagazine.com/news/bitcoin-quantum-problem-governance-crisis",
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Weekly Dose of Optimism #186",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-186",
-      "date": "2026-03-27T12:39:57.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!lKxk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5d73fb-d0d3-475e-a612-7c64685f5571_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
