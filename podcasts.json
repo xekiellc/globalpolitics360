@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-04-25T15:41:42.950Z",
+  "lastUpdated": "2026-04-25T18:57:20.227Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1592,
+  "taggedCount": 1593,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "TRIGGERnometry",
+      "title": "Rob Schneider: \"I'm A 90s Liberal — Which Makes Me A Fascist\"",
+      "audioUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT2497924535.mp3",
+      "listenUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT2497924535.mp3",
+      "date": "2026-04-25T18:00:00.000Z",
+      "duration": "4531",
+      "image": "https://megaphone.imgix.net/podcasts/43ede7ec-3fae-11f1-a261-d79bd188d33d/image/cab217911736a55b8e413037e1a05f73.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n-  Truewerk: performance work clothes. Get 15% off with Code:TRIG at  https://truewerk.com\n\n- Limited Time Offer: Get Huel today with our exclusive offer of 15% OFF online with code TRIGGER15 at https://www.huel.com/trigger15. New Customers Only. Thank you to Huel for partnering and supporting our show!\n",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -53,18 +67,6 @@
       "duration": "8866",
       "image": "https://megaphone.imgix.net/podcasts/f4bbbb36-3f85-11f1-98f8-538a9d2d7656/image/82793664950f873bb92772673b09d987.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Ryan Bingham is an actor and musician. See Ryan Bingham and the Texas Gentlemen on tour this year, and look for their next album, “They Call Us the Lucky Ones,” on May 15.www.youtube.com/@ryanbinghamwww.ryanbingham.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "#413 - \"NASA Connection!\" - Disturbing Missing Scientist Case Getting Weird | Lauren Conlin",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7599142274.mp3?updated=1777038033",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7599142274.mp3?updated=1777038033",
-      "date": "2026-04-24T16:00:00.000Z",
-      "duration": "11058",
-      "image": "https://megaphone.imgix.net/podcasts/9be50c32-3f77-11f1-849c-53cfe3aba6f5/image/c8694446226c63aea41e7e6f901eb708.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n1) RAG &amp; BONE: Upgrade your denim game with rag &amp; bone! Get 20% off sitewide with code JULIAN at https://www.rag-bone.com #ragandbonepod\n2) GHOST BED: Get an extra 10% off GhostBed mattresses—built for cooling, comfort, and support—by going to https://GhostBed.com/julian  and using promo code JULIAN at checkout. Some exclusions apply; see site for details.\n\nJOIN PATREON FOR EARLY",
       "guestTags": []
     },
     {
@@ -106,6 +108,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "TRIGGERnometry",
+      "title": "Rob Schneider: \"I'm A 90s Liberal — Which Makes Me A Fascist\"",
+      "audioUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT2497924535.mp3",
+      "listenUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT2497924535.mp3",
+      "date": "2026-04-25T18:00:00.000Z",
+      "duration": "4531",
+      "image": "https://megaphone.imgix.net/podcasts/43ede7ec-3fae-11f1-a261-d79bd188d33d/image/cab217911736a55b8e413037e1a05f73.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n-  Truewerk: performance work clothes. Get 15% off with Code:TRIG at  https://truewerk.com\n\n- Limited Time Offer: Get Huel today with our exclusive offer of 15% OFF online with code TRIGGER15 at https://www.huel.com/trigger15. New Customers Only. Thank you to Huel for partnering and supporting our show!\n",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike",
@@ -156,18 +172,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "#413 - \"NASA Connection!\" - Disturbing Missing Scientist Case Getting Weird | Lauren Conlin",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7599142274.mp3?updated=1777038033",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7599142274.mp3?updated=1777038033",
-      "date": "2026-04-24T16:00:00.000Z",
-      "duration": "11058",
-      "image": "https://megaphone.imgix.net/podcasts/9be50c32-3f77-11f1-849c-53cfe3aba6f5/image/c8694446226c63aea41e7e6f901eb708.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n1) RAG &amp; BONE: Upgrade your denim game with rag &amp; bone! Get 20% off sitewide with code JULIAN at https://www.rag-bone.com #ragandbonepod\n2) GHOST BED: Get an extra 10% off GhostBed mattresses—built for cooling, comfort, and support—by going to https://GhostBed.com/julian  and using promo code JULIAN at checkout. Some exclusions apply; see site for details.\n\nJOIN PATREON FOR EARLY",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#298 Jason Magnavice - SEAL Team 6 Red Squadron Operator",
@@ -205,6 +209,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Elon Musk": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]

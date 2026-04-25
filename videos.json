@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T15:41:43.277Z",
+  "lastUpdated": "2026-04-25T18:57:21.287Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PJqON-9PqnI",
-      "show": "Theo Von",
-      "title": "Theo and Matt McCusker Remember the Old Internet",
-      "url": "https://www.youtube.com/watch?v=PJqON-9PqnI",
-      "date": "2026-04-25T15:00:47.000Z",
-      "image": "https://i1.ytimg.com/vi/PJqON-9PqnI/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #652 | Matt McCusker\nFull Episode: https://youtu.be/ljerfYGfCeE\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitte",
-      "guestTags": []
+      "videoId": "xpIWOSBNH2o",
+      "show": "TRIGGERnometry",
+      "title": "Rob Schneider: &quot;I'm A 90s Liberal — Which Makes Me A Fascist&quot;",
+      "url": "https://www.youtube.com/watch?v=xpIWOSBNH2o",
+      "date": "2026-04-25T18:00:52.000Z",
+      "image": "https://i1.ytimg.com/vi/xpIWOSBNH2o/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n-  Truewerk: performance work clothes. Get 15% off with Code:TRIG at  https://truewerk.com\n\n- Limited Time Offer: Get Huel today with our exclusive offer of 15% OFF online with code TRIGGER15 at https://ww",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PJqON-9PqnI",
-      "show": "Theo Von",
-      "title": "Theo and Matt McCusker Remember the Old Internet",
-      "url": "https://www.youtube.com/watch?v=PJqON-9PqnI",
-      "date": "2026-04-25T15:00:47.000Z",
-      "image": "https://i1.ytimg.com/vi/PJqON-9PqnI/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #652 | Matt McCusker\nFull Episode: https://youtu.be/ljerfYGfCeE\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitte",
-      "guestTags": []
+      "videoId": "xpIWOSBNH2o",
+      "show": "TRIGGERnometry",
+      "title": "Rob Schneider: &quot;I'm A 90s Liberal — Which Makes Me A Fascist&quot;",
+      "url": "https://www.youtube.com/watch?v=xpIWOSBNH2o",
+      "date": "2026-04-25T18:00:52.000Z",
+      "image": "https://i1.ytimg.com/vi/xpIWOSBNH2o/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n-  Truewerk: performance work clothes. Get 15% off with Code:TRIG at  https://truewerk.com\n\n- Limited Time Offer: Get Huel today with our exclusive offer of 15% OFF online with code TRIGGER15 at https://ww",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
