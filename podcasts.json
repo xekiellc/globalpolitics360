@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-27T19:26:51.892Z",
+  "lastUpdated": "2026-04-27T21:54:42.276Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1594,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#655 - Sal Vulcano",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8646903303.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8646903303.mp3",
+      "date": "2026-04-27T20:07:00.000Z",
+      "duration": "7914",
+      "image": "https://megaphone.imgix.net/podcasts/03cd3236-4273-11f1-ae1f-d3ebbdfbc1fd/image/a4eccb40fefc8924cb35c5f5c6b644d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Sal Vulcano is a stand-up comedian, podcaster and co-host of the popular show “Impractical Jokers” on TBS. \n\nSal returns to talk about neighborhood hams, what he’s loved about growing his family even more, and a wedding tape he found that he desperately needs to get back to the owners… \n\nSal Vulcano: https://www.instagram.com/salvulcano/ \n\n-------------------------------------------------\n\nTour Da",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -15,18 +27,6 @@
       "duration": "3400",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Iran threatens massive barrage, Germany says Trump humiliated by Iran, oil shock here. &nbsp; Joe Kent: https://x.com/joekent16jan19?s=20&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.co",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#299 Andy Lowery - Inside the World’s Most Advanced Drone Killing Machine",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5911298915.mp3?updated=1777073141",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5911298915.mp3?updated=1777073141",
-      "date": "2026-04-27T10:00:00.000Z",
-      "duration": "7083",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Andy Lowery is a retired U.S. Navy Lieutenant Commander who served as a Nuclear Surface Warfare Officer and Nuclear Propulsion Officer, including active duty aboard the USS John C. Stennis. Over more than 30 years, Lowery held demanding roles spanning domestic and global assignments before retiring and continuing in the reserves until 2015. He earned his Bachelor’s degree in Electrical and Compute",
       "guestTags": []
     },
     {
@@ -108,6 +108,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#655 - Sal Vulcano",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8646903303.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8646903303.mp3",
+      "date": "2026-04-27T20:07:00.000Z",
+      "duration": "7914",
+      "image": "https://megaphone.imgix.net/podcasts/03cd3236-4273-11f1-ae1f-d3ebbdfbc1fd/image/a4eccb40fefc8924cb35c5f5c6b644d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Sal Vulcano is a stand-up comedian, podcaster and co-host of the popular show “Impractical Jokers” on TBS. \n\nSal returns to talk about neighborhood hams, what he’s loved about growing his family even more, and a wedding tape he found that he desperately needs to get back to the owners… \n\nSal Vulcano: https://www.instagram.com/salvulcano/ \n\n-------------------------------------------------\n\nTour Da",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "4/27/26: Iran Threatens Massive Barrage, Germany Says Trump Humiliated By Iran, Oil Shock Officially Here",
@@ -117,18 +129,6 @@
       "duration": "3400",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Iran threatens massive barrage, Germany says Trump humiliated by Iran, oil shock here. &nbsp; Joe Kent: https://x.com/joekent16jan19?s=20&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.co",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#299 Andy Lowery - Inside the World’s Most Advanced Drone Killing Machine",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5911298915.mp3?updated=1777073141",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5911298915.mp3?updated=1777073141",
-      "date": "2026-04-27T10:00:00.000Z",
-      "duration": "7083",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Andy Lowery is a retired U.S. Navy Lieutenant Commander who served as a Nuclear Surface Warfare Officer and Nuclear Propulsion Officer, including active duty aboard the USS John C. Stennis. Over more than 30 years, Lowery held demanding roles spanning domestic and global assignments before retiring and continuing in the reserves until 2015. He earned his Bachelor’s degree in Electrical and Compute",
       "guestTags": []
     },
     {
