@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T13:59:23.983Z",
+  "lastUpdated": "2026-04-27T16:28:07.510Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "sQcS6f2qYoQ",
-      "show": "Huberman Lab",
-      "title": "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway",
-      "url": "https://www.youtube.com/watch?v=sQcS6f2qYoQ",
-      "date": "2026-04-27T12:01:38.000Z",
-      "image": "https://i4.ytimg.com/vi/sQcS6f2qYoQ/hqdefault.jpg",
-      "desc": "Scott Galloway is a professor of marketing at New York University's Stern School of Business. We discuss masculine roles and obligations of past, present and future. We explore which are timeless and which are changing, and positive steps boys and men can take to create meaning and stability in thei",
-      "guestTags": []
+      "videoId": "AYWADsliR0E",
+      "show": "TRIGGERnometry",
+      "title": "Rob Schneider on Dave Chappelle’s portrayal of Charlie Kirk",
+      "url": "https://www.youtube.com/watch?v=AYWADsliR0E",
+      "date": "2026-04-27T15:23:42.000Z",
+      "image": "https://i2.ytimg.com/vi/AYWADsliR0E/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "sQcS6f2qYoQ",
-      "show": "Huberman Lab",
-      "title": "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway",
-      "url": "https://www.youtube.com/watch?v=sQcS6f2qYoQ",
-      "date": "2026-04-27T12:01:38.000Z",
-      "image": "https://i4.ytimg.com/vi/sQcS6f2qYoQ/hqdefault.jpg",
-      "desc": "Scott Galloway is a professor of marketing at New York University's Stern School of Business. We discuss masculine roles and obligations of past, present and future. We explore which are timeless and which are changing, and positive steps boys and men can take to create meaning and stability in thei",
-      "guestTags": []
+      "videoId": "AYWADsliR0E",
+      "show": "TRIGGERnometry",
+      "title": "Rob Schneider on Dave Chappelle’s portrayal of Charlie Kirk",
+      "url": "https://www.youtube.com/watch?v=AYWADsliR0E",
+      "date": "2026-04-27T15:23:42.000Z",
+      "image": "https://i2.ytimg.com/vi/AYWADsliR0E/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
