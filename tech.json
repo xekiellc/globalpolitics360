@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-04-28T14:13:05.418Z",
+  "lastUpdated": "2026-04-28T16:54:44.001Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Blockstream Launches Jade Core to Simplify Bitcoin Self-Custody Without Sacrificing Security",
+      "url": "https://bitcoinmagazine.com/news/blockstream-launches-jade-core",
+      "date": "2026-04-28T15:51:04.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Blockstream_Jade_Core_Hardware_Wallet-scaled.png",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Amboss Activates RailsX, Enabling Self-Custody Stablecoin Trading on Bitcoin Lightning",
+      "url": "https://bitcoinmagazine.com/news/amboss-activates-railsx-self-custody",
+      "date": "2026-04-28T15:07:54.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Amboss-Activates-RailsX-Enabling-Self-Custody-Stablecoin-Trading-on-Bitcoin-Lightning.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Workday's Last Workday?",
       "url": "https://www.a16z.news/p/workdays-last-workday",
@@ -79,24 +97,6 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-isnt-going-anywhere-fbi-discuss",
       "date": "2026-04-27T18:33:50.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/GDOH8154-scaled.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Senator Lummis Puts Congress On The Clock, Vows May Push To Rescue Stalled Clarity Act",
-      "url": "https://bitcoinmagazine.com/news/senator-lummis-puts-congress-on-the-clock",
-      "date": "2026-04-27T18:27:45.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/GDOH7949-1-scaled.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Lightning is Turning iGaming Payouts Into a Real-Time Rail: Report",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-lightning-turning-igaming-payouts",
-      "date": "2026-04-27T18:00:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Lightning-is-Turning-iGaming-Payouts-Into-a-Real-Time-Rail-Report-.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
