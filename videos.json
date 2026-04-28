@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T16:54:56.564Z",
+  "lastUpdated": "2026-04-28T19:44:42.808Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,41 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "o5F6RxogxMs",
-      "show": "Shawn Ryan Show",
-      "title": "Should You Buy the B&amp;T TP9?",
-      "url": "https://www.youtube.com/watch?v=o5F6RxogxMs",
-      "date": "2026-04-28T16:30:22.000Z",
-      "image": "https://i4.ytimg.com/vi/o5F6RxogxMs/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "6QUrzDnPKyE",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: Is This Pesticide Causing a Colon Cancer Spike in Young People?",
+      "url": "https://www.youtube.com/watch?v=6QUrzDnPKyE",
+      "date": "2026-04-28T18:20:37.000Z",
+      "image": "https://i3.ytimg.com/vi/6QUrzDnPKyE/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "o5F6RxogxMs",
-      "show": "Shawn Ryan Show",
-      "title": "Should You Buy the B&amp;T TP9?",
-      "url": "https://www.youtube.com/watch?v=o5F6RxogxMs",
-      "date": "2026-04-28T16:30:22.000Z",
-      "image": "https://i4.ytimg.com/vi/o5F6RxogxMs/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "6QUrzDnPKyE",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: Is This Pesticide Causing a Colon Cancer Spike in Young People?",
+      "url": "https://www.youtube.com/watch?v=6QUrzDnPKyE",
+      "date": "2026-04-28T18:20:37.000Z",
+      "image": "https://i3.ytimg.com/vi/6QUrzDnPKyE/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

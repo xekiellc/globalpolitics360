@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-04-28T16:54:54.614Z",
+  "lastUpdated": "2026-04-28T19:44:41.878Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1595,
+  "taggedCount": 1523,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Every Step Cole Tomas Allen Took to Plan His Attack",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8987961563.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8987961563.mp3",
+      "date": "2026-04-28T17:08:00.000Z",
+      "duration": "1752",
+      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Go to https://meetfabric.com/WATCH and apply today, risk-free\n\nEveryone is talking about the aftermath of the attack at the White House Correspondents’ Dinner: the response, the security questions, and what failed in the moment. Today, instead of focusing on the attack itself, we’re looking at what comes before it.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2490 - RZA",
+      "audioUrl": "https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383",
+      "listenUrl": "https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383",
+      "date": "2026-04-28T17:00:00.000Z",
+      "duration": "10648",
+      "image": "https://megaphone.imgix.net/podcasts/f3a22480-428f-11f1-9c77-ffdfa7bd2815/image/28206bc6280c12251968697909c2b3f0.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "RZA is a rapper, producer, composer, filmmaker, and founding member of the multimedia hip-hop collective and 2026 Rock and Roll Hall of Fame inductees The Wu-Tang Clan. His new film, “One Spoon of Chocolate,” premieres in theaters on May 1.www.onespoonofchocolate.filmwww.youtube.com/@WuTangClanwww.youtube.com/@rza1235www.thewutangclan.com\n\nwww.bobbydigital.com\n\nwww.36chambers.com\n\n\n\nPerplexity: Do",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -53,30 +77,6 @@
       "duration": "7914",
       "image": "https://megaphone.imgix.net/podcasts/03cd3236-4273-11f1-ae1f-d3ebbdfbc1fd/image/a4eccb40fefc8924cb35c5f5c6b644d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Sal Vulcano is a stand-up comedian, podcaster and co-host of the popular show “Impractical Jokers” on TBS. \n\nSal returns to talk about neighborhood hams, what he’s loved about growing his family even more, and a wedding tape he found that he desperately needs to get back to the owners… \n\nSal Vulcano: https://www.instagram.com/salvulcano/ \n\n-------------------------------------------------\n\nTour Da",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7501986841.mp3?updated=1777260985",
-      "listenUrl": "https://traffic.megaphone.fm/SCIM7501986841.mp3?updated=1777260985",
-      "date": "2026-04-27T08:00:00.000Z",
-      "duration": "9366",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Scott Galloway is a professor of marketing at New York University's Stern School of Business. We discuss masculine roles and obligations of past, present and future. We explore which are timeless and which are changing, and positive steps boys and men can take to create meaning and stability in their lives. We cover work, finances, health and relationships to build a grounded, purposeful life. We ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Trump's Plan Could Send Afghan Allies to Congo",
-      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1125067483.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1125067483.mp3",
-      "date": "2026-04-24T18:24:00.000Z",
-      "duration": "1861",
-      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "President Trump is reportedly considering a plan to relocate Afghan allies who supported the U.S. war effort to the Democratic Republic of Congo. Let's talk about it.\n\nPocket Hose: \nText WATCH to 64000 for your 2 free gifts with the purchase of any Pocket Hose Ballistic hose. By Texting 64000, you agree to receive recurring automated marketing messages from Pocket Hose. Message frequency varies an",
       "guestTags": []
     },
     {
@@ -106,6 +106,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Every Step Cole Tomas Allen Took to Plan His Attack",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8987961563.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8987961563.mp3",
+      "date": "2026-04-28T17:08:00.000Z",
+      "duration": "1752",
+      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Go to https://meetfabric.com/WATCH and apply today, risk-free\n\nEveryone is talking about the aftermath of the attack at the White House Correspondents’ Dinner: the response, the security questions, and what failed in the moment. Today, instead of focusing on the attack itself, we’re looking at what comes before it.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2490 - RZA",
+      "audioUrl": "https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383",
+      "listenUrl": "https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383",
+      "date": "2026-04-28T17:00:00.000Z",
+      "duration": "10648",
+      "image": "https://megaphone.imgix.net/podcasts/f3a22480-428f-11f1-9c77-ffdfa7bd2815/image/28206bc6280c12251968697909c2b3f0.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "RZA is a rapper, producer, composer, filmmaker, and founding member of the multimedia hip-hop collective and 2026 Rock and Roll Hall of Fame inductees The Wu-Tang Clan. His new film, “One Spoon of Chocolate,” premieres in theaters on May 1.www.onespoonofchocolate.filmwww.youtube.com/@WuTangClanwww.youtube.com/@rza1235www.thewutangclan.com\n\nwww.bobbydigital.com\n\nwww.36chambers.com\n\n\n\nPerplexity: Do",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "#415 - \"PSYCHIC Program!\" - Neuroscientist on Remote Viewing, STARGATE &amp; Telepathy | Julia Mossbridge",
@@ -153,30 +177,6 @@
       "duration": "7914",
       "image": "https://megaphone.imgix.net/podcasts/03cd3236-4273-11f1-ae1f-d3ebbdfbc1fd/image/a4eccb40fefc8924cb35c5f5c6b644d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Sal Vulcano is a stand-up comedian, podcaster and co-host of the popular show “Impractical Jokers” on TBS. \n\nSal returns to talk about neighborhood hams, what he’s loved about growing his family even more, and a wedding tape he found that he desperately needs to get back to the owners… \n\nSal Vulcano: https://www.instagram.com/salvulcano/ \n\n-------------------------------------------------\n\nTour Da",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7501986841.mp3?updated=1777260985",
-      "listenUrl": "https://traffic.megaphone.fm/SCIM7501986841.mp3?updated=1777260985",
-      "date": "2026-04-27T08:00:00.000Z",
-      "duration": "9366",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Scott Galloway is a professor of marketing at New York University's Stern School of Business. We discuss masculine roles and obligations of past, present and future. We explore which are timeless and which are changing, and positive steps boys and men can take to create meaning and stability in their lives. We cover work, finances, health and relationships to build a grounded, purposeful life. We ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Trump's Plan Could Send Afghan Allies to Congo",
-      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1125067483.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1125067483.mp3",
-      "date": "2026-04-24T18:24:00.000Z",
-      "duration": "1861",
-      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "President Trump is reportedly considering a plan to relocate Afghan allies who supported the U.S. war effort to the Democratic Republic of Congo. Let's talk about it.\n\nPocket Hose: \nText WATCH to 64000 for your 2 free gifts with the purchase of any Pocket Hose Ballistic hose. By Texting 64000, you agree to receive recurring automated marketing messages from Pocket Hose. Message frequency varies an",
       "guestTags": []
     },
     {
