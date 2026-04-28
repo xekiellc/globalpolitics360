@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T11:07:22.796Z",
+  "lastUpdated": "2026-04-28T14:13:11.118Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "lwLnqeBKa-0",
-      "show": "Kill Tony",
-      "title": "KT #765 - DUSTIN POIRIER + ARI MATTI",
-      "url": "https://www.youtube.com/watch?v=lwLnqeBKa-0",
-      "date": "2026-04-28T01:00:06.000Z",
-      "image": "https://i1.ytimg.com/vi/lwLnqeBKa-0/hqdefault.jpg",
-      "desc": "Dustin Poirier, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/16/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)\n\nBRIAN RED",
-      "guestTags": []
+      "videoId": "nLVTcU-D8IE",
+      "show": "TRIGGERnometry",
+      "title": "“When the conversation stops, that’s when the violence begins.” - Rob Schneider",
+      "url": "https://www.youtube.com/watch?v=nLVTcU-D8IE",
+      "date": "2026-04-28T13:07:12.000Z",
+      "image": "https://i3.ytimg.com/vi/nLVTcU-D8IE/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "lwLnqeBKa-0",
-      "show": "Kill Tony",
-      "title": "KT #765 - DUSTIN POIRIER + ARI MATTI",
-      "url": "https://www.youtube.com/watch?v=lwLnqeBKa-0",
-      "date": "2026-04-28T01:00:06.000Z",
-      "image": "https://i1.ytimg.com/vi/lwLnqeBKa-0/hqdefault.jpg",
-      "desc": "Dustin Poirier, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 03/16/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)\n\nBRIAN RED",
-      "guestTags": []
+      "videoId": "nLVTcU-D8IE",
+      "show": "TRIGGERnometry",
+      "title": "“When the conversation stops, that’s when the violence begins.” - Rob Schneider",
+      "url": "https://www.youtube.com/watch?v=nLVTcU-D8IE",
+      "date": "2026-04-28T13:07:12.000Z",
+      "image": "https://i3.ytimg.com/vi/nLVTcU-D8IE/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
