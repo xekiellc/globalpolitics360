@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-04-28T22:00:20.832Z",
+  "lastUpdated": "2026-04-29T03:25:03.153Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "zOXUe63fMc0",
-      "show": "Shawn Ryan Show",
-      "title": "Neuroscientist: “You Could Create a False Reality With Brain Chips”",
-      "url": "https://www.youtube.com/watch?v=zOXUe63fMc0",
-      "date": "2026-04-28T21:30:26.000Z",
-      "image": "https://i3.ytimg.com/vi/zOXUe63fMc0/hqdefault.jpg",
-      "desc": "Louisa Nicola gives her thoughts on the risks, potential, and unknowns surrounding brain intervention technology like Neuralink, breaking down how deep brain stimulation is already being used in real-world medical settings to treat conditions like Parkinson’s. She explains just how complex and delic",
-      "guestTags": []
+      "videoId": "6QUrzDnPKyE",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: Is This Pesticide Causing a Colon Cancer Spike in Young People?",
+      "url": "https://www.youtube.com/watch?v=6QUrzDnPKyE",
+      "date": "2026-04-28T18:20:37.000Z",
+      "image": "https://i3.ytimg.com/vi/6QUrzDnPKyE/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "zOXUe63fMc0",
-      "show": "Shawn Ryan Show",
-      "title": "Neuroscientist: “You Could Create a False Reality With Brain Chips”",
-      "url": "https://www.youtube.com/watch?v=zOXUe63fMc0",
-      "date": "2026-04-28T21:30:26.000Z",
-      "image": "https://i3.ytimg.com/vi/zOXUe63fMc0/hqdefault.jpg",
-      "desc": "Louisa Nicola gives her thoughts on the risks, potential, and unknowns surrounding brain intervention technology like Neuralink, breaking down how deep brain stimulation is already being used in real-world medical settings to treat conditions like Parkinson’s. She explains just how complex and delic",
-      "guestTags": []
+      "videoId": "6QUrzDnPKyE",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: Is This Pesticide Causing a Colon Cancer Spike in Young People?",
+      "url": "https://www.youtube.com/watch?v=6QUrzDnPKyE",
+      "date": "2026-04-28T18:20:37.000Z",
+      "image": "https://i3.ytimg.com/vi/6QUrzDnPKyE/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
