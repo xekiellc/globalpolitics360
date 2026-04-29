@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T10:58:59.092Z",
+  "lastUpdated": "2026-04-29T14:03:05.485Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ab8uZ6bgcCY",
-      "show": "Shawn Ryan Show",
-      "title": "Here's the Gen Z Version of Navy SEALs 🤯",
-      "url": "https://www.youtube.com/watch?v=Ab8uZ6bgcCY",
-      "date": "2026-04-29T00:00:10.000Z",
-      "image": "https://i2.ytimg.com/vi/Ab8uZ6bgcCY/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "-X2j_v-_9P0",
+      "show": "TRIGGERnometry",
+      "title": "Robert Greene on Pain and Purpose",
+      "url": "https://www.youtube.com/watch?v=-X2j_v-_9P0",
+      "date": "2026-04-29T11:36:27.000Z",
+      "image": "https://i2.ytimg.com/vi/-X2j_v-_9P0/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ab8uZ6bgcCY",
-      "show": "Shawn Ryan Show",
-      "title": "Here's the Gen Z Version of Navy SEALs 🤯",
-      "url": "https://www.youtube.com/watch?v=Ab8uZ6bgcCY",
-      "date": "2026-04-29T00:00:10.000Z",
-      "image": "https://i2.ytimg.com/vi/Ab8uZ6bgcCY/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "-X2j_v-_9P0",
+      "show": "TRIGGERnometry",
+      "title": "Robert Greene on Pain and Purpose",
+      "url": "https://www.youtube.com/watch?v=-X2j_v-_9P0",
+      "date": "2026-04-29T11:36:27.000Z",
+      "image": "https://i2.ytimg.com/vi/-X2j_v-_9P0/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
