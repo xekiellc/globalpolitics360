@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-04-29T14:03:05.485Z",
+  "lastUpdated": "2026-04-29T16:42:55.999Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "-X2j_v-_9P0",
-      "show": "TRIGGERnometry",
-      "title": "Robert Greene on Pain and Purpose",
-      "url": "https://www.youtube.com/watch?v=-X2j_v-_9P0",
-      "date": "2026-04-29T11:36:27.000Z",
-      "image": "https://i2.ytimg.com/vi/-X2j_v-_9P0/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "9WQu7w1tII0",
+      "show": "All-In Podcast",
+      "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself &amp; How a Republican Can Win",
+      "url": "https://www.youtube.com/watch?v=9WQu7w1tII0",
+      "date": "2026-04-29T15:22:07.000Z",
+      "image": "https://i2.ytimg.com/vi/9WQu7w1tII0/hqdefault.jpg",
+      "desc": "(0:00) Intro: Steve Hilton is a Republican Brit Running for CA Governor\n(8:34) Zero Tax Under $100K and a 7.5% Flat Rate: Is It Fiscally Possible?\n(27:52) Why CA Homes Cost 3x More to Build (Unions, CEQA, and Climate Dogma)\n(44:50) Why CA Schools Spend the Most but Get the Worst Results\n(50:02) Crim",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "-X2j_v-_9P0",
-      "show": "TRIGGERnometry",
-      "title": "Robert Greene on Pain and Purpose",
-      "url": "https://www.youtube.com/watch?v=-X2j_v-_9P0",
-      "date": "2026-04-29T11:36:27.000Z",
-      "image": "https://i2.ytimg.com/vi/-X2j_v-_9P0/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "9WQu7w1tII0",
+      "show": "All-In Podcast",
+      "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself &amp; How a Republican Can Win",
+      "url": "https://www.youtube.com/watch?v=9WQu7w1tII0",
+      "date": "2026-04-29T15:22:07.000Z",
+      "image": "https://i2.ytimg.com/vi/9WQu7w1tII0/hqdefault.jpg",
+      "desc": "(0:00) Intro: Steve Hilton is a Republican Brit Running for CA Governor\n(8:34) Zero Tax Under $100K and a 7.5% Flat Rate: Is It Fiscally Possible?\n(27:52) Why CA Homes Cost 3x More to Build (Unions, CEQA, and Climate Dogma)\n(44:50) Why CA Schools Spend the Most but Get the Worst Results\n(50:02) Crim",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

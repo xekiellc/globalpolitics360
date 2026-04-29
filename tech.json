@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-29T14:02:56.568Z",
+  "lastUpdated": "2026-04-29T16:42:49.916Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Call the Plumber; We’ve Got a Leaky Abstraction",
+      "url": "https://www.a16z.news/p/call-the-plumber-weve-got-a-leaky",
+      "date": "2026-04-29T14:02:41.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/aaf81ef8-6c4e-4140-a1f0-d9f02b71d577_1200x630.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Bitcoin is Reshaping Traditional Finance, Industry Leaders Say",
       "url": "https://bitcoinmagazine.com/news/bitcoin-will-reshape-traditional-finance",
@@ -322,15 +331,6 @@
       "url": "https://www.a16z.news/p/investing-in-gitbutler",
       "date": "2026-04-08T15:02:51.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/428dcb6c-b173-4309-af56-9b1d2f67fd24_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "AI Adoption by the Numbers",
-      "url": "https://www.a16z.news/p/ai-adoption-by-the-numbers",
-      "date": "2026-04-08T14:02:50.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e9f3a0b0-d925-4a72-882e-c87372cc64b6_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
