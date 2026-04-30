@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-04-30T17:27:06.812Z",
+  "lastUpdated": "2026-04-30T19:42:07.298Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Ep 152: Ben Black Runs America's $200B Foreign Investment Fund; Here's His Plan to Counter China & Rebuild American Influence",
+      "url": "https://blog.joelonsdale.com/p/ep-152-ben-black-runs-americas-200b",
+      "date": "2026-04-30T19:15:18.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
     {
       "title": "Introducing the a16z Design Engineer Fellowship",
       "url": "https://www.a16z.news/p/introducing-the-a16z-design-engineer",
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Weekly Dose of Optimism #187",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-187",
-      "date": "2026-04-03T12:35:07.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!5QId!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b5001a7-c88e-44f2-bb20-1e5abdce61ec_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
