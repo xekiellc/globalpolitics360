@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-30T05:35:53.559Z",
+  "lastUpdated": "2026-04-30T08:30:59.782Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1596,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Control Sugar Cravings &amp; Metabolism with Science-Based Tools",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2821501065.mp3?updated=1777524623",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-control-sugar-cravings-and-metabolism-with-science-based-tools",
+      "date": "2026-04-30T08:00:00.000Z",
+      "duration": "2038",
+      "image": "https://megaphone.imgix.net/podcasts/996cb320-444e-11f1-9918-8b74615a3b82/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, I explain how the body senses and uses sugar, and why understanding those mechanisms can help reduce sugar cravings. I discuss different types of sugar and how they are processed by pathways in the gut and the brain to shape appetite and the desire for specific foods. I also share many science-based tools to help curb sugar cravings and support healthy bloo",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -30,18 +42,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2491 - Brian Simpson",
-      "audioUrl": "https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862",
-      "listenUrl": "https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862",
-      "date": "2026-04-29T17:00:00.000Z",
-      "duration": "9470",
-      "image": "https://megaphone.imgix.net/podcasts/ada2b96e-436a-11f1-be06-7ff08097d2d1/image/6a5cbaf722d0e31ca328d2f0d6d93d14.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Brian Simpson is a comedian, writer, host of the “Bottom of the Barrel” comedy show at The Comedy Mothership, and his own podcast, “BS with Brian Simpson.” His most recent special, “Live from The Comedy Mothership,” is streaming on Netflix.www.netflix.com/title/81684893www.youtube.com/@bswithbriansimpsonwww.briansimpsoncomedy.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https:",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Control Sugar Cravings &amp; Metabolism with Science-Based Tools",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2821501065.mp3?updated=1777524623",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-control-sugar-cravings-and-metabolism-with-science-based-tools",
+      "date": "2026-04-30T08:00:00.000Z",
+      "duration": "2038",
+      "image": "https://megaphone.imgix.net/podcasts/996cb320-444e-11f1-9918-8b74615a3b82/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, I explain how the body senses and uses sugar, and why understanding those mechanisms can help reduce sugar cravings. I discuss different types of sugar and how they are processed by pathways in the gut and the brain to shape appetite and the desire for specific foods. I also share many science-based tools to help curb sugar cravings and support healthy bloo",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "I Can’t Believe This Story Is Actually Real…",
@@ -130,18 +142,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2491 - Brian Simpson",
-      "audioUrl": "https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862",
-      "listenUrl": "https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862",
-      "date": "2026-04-29T17:00:00.000Z",
-      "duration": "9470",
-      "image": "https://megaphone.imgix.net/podcasts/ada2b96e-436a-11f1-be06-7ff08097d2d1/image/6a5cbaf722d0e31ca328d2f0d6d93d14.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Brian Simpson is a comedian, writer, host of the “Bottom of the Barrel” comedy show at The Comedy Mothership, and his own podcast, “BS with Brian Simpson.” His most recent special, “Live from The Comedy Mothership,” is streaming on Netflix.www.netflix.com/title/81684893www.youtube.com/@bswithbriansimpsonwww.briansimpsoncomedy.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https:",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
