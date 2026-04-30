@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T08:31:02.151Z",
+  "lastUpdated": "2026-04-30T11:43:13.650Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "OHZdxzper1w",
-      "show": "Shawn Ryan Show",
-      "title": "The Navy SEAL Wrongly Accused of Killing a Terrorist",
-      "url": "https://www.youtube.com/watch?v=OHZdxzper1w",
-      "date": "2026-04-30T00:00:22.000Z",
-      "image": "https://i4.ytimg.com/vi/OHZdxzper1w/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "NigLuRd4Hkg",
+      "show": "TRIGGERnometry",
+      "title": "Have Clips Made Podcasting Less Fun?",
+      "url": "https://www.youtube.com/watch?v=NigLuRd4Hkg",
+      "date": "2026-04-30T11:23:45.000Z",
+      "image": "https://i3.ytimg.com/vi/NigLuRd4Hkg/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "OHZdxzper1w",
-      "show": "Shawn Ryan Show",
-      "title": "The Navy SEAL Wrongly Accused of Killing a Terrorist",
-      "url": "https://www.youtube.com/watch?v=OHZdxzper1w",
-      "date": "2026-04-30T00:00:22.000Z",
-      "image": "https://i4.ytimg.com/vi/OHZdxzper1w/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "NigLuRd4Hkg",
+      "show": "TRIGGERnometry",
+      "title": "Have Clips Made Podcasting Less Fun?",
+      "url": "https://www.youtube.com/watch?v=NigLuRd4Hkg",
+      "date": "2026-04-30T11:23:45.000Z",
+      "image": "https://i3.ytimg.com/vi/NigLuRd4Hkg/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

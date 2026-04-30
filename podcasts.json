@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-04-30T08:30:59.782Z",
+  "lastUpdated": "2026-04-30T11:43:12.665Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1596,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#300 Louisa Nicola - Peptides, Cancer and the Deadly Habits That Lead to Alzheimer’s",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9901653527.mp3?updated=1777517985",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9901653527.mp3?updated=1777517985",
+      "date": "2026-04-30T10:00:00.000Z",
+      "duration": "11299",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Louisa Nicola is a neurophysiologist, performance specialist, and founder of Neuro Athletics, a company focused on brain optimization and neurophysiology for elite performers. A former professional triathlete, Nicola’s early career in endurance sport shaped her belief that peak performance is driven as much by the brain as by the body. Her transition from elite competition to neuroscience was fuel",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
@@ -65,18 +77,6 @@
       "duration": "01:08:45",
       "image": "https://static.libsyn.com/p/assets/d/5/2/2/d522b7c8e6966438d959afa2a1bf1c87/1_Pod_Hilton.png",
       "desc": "(0:00) Intro: Steve Hilton is a Republican Brit Running for CA Governor (8:34) Zero Tax Under $100K and a 7.5% Flat Rate: Is It Fiscally Possible? (27:52) Why CA Homes Cost 3x More to Build (Unions, CEQA, and Climate Dogma) (44:50) Why CA Schools Spend the Most but Get the Worst Results (50:02) Crime, Homelessness, and the Failure to Enforce Laws That Already Exist (1:01:34) Can a Republican Actua",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#655 - Sal Vulcano",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8646903303.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8646903303.mp3",
-      "date": "2026-04-27T20:07:00.000Z",
-      "duration": "7914",
-      "image": "https://megaphone.imgix.net/podcasts/03cd3236-4273-11f1-ae1f-d3ebbdfbc1fd/image/a4eccb40fefc8924cb35c5f5c6b644d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Sal Vulcano is a stand-up comedian, podcaster and co-host of the popular show “Impractical Jokers” on TBS. \n\nSal returns to talk about neighborhood hams, what he’s loved about growing his family even more, and a wedding tape he found that he desperately needs to get back to the owners… \n\nSal Vulcano: https://www.instagram.com/salvulcano/ \n\n-------------------------------------------------\n\nTour Da",
       "guestTags": []
     },
     {
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#300 Louisa Nicola - Peptides, Cancer and the Deadly Habits That Lead to Alzheimer’s",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9901653527.mp3?updated=1777517985",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9901653527.mp3?updated=1777517985",
+      "date": "2026-04-30T10:00:00.000Z",
+      "duration": "11299",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Louisa Nicola is a neurophysiologist, performance specialist, and founder of Neuro Athletics, a company focused on brain optimization and neurophysiology for elite performers. A former professional triathlete, Nicola’s early career in endurance sport shaped her belief that peak performance is driven as much by the brain as by the body. Her transition from elite competition to neuroscience was fuel",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "Essentials: Control Sugar Cravings &amp; Metabolism with Science-Based Tools",
@@ -165,18 +177,6 @@
       "duration": "01:08:45",
       "image": "https://static.libsyn.com/p/assets/d/5/2/2/d522b7c8e6966438d959afa2a1bf1c87/1_Pod_Hilton.png",
       "desc": "(0:00) Intro: Steve Hilton is a Republican Brit Running for CA Governor (8:34) Zero Tax Under $100K and a 7.5% Flat Rate: Is It Fiscally Possible? (27:52) Why CA Homes Cost 3x More to Build (Unions, CEQA, and Climate Dogma) (44:50) Why CA Schools Spend the Most but Get the Worst Results (50:02) Crime, Homelessness, and the Failure to Enforce Laws That Already Exist (1:01:34) Can a Republican Actua",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#655 - Sal Vulcano",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8646903303.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8646903303.mp3",
-      "date": "2026-04-27T20:07:00.000Z",
-      "duration": "7914",
-      "image": "https://megaphone.imgix.net/podcasts/03cd3236-4273-11f1-ae1f-d3ebbdfbc1fd/image/a4eccb40fefc8924cb35c5f5c6b644d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Sal Vulcano is a stand-up comedian, podcaster and co-host of the popular show “Impractical Jokers” on TBS. \n\nSal returns to talk about neighborhood hams, what he’s loved about growing his family even more, and a wedding tape he found that he desperately needs to get back to the owners… \n\nSal Vulcano: https://www.instagram.com/salvulcano/ \n\n-------------------------------------------------\n\nTour Da",
       "guestTags": []
     },
     {
