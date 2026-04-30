@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T11:43:13.650Z",
+  "lastUpdated": "2026-04-30T14:11:22.270Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "NigLuRd4Hkg",
-      "show": "TRIGGERnometry",
-      "title": "Have Clips Made Podcasting Less Fun?",
-      "url": "https://www.youtube.com/watch?v=NigLuRd4Hkg",
-      "date": "2026-04-30T11:23:45.000Z",
-      "image": "https://i3.ytimg.com/vi/NigLuRd4Hkg/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "qUUfucHC7tU",
+      "show": "Huberman Lab",
+      "title": "Control Sugar Cravings &amp; Metabolism with Science-Based Tools | Huberman Lab Essentials",
+      "url": "https://www.youtube.com/watch?v=qUUfucHC7tU",
+      "date": "2026-04-30T12:01:28.000Z",
+      "image": "https://i2.ytimg.com/vi/qUUfucHC7tU/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, I explain how the body senses and uses sugar, and why understanding those mechanisms can help reduce sugar cravings. I discuss different types of sugar and how they are processed by pathways in the gut and the brain to shape appetite and the desire for specif",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "NigLuRd4Hkg",
-      "show": "TRIGGERnometry",
-      "title": "Have Clips Made Podcasting Less Fun?",
-      "url": "https://www.youtube.com/watch?v=NigLuRd4Hkg",
-      "date": "2026-04-30T11:23:45.000Z",
-      "image": "https://i3.ytimg.com/vi/NigLuRd4Hkg/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "qUUfucHC7tU",
+      "show": "Huberman Lab",
+      "title": "Control Sugar Cravings &amp; Metabolism with Science-Based Tools | Huberman Lab Essentials",
+      "url": "https://www.youtube.com/watch?v=qUUfucHC7tU",
+      "date": "2026-04-30T12:01:28.000Z",
+      "image": "https://i2.ytimg.com/vi/qUUfucHC7tU/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, I explain how the body senses and uses sugar, and why understanding those mechanisms can help reduce sugar cravings. I discuss different types of sugar and how they are processed by pathways in the gut and the brain to shape appetite and the desire for specif",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-04-30T11:43:07.422Z",
+  "lastUpdated": "2026-04-30T14:11:15.196Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Introducing the a16z Design Engineer Fellowship",
+      "url": "https://www.a16z.news/p/introducing-the-a16z-design-engineer",
+      "date": "2026-04-30T14:02:18.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!zBv4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F965b5e41-5068-4423-91ae-0f07ecbaefa9_3840x1710.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Scarce Assets",
+      "url": "https://www.notboring.co/p/scarce-assets",
+      "date": "2026-04-30T12:49:50.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!m5gB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e5c8530-fef6-4da5-bde6-6d986f52226f_1208x687.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan",
       "url": "https://bitcoinmagazine.com/news/strike-ceo-jack-mallers-bitcoin-conference",
@@ -327,15 +345,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Investing in GitButler",
-      "url": "https://www.a16z.news/p/investing-in-gitbutler",
-      "date": "2026-04-08T15:02:51.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/428dcb6c-b173-4309-af56-9b1d2f67fd24_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Ep 148: JoeBen Bevirt, Founder & CEO of Joby Aviation — Flying Cars Have Arrived",
       "url": "https://blog.joelonsdale.com/p/ep-148-joeben-bevirt-founder-and",
       "date": "2026-04-03T13:55:11.000Z",
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-187",
       "date": "2026-04-03T12:35:07.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!5QId!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b5001a7-c88e-44f2-bb20-1e5abdce61ec_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Bad Analogies",
-      "url": "https://www.notboring.co/p/bad-analogies",
-      "date": "2026-04-02T14:01:40.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!_5Nn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ec39fd3-f1f4-4132-a244-a0e2dee1de05_1200x600.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
