@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-01T06:41:53.876Z",
+  "lastUpdated": "2026-05-01T09:52:32.760Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 13,
+  "taggedCount": 33,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "BXK8uLpMWJM",
-      "show": "The Free Press",
-      "title": "Fahim Anwar | This Past Weekend w/ Theo Von #656",
-      "url": "https://www.youtube.com/watch?v=BXK8uLpMWJM",
-      "date": "2026-04-30T14:11:02.000Z",
-      "image": "https://i3.ytimg.com/vi/BXK8uLpMWJM/hqdefault.jpg",
-      "desc": "Fahim Anwar is a stand-up comedian and actor. His new special “Intrusive Thoughts” is out now on YouTube.\n\nFahim joins Theo to talk about the power of dance, an adventurous weekend they had in Clearlake, Iowa, and what can be done about America’s gooning epidemic. \n\nFahim Anwar: https://www.instagra",
-      "guestTags": []
+      "videoId": "3m0hUuPSTu4",
+      "show": "TRIGGERnometry",
+      "title": "You Need To Watch This",
+      "url": "https://www.youtube.com/watch?v=3m0hUuPSTu4",
+      "date": "2026-05-01T07:58:34.000Z",
+      "image": "https://i4.ytimg.com/vi/3m0hUuPSTu4/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "BXK8uLpMWJM",
-      "show": "The Free Press",
-      "title": "Fahim Anwar | This Past Weekend w/ Theo Von #656",
-      "url": "https://www.youtube.com/watch?v=BXK8uLpMWJM",
-      "date": "2026-04-30T14:11:02.000Z",
-      "image": "https://i3.ytimg.com/vi/BXK8uLpMWJM/hqdefault.jpg",
-      "desc": "Fahim Anwar is a stand-up comedian and actor. His new special “Intrusive Thoughts” is out now on YouTube.\n\nFahim joins Theo to talk about the power of dance, an adventurous weekend they had in Clearlake, Iowa, and what can be done about America’s gooning epidemic. \n\nFahim Anwar: https://www.instagra",
-      "guestTags": []
+      "videoId": "3m0hUuPSTu4",
+      "show": "TRIGGERnometry",
+      "title": "You Need To Watch This",
+      "url": "https://www.youtube.com/watch?v=3m0hUuPSTu4",
+      "date": "2026-05-01T07:58:34.000Z",
+      "image": "https://i4.ytimg.com/vi/3m0hUuPSTu4/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
