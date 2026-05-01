@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T13:40:46.132Z",
+  "lastUpdated": "2026-05-01T15:02:35.945Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3m0hUuPSTu4",
-      "show": "TRIGGERnometry",
-      "title": "You Need To Watch This",
-      "url": "https://www.youtube.com/watch?v=3m0hUuPSTu4",
-      "date": "2026-05-01T07:58:34.000Z",
-      "image": "https://i4.ytimg.com/vi/3m0hUuPSTu4/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "fpqMKpFxrCI",
+      "show": "Theo Von",
+      "title": "Theo and Fahim Anwar Went on a Midwestern Vacation",
+      "url": "https://www.youtube.com/watch?v=fpqMKpFxrCI",
+      "date": "2026-05-01T14:01:10.000Z",
+      "image": "https://i3.ytimg.com/vi/fpqMKpFxrCI/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #656 Fahim Anwar\nFull Episode: https://www.youtube.com/watch?v=BXK8uLpMWJM&amp;t=6s\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thi",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3m0hUuPSTu4",
-      "show": "TRIGGERnometry",
-      "title": "You Need To Watch This",
-      "url": "https://www.youtube.com/watch?v=3m0hUuPSTu4",
-      "date": "2026-05-01T07:58:34.000Z",
-      "image": "https://i4.ytimg.com/vi/3m0hUuPSTu4/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "fpqMKpFxrCI",
+      "show": "Theo Von",
+      "title": "Theo and Fahim Anwar Went on a Midwestern Vacation",
+      "url": "https://www.youtube.com/watch?v=fpqMKpFxrCI",
+      "date": "2026-05-01T14:01:10.000Z",
+      "image": "https://i3.ytimg.com/vi/fpqMKpFxrCI/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #656 Fahim Anwar\nFull Episode: https://www.youtube.com/watch?v=BXK8uLpMWJM&amp;t=6s\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thi",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
