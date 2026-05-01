@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-01T21:00:15.221Z",
+  "lastUpdated": "2026-05-01T22:55:35.943Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "xXWxF4o6M1I",
-      "show": "Shawn Ryan Show",
-      "title": "This $9 eBay Gadget Detects If You're Being Spied On",
-      "url": "https://www.youtube.com/watch?v=xXWxF4o6M1I",
-      "date": "2026-05-01T20:00:43.000Z",
-      "image": "https://i1.ytimg.com/vi/xXWxF4o6M1I/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "fpC4sbawSzQ",
+      "show": "All-In Podcast",
+      "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+      "url": "https://www.youtube.com/watch?v=fpC4sbawSzQ",
+      "date": "2026-05-01T22:08:15.000Z",
+      "image": "https://i3.ytimg.com/vi/fpC4sbawSzQ/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros\n(3:05) OpenAI misses targets, Codex gains on Claude\n(20:02) AI cybersecurity: a market that's about to explode\n(31:03) Elon vs Sam Altman lawsuit\n(41:00) Big tech smashes earnings, Capex explosion\n(52:44) Vibecoding nightmare: AI deleted someone's codebase\n(58:33) Retatrutide cr",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "xXWxF4o6M1I",
-      "show": "Shawn Ryan Show",
-      "title": "This $9 eBay Gadget Detects If You're Being Spied On",
-      "url": "https://www.youtube.com/watch?v=xXWxF4o6M1I",
-      "date": "2026-05-01T20:00:43.000Z",
-      "image": "https://i1.ytimg.com/vi/xXWxF4o6M1I/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "fpC4sbawSzQ",
+      "show": "All-In Podcast",
+      "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+      "url": "https://www.youtube.com/watch?v=fpC4sbawSzQ",
+      "date": "2026-05-01T22:08:15.000Z",
+      "image": "https://i3.ytimg.com/vi/fpC4sbawSzQ/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros\n(3:05) OpenAI misses targets, Codex gains on Claude\n(20:02) AI cybersecurity: a market that's about to explode\n(31:03) Elon vs Sam Altman lawsuit\n(41:00) Big tech smashes earnings, Capex explosion\n(52:44) Vibecoding nightmare: AI deleted someone's codebase\n(58:33) Retatrutide cr",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
