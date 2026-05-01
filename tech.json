@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-05-01T11:13:11.568Z",
+  "lastUpdated": "2026-05-01T13:40:39.696Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Weekly Dose of Optimism #191",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-191",
+      "date": "2026-05-01T12:53:52.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!2-q5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3dcde3e-9294-4b17-85dd-78b11a97fc19_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Ep 152: Ben Black Runs America's $200B Foreign Investment Fund; Here's His Plan to Counter China & Rebuild American Influence",
       "url": "https://blog.joelonsdale.com/p/ep-152-ben-black-runs-americas-200b",
@@ -352,15 +361,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Ep 148: JoeBen Bevirt, Founder & CEO of Joby Aviation — Flying Cars Have Arrived",
-      "url": "https://blog.joelonsdale.com/p/ep-148-joeben-bevirt-founder-and",
-      "date": "2026-04-03T13:55:11.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
