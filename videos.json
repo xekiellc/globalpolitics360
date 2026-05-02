@@ -1,24 +1,10 @@
 {
-  "lastUpdated": "2026-05-01T22:55:35.943Z",
+  "lastUpdated": "2026-05-02T03:28:34.190Z",
   "channelCount": 12,
-  "videoCount": 1,
+  "videoCount": 0,
   "archiveCount": 1,
-  "taggedCount": 32,
-  "latest": [
-    {
-      "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "fpC4sbawSzQ",
-      "show": "All-In Podcast",
-      "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
-      "url": "https://www.youtube.com/watch?v=fpC4sbawSzQ",
-      "date": "2026-05-01T22:08:15.000Z",
-      "image": "https://i3.ytimg.com/vi/fpC4sbawSzQ/hqdefault.jpg",
-      "desc": "(0:00) Bestie intros\n(3:05) OpenAI misses targets, Codex gains on Claude\n(20:02) AI cybersecurity: a market that's about to explode\n(31:03) Elon vs Sam Altman lawsuit\n(41:00) Big tech smashes earnings, Capex explosion\n(52:44) Vibecoding nightmare: AI deleted someone's codebase\n(58:33) Retatrutide cr",
-      "guestTags": [
-        "Elon Musk"
-      ]
-    }
-  ],
+  "taggedCount": 0,
+  "latest": [],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
