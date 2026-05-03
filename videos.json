@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T14:54:43.607Z",
+  "lastUpdated": "2026-05-03T16:58:52.330Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,41 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "d8f0G64kJ28",
-      "show": "Shawn Ryan Show",
-      "title": "What EVERY Woman Should Know by Age 40 🤯",
-      "url": "https://www.youtube.com/watch?v=d8f0G64kJ28",
-      "date": "2026-05-03T02:00:37.000Z",
-      "image": "https://i1.ytimg.com/vi/d8f0G64kJ28/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "FfC-A0Wdgug",
+      "show": "All-In Podcast",
+      "title": "“Rumination is the path to unhappiness.” - J Cal",
+      "url": "https://www.youtube.com/watch?v=FfC-A0Wdgug",
+      "date": "2026-05-03T15:15:02.000Z",
+      "image": "https://i3.ytimg.com/vi/FfC-A0Wdgug/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "d8f0G64kJ28",
-      "show": "Shawn Ryan Show",
-      "title": "What EVERY Woman Should Know by Age 40 🤯",
-      "url": "https://www.youtube.com/watch?v=d8f0G64kJ28",
-      "date": "2026-05-03T02:00:37.000Z",
-      "image": "https://i1.ytimg.com/vi/d8f0G64kJ28/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "FfC-A0Wdgug",
+      "show": "All-In Podcast",
+      "title": "“Rumination is the path to unhappiness.” - J Cal",
+      "url": "https://www.youtube.com/watch?v=FfC-A0Wdgug",
+      "date": "2026-05-03T15:15:02.000Z",
+      "image": "https://i3.ytimg.com/vi/FfC-A0Wdgug/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
