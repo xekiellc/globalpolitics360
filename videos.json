@@ -1,20 +1,21 @@
 {
-  "lastUpdated": "2026-05-03T16:58:52.330Z",
+  "lastUpdated": "2026-05-03T19:09:05.409Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 33,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FfC-A0Wdgug",
+      "videoId": "jROZdAU0jV0",
       "show": "All-In Podcast",
-      "title": "“Rumination is the path to unhappiness.” - J Cal",
-      "url": "https://www.youtube.com/watch?v=FfC-A0Wdgug",
-      "date": "2026-05-03T15:15:02.000Z",
-      "image": "https://i3.ytimg.com/vi/FfC-A0Wdgug/hqdefault.jpg",
+      "title": "&quot;What the f*** is he doing!?&quot; - The Besties React to the Elon/Sam Altman Trial 😂",
+      "url": "https://www.youtube.com/watch?v=jROZdAU0jV0",
+      "date": "2026-05-03T19:00:37.000Z",
+      "image": "https://i3.ytimg.com/vi/jROZdAU0jV0/hqdefault.jpg",
       "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
       "guestTags": [
+        "Elon Musk",
         "Chamath",
         "David Sacks"
       ]
@@ -23,20 +24,24 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FfC-A0Wdgug",
+      "videoId": "jROZdAU0jV0",
       "show": "All-In Podcast",
-      "title": "“Rumination is the path to unhappiness.” - J Cal",
-      "url": "https://www.youtube.com/watch?v=FfC-A0Wdgug",
-      "date": "2026-05-03T15:15:02.000Z",
-      "image": "https://i3.ytimg.com/vi/FfC-A0Wdgug/hqdefault.jpg",
+      "title": "&quot;What the f*** is he doing!?&quot; - The Besties React to the Elon/Sam Altman Trial 😂",
+      "url": "https://www.youtube.com/watch?v=jROZdAU0jV0",
+      "date": "2026-05-03T19:00:37.000Z",
+      "image": "https://i3.ytimg.com/vi/jROZdAU0jV0/hqdefault.jpg",
       "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
       "guestTags": [
+        "Elon Musk",
         "Chamath",
         "David Sacks"
       ]
     }
   ],
   "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
     "Chamath": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ],
