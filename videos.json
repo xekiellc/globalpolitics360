@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T19:09:05.409Z",
+  "lastUpdated": "2026-05-03T20:53:44.589Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,46 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jROZdAU0jV0",
-      "show": "All-In Podcast",
-      "title": "&quot;What the f*** is he doing!?&quot; - The Besties React to the Elon/Sam Altman Trial 😂",
-      "url": "https://www.youtube.com/watch?v=jROZdAU0jV0",
-      "date": "2026-05-03T19:00:37.000Z",
-      "image": "https://i3.ytimg.com/vi/jROZdAU0jV0/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "j3oJCQagVaM",
+      "show": "Shawn Ryan Show",
+      "title": "DO NOT Scroll Past This Video ⚠️",
+      "url": "https://www.youtube.com/watch?v=j3oJCQagVaM",
+      "date": "2026-05-03T20:00:33.000Z",
+      "image": "https://i3.ytimg.com/vi/j3oJCQagVaM/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jROZdAU0jV0",
-      "show": "All-In Podcast",
-      "title": "&quot;What the f*** is he doing!?&quot; - The Besties React to the Elon/Sam Altman Trial 😂",
-      "url": "https://www.youtube.com/watch?v=jROZdAU0jV0",
-      "date": "2026-05-03T19:00:37.000Z",
-      "image": "https://i3.ytimg.com/vi/jROZdAU0jV0/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "j3oJCQagVaM",
+      "show": "Shawn Ryan Show",
+      "title": "DO NOT Scroll Past This Video ⚠️",
+      "url": "https://www.youtube.com/watch?v=j3oJCQagVaM",
+      "date": "2026-05-03T20:00:33.000Z",
+      "image": "https://i3.ytimg.com/vi/j3oJCQagVaM/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
