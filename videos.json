@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-05T21:08:59.014Z",
+  "lastUpdated": "2026-05-05T23:00:56.537Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 34,
+  "taggedCount": 35,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Y9zEOYZGVT8",
+      "videoId": "VXhY3YFDQKk",
       "show": "Shawn Ryan Show",
-      "title": "The Commander Spit on Them and Said Good Job 😳",
-      "url": "https://www.youtube.com/watch?v=Y9zEOYZGVT8",
-      "date": "2026-05-05T20:00:21.000Z",
-      "image": "https://i2.ytimg.com/vi/Y9zEOYZGVT8/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "title": "The Unsolved Drone Mystery at Barksdale Nuclear Base",
+      "url": "https://www.youtube.com/watch?v=VXhY3YFDQKk",
+      "date": "2026-05-05T22:00:41.000Z",
+      "image": "https://i3.ytimg.com/vi/VXhY3YFDQKk/hqdefault.jpg",
+      "desc": "Joe Lonsdale joins Shawn Ryan to confront two of the most urgent national security questions facing America today. They break down the mysterious drone swarms that buzzed Barksdale Air Force Base for a full week, and whether the incident at America's nuclear B-52 base was a foreign adversary probing",
+      "guestTags": [
+        "Joe Lonsdale"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Y9zEOYZGVT8",
+      "videoId": "VXhY3YFDQKk",
       "show": "Shawn Ryan Show",
-      "title": "The Commander Spit on Them and Said Good Job 😳",
-      "url": "https://www.youtube.com/watch?v=Y9zEOYZGVT8",
-      "date": "2026-05-05T20:00:21.000Z",
-      "image": "https://i2.ytimg.com/vi/Y9zEOYZGVT8/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "title": "The Unsolved Drone Mystery at Barksdale Nuclear Base",
+      "url": "https://www.youtube.com/watch?v=VXhY3YFDQKk",
+      "date": "2026-05-05T22:00:41.000Z",
+      "image": "https://i3.ytimg.com/vi/VXhY3YFDQKk/hqdefault.jpg",
+      "desc": "Joe Lonsdale joins Shawn Ryan to confront two of the most urgent national security questions facing America today. They break down the mysterious drone swarms that buzzed Barksdale Air Force Base for a full week, and whether the incident at America's nuclear B-52 base was a foreign adversary probing",
+      "guestTags": [
+        "Joe Lonsdale"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Joe Lonsdale": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
