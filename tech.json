@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-05-05T17:43:15.829Z",
+  "lastUpdated": "2026-05-05T19:43:39.270Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "System Integration as Software",
+      "url": "https://www.a16z.news/p/system-integration-as-software",
+      "date": "2026-05-05T18:40:47.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/10b210ff-aed2-4bde-8026-0f26b6aea75e_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Investing in Tessera Labs",
       "url": "https://www.a16z.news/p/investing-in-tessera-labs",
@@ -331,15 +340,6 @@
       "url": "https://www.a16z.news/p/frontier-systems-for-the-physical",
       "date": "2026-04-15T14:01:35.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/260a21d4-ce67-4ac4-a66f-7c840abd4cd3_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "The Evidence Gap: Why Courts Can't Balance State AI Regulation",
-      "url": "https://www.a16z.news/p/the-evidence-gap-why-courts-cant",
-      "date": "2026-04-14T14:02:28.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/cc6ab148-7d62-447a-8d2a-c44de9a91e60_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"

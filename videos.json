@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-05T17:43:21.287Z",
+  "lastUpdated": "2026-05-05T19:43:50.512Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 34,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "I8UskfcJLLE",
+      "videoId": "H9pyRu0QCKw",
       "show": "Shawn Ryan Show",
-      "title": "The Government's Secret Weapon 😳",
-      "url": "https://www.youtube.com/watch?v=I8UskfcJLLE",
-      "date": "2026-05-05T16:30:07.000Z",
-      "image": "https://i2.ytimg.com/vi/I8UskfcJLLE/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "title": "This is No Longer Science Fiction... | Official Preview",
+      "url": "https://www.youtube.com/watch?v=H9pyRu0QCKw",
+      "date": "2026-05-05T19:00:13.000Z",
+      "image": "https://i1.ytimg.com/vi/H9pyRu0QCKw/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nJoe Lonsdale returns to the Shawn Ryan Show for a wide-ranging conversation on Christian persecution in Nigeria, his investment in African defense technology through Tera Industries, and the larg",
+      "guestTags": [
+        "Joe Lonsdale"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "I8UskfcJLLE",
+      "videoId": "H9pyRu0QCKw",
       "show": "Shawn Ryan Show",
-      "title": "The Government's Secret Weapon 😳",
-      "url": "https://www.youtube.com/watch?v=I8UskfcJLLE",
-      "date": "2026-05-05T16:30:07.000Z",
-      "image": "https://i2.ytimg.com/vi/I8UskfcJLLE/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "title": "This is No Longer Science Fiction... | Official Preview",
+      "url": "https://www.youtube.com/watch?v=H9pyRu0QCKw",
+      "date": "2026-05-05T19:00:13.000Z",
+      "image": "https://i1.ytimg.com/vi/H9pyRu0QCKw/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nJoe Lonsdale returns to the Shawn Ryan Show for a wide-ranging conversation on Christian persecution in Nigeria, his investment in African defense technology through Tera Industries, and the larg",
+      "guestTags": [
+        "Joe Lonsdale"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Joe Lonsdale": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
