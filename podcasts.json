@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-05-05T10:08:18.426Z",
+  "lastUpdated": "2026-05-05T14:32:44.605Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1603,
+  "taggedCount": 1604,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "America’s Political Violence Problem, Spencer Pratt’s Surge, and the Joe Rogan Backlash",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/171e6c6f-4a07-463b-b0e2-dfdf919b79a7/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=171e6c6f-4a07-463b-b0e2-dfdf919b79a7&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-05-05T11:00:00.000Z",
+      "duration": "01:02:56",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky breaks with the norm to host a solo edition of “After Party.” She opens with a look at new evidence about America’s spiral into populist violence and points to recent commentary from Hasan Piker and Charlamagne tha God. She draws on Professor Robert Pape’s findings and how political violence increasingly is not driven by fringe outsiders. Then Emily dives into the L.A. Mayor’s race",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Kill Tony",
@@ -52,20 +66,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Paul Conti, MD, is a board-certified psychiatrist and an expert in how to improve mental health and increase your sense of agency and wellbeing. He is also an expert in trauma treatment. We discuss practical tools you can use to gain insight into your natural strengths and to make better life choices on your own behalf. We explore how these tools can help overcome low motivation, intrusive tho",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E271_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze",
-      "date": "2026-05-01T21:37:00.000Z",
-      "duration": "01:20:58",
-      "image": "https://static.libsyn.com/p/assets/b/1/8/6/b1862c7e177b0d2a16c3140a3186d450/1_Pod_E271.png",
-      "desc": "(0:00) Bestie intros (3:05) OpenAI misses targets, Codex gains on Claude (20:02) AI cybersecurity: a market that's about to explode (31:03) Elon vs Sam Altman lawsuit (41:00) Big tech smashes earnings, Capex explosion (52:44) Vibecoding nightmare: AI deleted someone's codebase (58:33) Retatrutide craze: peptides go mainstream (1:06:34) Friedberg's Supreme Court experience Apply for Summit 2026: ht",
-      "guestTags": [
-        "Elon Musk"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -106,6 +106,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "America’s Political Violence Problem, Spencer Pratt’s Surge, and the Joe Rogan Backlash",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/171e6c6f-4a07-463b-b0e2-dfdf919b79a7/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=171e6c6f-4a07-463b-b0e2-dfdf919b79a7&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-05-05T11:00:00.000Z",
+      "duration": "01:02:56",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky breaks with the norm to host a solo edition of “After Party.” She opens with a look at new evidence about America’s spiral into populist violence and points to recent commentary from Hasan Piker and Charlamagne tha God. She draws on Professor Robert Pape’s findings and how political violence increasingly is not driven by fringe outsiders. Then Emily dives into the L.A. Mayor’s race",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Kill Tony",
       "title": "#766 - SAM TALLENT",
@@ -154,20 +168,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E271_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze",
-      "date": "2026-05-01T21:37:00.000Z",
-      "duration": "01:20:58",
-      "image": "https://static.libsyn.com/p/assets/b/1/8/6/b1862c7e177b0d2a16c3140a3186d450/1_Pod_E271.png",
-      "desc": "(0:00) Bestie intros (3:05) OpenAI misses targets, Codex gains on Claude (20:02) AI cybersecurity: a market that's about to explode (31:03) Elon vs Sam Altman lawsuit (41:00) Big tech smashes earnings, Capex explosion (52:44) Vibecoding nightmare: AI deleted someone's codebase (58:33) Retatrutide craze: peptides go mainstream (1:06:34) Friedberg's Supreme Court experience Apply for Summit 2026: ht",
-      "guestTags": [
-        "Elon Musk"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "The bin Laden Family Is More Dangerous Than You Think",
@@ -205,7 +205,7 @@
     }
   ],
   "guestIndex": {
-    "Elon Musk": [
+    "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }

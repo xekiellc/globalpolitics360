@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T10:08:18.858Z",
+  "lastUpdated": "2026-05-05T14:32:45.003Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "1upKa86_uKU",
-      "show": "Kill Tony",
-      "title": "KT #766 - SAM TALLENT",
-      "url": "https://www.youtube.com/watch?v=1upKa86_uKU",
-      "date": "2026-05-05T01:00:06.000Z",
-      "image": "https://i2.ytimg.com/vi/1upKa86_uKU/hqdefault.jpg",
-      "desc": "Sam Tallent, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 04/06/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)\n\nBRIAN REDBAN",
-      "guestTags": []
+      "videoId": "nQIUSfr72cE",
+      "show": "TRIGGERnometry",
+      "title": "Andrew Wilson On Women’s Vote",
+      "url": "https://www.youtube.com/watch?v=nQIUSfr72cE",
+      "date": "2026-05-05T11:25:11.000Z",
+      "image": "https://i3.ytimg.com/vi/nQIUSfr72cE/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "1upKa86_uKU",
-      "show": "Kill Tony",
-      "title": "KT #766 - SAM TALLENT",
-      "url": "https://www.youtube.com/watch?v=1upKa86_uKU",
-      "date": "2026-05-05T01:00:06.000Z",
-      "image": "https://i2.ytimg.com/vi/1upKa86_uKU/hqdefault.jpg",
-      "desc": "Sam Tallent, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 04/06/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)\n\nBRIAN REDBAN",
-      "guestTags": []
+      "videoId": "nQIUSfr72cE",
+      "show": "TRIGGERnometry",
+      "title": "Andrew Wilson On Women’s Vote",
+      "url": "https://www.youtube.com/watch?v=nQIUSfr72cE",
+      "date": "2026-05-05T11:25:11.000Z",
+      "image": "https://i3.ytimg.com/vi/nQIUSfr72cE/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
