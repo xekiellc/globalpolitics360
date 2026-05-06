@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-06T21:16:53.617Z",
+  "lastUpdated": "2026-05-06T22:57:01.676Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1607,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3",
+      "listenUrl": "https://lexfridman.com/ffmpeg/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ffmpeg",
+      "date": "2026-05-06T22:06:47.000Z",
+      "duration": "4:23:41",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -79,18 +91,6 @@
       "duration": "12950",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Cenk Uygur is the CEO and founder of TYT (The Young Turks Network), host of The Young Turks — the first partner channel on YouTube — co-founder of the Justice Democrats, and bestselling author of Justice is Coming.\n\nUygur launched The Young Turks in 2002 as Sirius Satellite Radio's first original talk show, before uploading their first video to YouTube in 2005. What began as an independent voice i",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#495 – Vikings, Ragnar, Berserkers, Valhalla &#038; the Warriors of the Viking Age",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
-      "listenUrl": "https://lexfridman.com/lars-brownworth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lars-brownworth",
-      "date": "2026-04-09T17:43:17.000Z",
-      "duration": "2:09:56",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/lars-brownworth-transcript\nCONTACT LEX:\n",
       "guestTags": []
     },
     {
@@ -108,6 +108,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3",
+      "listenUrl": "https://lexfridman.com/ffmpeg/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ffmpeg",
+      "date": "2026-05-06T22:06:47.000Z",
+      "duration": "4:23:41",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "TRIGGERnometry",
       "title": "The Biological Reason Socialism Always Fails — Nicholas Wade",
@@ -181,18 +193,6 @@
       "duration": "12950",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Cenk Uygur is the CEO and founder of TYT (The Young Turks Network), host of The Young Turks — the first partner channel on YouTube — co-founder of the Justice Democrats, and bestselling author of Justice is Coming.\n\nUygur launched The Young Turks in 2002 as Sirius Satellite Radio's first original talk show, before uploading their first video to YouTube in 2005. What began as an independent voice i",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#495 – Vikings, Ragnar, Berserkers, Valhalla &#038; the Warriors of the Viking Age",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
-      "listenUrl": "https://lexfridman.com/lars-brownworth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lars-brownworth",
-      "date": "2026-04-09T17:43:17.000Z",
-      "duration": "2:09:56",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/lars-brownworth-transcript\nCONTACT LEX:\n",
       "guestTags": []
     },
     {
