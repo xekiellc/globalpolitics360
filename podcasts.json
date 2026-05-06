@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-05-05T23:00:56.094Z",
+  "lastUpdated": "2026-05-06T03:42:48.847Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1605,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Censorship is Coming",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/6a33a83a-bf43-4ae8-a3e1-b8a3be733068.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/6a33a83a-bf43-4ae8-a3e1-b8a3be733068.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-06T00:00:00.000Z",
+      "duration": "01:10:20",
+      "image": "https://content.production.cdn.art19.com/images/32/85/72/57/32857257-7d1d-4714-be67-3a9bce4a5e90/c509f89eeaaae49d32a49521b9d6653ebdbc441c35652cc3a8e534624705ce67a988ba1d1c02a5c53b702acf0dc0bb2b1259db66fec5081d33e2eb81cf7b5239.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Donald Trump downplaying the scope of the war with Iran, the supporters who are struggling to push propaganda such as Ben Shapiro and Merk Levin, and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for 20% off your first orderCowboy Col",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -56,18 +70,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#766 - SAM TALLENT",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU1089759904.mp3?updated=1777912590",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU1089759904.mp3?updated=1777912590",
-      "date": "2026-05-05T01:00:00.000Z",
-      "duration": "8155",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Sam Tallent, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, DMadness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White,Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 04/06/2026\n\n\n\nRight now, when you buy two months of BlueChew Gold, you get the third for FREE with promo code TONY. \n\n\n\nVisit https://bluechew.com for more details.\n\n\n\nVisit https://prizepicks.onelink.me/LM",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -108,6 +110,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Censorship is Coming",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/6a33a83a-bf43-4ae8-a3e1-b8a3be733068.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/6a33a83a-bf43-4ae8-a3e1-b8a3be733068.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-06T00:00:00.000Z",
+      "duration": "01:10:20",
+      "image": "https://content.production.cdn.art19.com/images/32/85/72/57/32857257-7d1d-4714-be67-3a9bce4a5e90/c509f89eeaaae49d32a49521b9d6653ebdbc441c35652cc3a8e534624705ce67a988ba1d1c02a5c53b702acf0dc0bb2b1259db66fec5081d33e2eb81cf7b5239.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Donald Trump downplaying the scope of the war with Iran, the supporters who are struggling to push propaganda such as Ben Shapiro and Merk Levin, and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for 20% off your first orderCowboy Col",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "Florida Killer Used ChatGPT to Plot His Crime",
@@ -160,18 +176,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#766 - SAM TALLENT",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU1089759904.mp3?updated=1777912590",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU1089759904.mp3?updated=1777912590",
-      "date": "2026-05-05T01:00:00.000Z",
-      "duration": "8155",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Sam Tallent, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, DMadness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White,Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 04/06/2026\n\n\n\nRight now, when you buy two months of BlueChew Gold, you get the third for FREE with promo code TONY. \n\n\n\nVisit https://bluechew.com for more details.\n\n\n\nVisit https://prizepicks.onelink.me/LM",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#301 Cenk Uygur - The Foreign Influence Crisis",
@@ -209,6 +213,9 @@
     }
   ],
   "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Chamath": [
       "aHR0cHM6Ly90cmFmZmljLm1l"
     ],
