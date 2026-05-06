@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-05-06T14:29:25.260Z",
+  "lastUpdated": "2026-05-06T17:47:22.748Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Boltz Launches Non-Custodial USDC Swaps, Bridging Bitcoin Directly to Circle’s Regulated Dollar",
+      "url": "https://bitcoinmagazine.com/business/boltz-launches-non-custodial-usdc-swaps-bridging-bitcoin-directly-to-circles-regulated-dollar",
+      "date": "2026-05-06T17:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Gemini_Generated_Image_l4r3qal4r3qal4r3.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Investing in Ethos",
+      "url": "https://www.a16z.news/p/investing-in-ethos",
+      "date": "2026-05-06T15:03:12.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/eb749442-3554-4ba7-8841-beae3dc781c7_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "The \"AI Job Apocalypse\" Is a Complete Fantasy",
       "url": "https://www.a16z.news/p/the-ai-job-apocalypse-is-a-complete",
@@ -124,15 +142,6 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-funded-satoshi-scholarship-opens",
       "date": "2026-05-04T19:42:45.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Funded-‘Satoshi-Scholarship-Opens-Lomond-School-Doors-to-Global-Students.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Strive&#8217;s (ASST) Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase",
-      "url": "https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000",
-      "date": "2026-05-04T16:47:52.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/strive.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -331,15 +340,6 @@
       "url": "https://www.a16z.news/p/prediction-markets-they-grow-up-so",
       "date": "2026-04-16T14:01:35.000Z",
       "image": "",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Ulysses",
-      "url": "https://www.a16z.news/p/investing-in-ulysses",
-      "date": "2026-04-16T14:01:25.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7e21cb8f-e6a6-41e6-96b6-6cc1174a2be9_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
