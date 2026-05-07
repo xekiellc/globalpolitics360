@@ -1,10 +1,38 @@
 {
-  "lastUpdated": "2026-05-07T14:30:33.618Z",
+  "lastUpdated": "2026-05-07T17:53:54.991Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1609,
+  "taggedCount": 1612,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2495 - Tim Burchett",
+      "audioUrl": "https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703",
+      "listenUrl": "https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703",
+      "date": "2026-05-07T17:00:00.000Z",
+      "duration": "9389",
+      "image": "https://megaphone.imgix.net/podcasts/8e7ce89a-49d5-11f1-87a7-fbdab5dea703/image/d76f46a926ed9bb5c5b0eb9189a90f40.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Tim Burchett represents Tennessee’s 2nd District and is a member of the Republican Party. Rep. Burchett is a member of the UAP Caucus, chairman of the DOGE Subcommittee, and serves on the House Committees on Oversight and Government Reform, Foreign Affairs, and Transportation and Infrastructure.www.uapcaucus.comwww.youtube.com/@congressmantimburchett2448https://burchett.house.gov\n\n\n\nPerplexity: Do",
+      "guestTags": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "5/7/26: Billionaire Says Tax The Rich Is A Slur, Epstein Alleged Final Note, Glenn Greenwald On ADL &amp; Animal Abuse",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/37c4a599-5e1b-4f80-9930-b44301050039/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/5-7-26-billionaire-says-tax-the-rich-is-a-slur-epstein-alleged-final-note-glenn-greenwald-on-adl-animal-abuse",
+      "date": "2026-05-07T15:56:07.000Z",
+      "duration": "3134",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss a billionaire says tax the rich is a slur, Epstein alleged final note, Glenn Greenwald on ADL &amp; animal abuse. &nbsp; Glenn Greenwald: https://greenwald.substack.com/ Gabriela's GoFundMe: https://www.gofundme.com/f/support-gabriela-saldanas-legal-representation&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 ho",
+      "guestTags": [
+        "Glenn Greenwald"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -33,18 +61,6 @@
         "Alex Karp",
         "Joe Lonsdale"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM9347675622.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-compulsive-behaviors-deep-brain-stimulation-casey-halpern",
-      "date": "2026-05-07T08:00:00.000Z",
-      "duration": "2286",
-      "image": "https://megaphone.imgix.net/podcasts/46facd70-496c-11f1-be87-afc03e1435f1/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Casey Halpern, MD, a professor of neurosurgery at the Perelman School of Medicine at the University of Pennsylvania. We discuss how deep brain stimulation and other neuromodulation approaches are being used to treat Parkinson's disease, obsessive-compulsive disorder (OCD), binge eating disorder and depression-related symptoms. We also explor",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -82,18 +98,6 @@
       "duration": "1754",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Today's episode breaks down how online networks systematically identify and target vulnerable children, and what parents need to know to recognize and stop it before it starts.\n\nPocket Hose: Text WATCH to 64000 for your 2 free gifts with the purchase of any Pocket Hose Ballistic hose. By Texting 64000, you agree to receive recurring automated marketing messages from Pocket Hose. Message frequency ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "5/6/26: Shark Tank Host Faces Data Center Backlash, Nick Shirley Visists Cuba, Trump Attacks Disloyal MAGA, 2026 Dire Job Market",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/0cd3d354-2424-4ab3-8cd4-b4420103b587/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/5-6-26-shark-tank-host-faces-data-center-backlash-nick-shirley-visists-cuba-trump-attacks-disloyal-maga-2026-dire-job-market",
-      "date": "2026-05-06T15:53:14.000Z",
-      "duration": "4361",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Shark Tank host faces data center revolt, Nick Shirley says he was almost kidnapped in Cuba, Trump spends millions targeting disloyal MAGA, viral 2026 grad exposes dire job market. &nbsp; Amed Khan: https://amedkhan.org/amed &nbsp; Rohit Chopra: https://x.com/ChopraUSA &nbsp; Timmy McAllister: https://www.youtube.com/@TimmyMcAllister&nbsp; &nbsp; To become a Breaking Points ",
       "guestTags": []
     },
     {
@@ -111,6 +115,34 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2495 - Tim Burchett",
+      "audioUrl": "https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703",
+      "listenUrl": "https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703",
+      "date": "2026-05-07T17:00:00.000Z",
+      "duration": "9389",
+      "image": "https://megaphone.imgix.net/podcasts/8e7ce89a-49d5-11f1-87a7-fbdab5dea703/image/d76f46a926ed9bb5c5b0eb9189a90f40.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Tim Burchett represents Tennessee’s 2nd District and is a member of the Republican Party. Rep. Burchett is a member of the UAP Caucus, chairman of the DOGE Subcommittee, and serves on the House Committees on Oversight and Government Reform, Foreign Affairs, and Transportation and Infrastructure.www.uapcaucus.comwww.youtube.com/@congressmantimburchett2448https://burchett.house.gov\n\n\n\nPerplexity: Do",
+      "guestTags": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "5/7/26: Billionaire Says Tax The Rich Is A Slur, Epstein Alleged Final Note, Glenn Greenwald On ADL &amp; Animal Abuse",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/37c4a599-5e1b-4f80-9930-b44301050039/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/5-7-26-billionaire-says-tax-the-rich-is-a-slur-epstein-alleged-final-note-glenn-greenwald-on-adl-animal-abuse",
+      "date": "2026-05-07T15:56:07.000Z",
+      "duration": "3134",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss a billionaire says tax the rich is a slur, Epstein alleged final note, Glenn Greenwald on ADL &amp; animal abuse. &nbsp; Glenn Greenwald: https://greenwald.substack.com/ Gabriela's GoFundMe: https://www.gofundme.com/f/support-gabriela-saldanas-legal-representation&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 ho",
+      "guestTags": [
+        "Glenn Greenwald"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Walz’s Odd China Connection, Legacy Media’s Demise, Fraud Across America, with Liz Collin and Luke Rosiak, PLUS Spencer Pratt Owns Opponents",
@@ -138,18 +170,6 @@
         "Alex Karp",
         "Joe Lonsdale"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM9347675622.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-compulsive-behaviors-deep-brain-stimulation-casey-halpern",
-      "date": "2026-05-07T08:00:00.000Z",
-      "duration": "2286",
-      "image": "https://megaphone.imgix.net/podcasts/46facd70-496c-11f1-be87-afc03e1435f1/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Casey Halpern, MD, a professor of neurosurgery at the Perelman School of Medicine at the University of Pennsylvania. We discuss how deep brain stimulation and other neuromodulation approaches are being used to treat Parkinson's disease, obsessive-compulsive disorder (OCD), binge eating disorder and depression-related symptoms. We also explor",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -190,18 +210,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "5/6/26: Shark Tank Host Faces Data Center Backlash, Nick Shirley Visists Cuba, Trump Attacks Disloyal MAGA, 2026 Dire Job Market",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/0cd3d354-2424-4ab3-8cd4-b4420103b587/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/5-6-26-shark-tank-host-faces-data-center-backlash-nick-shirley-visists-cuba-trump-attacks-disloyal-maga-2026-dire-job-market",
-      "date": "2026-05-06T15:53:14.000Z",
-      "duration": "4361",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Shark Tank host faces data center revolt, Nick Shirley says he was almost kidnapped in Cuba, Trump spends millions targeting disloyal MAGA, viral 2026 grad exposes dire job market. &nbsp; Amed Khan: https://amedkhan.org/amed &nbsp; Rohit Chopra: https://x.com/ChopraUSA &nbsp; Timmy McAllister: https://www.youtube.com/@TimmyMcAllister&nbsp; &nbsp; To become a Breaking Points ",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
       "show": "Danny Jones Podcast",
       "title": "Ep.14 - #1 Whisky of 2022 Part 2 of 2",
@@ -215,6 +223,12 @@
     }
   ],
   "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly90cmFmZmljLm1l"
+    ],
+    "Glenn Greenwald": [
+      "aHR0cHM6Ly9wb2R0cmFjLmNv"
+    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],

@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-05-07T14:30:34.591Z",
+  "lastUpdated": "2026-05-07T17:53:56.007Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 35,
+  "taggedCount": 36,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "tjTrkDIS8fg",
-      "show": "Theo Von",
-      "title": "Why Do We Keep Going to the Moon?",
-      "url": "https://www.youtube.com/watch?v=tjTrkDIS8fg",
-      "date": "2026-05-07T14:01:34.000Z",
-      "image": "https://i1.ytimg.com/vi/tjTrkDIS8fg/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #655 | Sal Vulcano\nFull Episode: https://www.youtube.com/watch?v=5ZfM0LmnhCo\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastwe",
-      "guestTags": []
+      "videoId": "iyv9u1iy-c8",
+      "show": "Shawn Ryan Show",
+      "title": "Joe Lonsdale - If China Takes Taiwan, AI Sets Back 10 Years | SRS #302",
+      "url": "https://www.youtube.com/watch?v=iyv9u1iy-c8",
+      "date": "2026-05-07T17:30:13.000Z",
+      "image": "https://i2.ytimg.com/vi/iyv9u1iy-c8/hqdefault.jpg",
+      "desc": "Joe Lonsdale is a technology entrepreneur and venture capitalist known for his work at the intersection of innovation and public policy. He is a co-founder of Palantir Technologies, a data analytics platform used by governments, defense agencies, and large enterprises. His work there focused on appl",
+      "guestTags": [
+        "Alex Karp",
+        "Joe Lonsdale"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "tjTrkDIS8fg",
-      "show": "Theo Von",
-      "title": "Why Do We Keep Going to the Moon?",
-      "url": "https://www.youtube.com/watch?v=tjTrkDIS8fg",
-      "date": "2026-05-07T14:01:34.000Z",
-      "image": "https://i1.ytimg.com/vi/tjTrkDIS8fg/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #655 | Sal Vulcano\nFull Episode: https://www.youtube.com/watch?v=5ZfM0LmnhCo\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastwe",
-      "guestTags": []
+      "videoId": "iyv9u1iy-c8",
+      "show": "Shawn Ryan Show",
+      "title": "Joe Lonsdale - If China Takes Taiwan, AI Sets Back 10 Years | SRS #302",
+      "url": "https://www.youtube.com/watch?v=iyv9u1iy-c8",
+      "date": "2026-05-07T17:30:13.000Z",
+      "image": "https://i2.ytimg.com/vi/iyv9u1iy-c8/hqdefault.jpg",
+      "desc": "Joe Lonsdale is a technology entrepreneur and venture capitalist known for his work at the intersection of innovation and public policy. He is a co-founder of Palantir Technologies, a data analytics platform used by governments, defense agencies, and large enterprises. His work there focused on appl",
+      "guestTags": [
+        "Alex Karp",
+        "Joe Lonsdale"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Alex Karp": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "Joe Lonsdale": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
