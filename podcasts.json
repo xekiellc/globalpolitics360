@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-07T06:43:31.450Z",
+  "lastUpdated": "2026-05-07T10:30:47.786Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1607,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM9347675622.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-compulsive-behaviors-deep-brain-stimulation-casey-halpern",
+      "date": "2026-05-07T08:00:00.000Z",
+      "duration": "2286",
+      "image": "https://megaphone.imgix.net/podcasts/46facd70-496c-11f1-be87-afc03e1435f1/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Casey Halpern, MD, a professor of neurosurgery at the Perelman School of Medicine at the University of Pennsylvania. We discuss how deep brain stimulation and other neuromodulation approaches are being used to treat Parkinson's disease, obsessive-compulsive disorder (OCD), binge eating disorder and depression-related symptoms. We also explor",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -41,18 +53,6 @@
       "duration": "1754",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Today's episode breaks down how online networks systematically identify and target vulnerable children, and what parents need to know to recognize and stop it before it starts.\n\nPocket Hose: Text WATCH to 64000 for your 2 free gifts with the purchase of any Pocket Hose Ballistic hose. By Texting 64000, you agree to receive recurring automated marketing messages from Pocket Hose. Message frequency ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #178 with Dan Hardy",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286",
-      "date": "2026-05-06T17:00:00.000Z",
-      "duration": "10355",
-      "image": "https://megaphone.imgix.net/podcasts/a49891a2-4902-11f1-ba85-fb40caef1595/image/f7dd029b6676e5d0bfc590c225c85340.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe sits down with Dan Hardy, a mixed martial artist, host of the “Full Reptile” podcast, and commentator for the Professional Fighters League.www.youtube.com/@DanHardyFRwww.pflmma.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nTry ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan\n\n\n\nGet Visible for just $20/mo for 1 year. Use code FRESHSTART. Swi",
       "guestTags": []
     },
     {
@@ -108,6 +108,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM9347675622.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-compulsive-behaviors-deep-brain-stimulation-casey-halpern",
+      "date": "2026-05-07T08:00:00.000Z",
+      "duration": "2286",
+      "image": "https://megaphone.imgix.net/podcasts/46facd70-496c-11f1-be87-afc03e1435f1/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Casey Halpern, MD, a professor of neurosurgery at the Perelman School of Medicine at the University of Pennsylvania. We discuss how deep brain stimulation and other neuromodulation approaches are being used to treat Parkinson's disease, obsessive-compulsive disorder (OCD), binge eating disorder and depression-related symptoms. We also explor",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "The State of the War",
@@ -143,18 +155,6 @@
       "duration": "1754",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Today's episode breaks down how online networks systematically identify and target vulnerable children, and what parents need to know to recognize and stop it before it starts.\n\nPocket Hose: Text WATCH to 64000 for your 2 free gifts with the purchase of any Pocket Hose Ballistic hose. By Texting 64000, you agree to receive recurring automated marketing messages from Pocket Hose. Message frequency ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #178 with Dan Hardy",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286",
-      "date": "2026-05-06T17:00:00.000Z",
-      "duration": "10355",
-      "image": "https://megaphone.imgix.net/podcasts/a49891a2-4902-11f1-ba85-fb40caef1595/image/f7dd029b6676e5d0bfc590c225c85340.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe sits down with Dan Hardy, a mixed martial artist, host of the “Full Reptile” podcast, and commentator for the Professional Fighters League.www.youtube.com/@DanHardyFRwww.pflmma.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nTry ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan\n\n\n\nGet Visible for just $20/mo for 1 year. Use code FRESHSTART. Swi",
       "guestTags": []
     },
     {
