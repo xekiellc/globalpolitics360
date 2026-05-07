@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-05-07T10:30:40.032Z",
+  "lastUpdated": "2026-05-07T14:30:29.199Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "How an AI Bill Becomes a Law",
+      "url": "https://www.a16z.news/p/how-an-ai-bill-becomes-a-law",
+      "date": "2026-05-07T14:00:51.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/152d3ac8-e5e5-4325-b02d-a2b1e69b6e35_1200x630.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation &#038; DMND Join Stratum v2 Working Group",
+      "url": "https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group",
+      "date": "2026-05-07T14:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/07/BM-TN.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Why eBay Should Ignore GameStop and Use Bitcoin to Save $1.2 Billion in Transaction Costs",
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/ebay-ignore-gamestop-bitcoin",
@@ -133,15 +151,6 @@
       "url": "https://bitcoinmagazine.com/news/bullish-strikes-4-2-billion-for-equiniti",
       "date": "2026-05-05T11:07:55.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Crypto-Exchange-Bullish-Strikes-4.2-Billion-Deal-for-Equiniti-to-Build-Tokenized-Securities-Infrastructure.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Price Reclaims $80,000 Amid Surging ETF Demand, Positive Iran News",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-breaks-80000",
-      "date": "2026-05-04T20:20:14.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Reclaims-80000-Amid-Surging-ETF-Demand-Positive-Iran-News-.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -334,15 +343,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Prediction Markets: They Grow Up So Fast",
-      "url": "https://www.a16z.news/p/prediction-markets-they-grow-up-so",
-      "date": "2026-04-16T14:01:35.000Z",
-      "image": "",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Weekly Dose of Optimism #188",
