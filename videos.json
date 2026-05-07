@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-07T03:42:15.889Z",
+  "lastUpdated": "2026-05-07T06:43:32.605Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 2,
+  "taggedCount": 15,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nepKKz-MzFM",
-      "show": "Lex Fridman",
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "date": "2026-05-06T22:03:16.000Z",
-      "image": "https://i3.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "desc": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sb\nSee below for",
-      "guestTags": []
+      "videoId": "Ovz0xA5Q_a8",
+      "show": "TRIGGERnometry",
+      "title": "The Biological Reason Socialism Always Fails — Nicholas Wade",
+      "url": "https://www.youtube.com/watch?v=Ovz0xA5Q_a8",
+      "date": "2026-05-06T18:00:31.000Z",
+      "image": "https://i4.ytimg.com/vi/Ovz0xA5Q_a8/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Shopify! Sign up for a $1 ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nepKKz-MzFM",
-      "show": "Lex Fridman",
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "date": "2026-05-06T22:03:16.000Z",
-      "image": "https://i3.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "desc": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sb\nSee below for",
-      "guestTags": []
+      "videoId": "Ovz0xA5Q_a8",
+      "show": "TRIGGERnometry",
+      "title": "The Biological Reason Socialism Always Fails — Nicholas Wade",
+      "url": "https://www.youtube.com/watch?v=Ovz0xA5Q_a8",
+      "date": "2026-05-06T18:00:31.000Z",
+      "image": "https://i4.ytimg.com/vi/Ovz0xA5Q_a8/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Shopify! Sign up for a $1 ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
