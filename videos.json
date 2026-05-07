@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T17:53:56.007Z",
+  "lastUpdated": "2026-05-07T19:48:58.702Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "iyv9u1iy-c8",
-      "show": "Shawn Ryan Show",
-      "title": "Joe Lonsdale - If China Takes Taiwan, AI Sets Back 10 Years | SRS #302",
-      "url": "https://www.youtube.com/watch?v=iyv9u1iy-c8",
-      "date": "2026-05-07T17:30:13.000Z",
-      "image": "https://i2.ytimg.com/vi/iyv9u1iy-c8/hqdefault.jpg",
-      "desc": "Joe Lonsdale is a technology entrepreneur and venture capitalist known for his work at the intersection of innovation and public policy. He is a co-founder of Palantir Technologies, a data analytics platform used by governments, defense agencies, and large enterprises. His work there focused on appl",
-      "guestTags": [
-        "Alex Karp",
-        "Joe Lonsdale"
-      ]
+      "videoId": "SLLCT-fYTTU",
+      "show": "The Free Press",
+      "title": "Bobby Lee | This Past Weekend w/ Theo Von #657",
+      "url": "https://www.youtube.com/watch?v=SLLCT-fYTTU",
+      "date": "2026-05-07T18:32:00.000Z",
+      "image": "https://i4.ytimg.com/vi/SLLCT-fYTTU/hqdefault.jpg",
+      "desc": "Bobby Lee is a stand-up comedian, actor and podcaster. Check out his shows “Tigerbelly” and “Bad Friends”. \n\nBobby returns to talk about what he saw recently in the jungles of Waikiki, a grievance he has regarding the Busboys movie poster, and a confusing Asian restaurant from Theo’s town growing up",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "iyv9u1iy-c8",
-      "show": "Shawn Ryan Show",
-      "title": "Joe Lonsdale - If China Takes Taiwan, AI Sets Back 10 Years | SRS #302",
-      "url": "https://www.youtube.com/watch?v=iyv9u1iy-c8",
-      "date": "2026-05-07T17:30:13.000Z",
-      "image": "https://i2.ytimg.com/vi/iyv9u1iy-c8/hqdefault.jpg",
-      "desc": "Joe Lonsdale is a technology entrepreneur and venture capitalist known for his work at the intersection of innovation and public policy. He is a co-founder of Palantir Technologies, a data analytics platform used by governments, defense agencies, and large enterprises. His work there focused on appl",
-      "guestTags": [
-        "Alex Karp",
-        "Joe Lonsdale"
-      ]
+      "videoId": "SLLCT-fYTTU",
+      "show": "The Free Press",
+      "title": "Bobby Lee | This Past Weekend w/ Theo Von #657",
+      "url": "https://www.youtube.com/watch?v=SLLCT-fYTTU",
+      "date": "2026-05-07T18:32:00.000Z",
+      "image": "https://i4.ytimg.com/vi/SLLCT-fYTTU/hqdefault.jpg",
+      "desc": "Bobby Lee is a stand-up comedian, actor and podcaster. Check out his shows “Tigerbelly” and “Bad Friends”. \n\nBobby returns to talk about what he saw recently in the jungles of Waikiki, a grievance he has regarding the Busboys movie poster, and a confusing Asian restaurant from Theo’s town growing up",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Alex Karp": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "Joe Lonsdale": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
