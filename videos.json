@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-07T19:48:58.702Z",
+  "lastUpdated": "2026-05-07T21:10:02.809Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 36,
+  "taggedCount": 37,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "SLLCT-fYTTU",
-      "show": "The Free Press",
-      "title": "Bobby Lee | This Past Weekend w/ Theo Von #657",
-      "url": "https://www.youtube.com/watch?v=SLLCT-fYTTU",
-      "date": "2026-05-07T18:32:00.000Z",
-      "image": "https://i4.ytimg.com/vi/SLLCT-fYTTU/hqdefault.jpg",
-      "desc": "Bobby Lee is a stand-up comedian, actor and podcaster. Check out his shows “Tigerbelly” and “Bad Friends”. \n\nBobby returns to talk about what he saw recently in the jungles of Waikiki, a grievance he has regarding the Busboys movie poster, and a confusing Asian restaurant from Theo’s town growing up",
-      "guestTags": []
+      "videoId": "8pSzBNLQa3s",
+      "show": "Shawn Ryan Show",
+      "title": "What Can Elon Musk Not Build? 🤯",
+      "url": "https://www.youtube.com/watch?v=8pSzBNLQa3s",
+      "date": "2026-05-07T20:00:11.000Z",
+      "image": "https://i1.ytimg.com/vi/8pSzBNLQa3s/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "SLLCT-fYTTU",
-      "show": "The Free Press",
-      "title": "Bobby Lee | This Past Weekend w/ Theo Von #657",
-      "url": "https://www.youtube.com/watch?v=SLLCT-fYTTU",
-      "date": "2026-05-07T18:32:00.000Z",
-      "image": "https://i4.ytimg.com/vi/SLLCT-fYTTU/hqdefault.jpg",
-      "desc": "Bobby Lee is a stand-up comedian, actor and podcaster. Check out his shows “Tigerbelly” and “Bad Friends”. \n\nBobby returns to talk about what he saw recently in the jungles of Waikiki, a grievance he has regarding the Busboys movie poster, and a confusing Asian restaurant from Theo’s town growing up",
-      "guestTags": []
+      "videoId": "8pSzBNLQa3s",
+      "show": "Shawn Ryan Show",
+      "title": "What Can Elon Musk Not Build? 🤯",
+      "url": "https://www.youtube.com/watch?v=8pSzBNLQa3s",
+      "date": "2026-05-07T20:00:11.000Z",
+      "image": "https://i1.ytimg.com/vi/8pSzBNLQa3s/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
