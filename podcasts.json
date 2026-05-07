@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-05-06T22:57:01.676Z",
+  "lastUpdated": "2026-05-07T03:42:14.017Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1607,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "The State of the War",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/261835bb-fac4-40d1-9f22-3cde5f50b0b8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/261835bb-fac4-40d1-9f22-3cde5f50b0b8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-07T00:00:00.000Z",
+      "duration": "01:01:43",
+      "image": "https://content.production.cdn.art19.com/images/d6/9d/58/d5/d69d58d5-0d0f-416d-8d4d-923afbda3440/88dba40657b27dcbb953cc8dd38a65a10bc890e8716565ca4241681f0f1f9c6eaaa3676ed8ba68b63115f200cf45ee6d286ce50e812bbab3586df315107b6a2f.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss the changes in the conflict with Iran, the press conference where Pete Hegseth and Marco Rubio discussed recent developments, and more.Support Our Sponsors:CrowdHealth - https://www.joincrowdhealth.com/promos/potpCove Pure - Right now, you can get $250 off your Cove Pu",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
@@ -28,20 +42,6 @@
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Today's episode breaks down how online networks systematically identify and target vulnerable children, and what parents need to know to recognize and stop it before it starts.\n\nPocket Hose: Text WATCH to 64000 for your 2 free gifts with the purchase of any Pocket Hose Ballistic hose. By Texting 64000, you agree to receive recurring automated marketing messages from Pocket Hose. Message frequency ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "TRIGGERnometry",
-      "title": "The Biological Reason Socialism Always Fails — Nicholas Wade",
-      "audioUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT5832949179.mp3",
-      "listenUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT5832949179.mp3",
-      "date": "2026-05-06T18:00:00.000Z",
-      "duration": "4423",
-      "image": "https://megaphone.imgix.net/podcasts/67f99588-493f-11f1-9770-df8c063e3e9e/image/30620f271ccd2c6beab34c3ba5cdc5c8.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully\ninformed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n\n\n- Shopify! Sign up for a $1 per month trial at \n\nhttps://www.shopify.co.uk/trigger/ \n\n\n\n- Füm: Head to  https://www.tryfum.com",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -108,6 +108,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "The State of the War",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/261835bb-fac4-40d1-9f22-3cde5f50b0b8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/261835bb-fac4-40d1-9f22-3cde5f50b0b8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-07T00:00:00.000Z",
+      "duration": "01:01:43",
+      "image": "https://content.production.cdn.art19.com/images/d6/9d/58/d5/d69d58d5-0d0f-416d-8d4d-923afbda3440/88dba40657b27dcbb953cc8dd38a65a10bc890e8716565ca4241681f0f1f9c6eaaa3676ed8ba68b63115f200cf45ee6d286ce50e812bbab3586df315107b6a2f.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss the changes in the conflict with Iran, the press conference where Pete Hegseth and Marco Rubio discussed recent developments, and more.Support Our Sponsors:CrowdHealth - https://www.joincrowdhealth.com/promos/potpCove Pure - Right now, you can get $250 off your Cove Pu",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
       "title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
@@ -118,20 +132,6 @@
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "TRIGGERnometry",
-      "title": "The Biological Reason Socialism Always Fails — Nicholas Wade",
-      "audioUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT5832949179.mp3",
-      "listenUrl": "https://pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/traffic.megaphone.fm/AALT5832949179.mp3",
-      "date": "2026-05-06T18:00:00.000Z",
-      "duration": "4423",
-      "image": "https://megaphone.imgix.net/podcasts/67f99588-493f-11f1-9770-df8c063e3e9e/image/30620f271ccd2c6beab34c3ba5cdc5c8.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully\ninformed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n\n\n- Shopify! Sign up for a $1 per month trial at \n\nhttps://www.shopify.co.uk/trigger/ \n\n\n\n- Füm: Head to  https://www.tryfum.com",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -209,7 +209,7 @@
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
+    "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Emily Jashinsky": [
