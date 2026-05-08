@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T11:27:59.554Z",
+  "lastUpdated": "2026-05-08T14:04:24.976Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pvqDj8Nvxvk",
-      "show": "TRIGGERnometry",
-      "title": "They Never Admit This",
-      "url": "https://www.youtube.com/watch?v=pvqDj8Nvxvk",
-      "date": "2026-05-08T09:03:09.000Z",
-      "image": "https://i1.ytimg.com/vi/pvqDj8Nvxvk/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "sB09deKQts4",
+      "show": "The Free Press",
+      "title": "lid check",
+      "url": "https://www.youtube.com/watch?v=sB09deKQts4",
+      "date": "2026-05-08T12:01:40.000Z",
+      "image": "https://i4.ytimg.com/vi/sB09deKQts4/hqdefault.jpg",
+      "desc": "#shorts #theovon #bobbylee",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pvqDj8Nvxvk",
-      "show": "TRIGGERnometry",
-      "title": "They Never Admit This",
-      "url": "https://www.youtube.com/watch?v=pvqDj8Nvxvk",
-      "date": "2026-05-08T09:03:09.000Z",
-      "image": "https://i1.ytimg.com/vi/pvqDj8Nvxvk/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "sB09deKQts4",
+      "show": "The Free Press",
+      "title": "lid check",
+      "url": "https://www.youtube.com/watch?v=sB09deKQts4",
+      "date": "2026-05-08T12:01:40.000Z",
+      "image": "https://i4.ytimg.com/vi/sB09deKQts4/hqdefault.jpg",
+      "desc": "#shorts #theovon #bobbylee",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

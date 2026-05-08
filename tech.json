@@ -1,12 +1,21 @@
 {
-  "lastUpdated": "2026-05-08T11:23:52.989Z",
+  "lastUpdated": "2026-05-08T14:04:18.620Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Weekly Dose of Optimism #192",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-192",
+      "date": "2026-05-08T12:56:57.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!-2zc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cc1300d-6cc5-435f-b04c-daed3a5f0c5f_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "How an AI Bill Becomes a Law",
       "url": "https://www.a16z.news/p/how-an-ai-bill-becomes-a-law",
       "date": "2026-05-07T14:00:51.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/152d3ac8-e5e5-4325-b02d-a2b1e69b6e35_1200x630.png",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/64d0d13c-2c7f-4bcd-a0e9-e5bab22994ec_1200x630.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 149: Will Fry on the Small Business Succession Crisis & New Opportunities in the AI Age",
-      "url": "https://blog.joelonsdale.com/p/ep-149-will-fry-on-the-small-business",
-      "date": "2026-04-09T19:21:47.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
