@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-05-08T09:45:06.169Z",
+  "lastUpdated": "2026-05-08T11:23:16.855Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "A Brief Example of the Problem With Wikipedia and LLMs",
+      "url": "https://www.silentlunch.net/p/a-brief-example-of-the-problem-with",
+      "date": "2026-05-08T10:10:59.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!hnPE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e5a21f1-2f2e-466d-b697-45219c2d423b_1676x1114.png",
+      "source": "David Zweig / Silent Lunch",
+      "teaser": "Investigation reveals potential widespread media misquoting of Hamas spokesperson's statement.",
+      "id": "aHR0cHM6Ly93d3cuc2lsZW50"
+    },
+    {
+      "title": "Would You Travel to Korea for a New Face? Ben Kawaller Did.",
+      "url": "https://www.thefp.com/p/would-you-travel-to-korea-for-a-new",
+      "date": "2026-05-08T10:03:19.000Z",
+      "image": "",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "TGIF: Too Crazy and Not Crazy Enough",
+      "url": "https://www.thefp.com/p/tgif-too-crazy-and-not-crazy-enough",
+      "date": "2026-05-08T10:03:07.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!_ikj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0932924b-0745-483e-b22c-a8d2db011fd9_1024x683.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
     {
       "title": "The West Is on a Suicide Mission",
       "url": "https://www.thefp.com/p/the-west-is-on-a-suicide-mission",
@@ -244,24 +271,6 @@
       "source": "Consortium News",
       "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
       "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
-      "title": "I Go to Cornell. There Is No Reason to Fire Its President.",
-      "url": "https://www.thefp.com/p/i-go-to-cornell-there-is-no-reason-fire-president-michael-kotlikoff",
-      "date": "2026-05-06T02:29:26.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!hw5Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24a32441-fdf3-49cd-bd4a-0b21bccaac78_1272x1704.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "The War Isn’t Over, but Don’t Expect Trump to Say So",
-      "url": "https://www.thefp.com/p/the-war-isnt-over-but-dont-expect",
-      "date": "2026-05-06T01:06:11.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!pvNf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99fb0c0b-a341-4da6-98bc-409cefc1bfa4_1024x683.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
       "title": "Exclusive: Seattle Far-Left Activist Charged in Child Sex Abuse Case",
@@ -532,15 +541,6 @@
       "source": "Matt Taibbi / Racket News",
       "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
       "id": "aHR0cHM6Ly93d3cucmFja2V0"
-    },
-    {
-      "title": "Dems must heed Trump&#8217;s call for unity in the wake of frightening WHCD shooting: &#8216;Resolve our differences&#8217;",
-      "url": "https://nypost.com/2026/04/26/opinion/dems-must-heed-trumps-call-for-unity-in-the-wake-of-frightening-whcd-shooting-resolve-our-differences/",
-      "date": "2026-04-27T02:21:22.000Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F04%2Ffirst-lady-melania-trump-president-126413137_878a79-e1777254958296.jpg?quality%3D90%26strip%3Dall",
-      "source": "Miranda Devine / NY Post",
-      "teaser": "Miranda Devine criticizes Supreme Court Justice Jackson for applauding anti-ICE statements at Grammy Awards.",
-      "id": "aHR0cHM6Ly9ueXBvc3QuY29t"
     }
   ]
 }
