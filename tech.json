@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-05-08T14:04:18.620Z",
+  "lastUpdated": "2026-05-08T17:25:41.278Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Ep 153: Palantir CTO Shyam Sankar on Heretics, AI Weapons, and Rebuilding the Arsenal of Democracy",
+      "url": "https://blog.joelonsdale.com/p/ep-153-palantir-cto-shyam-sankar",
+      "date": "2026-05-08T16:08:37.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "Charts of the Week: It Was a Good Quarter for \"Other Income\"",
+      "url": "https://www.a16z.news/p/charts-of-the-week-it-was-a-good",
+      "date": "2026-05-08T14:03:13.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/bce6f850-a79b-4017-8d78-17566617a9f0_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Weekly Dose of Optimism #192",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-192",
@@ -15,7 +33,7 @@
       "title": "How an AI Bill Becomes a Law",
       "url": "https://www.a16z.news/p/how-an-ai-bill-becomes-a-law",
       "date": "2026-05-07T14:00:51.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/64d0d13c-2c7f-4bcd-a0e9-e5bab22994ec_1200x630.png",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7088ff36-ce9b-499c-a1e7-6baae9f9aad3_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
@@ -336,28 +354,10 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Charts of the Week: 'Is Tech Cheap, Now?'",
-      "url": "https://www.a16z.news/p/charts-of-the-week-is-tech-cheap",
-      "date": "2026-04-17T14:00:54.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5ca81b99-81cd-4395-a859-f1e0dbec4616_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #189",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-189",
       "date": "2026-04-17T12:48:26.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!yVhi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d89ede0-e5e4-4aaa-86df-93907f318fd6_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Weekly Dose of Optimism #188",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-188",
-      "date": "2026-04-10T12:32:59.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!DYnb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda9eb73c-d54f-45b7-8660-d56aa46888e9_1200x600.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
