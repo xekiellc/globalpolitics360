@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-05-08T21:09:18.888Z",
+  "lastUpdated": "2026-05-08T23:01:17.739Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 36,
+  "taggedCount": 35,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aJ2bdoeXX_Q",
-      "show": "Shawn Ryan Show",
-      "title": "What is China REALLY Doing in Cuba?! 🤯",
-      "url": "https://www.youtube.com/watch?v=aJ2bdoeXX_Q",
-      "date": "2026-05-08T20:00:01.000Z",
-      "image": "https://i2.ytimg.com/vi/aJ2bdoeXX_Q/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "10MdOvK-aG4",
+      "show": "All-In Podcast",
+      "title": "Elon’s Anthropic Deal, The Next AI Monopoly?, “FDA for AI” Panic, Trading the AI Boom",
+      "url": "https://www.youtube.com/watch?v=10MdOvK-aG4",
+      "date": "2026-05-08T22:46:01.000Z",
+      "image": "https://i2.ytimg.com/vi/10MdOvK-aG4/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros! Thoughts on the LA mayor election\n(4:38) SpaceX-Anthropic deal, Elon Web Services, SpaceX IPO valuation, Anthropic's insane growth trajectory\n(26:48) Is Anthropic the next great monopoly? Early signals or major overreaction?\n(35:21) &quot;FDA for AI&quot; freakout, how the Whit",
+      "guestTags": [
+        "Elon Musk",
+        "Edward Snowden"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aJ2bdoeXX_Q",
-      "show": "Shawn Ryan Show",
-      "title": "What is China REALLY Doing in Cuba?! 🤯",
-      "url": "https://www.youtube.com/watch?v=aJ2bdoeXX_Q",
-      "date": "2026-05-08T20:00:01.000Z",
-      "image": "https://i2.ytimg.com/vi/aJ2bdoeXX_Q/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "10MdOvK-aG4",
+      "show": "All-In Podcast",
+      "title": "Elon’s Anthropic Deal, The Next AI Monopoly?, “FDA for AI” Panic, Trading the AI Boom",
+      "url": "https://www.youtube.com/watch?v=10MdOvK-aG4",
+      "date": "2026-05-08T22:46:01.000Z",
+      "image": "https://i2.ytimg.com/vi/10MdOvK-aG4/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros! Thoughts on the LA mayor election\n(4:38) SpaceX-Anthropic deal, Elon Web Services, SpaceX IPO valuation, Anthropic's insane growth trajectory\n(26:48) Is Anthropic the next great monopoly? Early signals or major overreaction?\n(35:21) &quot;FDA for AI&quot; freakout, how the Whit",
+      "guestTags": [
+        "Elon Musk",
+        "Edward Snowden"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "Edward Snowden": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
