@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-08T06:02:50.915Z",
+  "lastUpdated": "2026-05-08T09:45:47.072Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 1,
+  "taggedCount": 36,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nepKKz-MzFM",
-      "show": "Lex Fridman",
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "date": "2026-05-06T22:03:16.000Z",
-      "image": "https://i3.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "desc": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sb\nSee below for",
-      "guestTags": []
+      "videoId": "pvqDj8Nvxvk",
+      "show": "TRIGGERnometry",
+      "title": "They Never Admit This",
+      "url": "https://www.youtube.com/watch?v=pvqDj8Nvxvk",
+      "date": "2026-05-08T09:03:09.000Z",
+      "image": "https://i1.ytimg.com/vi/pvqDj8Nvxvk/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nepKKz-MzFM",
-      "show": "Lex Fridman",
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "date": "2026-05-06T22:03:16.000Z",
-      "image": "https://i3.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "desc": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sb\nSee below for",
-      "guestTags": []
+      "videoId": "pvqDj8Nvxvk",
+      "show": "TRIGGERnometry",
+      "title": "They Never Admit This",
+      "url": "https://www.youtube.com/watch?v=pvqDj8Nvxvk",
+      "date": "2026-05-08T09:03:09.000Z",
+      "image": "https://i1.ytimg.com/vi/pvqDj8Nvxvk/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
