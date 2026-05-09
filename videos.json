@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T11:02:19.685Z",
+  "lastUpdated": "2026-05-09T13:39:05.908Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "lgOYdEzDhVI",
-      "show": "Shawn Ryan Show",
-      "title": "So… Who's Paying For All This? 😂",
-      "url": "https://www.youtube.com/watch?v=lgOYdEzDhVI",
-      "date": "2026-05-09T02:00:45.000Z",
-      "image": "https://i1.ytimg.com/vi/lgOYdEzDhVI/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "olE9Wj6NiL0",
+      "show": "TRIGGERnometry",
+      "title": "What Really Happened in Vietnam?",
+      "url": "https://www.youtube.com/watch?v=olE9Wj6NiL0",
+      "date": "2026-05-09T11:59:59.000Z",
+      "image": "https://i4.ytimg.com/vi/olE9Wj6NiL0/hqdefault.jpg",
+      "desc": "What really happened in Vietnam?\n\nAnd how did media narratives shape America’s understanding of the war?\n\nJoin us tonight for our episode with author Mark Moyar.\n\nDon't miss the full episode tonight, Saturday, May 9th, at 7PM UK | 2PM ET on YouTube, Facebook and X.\n\nTriggernometry is proudly indepen",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "lgOYdEzDhVI",
-      "show": "Shawn Ryan Show",
-      "title": "So… Who's Paying For All This? 😂",
-      "url": "https://www.youtube.com/watch?v=lgOYdEzDhVI",
-      "date": "2026-05-09T02:00:45.000Z",
-      "image": "https://i1.ytimg.com/vi/lgOYdEzDhVI/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "olE9Wj6NiL0",
+      "show": "TRIGGERnometry",
+      "title": "What Really Happened in Vietnam?",
+      "url": "https://www.youtube.com/watch?v=olE9Wj6NiL0",
+      "date": "2026-05-09T11:59:59.000Z",
+      "image": "https://i4.ytimg.com/vi/olE9Wj6NiL0/hqdefault.jpg",
+      "desc": "What really happened in Vietnam?\n\nAnd how did media narratives shape America’s understanding of the war?\n\nJoin us tonight for our episode with author Mark Moyar.\n\nDon't miss the full episode tonight, Saturday, May 9th, at 7PM UK | 2PM ET on YouTube, Facebook and X.\n\nTriggernometry is proudly indepen",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
