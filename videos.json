@@ -1,52 +1,34 @@
 {
-  "lastUpdated": "2026-05-10T17:02:23.219Z",
+  "lastUpdated": "2026-05-10T19:14:13.224Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 35,
+  "taggedCount": 34,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "1HnzISC6HrM",
-      "show": "All-In Podcast",
-      "title": "Elon was quietly building THIS BUSINESS all along...",
-      "url": "https://www.youtube.com/watch?v=1HnzISC6HrM",
-      "date": "2026-05-10T16:00:07.000Z",
-      "image": "https://i2.ytimg.com/vi/1HnzISC6HrM/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "HECvr7Mt-Vg",
+      "show": "Shawn Ryan Show",
+      "title": "God Saved Him Before He Did This... 😔",
+      "url": "https://www.youtube.com/watch?v=HECvr7Mt-Vg",
+      "date": "2026-05-10T18:00:15.000Z",
+      "image": "https://i1.ytimg.com/vi/HECvr7Mt-Vg/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "1HnzISC6HrM",
-      "show": "All-In Podcast",
-      "title": "Elon was quietly building THIS BUSINESS all along...",
-      "url": "https://www.youtube.com/watch?v=1HnzISC6HrM",
-      "date": "2026-05-10T16:00:07.000Z",
-      "image": "https://i2.ytimg.com/vi/1HnzISC6HrM/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "HECvr7Mt-Vg",
+      "show": "Shawn Ryan Show",
+      "title": "God Saved Him Before He Did This... 😔",
+      "url": "https://www.youtube.com/watch?v=HECvr7Mt-Vg",
+      "date": "2026-05-10T18:00:15.000Z",
+      "image": "https://i1.ytimg.com/vi/HECvr7Mt-Vg/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
