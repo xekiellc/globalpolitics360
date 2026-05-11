@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-05-11T04:02:51.559Z",
+  "lastUpdated": "2026-05-11T12:43:22.332Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aKDzF_fMMrc",
+      "videoId": "e89rVf4Pf0k",
       "show": "Huberman Lab",
-      "title": "Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern",
-      "url": "https://www.youtube.com/watch?v=aKDzF_fMMrc",
-      "date": "2026-05-07T12:00:01.000Z",
-      "image": "https://i2.ytimg.com/vi/aKDzF_fMMrc/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Casey Halpern, MD, a professor of neurosurgery at the Perelman School of Medicine at the University of Pennsylvania. We discuss how deep brain stimulation and other neuromodulation approaches are being used to treat Parkinson's disease, obsess",
+      "title": "Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita",
+      "url": "https://www.youtube.com/watch?v=e89rVf4Pf0k",
+      "date": "2026-05-11T12:01:11.000Z",
+      "image": "https://i2.ytimg.com/vi/e89rVf4Pf0k/hqdefault.jpg",
+      "desc": "Dr. Kentaro Fujita, PhD, is a professor of psychology at The Ohio State University and an expert in the science of self-control and motivation. We discuss the best tools for developing strong self-control: to do more of what you aspire to and cease doing things you would like to avoid. We discuss wh",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aKDzF_fMMrc",
+      "videoId": "e89rVf4Pf0k",
       "show": "Huberman Lab",
-      "title": "Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern",
-      "url": "https://www.youtube.com/watch?v=aKDzF_fMMrc",
-      "date": "2026-05-07T12:00:01.000Z",
-      "image": "https://i2.ytimg.com/vi/aKDzF_fMMrc/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Casey Halpern, MD, a professor of neurosurgery at the Perelman School of Medicine at the University of Pennsylvania. We discuss how deep brain stimulation and other neuromodulation approaches are being used to treat Parkinson's disease, obsess",
+      "title": "Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita",
+      "url": "https://www.youtube.com/watch?v=e89rVf4Pf0k",
+      "date": "2026-05-11T12:01:11.000Z",
+      "image": "https://i2.ytimg.com/vi/e89rVf4Pf0k/hqdefault.jpg",
+      "desc": "Dr. Kentaro Fujita, PhD, is a professor of psychology at The Ohio State University and an expert in the science of self-control and motivation. We discuss the best tools for developing strong self-control: to do more of what you aspire to and cease doing things you would like to avoid. We discuss wh",
       "guestTags": []
     }
   ],
