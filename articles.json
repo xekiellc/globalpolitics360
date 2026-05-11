@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-05-11T16:35:06.587Z",
+  "lastUpdated": "2026-05-11T19:55:51.907Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "NPR: Happy One-Parent Day!",
+      "url": "https://www.racket.news/p/npr-happy-one-parent-day",
+      "date": "2026-05-11T18:34:59.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!HfAn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59a9a943-e520-4f28-92e3-a68838c2d384_3192x2126.png",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "An Armed Robbery of the World&#8217;s Energy Supply",
+      "url": "https://consortiumnews.com/2026/05/11/an-armed-robbery-of-the-worlds-energy-supply/",
+      "date": "2026-05-11T17:53:42.000Z",
+      "image": "",
+      "source": "Consortium News",
+      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
+      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
+    },
     {
       "title": "Lobby Group Takes Journalists on Tours of Israel",
       "url": "https://consortiumnews.com/2026/05/11/lobby-group-takes-journalists-on-tours-of-israel/",
@@ -300,15 +318,6 @@
       "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
-      "title": "Among the Few Who Resist Hidden Persuasion",
-      "url": "https://consortiumnews.com/2026/05/07/among-the-few-who-resist-hidden-persuasion/",
-      "date": "2026-05-07T13:22:34.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
       "title": "Miranda Devine: Marco Rubio is a rock star in the Trump admin – and making himself a serious candidate for prez in 2028",
       "url": "https://nypost.com/2026/05/06/opinion/rubio-poised-to-become-potus-as-he-is-a-rock-star-for-the-trump-administration/",
       "date": "2026-05-07T02:46:54.000Z",
@@ -532,15 +541,6 @@
       "source": "Michael Tracey",
       "teaser": "Michael Tracey criticizes The Young Turks' commentary and understanding of Epstein case details.",
       "id": "aHR0cHM6Ly93d3cubXRyYWNl"
-    },
-    {
-      "title": "The Press Promotes Violence and Everyone Knows It",
-      "url": "https://www.racket.news/p/the-press-promotes-violence-and-everyone",
-      "date": "2026-04-27T21:34:01.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!SAiR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40a8cfae-212f-4c71-b09b-62a75dc894d0_2310x1734.png",
-      "source": "Matt Taibbi / Racket News",
-      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
-      "id": "aHR0cHM6Ly93d3cucmFja2V0"
     }
   ]
 }
