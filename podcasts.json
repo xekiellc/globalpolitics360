@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-11T21:23:57.464Z",
+  "lastUpdated": "2026-05-11T23:00:39.864Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1618,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Kill Tony",
+      "title": "#767 - LUIS J GOMEZ + ARI SHAFFIR + PEYTON RUDDY",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU9574984221.mp3?updated=1778522880",
+      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU9574984221.mp3?updated=1778522880",
+      "date": "2026-05-11T23:00:00.000Z",
+      "duration": "8174",
+      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Ari Shaffir, Luis J Gomez, Peyton Ruddy, Ari Matti, Dedrick Flynn,William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, JonDeas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe,Brian Redban - RECORDED– 04/20/2026\n\n\n\nSign up for your one-dollar-per-month trial today at https://shopify.com/killtony\n\n\n\nGet $80 off your first month with promo code SPACE80 at https://talkspace.com/to",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -54,20 +66,6 @@
       "image": "https://static.libsyn.com/p/assets/1/7/a/2/17a21271097a60eed959afa2a1bf1c87/1_Pod_Pratt.png",
       "desc": "(0:00) Spencer Pratt vs. the Machine (3:01) Inside the Palisades Fire: Drained Reservoirs, No Sirens & Watching His House Burn on His Phone (14:03) Why He's Running for Mayor: FireAid's $100M Scandal & the NGO Corruption Nobody Talks About (28:10) Karen Bass at 20% & the Real State of Los Angeles: Crime, Homelessness & a City in Free Fall (38:23) Spencer's Plan to Fix LA: Enforcing Laws, Auditing ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "#420 - New Epstein Hunting Ground, Shiny ALIENS &amp; Hantavirus | Julian Dorey",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8706406710.mp3?updated=1778336668",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8706406710.mp3?updated=1778336668",
-      "date": "2026-05-09T19:00:00.000Z",
-      "duration": "6054",
-      "image": "https://megaphone.imgix.net/podcasts/9b542884-4b52-11f1-96f1-f72dff116a3b/image/38352b904c407389fce2aff49aeeeb30.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF:\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJULIAN YT CHANNELS\n- SUBSCRIBE to Julian Dorey Clips YT: https://www.youtube.c",
-      "guestTags": [
-        "Julian Dorey"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -108,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Kill Tony",
+      "title": "#767 - LUIS J GOMEZ + ARI SHAFFIR + PEYTON RUDDY",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU9574984221.mp3?updated=1778522880",
+      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU9574984221.mp3?updated=1778522880",
+      "date": "2026-05-11T23:00:00.000Z",
+      "duration": "8174",
+      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Ari Shaffir, Luis J Gomez, Peyton Ruddy, Ari Matti, Dedrick Flynn,William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, JonDeas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe,Brian Redban - RECORDED– 04/20/2026\n\n\n\nSign up for your one-dollar-per-month trial today at https://shopify.com/killtony\n\n\n\nGet $80 off your first month with promo code SPACE80 at https://talkspace.com/to",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "5/11/26: Hantavirus Scares Erupt, AOC Vs MTG On Israel, Larry Wilkerson On Iran War",
@@ -156,20 +166,6 @@
       "image": "https://static.libsyn.com/p/assets/1/7/a/2/17a21271097a60eed959afa2a1bf1c87/1_Pod_Pratt.png",
       "desc": "(0:00) Spencer Pratt vs. the Machine (3:01) Inside the Palisades Fire: Drained Reservoirs, No Sirens & Watching His House Burn on His Phone (14:03) Why He's Running for Mayor: FireAid's $100M Scandal & the NGO Corruption Nobody Talks About (28:10) Karen Bass at 20% & the Real State of Los Angeles: Crime, Homelessness & a City in Free Fall (38:23) Spencer's Plan to Fix LA: Enforcing Laws, Auditing ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "#420 - New Epstein Hunting Ground, Shiny ALIENS &amp; Hantavirus | Julian Dorey",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8706406710.mp3?updated=1778336668",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8706406710.mp3?updated=1778336668",
-      "date": "2026-05-09T19:00:00.000Z",
-      "duration": "6054",
-      "image": "https://megaphone.imgix.net/podcasts/9b542884-4b52-11f1-96f1-f72dff116a3b/image/38352b904c407389fce2aff49aeeeb30.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF:\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJULIAN YT CHANNELS\n- SUBSCRIBE to Julian Dorey Clips YT: https://www.youtube.c",
-      "guestTags": [
-        "Julian Dorey"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -211,9 +207,6 @@
   "guestIndex": {
     "Elon Musk": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
-    ],
-    "Julian Dorey": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
   }
 }
