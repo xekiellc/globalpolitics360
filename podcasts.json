@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-12T18:04:41.920Z",
+  "lastUpdated": "2026-05-12T21:24:20.729Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1619,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Charles &amp; Chase Koch on How They Quietly Built a $150B Empire",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Koch_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
+      "date": "2026-05-12T21:03:00.000Z",
+      "duration": "01:35:27",
+      "image": "https://static.libsyn.com/p/assets/0/a/f/e/0afe1ed26eaee8a516c3140a3186d450/1_Koch_Pod.png",
+      "desc": "(0:00) David Friedberg welcomes Charles & Chase Koch (1:04) Koch Industries Overview: Scale, Business Lines & History (2:21) Building the Business: Early Days & Charles Koch Joins (1961) (11:31) Failures, Creative Destruction & Learning from Mistakes (19:22) Culture & Principle-Based Management (33:53) Georgia-Pacific Acquisition & Culture Transformation (56:17) Stand Together: Education Reform & ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -40,20 +52,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Saagar and Emily discuss Trump says ceasefire on life support, Trump desperate move to lower gas prices, Saagar breaks down UFO files.&nbsp; &nbsp; Derek Thompson: https://www.derekthompson.org/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Pratt Wrecks Opponents, Fauci’s Indictment Deadline, &amp; the End of Swipe Right Culture, with Dr. Drew",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/b485e164-a2bd-4d88-bb2a-10fd0e500d5b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=b485e164-a2bd-4d88-bb2a-10fd0e500d5b&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-05-12T11:00:00.000Z",
-      "duration": "01:04:04",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/e8f318b4-8b95-43d8-a374-fd6a125b9d85/3000x3000/ap_89_pip.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky opens the show with a must-see clip of Maryland Governor Wes Moore, a potential 2028 presidential candidate, facing tough questioning from Patrick Bet-David over transgender policies and Emily explains why this could be politically damaging. Then Emily is joined by Dr. Drew Pinsky, a board certified Internist, addiction specialist, Host of “Ask Dr. Drew,” and Co-Host of “The Adam &",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -110,6 +108,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Charles &amp; Chase Koch on How They Quietly Built a $150B Empire",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Koch_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
+      "date": "2026-05-12T21:03:00.000Z",
+      "duration": "01:35:27",
+      "image": "https://static.libsyn.com/p/assets/0/a/f/e/0afe1ed26eaee8a516c3140a3186d450/1_Koch_Pod.png",
+      "desc": "(0:00) David Friedberg welcomes Charles & Chase Koch (1:04) Koch Industries Overview: Scale, Business Lines & History (2:21) Building the Business: Early Days & Charles Koch Joins (1961) (11:31) Failures, Creative Destruction & Learning from Mistakes (19:22) Culture & Principle-Based Management (33:53) Georgia-Pacific Acquisition & Culture Transformation (56:17) Stand Together: Education Reform & ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2497 - Gad Saad",
@@ -144,20 +154,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Saagar and Emily discuss Trump says ceasefire on life support, Trump desperate move to lower gas prices, Saagar breaks down UFO files.&nbsp; &nbsp; Derek Thompson: https://www.derekthompson.org/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Pratt Wrecks Opponents, Fauci’s Indictment Deadline, &amp; the End of Swipe Right Culture, with Dr. Drew",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/b485e164-a2bd-4d88-bb2a-10fd0e500d5b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=b485e164-a2bd-4d88-bb2a-10fd0e500d5b&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-05-12T11:00:00.000Z",
-      "duration": "01:04:04",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/e8f318b4-8b95-43d8-a374-fd6a125b9d85/3000x3000/ap_89_pip.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky opens the show with a must-see clip of Maryland Governor Wes Moore, a potential 2028 presidential candidate, facing tough questioning from Patrick Bet-David over transgender policies and Emily explains why this could be politically damaging. Then Emily is joined by Dr. Drew Pinsky, a board certified Internist, addiction specialist, Host of “Ask Dr. Drew,” and Co-Host of “The Adam &",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -213,9 +209,6 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
