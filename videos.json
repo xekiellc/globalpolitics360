@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-05-13T14:48:13.273Z",
+  "lastUpdated": "2026-05-13T18:06:34.091Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 30,
+  "taggedCount": 29,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aQauSvjT448",
-      "show": "TRIGGERnometry",
-      "title": "Climate activist turned realist Lucy Biggers",
-      "url": "https://www.youtube.com/watch?v=aQauSvjT448",
-      "date": "2026-05-13T08:18:45.000Z",
-      "image": "https://i2.ytimg.com/vi/aQauSvjT448/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "s4fr09bJOWU",
+      "show": "Theo Von",
+      "title": "Doordash Veteran Asks Theo For Guidance",
+      "url": "https://www.youtube.com/watch?v=s4fr09bJOWU",
+      "date": "2026-05-13T17:13:36.000Z",
+      "image": "https://i4.ytimg.com/vi/s4fr09bJOWU/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #654 &quot;Something New&quot;\nFull Episode: https://youtu.be/CihTN2GQymc\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweeke",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aQauSvjT448",
-      "show": "TRIGGERnometry",
-      "title": "Climate activist turned realist Lucy Biggers",
-      "url": "https://www.youtube.com/watch?v=aQauSvjT448",
-      "date": "2026-05-13T08:18:45.000Z",
-      "image": "https://i2.ytimg.com/vi/aQauSvjT448/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "s4fr09bJOWU",
+      "show": "Theo Von",
+      "title": "Doordash Veteran Asks Theo For Guidance",
+      "url": "https://www.youtube.com/watch?v=s4fr09bJOWU",
+      "date": "2026-05-13T17:13:36.000Z",
+      "image": "https://i4.ytimg.com/vi/s4fr09bJOWU/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #654 &quot;Something New&quot;\nFull Episode: https://youtu.be/CihTN2GQymc\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweeke",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
