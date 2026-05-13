@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-13T06:52:53.988Z",
+  "lastUpdated": "2026-05-13T10:36:04.743Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ssPVKPLa-Ko",
-      "show": "Kill Tony",
-      "title": "KT #767 - ARI SHAFFIR - LUIS J GOMEZ - PEYTON RUDDY",
-      "url": "https://www.youtube.com/watch?v=ssPVKPLa-Ko",
-      "date": "2026-05-12T01:00:06.000Z",
-      "image": "https://i4.ytimg.com/vi/ssPVKPLa-Ko/hqdefault.jpg",
-      "desc": "Ari Shaffir, Luis J Gomez, Peyton Ruddy, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 04/20/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.CO",
-      "guestTags": []
+      "videoId": "aQauSvjT448",
+      "show": "TRIGGERnometry",
+      "title": "Climate activist turned realist Lucy Biggers",
+      "url": "https://www.youtube.com/watch?v=aQauSvjT448",
+      "date": "2026-05-13T08:18:45.000Z",
+      "image": "https://i2.ytimg.com/vi/aQauSvjT448/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ssPVKPLa-Ko",
-      "show": "Kill Tony",
-      "title": "KT #767 - ARI SHAFFIR - LUIS J GOMEZ - PEYTON RUDDY",
-      "url": "https://www.youtube.com/watch?v=ssPVKPLa-Ko",
-      "date": "2026-05-12T01:00:06.000Z",
-      "image": "https://i4.ytimg.com/vi/ssPVKPLa-Ko/hqdefault.jpg",
-      "desc": "Ari Shaffir, Luis J Gomez, Peyton Ruddy, Ari Matti, Dedrick Flynn, William Montgomery, Hans Kim, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 04/20/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.CO",
-      "guestTags": []
+      "videoId": "aQauSvjT448",
+      "show": "TRIGGERnometry",
+      "title": "Climate activist turned realist Lucy Biggers",
+      "url": "https://www.youtube.com/watch?v=aQauSvjT448",
+      "date": "2026-05-13T08:18:45.000Z",
+      "image": "https://i2.ytimg.com/vi/aQauSvjT448/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
