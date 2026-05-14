@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-14T06:50:12.757Z",
+  "lastUpdated": "2026-05-14T10:26:07.284Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 24,
+  "taggedCount": 27,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8K_h8zbfvfQ",
-      "show": "All-In Podcast",
-      "title": "Charles Koch: When People Lose Meaning, Societies Lose Freedom",
-      "url": "https://www.youtube.com/watch?v=8K_h8zbfvfQ",
-      "date": "2026-05-13T21:00:17.000Z",
-      "image": "https://i1.ytimg.com/vi/8K_h8zbfvfQ/hqdefault.jpg",
-      "desc": "Thanks to our partner http://Axon.ai for making this possible\n\nMost advertisers have never heard of the platform with an $11B annual run rate in ad spend.\n\nhttp://Axon.ai by AppLovin — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spe",
-      "guestTags": []
+      "videoId": "jvM4YxWpzEM",
+      "show": "TRIGGERnometry",
+      "title": "Utopia is not the standard. Reality is.",
+      "url": "https://www.youtube.com/watch?v=jvM4YxWpzEM",
+      "date": "2026-05-14T09:47:27.000Z",
+      "image": "https://i3.ytimg.com/vi/jvM4YxWpzEM/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8K_h8zbfvfQ",
-      "show": "All-In Podcast",
-      "title": "Charles Koch: When People Lose Meaning, Societies Lose Freedom",
-      "url": "https://www.youtube.com/watch?v=8K_h8zbfvfQ",
-      "date": "2026-05-13T21:00:17.000Z",
-      "image": "https://i1.ytimg.com/vi/8K_h8zbfvfQ/hqdefault.jpg",
-      "desc": "Thanks to our partner http://Axon.ai for making this possible\n\nMost advertisers have never heard of the platform with an $11B annual run rate in ad spend.\n\nhttp://Axon.ai by AppLovin — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spe",
-      "guestTags": []
+      "videoId": "jvM4YxWpzEM",
+      "show": "TRIGGERnometry",
+      "title": "Utopia is not the standard. Reality is.",
+      "url": "https://www.youtube.com/watch?v=jvM4YxWpzEM",
+      "date": "2026-05-14T09:47:27.000Z",
+      "image": "https://i3.ytimg.com/vi/jvM4YxWpzEM/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
