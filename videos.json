@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T10:26:07.284Z",
+  "lastUpdated": "2026-05-14T17:58:40.521Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jvM4YxWpzEM",
-      "show": "TRIGGERnometry",
-      "title": "Utopia is not the standard. Reality is.",
-      "url": "https://www.youtube.com/watch?v=jvM4YxWpzEM",
-      "date": "2026-05-14T09:47:27.000Z",
-      "image": "https://i3.ytimg.com/vi/jvM4YxWpzEM/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "xaWAdaUWdiE",
+      "show": "Shawn Ryan Show",
+      "title": "Chris Bayless - 30 Years Undercover Inside America's Most Violent Gangs | SRS #304",
+      "url": "https://www.youtube.com/watch?v=xaWAdaUWdiE",
+      "date": "2026-05-14T17:30:30.000Z",
+      "image": "https://i1.ytimg.com/vi/xaWAdaUWdiE/hqdefault.jpg",
+      "desc": "Chris Bayless is a former Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) Special Agent who spent more than three decades working some of the most dangerous undercover investigations in the United States. An original member of ATF’s Enhanced Undercover Program beginning in 2000, Bayless sp",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jvM4YxWpzEM",
-      "show": "TRIGGERnometry",
-      "title": "Utopia is not the standard. Reality is.",
-      "url": "https://www.youtube.com/watch?v=jvM4YxWpzEM",
-      "date": "2026-05-14T09:47:27.000Z",
-      "image": "https://i3.ytimg.com/vi/jvM4YxWpzEM/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "xaWAdaUWdiE",
+      "show": "Shawn Ryan Show",
+      "title": "Chris Bayless - 30 Years Undercover Inside America's Most Violent Gangs | SRS #304",
+      "url": "https://www.youtube.com/watch?v=xaWAdaUWdiE",
+      "date": "2026-05-14T17:30:30.000Z",
+      "image": "https://i1.ytimg.com/vi/xaWAdaUWdiE/hqdefault.jpg",
+      "desc": "Chris Bayless is a former Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) Special Agent who spent more than three decades working some of the most dangerous undercover investigations in the United States. An original member of ATF’s Enhanced Undercover Program beginning in 2000, Bayless sp",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
