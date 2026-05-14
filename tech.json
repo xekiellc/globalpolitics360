@@ -1,12 +1,30 @@
 {
-  "lastUpdated": "2026-05-14T10:25:59.241Z",
+  "lastUpdated": "2026-05-14T14:28:20.426Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "From “System of Record” to “System of Intelligence”",
+      "url": "https://www.a16z.news/p/from-system-of-record-to-system-of",
+      "date": "2026-05-14T14:03:09.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9f478e47-c31b-4739-85c0-e98a4b8ce2b0_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Ledger, Consensys Get Cold Feet as Crypto IPO Window Slams Shut",
+      "url": "https://bitcoinmagazine.com/news/ledger-consensys-get-cold-feet-as-crypto",
+      "date": "2026-05-14T11:24:59.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Ledger-Consensys-Get-Cold-Feet-as-Crypto-IPO-Window-Slams-Shut.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Investing in Stitch",
       "url": "https://www.a16z.news/p/investing-in-stitch",
       "date": "2026-05-14T06:01:46.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/15c6147e-079b-4bd5-8806-4e8fe50c5f38_2844x1600.png",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6d7a9249-7aee-4d4b-9933-7e118d17ba7b_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
@@ -106,15 +124,6 @@
       "url": "https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants",
       "date": "2026-05-12T18:40:33.000Z",
       "image": "https://www.youtube.com/embed/dTzzAsvBTsI",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Senate Confirms Bitcoin-Friendly Kevin Warsh to Fed Board, Clearing Path to Chairmanship",
-      "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-kevin-warsh",
-      "date": "2026-05-12T17:52:49.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Senate-Confirms-Bitcoin-Friendly-Kevin-Warsh-to-Fed-Board-Clearing-Path-to-Chairmanship.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -340,15 +349,6 @@
       "url": "https://www.a16z.news/p/investing-in-petual",
       "date": "2026-04-23T12:00:58.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/f632ca72-30f8-4c9b-badc-db125c438d80_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Why We Need Continual Learning",
-      "url": "https://www.a16z.news/p/why-we-need-continual-learning",
-      "date": "2026-04-22T14:02:22.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d43107c5-8a94-461e-9d85-1fe562319311_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
