@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-05-15T10:31:50.176Z",
+  "lastUpdated": "2026-05-15T14:21:21.476Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Charts of the Week: Memory to the Moon",
+      "url": "https://www.a16z.news/p/charts-of-the-week-memory-to-the",
+      "date": "2026-05-15T14:01:39.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6ae90768-3eff-4ec9-aac2-d8a7a8f844ef_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "DMND and RootstockLabs Partner To Bring Stratum V2 To Merge-mining",
+      "url": "https://bitcoinmagazine.com/news/dmnd-and-rootstocklabs-partner-to-bring-stratum-v2-to-merge-mining",
+      "date": "2026-05-15T14:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/RSK-DMND-Stratumv2-fotor-2026051522943.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Strategy (MSTR) Files to Repurchase $1.5B in 2029 Convertible Notes as STRC Hits Record $1.53B Daily Volume",
+      "url": "https://bitcoinmagazine.com/news/strategy-mstr-files-to-repurchase-1-5b",
+      "date": "2026-05-15T13:01:30.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/12/Strategy-MSTR-Buys-Nearly-1-Billion-Worth-of-Bitcoin.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #193",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-193",
+      "date": "2026-05-15T12:42:13.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!OLdd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54bad704-940a-40b4-84ed-0fb05e4d95b5_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Poland Passes Crypto Bill as Fraud Probe Deepens Political Divide",
+      "url": "https://bitcoinmagazine.com/news/poland-passes-crypto-bill-as-fraud",
+      "date": "2026-05-15T12:26:36.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Poland-Passes-Crypto-Bill-as-Fraud-Probe-Deepens-Political-Divide.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Onramp Raises $12.5M Series A to Scale Multi-Institution Bitcoin Custody Platform",
       "url": "https://bitcoinmagazine.com/news/onramp-raises-12-5m-series-a",
@@ -82,33 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Senate Confirms Bitcoin Friendly Kevin Warsh As Fed Chair Ahead of Clarity Act Vote",
-      "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-friendly-warsh",
-      "date": "2026-05-13T20:01:18.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Senate-Confirms-Bitcoin-Friendly-Kevin-Warsh-As-Fed-Chair-Ahead-of-Clarity-Act-Vote.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Coinbase CEO Says Crypto Bill Could Rewire American Finance — Senate Votes Thursday",
-      "url": "https://bitcoinmagazine.com/news/coinbase-ceo-says-crypto-bill-could",
-      "date": "2026-05-13T17:32:19.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Coinbase-CEO-Says-Crypto-Bill-Could-Rewire-American-Finance-—-Senate-Votes-Thursday.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Suisse Secures Bermuda Regulatory Approvals for International Digital Asset Expansion",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-secures-bermuda-regulatory",
-      "date": "2026-05-13T16:26:25.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Suisse-Secures-Bermuda-Regulatory-Approvals-for-International-Digital-Asset-Expansion.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Is Software Losing Its Head?",
@@ -343,24 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Investing in Petual",
-      "url": "https://www.a16z.news/p/investing-in-petual",
-      "date": "2026-04-23T12:00:58.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f632ca72-30f8-4c9b-badc-db125c438d80_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Ep 150: How AI Is Transforming Diligence, Decision-Making & the Future of Investing with John Melas-Kyriazi",
-      "url": "https://blog.joelonsdale.com/p/ep-150-how-ai-is-transforming-diligence",
-      "date": "2026-04-17T15:03:17.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }

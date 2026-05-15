@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T10:31:54.954Z",
+  "lastUpdated": "2026-05-15T14:21:30.701Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "5lzQYEAUz-M",
-      "show": "TRIGGERnometry",
-      "title": "The Multipolar World is a Trap",
-      "url": "https://www.youtube.com/watch?v=5lzQYEAUz-M",
-      "date": "2026-05-15T08:53:04.000Z",
-      "image": "https://i2.ytimg.com/vi/5lzQYEAUz-M/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "y5JzrzEzr0w",
+      "show": "Theo Von",
+      "title": "Bobby Lee Has a Problem With the Busboys Movie Poster",
+      "url": "https://www.youtube.com/watch?v=y5JzrzEzr0w",
+      "date": "2026-05-15T13:45:13.000Z",
+      "image": "https://i2.ytimg.com/vi/y5JzrzEzr0w/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #657 | Bobby Lee\nFull Episode: \n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: https://twitter.com/theovon\nP",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "5lzQYEAUz-M",
-      "show": "TRIGGERnometry",
-      "title": "The Multipolar World is a Trap",
-      "url": "https://www.youtube.com/watch?v=5lzQYEAUz-M",
-      "date": "2026-05-15T08:53:04.000Z",
-      "image": "https://i2.ytimg.com/vi/5lzQYEAUz-M/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "y5JzrzEzr0w",
+      "show": "Theo Von",
+      "title": "Bobby Lee Has a Problem With the Busboys Movie Poster",
+      "url": "https://www.youtube.com/watch?v=y5JzrzEzr0w",
+      "date": "2026-05-15T13:45:13.000Z",
+      "image": "https://i2.ytimg.com/vi/y5JzrzEzr0w/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #657 | Bobby Lee\nFull Episode: \n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: https://twitter.com/theovon\nP",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
