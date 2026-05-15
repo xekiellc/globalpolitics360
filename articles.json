@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-05-15T14:20:47.411Z",
+  "lastUpdated": "2026-05-15T17:45:50.006Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "Craig Murray: Hiding the Terrorism Charge",
+      "url": "https://consortiumnews.com/2026/05/15/craig-murray-hiding-the-terrorism-charge/",
+      "date": "2026-05-15T16:00:02.000Z",
+      "image": "",
+      "source": "Consortium News",
+      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
+      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
+    },
+    {
+      "title": "The School Rebuilding Education for an AI World. Plus…",
+      "url": "https://www.thefp.com/p/the-school-rebuilding-education-for",
+      "date": "2026-05-15T15:30:57.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!xddY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32f2e651-296e-4443-9c18-c93ba036b58d_2262x1240.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
     {
       "title": "Hedges Report: A History of Palestine&#8217;s Resistance",
       "url": "https://consortiumnews.com/2026/05/15/hedges-report-a-history-of-palestines-resistance/",
@@ -75,78 +93,6 @@
       "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
-      "title": "Letters to the Editor",
-      "url": "https://www.thefp.com/p/letters-to-the-editor",
-      "date": "2026-05-15T00:49:27.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6216ed19-1880-4120-9dc4-4080f72b1114_1600x1600.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "Parenting",
-      "url": "https://www.thefp.com/p/parenting",
-      "date": "2026-05-15T00:47:45.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/858cf75e-fa91-4d89-8ba2-ca62a4e94ed5_1600x1600.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "Dating",
-      "url": "https://www.thefp.com/p/dating",
-      "date": "2026-05-15T00:46:01.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/daa4ae2d-2af2-446c-90d4-8d3c58fb2475_1600x1600.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "Recommendations",
-      "url": "https://www.thefp.com/p/recommendations",
-      "date": "2026-05-15T00:44:10.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/0c52b520-61ac-4b46-b4a8-b710d0de2890_1600x1600.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "Networking",
-      "url": "https://www.thefp.com/p/networking",
-      "date": "2026-05-15T00:42:45.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/14bd3680-bcde-45ff-b582-f8b4d22a7aee_1600x1600.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "News of the Day",
-      "url": "https://www.thefp.com/p/news-of-the-day",
-      "date": "2026-05-15T00:39:09.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6c8e36ea-675b-4f40-889f-df6b4a050603_1600x1600.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "Announcements",
-      "url": "https://www.thefp.com/p/tfp-announcements",
-      "date": "2026-05-15T00:36:24.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9d1a1bd4-6967-42de-a38b-846933606c79_1600x1600.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "Introduce Yourself",
-      "url": "https://www.thefp.com/p/introduce-yourself",
-      "date": "2026-05-15T00:34:27.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d86078f0-5ea3-47df-bc25-15ebe4adc629_1600x1600.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
       "title": "How ‘The New York Times’ Laundered a Conspiracy",
       "url": "https://www.thefp.com/p/how-the-new-york-times-laundered-a-conspiracy",
       "date": "2026-05-14T23:57:33.000Z",
@@ -156,7 +102,7 @@
       "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
-      "title": "The Case of Israel v. Kristof Is Dead on Arrival",
+      "title": "The Case of Israel vs. Kristof Is Dead on Arrival",
       "url": "https://www.thefp.com/p/the-case-of-israel-v-kristof-is-dead",
       "date": "2026-05-14T23:19:38.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!CweV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb80fdbf1-2036-4cde-945b-33911931f3cd_6000x4000.jpeg",
@@ -228,6 +174,15 @@
       "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
+      "title": "Tough Love: Am I Too Young to Have a Baby?",
+      "url": "https://www.thefp.com/p/early-marriage-family-planning-advice",
+      "date": "2026-05-14T15:02:04.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!L1WY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33c42887-1c2e-4c47-9417-9ed90d62e9fa_1024x796.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
       "title": "Unasked Questions About the War on Iran",
       "url": "https://consortiumnews.com/2026/05/14/unasked-questions-about-the-war-on-iran/",
       "date": "2026-05-14T11:12:48.000Z",
@@ -235,6 +190,24 @@
       "source": "Consortium News",
       "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
       "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
+    },
+    {
+      "title": "The Stakes of the Trump-Xi Summit. Have We Passed ‘Peak Human’? Plus. . .",
+      "url": "https://www.thefp.com/p/the-stakes-of-the-trump-xi-summit",
+      "date": "2026-05-14T10:02:48.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/16dce9f8-f705-4e43-aef5-f5e88fc17871_6000x4000.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "China’s War on Faith and Trump’s Trip to Beijing, with Governor Sam Brownback",
+      "url": "https://www.thefp.com/p/chinas-war-on-faith",
+      "date": "2026-05-14T09:02:21.000Z",
+      "image": "",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
       "title": "Miranda Devine: The Trump admin is going after violent leftists and their twisted ideology",
@@ -246,6 +219,33 @@
       "id": "aHR0cHM6Ly9ueXBvc3QuY29t"
     },
     {
+      "title": "Rama Duwaji Wants the Spotlight, Just Not the Scrutiny",
+      "url": "https://www.thefp.com/p/rama-duwaji-new-york-city-first-lady",
+      "date": "2026-05-14T02:20:33.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!qDJq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb944d92c-030a-4eaf-87e3-56624dbe6fec_1038x1453.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "Following the Law Isn’t ‘Jim Crow 2.0’",
+      "url": "https://www.thefp.com/p/virginia-redistricting-supreme-court-ruling",
+      "date": "2026-05-14T01:52:43.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!iKZG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf484024-57f4-42f6-990a-8d6de2ccb07e_1115x627.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "Peak Human Is Coming Sooner Than You Think",
+      "url": "https://www.thefp.com/p/peak-human-demographic-collapse",
+      "date": "2026-05-13T23:28:34.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!f70z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F744233aa-1f12-4b60-bf46-0955ea70fe3f_1024x698.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
       "title": "CIA Whistleblower Alleges Agency Illegally Monitored Investigators And Is Hiding Covid, MKUltra, And JFK Files",
       "url": "https://www.public.news/p/cia-whistleblower-alleges-agency",
       "date": "2026-05-13T23:07:27.000Z",
@@ -253,6 +253,15 @@
       "source": "Michael Shellenberger / Public",
       "teaser": "Shellenberger argues leftist policies and rhetoric are contributing to violent incidents.",
       "id": "aHR0cHM6Ly93d3cucHVibGlj"
+    },
+    {
+      "title": "WATCH: Haviv Rettig Gur and Coleman Hughes on the New Fight for Western Values",
+      "url": "https://www.thefp.com/p/watch-haviv-rettig-gur-and-coleman",
+      "date": "2026-05-13T21:33:00.000Z",
+      "image": "",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
       "title": "Europe’s Pro-Israel Consensus Is Fraying",
@@ -334,15 +343,6 @@
       "source": "Michael Tracey",
       "teaser": "Michael Tracey criticizes The Young Turks' commentary and understanding of Epstein case details.",
       "id": "aHR0cHM6Ly93d3cubXRyYWNl"
-    },
-    {
-      "title": "The Unraveling of Nehru&#8217;s Vision for India",
-      "url": "https://consortiumnews.com/2026/05/12/the-unraveling-of-nehrus-vision-of-india/",
-      "date": "2026-05-12T17:42:23.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
       "title": "Activism Uncensored: Protesters Assemble at Bar Investigated for Promoting a #FreeBeerDay if Trump is Killed",
