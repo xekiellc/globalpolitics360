@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-15T17:46:31.514Z",
+  "lastUpdated": "2026-05-15T19:46:38.868Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1621,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Would Attacking THIS Be the End of the World?",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1395763099.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1395763099.mp3",
+      "date": "2026-05-15T18:12:00.000Z",
+      "duration": "1806",
+      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "America's power grid is more vulnerable than most people realize — and in this episode, we break down the real threats facing the system, from weather events and ransomware attacks to Chinese supply chain dependencies that could make a catastrophic failure nearly impossible to recover from.\n\nMars Men:\nFor a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars M",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -66,18 +78,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The Real Iran Threat No One Sees Coming",
-      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5862622239.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5862622239.mp3",
-      "date": "2026-05-13T17:45:00.000Z",
-      "duration": "2081",
-      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What if the most important battlefield in the U.S.-Iran confrontation is not in the Persian Gulf, not in the Strait of Hormuz, and not even at the negotiating table? What if the real battlefield is perception? Let’s talk about it.\n\nBlueprint: For a limited time only, our listeners get 20% off + free shipping at https://blueprint.bryanjohnson.com by using code WATCH at checkout.\n\nMars Men: For a li",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Would Attacking THIS Be the End of the World?",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1395763099.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1395763099.mp3",
+      "date": "2026-05-15T18:12:00.000Z",
+      "duration": "1806",
+      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "America's power grid is more vulnerable than most people realize — and in this episode, we break down the real threats facing the system, from weather events and ransomware attacks to Chinese supply chain dependencies that could make a catastrophic failure nearly impossible to recover from.\n\nMars Men:\nFor a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars M",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "5/15/26: Trump Confesses \"We Did It For Israel\", AI Experiment Goes Wrong, Chuck Park, Ro Khanna",
@@ -166,18 +178,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The Real Iran Threat No One Sees Coming",
-      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5862622239.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5862622239.mp3",
-      "date": "2026-05-13T17:45:00.000Z",
-      "duration": "2081",
-      "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What if the most important battlefield in the U.S.-Iran confrontation is not in the Persian Gulf, not in the Strait of Hormuz, and not even at the negotiating table? What if the real battlefield is perception? Let’s talk about it.\n\nBlueprint: For a limited time only, our listeners get 20% off + free shipping at https://blueprint.bryanjohnson.com by using code WATCH at checkout.\n\nMars Men: For a li",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
