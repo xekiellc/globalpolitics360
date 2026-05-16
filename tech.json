@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-05-16T11:06:59.070Z",
+  "lastUpdated": "2026-05-16T13:44:47.728Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Cowboy Space Corporation",
+      "url": "https://www.notboring.co/p/cowboy-space-corporation",
+      "date": "2026-05-16T12:52:13.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!Ndlw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd89c772b-a0bb-470d-8ac1-50b9eaba5196_1200x536.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
       "url": "https://bitcoinmagazine.com/culture/bitcoin-open-heads-to-iconic-glen-abbey-golf-club-for-june-8-2026-event",
@@ -352,15 +361,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "The Great Blue Frontier",
-      "url": "https://www.notboring.co/p/the-great-blue-frontier",
-      "date": "2026-04-23T12:59:00.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!Xs-R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F388e06a4-2ab5-44fb-9a87-04b525c97bb9_2400x1260.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
