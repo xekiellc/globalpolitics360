@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T10:17:12.634Z",
+  "lastUpdated": "2026-05-18T15:45:54.415Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "0WRmyHoH85w",
-      "show": "TRIGGERnometry",
-      "title": "How will AI destroy humanity",
-      "url": "https://www.youtube.com/watch?v=0WRmyHoH85w",
-      "date": "2026-05-18T09:36:45.000Z",
-      "image": "https://i1.ytimg.com/vi/0WRmyHoH85w/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "wOyd5J-K_sE",
+      "show": "The Free Press",
+      "title": "what do you think?",
+      "url": "https://www.youtube.com/watch?v=wOyd5J-K_sE",
+      "date": "2026-05-18T15:19:35.000Z",
+      "image": "https://i4.ytimg.com/vi/wOyd5J-K_sE/hqdefault.jpg",
+      "desc": "#theovon #thomasmassie #thispastweekend",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "0WRmyHoH85w",
-      "show": "TRIGGERnometry",
-      "title": "How will AI destroy humanity",
-      "url": "https://www.youtube.com/watch?v=0WRmyHoH85w",
-      "date": "2026-05-18T09:36:45.000Z",
-      "image": "https://i1.ytimg.com/vi/0WRmyHoH85w/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "wOyd5J-K_sE",
+      "show": "The Free Press",
+      "title": "what do you think?",
+      "url": "https://www.youtube.com/watch?v=wOyd5J-K_sE",
+      "date": "2026-05-18T15:19:35.000Z",
+      "image": "https://i4.ytimg.com/vi/wOyd5J-K_sE/hqdefault.jpg",
+      "desc": "#theovon #thomasmassie #thispastweekend",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
