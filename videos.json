@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-05-18T04:12:20.451Z",
+  "lastUpdated": "2026-05-18T10:17:12.634Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 8,
+  "taggedCount": 25,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "XkfQ35Ane7c",
-      "show": "All-In Podcast",
-      "title": "Chamath: The Real Reason Taiwan Matters, And Why It Won't in 18 Months",
-      "url": "https://www.youtube.com/watch?v=XkfQ35Ane7c",
-      "date": "2026-05-18T00:30:32.000Z",
-      "image": "https://i1.ytimg.com/vi/XkfQ35Ane7c/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "videoId": "0WRmyHoH85w",
+      "show": "TRIGGERnometry",
+      "title": "How will AI destroy humanity",
+      "url": "https://www.youtube.com/watch?v=0WRmyHoH85w",
+      "date": "2026-05-18T09:36:45.000Z",
+      "image": "https://i1.ytimg.com/vi/0WRmyHoH85w/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
       "guestTags": [
-        "Chamath",
-        "David Sacks"
+        "Konstantin Kisin"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "XkfQ35Ane7c",
-      "show": "All-In Podcast",
-      "title": "Chamath: The Real Reason Taiwan Matters, And Why It Won't in 18 Months",
-      "url": "https://www.youtube.com/watch?v=XkfQ35Ane7c",
-      "date": "2026-05-18T00:30:32.000Z",
-      "image": "https://i1.ytimg.com/vi/XkfQ35Ane7c/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "videoId": "0WRmyHoH85w",
+      "show": "TRIGGERnometry",
+      "title": "How will AI destroy humanity",
+      "url": "https://www.youtube.com/watch?v=0WRmyHoH85w",
+      "date": "2026-05-18T09:36:45.000Z",
+      "image": "https://i1.ytimg.com/vi/0WRmyHoH85w/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
       "guestTags": [
-        "Chamath",
-        "David Sacks"
+        "Konstantin Kisin"
       ]
     }
   ],
   "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
+    "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }
