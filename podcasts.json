@@ -1,10 +1,25 @@
 {
-  "lastUpdated": "2026-05-19T09:57:36.636Z",
+  "lastUpdated": "2026-05-19T12:48:27.675Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1624,
+  "taggedCount": 1625,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Colbert &amp; Letterman Miss the Point, Alex Cooper Backlash, China’s Control, and Steve Jobs’ Lost Years, with Geoffrey Cain and Sam Brownback",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/0983c97a-8026-4c20-afcd-7fbd06a0748f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=0983c97a-8026-4c20-afcd-7fbd06a0748f&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-05-19T11:00:00.000Z",
+      "duration": "01:05:06",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/b2d8e504-8d78-48ed-9e20-fd3d47ac9214/3000x3000/ap_91_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show with a look at David Letterman and Stephen Colbert’s sad sendoff for “The Late Show” and explains why they just don’t get what really went wrong. Then Emily is joined by Sam Brownback, author of the new book, “China's War on Faith.” He’s also a former U.S. Ambassador at Large for International Religious Freedom, and a former Senator and Governor from Kansas. They dis",
+      "guestTags": [
+        "Emily Jashinsky",
+        "Edward Snowden"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Kill Tony",
@@ -51,18 +66,6 @@
       "duration": "9039",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Nick Epley, PhD, is a professor of behavioral science at the University of Chicago and a leading expert on the science of social connection. We discuss how seemingly small daily interactions with strangers (as well as with people we know) can meaningfully improve our mental and physical health. Dr. Epley also explains how to reduce social anxiety using simple and easily accessible science-supp",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E273_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nio",
-      "date": "2026-05-15T21:21:00.000Z",
-      "duration": "01:16:31",
-      "image": "https://static.libsyn.com/p/assets/1/b/2/7/1b271d367e0c2334d959afa2a1bf1c87/1_Pod_E273.png",
-      "desc": "(0:00) Salesforce CEO Marc Benioff joins the show! (1:14) Trump-Xi summit, doing business in China as a US company, impact on Americans and the midterms (18:46) Taiwan, chips, AI models, and peace through trade (31:41) AI's impact on software: What SaaS thrives, what SaaS dies? (47:26) OpenAI is considering suing Apple over failed ChatGPT integration (56:54) Thinking Machines releases real-time mo",
       "guestTags": []
     },
     {
@@ -104,6 +107,21 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Colbert &amp; Letterman Miss the Point, Alex Cooper Backlash, China’s Control, and Steve Jobs’ Lost Years, with Geoffrey Cain and Sam Brownback",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/0983c97a-8026-4c20-afcd-7fbd06a0748f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=0983c97a-8026-4c20-afcd-7fbd06a0748f&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-05-19T11:00:00.000Z",
+      "duration": "01:05:06",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/b2d8e504-8d78-48ed-9e20-fd3d47ac9214/3000x3000/ap_91_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show with a look at David Letterman and Stephen Colbert’s sad sendoff for “The Late Show” and explains why they just don’t get what really went wrong. Then Emily is joined by Sam Brownback, author of the new book, “China's War on Faith.” He’s also a former U.S. Ambassador at Large for International Religious Freedom, and a former Senator and Governor from Kansas. They dis",
+      "guestTags": [
+        "Emily Jashinsky",
+        "Edward Snowden"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Kill Tony",
       "title": "#768 - SHANE GILLIS + JAMES MCCANN",
@@ -152,18 +170,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E273_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nio",
-      "date": "2026-05-15T21:21:00.000Z",
-      "duration": "01:16:31",
-      "image": "https://static.libsyn.com/p/assets/1/b/2/7/1b271d367e0c2334d959afa2a1bf1c87/1_Pod_E273.png",
-      "desc": "(0:00) Salesforce CEO Marc Benioff joins the show! (1:14) Trump-Xi summit, doing business in China as a US company, impact on Americans and the midterms (18:46) Taiwan, chips, AI models, and peace through trade (31:41) AI's impact on software: What SaaS thrives, what SaaS dies? (47:26) OpenAI is considering suing Apple over failed ChatGPT integration (56:54) Thinking Machines releases real-time mo",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "Would Attacking THIS Be the End of the World?",
@@ -200,5 +206,12 @@
       "guestTags": []
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Edward Snowden": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ]
+  }
 }
