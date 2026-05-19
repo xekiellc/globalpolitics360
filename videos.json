@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T16:52:22.718Z",
+  "lastUpdated": "2026-05-19T19:58:54.426Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mMHnXzYrdb4",
-      "show": "TRIGGERnometry",
-      "title": "Multiculturalism has failed",
-      "url": "https://www.youtube.com/watch?v=mMHnXzYrdb4",
-      "date": "2026-05-19T14:13:28.000Z",
-      "image": "https://i2.ytimg.com/vi/mMHnXzYrdb4/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "qXWN2RdfQG8",
+      "show": "Shawn Ryan Show",
+      "title": "Some Would Say This Sniper Has Aimbot 🤯",
+      "url": "https://www.youtube.com/watch?v=qXWN2RdfQG8",
+      "date": "2026-05-19T18:00:41.000Z",
+      "image": "https://i2.ytimg.com/vi/qXWN2RdfQG8/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mMHnXzYrdb4",
-      "show": "TRIGGERnometry",
-      "title": "Multiculturalism has failed",
-      "url": "https://www.youtube.com/watch?v=mMHnXzYrdb4",
-      "date": "2026-05-19T14:13:28.000Z",
-      "image": "https://i2.ytimg.com/vi/mMHnXzYrdb4/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "qXWN2RdfQG8",
+      "show": "Shawn Ryan Show",
+      "title": "Some Would Say This Sniper Has Aimbot 🤯",
+      "url": "https://www.youtube.com/watch?v=qXWN2RdfQG8",
+      "date": "2026-05-19T18:00:41.000Z",
+      "image": "https://i2.ytimg.com/vi/qXWN2RdfQG8/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
