@@ -33,3 +33,32 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: auto-refresh articles $(date -u '+%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main
           git push
+
+      - name: Post top article to XenChee
+        env:
+          PIPELINE_SECRET: ${{ secrets.PIPELINE_SECRET }}
+        run: |
+          TOP_TITLE=$(node -e "
+            const fs = require('fs');
+            const articles = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
+            const top = articles[0];
+            if (top) console.log(top.title || '');
+          ")
+          TOP_SUMMARY=$(node -e "
+            const fs = require('fs');
+            const articles = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
+            const top = articles[0];
+            if (top) console.log(top.teaser || top.description || '');
+          ")
+          TOP_URL=$(node -e "
+            const fs = require('fs');
+            const articles = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
+            const top = articles[0];
+            if (top) console.log(top.url || top.link || '');
+          ")
+          if [ -n "$TOP_TITLE" ] && [ -n "$TOP_URL" ]; then
+            curl -X POST https://xenchee.netlify.app/.netlify/functions/pipeline-post \
+              -H "Content-Type: application/json" \
+              -H "x-pipeline-secret: $PIPELINE_SECRET" \
+              -d "{\"slug\":\"global-politics-360\",\"title\":\"$(echo $TOP_TITLE | sed 's/"/\\"/g')\",\"summary\":\"$(echo $TOP_SUMMARY | sed 's/"/\\"/g')\",\"url\":\"$TOP_URL\"}"
+          fi
