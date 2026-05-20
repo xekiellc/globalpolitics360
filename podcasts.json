@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-05-19T23:10:01.702Z",
+  "lastUpdated": "2026-05-20T00:24:04.326Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1589,
+  "taggedCount": 1626,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Ryan Grim",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/8eeaa716-68a0-487a-b437-e0baed5f434d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/8eeaa716-68a0-487a-b437-e0baed5f434d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-20T00:00:00.000Z",
+      "duration": "01:11:23",
+      "image": "https://content.production.cdn.art19.com/images/5c/43/96/d3/5c4396d3-1072-4740-b161-0020eaed8e40/d7a7b2b6dbaa3761b556b1da41cb3e2cfa986d5be01f52712146b740bcebbadb81752616b00954880ab4d4211ef932f40e2bd2826bb4eb4e05e3284a45293301.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave is joined by Ryan Grim, co-founder of Drop Site. They talk about negotiations between the U.S. and Iran, connections between this and former wars, the suffering in Cuba caused by the U.S., and so much more.Support Our Sponsors:Stimulate brain energy with H2Focus! Head to http://www.twc.health/problem Use cod",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -57,18 +71,6 @@
         "Emily Jashinsky",
         "Edward Snowden"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#768 - SHANE GILLIS + JAMES MCCANN",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8061861196.mp3?updated=1779206076",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8061861196.mp3?updated=1779206076",
-      "date": "2026-05-19T01:00:00.000Z",
-      "duration": "7917",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Shane Gillis, James Mccann, Pat O'Neill, Dedrick Flynn, MartinPhillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling,Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, BrianRedban - RECORDED– 04/27/2026\n\n\n\nTry QUO for free PLUS get 20% off your first 6 months when you go to https://quo.com/tony\n\n\n\nVisit https://prizepicks.onelink.me/LME0/TONY and use code TONY and get $50 in",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -109,6 +111,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Ryan Grim",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/8eeaa716-68a0-487a-b437-e0baed5f434d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/8eeaa716-68a0-487a-b437-e0baed5f434d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-20T00:00:00.000Z",
+      "duration": "01:11:23",
+      "image": "https://content.production.cdn.art19.com/images/5c/43/96/d3/5c4396d3-1072-4740-b161-0020eaed8e40/d7a7b2b6dbaa3761b556b1da41cb3e2cfa986d5be01f52712146b740bcebbadb81752616b00954880ab4d4211ef932f40e2bd2826bb4eb4e05e3284a45293301.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave is joined by Ryan Grim, co-founder of Drop Site. They talk about negotiations between the U.S. and Iran, connections between this and former wars, the suffering in Cuba caused by the U.S., and so much more.Support Our Sponsors:Stimulate brain energy with H2Focus! Head to http://www.twc.health/problem Use cod",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "HORRIFIC Predators Just EXPOSED on Family Cruises",
@@ -162,18 +178,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#768 - SHANE GILLIS + JAMES MCCANN",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8061861196.mp3?updated=1779206076",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU8061861196.mp3?updated=1779206076",
-      "date": "2026-05-19T01:00:00.000Z",
-      "duration": "7917",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Shane Gillis, James Mccann, Pat O'Neill, Dedrick Flynn, MartinPhillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling,Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, BrianRedban - RECORDED– 04/27/2026\n\n\n\nTry QUO for free PLUS get 20% off your first 6 months when you go to https://quo.com/tony\n\n\n\nVisit https://prizepicks.onelink.me/LME0/TONY and use code TONY and get $50 in",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#305 AJ Pasciuti - Marine Scout Sniper on Hunting Juba, the Deadliest Enemy Sniper in Iraq",
@@ -211,6 +215,9 @@
     }
   ],
   "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Marc Andreessen": [
       "aHR0cHM6Ly90cmFmZmljLm1l"
     ],
