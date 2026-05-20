@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-05-20T04:06:36.239Z",
+  "lastUpdated": "2026-05-20T09:46:11.298Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
+  "taggedCount": 27,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "CnjJPpr10vM",
-      "show": "Kill Tony",
-      "title": "KT #768 - SHANE GILLIS + JAMES MCCANN",
-      "url": "https://www.youtube.com/watch?v=CnjJPpr10vM",
-      "date": "2026-05-19T01:00:06.000Z",
-      "image": "https://i4.ytimg.com/vi/CnjJPpr10vM/hqdefault.jpg",
-      "desc": "Shane Gillis, James Mccann, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 04/27/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOU",
-      "guestTags": []
+      "videoId": "npT8YuL4PmQ",
+      "show": "Danny Jones Podcast",
+      "title": "Marcus Aurelius' Drug Stack Was Insane.",
+      "url": "https://www.youtube.com/watch?v=npT8YuL4PmQ",
+      "date": "2026-05-20T05:00:38.000Z",
+      "image": "https://i3.ytimg.com/vi/npT8YuL4PmQ/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://www.youtube.com/watch?v=eiToDFy3FWU",
+      "guestTags": [
+        "Edward Snowden"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "CnjJPpr10vM",
-      "show": "Kill Tony",
-      "title": "KT #768 - SHANE GILLIS + JAMES MCCANN",
-      "url": "https://www.youtube.com/watch?v=CnjJPpr10vM",
-      "date": "2026-05-19T01:00:06.000Z",
-      "image": "https://i4.ytimg.com/vi/CnjJPpr10vM/hqdefault.jpg",
-      "desc": "Shane Gillis, James Mccann, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 04/27/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOU",
-      "guestTags": []
+      "videoId": "npT8YuL4PmQ",
+      "show": "Danny Jones Podcast",
+      "title": "Marcus Aurelius' Drug Stack Was Insane.",
+      "url": "https://www.youtube.com/watch?v=npT8YuL4PmQ",
+      "date": "2026-05-20T05:00:38.000Z",
+      "image": "https://i3.ytimg.com/vi/npT8YuL4PmQ/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://www.youtube.com/watch?v=eiToDFy3FWU",
+      "guestTags": [
+        "Edward Snowden"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Edward Snowden": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
