@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-05-20T12:29:42.913Z",
+  "lastUpdated": "2026-05-20T16:58:44.111Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Horseshoe Jacobins",
+      "url": "https://blog.joelonsdale.com/p/horseshoe-jacobins",
+      "date": "2026-05-20T16:09:51.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!Hj6o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f17b5ce-b49e-4b38-b45b-e3a7d22d54ab_2072x1349.png",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "The 2036 Issue: Bitcoin Mining Is Dead, Long Live the Miners!",
+      "url": "https://bitcoinmagazine.com/print/the-2036-issue-bitcoin-mining-is-dead-long-live-the-miners",
+      "date": "2026-05-20T15:25:12.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/2036-Issue-Article-Header-2400x1400-Harper.png",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Tether Takes Control of Twenty One Capital After Buying Out SoftBank",
+      "url": "https://bitcoinmagazine.com/news/tether-takes-control-of-twenty-one-capital",
+      "date": "2026-05-20T15:18:19.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Tether-Takes-Control-of-Twenty-One-Capital-After-Buying-Out-SoftBank.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Exa is Building the Search Engine for the AI Era",
+      "url": "https://www.a16z.news/p/exa-is-building-the-search-engine",
+      "date": "2026-05-20T15:03:27.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b922b93f-520d-41a7-a1d1-4bfd9fd2eb14_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Exa",
+      "url": "https://www.a16z.news/p/investing-in-exa",
+      "date": "2026-05-20T15:03:21.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f792a538-ece2-4103-8697-187ee4d495eb_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Trump Orders Fed to Review Crypto Access to U.S. Payment Rails",
+      "url": "https://bitcoinmagazine.com/news/trump-orders-fed-to-review-crypto-access",
+      "date": "2026-05-20T14:12:12.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Trump-Orders-Fed-to-Review-Crypto-Access-to-U.S.-Payment-Rails.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "New Bitcoin, Energy, and Compute Hub Node NBO Opens in Nairobi, Kenya",
+      "url": "https://bitcoinmagazine.com/news/new-bitcoin-energy-and-compute-hub-node-nbo-opens-in-nairobi-kenya",
+      "date": "2026-05-20T14:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/NodeNBO_Hub_High_Quality.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "South Carolina Enacts Bitcoin-Friendly Law, Bans CBDC Use by State Entities",
+      "url": "https://bitcoinmagazine.com/news/south-carolina-enacts-bitcoin-friendly-law",
+      "date": "2026-05-20T13:41:02.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/South-Carolina-Enacts-Bitcoin-Friendly-Law-Bans-CBDC-Use-by-State-Entities.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slides-below-77000",
@@ -57,24 +129,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Strive (ASST) Stacks Another 382 BTC, Total Treasury Climbs to 15,391 Bitcoin",
-      "url": "https://bitcoinmagazine.com/news/strive-stacks-another-382-btc",
-      "date": "2026-05-19T14:46:40.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Strive-ASST-Stacks-Another-382-BTC-Total-Treasury-Climbs-to-15391-Bitcoin.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "SEC Prepares to Open the Door to Tokenized Stocks: Report",
-      "url": "https://bitcoinmagazine.com/news/sec-prepares-for-tokenized-stocks-report",
-      "date": "2026-05-19T14:02:33.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/SEC-Prepares-to-Open-the-Door-to-Tokenized-Stocks-Report.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Need Series C? Call a16z",
       "url": "https://www.a16z.news/p/need-series-c-call-a16z",
       "date": "2026-05-19T14:00:52.000Z",
@@ -82,33 +136,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Bitcoin Becomes Lifeline for Activists as HRF Unveils ‘Bitcoin for Nonprofits’ Guide",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-becomes-lifeline-for-activists-hrf",
-      "date": "2026-05-19T13:23:16.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Pics-43.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "White House Says Strategic Bitcoin Reserve Announcement Is Imminent: &#8216;A Breakthrough&#8217;",
-      "url": "https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve",
-      "date": "2026-05-18T17:41:53.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/White-House-Says-Strategic-Bitcoin-Reserve-Announcement-Is-Imminent-A-Breakthrough.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Standard Chartered to Absorb Zodia Custody&#8217;s Core Business in Digital Asset Consolidation",
-      "url": "https://bitcoinmagazine.com/news/standard-chartered-to-absorb-zodia-custody",
-      "date": "2026-05-18T16:05:09.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/07/Standard-Chartered-Launches-Institutional-Bitcoin-And-Crypto-Spot-Trading-Platform.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Cowboy Space Corporation",
@@ -334,33 +361,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Ep 151: The Myth of Michael Milken with Richard Sandler",
-      "url": "https://blog.joelonsdale.com/p/ep-151-the-myth-of-michael-milken",
-      "date": "2026-04-24T18:29:00.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Charts of the Week: Software Ate the World",
-      "url": "https://www.a16z.news/p/charts-of-the-week-software-ate-the",
-      "date": "2026-04-24T14:03:10.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f16da572-99b8-4b4e-8a41-496f4095caad_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Weekly Dose of Optimism #190",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-190",
-      "date": "2026-04-24T12:55:48.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!Dfxm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27da2d1e-d261-4110-bc18-6669ef1c0c47_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
