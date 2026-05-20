@@ -40,20 +40,23 @@ jobs:
         run: |
           TOP_TITLE=$(node -e "
             const fs = require('fs');
-            const articles = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
-            const top = articles[0];
+            const data = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
+            const articles = data.articles || data;
+            const top = Array.isArray(articles) ? articles[0] : null;
             if (top) console.log(top.title || '');
           ")
           TOP_SUMMARY=$(node -e "
             const fs = require('fs');
-            const articles = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
-            const top = articles[0];
+            const data = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
+            const articles = data.articles || data;
+            const top = Array.isArray(articles) ? articles[0] : null;
             if (top) console.log(top.teaser || top.description || '');
           ")
           TOP_URL=$(node -e "
             const fs = require('fs');
-            const articles = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
-            const top = articles[0];
+            const data = JSON.parse(fs.readFileSync('articles.json', 'utf8'));
+            const articles = data.articles || data;
+            const top = Array.isArray(articles) ? articles[0] : null;
             if (top) console.log(top.url || top.link || '');
           ")
           if [ -n "$TOP_TITLE" ] && [ -n "$TOP_URL" ]; then
