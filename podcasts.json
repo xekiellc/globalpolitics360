@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-21T04:15:29.884Z",
+  "lastUpdated": "2026-05-21T09:54:10.222Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1629,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7185728420.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-of-learning-and-speaking-languages-eddie-chang",
+      "date": "2026-05-21T08:00:00.000Z",
+      "duration": "1969",
+      "image": "https://megaphone.imgix.net/podcasts/763cf880-54cd-11f1-873c-5798e0b960a6/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Eddie Chang, MD, a neurosurgeon and Chair of the Department of Neurological Surgery at the University of California, San Francisco (UCSF). We discuss the neural circuits underlying speech and language, including how the brain controls the larynx, vocal folds and articulators to shape breath into words. We also explore his pioneering work on ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -32,18 +44,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2502 - David Paulides",
-      "audioUrl": "https://traffic.megaphone.fm/GLT9926666486.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT9926666486.mp3",
-      "date": "2026-05-20T17:00:00.000Z",
-      "duration": "8754",
-      "image": "https://megaphone.imgix.net/podcasts/2cc305a6-53dc-11f1-aaca-0b2a12a0aa49/image/d7e526bf6cc6f697d9b3d93b2598e316.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "David Paulides is a writer, investigator, filmmaker, and former law enforcement officer. He is the author of the “Missing 411” series, which explores unexplained disappearances in North American wilderness and national parks, as well as several books about Bigfoot. His latest films, “American Sasquatch” and “Missing 411: National Parks - Washington State,” are available on most streaming platforms",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -113,6 +113,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7185728420.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-of-learning-and-speaking-languages-eddie-chang",
+      "date": "2026-05-21T08:00:00.000Z",
+      "duration": "1969",
+      "image": "https://megaphone.imgix.net/podcasts/763cf880-54cd-11f1-873c-5798e0b960a6/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Eddie Chang, MD, a neurosurgeon and Chair of the Department of Neurological Surgery at the University of California, San Francisco (UCSF). We discuss the neural circuits underlying speech and language, including how the brain controls the larynx, vocal folds and articulators to shape breath into words. We also explore his pioneering work on ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Massie 2028",
@@ -150,18 +162,6 @@
       "duration": "1783",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Would you recognize if someone was trying to use you to collect information? Because in many of the cases we’re going to walk through today, the people involved didn’t think of themselves as part of an intelligence operation until it was too late.\n\nBubs Natural:\nLive Better Longer with BUBS Naturals. For A limited time get 20% Off your entire order with code WATCH at Bubsnaturals.com\n\nFatty15:\nFat",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2502 - David Paulides",
-      "audioUrl": "https://traffic.megaphone.fm/GLT9926666486.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT9926666486.mp3",
-      "date": "2026-05-20T17:00:00.000Z",
-      "duration": "8754",
-      "image": "https://megaphone.imgix.net/podcasts/2cc305a6-53dc-11f1-aaca-0b2a12a0aa49/image/d7e526bf6cc6f697d9b3d93b2598e316.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "David Paulides is a writer, investigator, filmmaker, and former law enforcement officer. He is the author of the “Missing 411” series, which explores unexplained disappearances in North American wilderness and national parks, as well as several books about Bigfoot. His latest films, “American Sasquatch” and “Missing 411: National Parks - Washington State,” are available on most streaming platforms",
       "guestTags": []
     },
     {
