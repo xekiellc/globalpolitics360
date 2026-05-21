@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-21T16:41:53.553Z",
+  "lastUpdated": "2026-05-21T20:01:39.109Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1630,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2503 - Eric Weinstein",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2235835292.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2235835292.mp3",
+      "date": "2026-05-21T17:00:00.000Z",
+      "duration": "10742",
+      "image": "https://megaphone.imgix.net/podcasts/365312f8-54a1-11f1-bffe-e722e4e55eb4/image/58768c38fac83b661d07ee5ad63da26e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Eric Weinstein, PhD, is a mathematician, former managing director of Thiel Capital, and a manager of the Galileo Project research team. He is the originator of the Intellectual Dark Web and creator of Geometric Unity: a proposed geometrically unified theory of fundamental physics.www.youtube.com/@EricWeinsteinPhDwww.geometricunity.orgwww.eric-weinstein.com\n\n\n\nPerplexity: Download the app or ask Pe",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -41,18 +53,6 @@
       "duration": "12777",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Bryce Crawford is a Christian evangelist and street preacher known for direct, face-to-face gospel conversations in public spaces. He grew up in a church-influenced environment but experienced intense anxiety, depression, and spiritual confusion as a teenager, eventually becoming bitter toward religion. At age 17, after reaching a personal crisis point in late 2020, Crawford describes a dramatic c",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7185728420.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-of-learning-and-speaking-languages-eddie-chang",
-      "date": "2026-05-21T08:00:00.000Z",
-      "duration": "1969",
-      "image": "https://megaphone.imgix.net/podcasts/763cf880-54cd-11f1-873c-5798e0b960a6/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Eddie Chang, MD, a neurosurgeon and Chair of the Department of Neurological Surgery at the University of California, San Francisco (UCSF). We discuss the neural circuits underlying speech and language, including how the brain controls the larynx, vocal folds and articulators to shape breath into words. We also explore his pioneering work on ",
       "guestTags": []
     },
     {
@@ -108,6 +108,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2503 - Eric Weinstein",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2235835292.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2235835292.mp3",
+      "date": "2026-05-21T17:00:00.000Z",
+      "duration": "10742",
+      "image": "https://megaphone.imgix.net/podcasts/365312f8-54a1-11f1-bffe-e722e4e55eb4/image/58768c38fac83b661d07ee5ad63da26e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Eric Weinstein, PhD, is a mathematician, former managing director of Thiel Capital, and a manager of the Galileo Project research team. He is the originator of the Intellectual Dark Web and creator of Geometric Unity: a proposed geometrically unified theory of fundamental physics.www.youtube.com/@EricWeinsteinPhDwww.geometricunity.orgwww.eric-weinstein.com\n\n\n\nPerplexity: Download the app or ask Pe",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "5/21/26: Iran Stuns Trump With Red Line, Trump Indicts Cuba's Castro, Bezos Speaks Against Taxes",
@@ -143,18 +155,6 @@
       "duration": "12777",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Bryce Crawford is a Christian evangelist and street preacher known for direct, face-to-face gospel conversations in public spaces. He grew up in a church-influenced environment but experienced intense anxiety, depression, and spiritual confusion as a teenager, eventually becoming bitter toward religion. At age 17, after reaching a personal crisis point in late 2020, Crawford describes a dramatic c",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7185728420.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-of-learning-and-speaking-languages-eddie-chang",
-      "date": "2026-05-21T08:00:00.000Z",
-      "duration": "1969",
-      "image": "https://megaphone.imgix.net/podcasts/763cf880-54cd-11f1-873c-5798e0b960a6/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Eddie Chang, MD, a neurosurgeon and Chair of the Department of Neurological Surgery at the University of California, San Francisco (UCSF). We discuss the neural circuits underlying speech and language, including how the brain controls the larynx, vocal folds and articulators to shape breath into words. We also explore his pioneering work on ",
       "guestTags": []
     },
     {
