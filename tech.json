@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-05-21T20:01:32.836Z",
+  "lastUpdated": "2026-05-21T23:08:19.786Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Mark Cuban Sells Most of His Bitcoin, Calls It a Failed Hedge",
+      "url": "https://bitcoinmagazine.com/news/mark-cuban-sells-most-of-his-bitcoin",
+      "date": "2026-05-21T20:49:56.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Mark-Cuban-Sells-Most-of-His-Bitcoin-Calls-It-a-Failed-Hedge.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "U.S. Lawmaker Unveils Bill to Codify Strategic Bitcoin Reserve, Draws Bipartisan Support",
       "url": "https://bitcoinmagazine.com/news/us-bill-codify-strategic-bitcoin-reserve",
@@ -100,15 +109,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "The 2036 Issue: Bitcoin Mining Is Dead, Long Live the Miners!",
-      "url": "https://bitcoinmagazine.com/print/the-2036-issue-bitcoin-mining-is-dead-long-live-the-miners",
-      "date": "2026-05-20T15:25:12.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/2036-Issue-Article-Header-2400x1400-Harper.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Exa is Building the Search Engine for the AI Era",
