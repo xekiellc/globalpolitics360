@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T12:49:27.490Z",
+  "lastUpdated": "2026-05-21T16:41:55.100Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,26 +7,26 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "MOPqSEK6GvA",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang",
-      "url": "https://www.youtube.com/watch?v=MOPqSEK6GvA",
-      "date": "2026-05-21T12:00:25.000Z",
-      "image": "https://i2.ytimg.com/vi/MOPqSEK6GvA/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Eddie Chang, MD, a neurosurgeon and Chair of the Department of Neurological Surgery at the University of California, San Francisco (UCSF). We discuss the neural circuits underlying speech and language, including how the brain controls the lary",
+      "videoId": "kCJWb_nmxZc",
+      "show": "Danny Jones Podcast",
+      "title": "GLP-1 Drugs Are Getting More Powerful.",
+      "url": "https://www.youtube.com/watch?v=kCJWb_nmxZc",
+      "date": "2026-05-21T15:00:58.000Z",
+      "image": "https://i4.ytimg.com/vi/kCJWb_nmxZc/hqdefault.jpg",
+      "desc": "Full episode:\nhttps://www.youtube.com/watch?v=eiToDFy3FWU",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "MOPqSEK6GvA",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang",
-      "url": "https://www.youtube.com/watch?v=MOPqSEK6GvA",
-      "date": "2026-05-21T12:00:25.000Z",
-      "image": "https://i2.ytimg.com/vi/MOPqSEK6GvA/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Eddie Chang, MD, a neurosurgeon and Chair of the Department of Neurological Surgery at the University of California, San Francisco (UCSF). We discuss the neural circuits underlying speech and language, including how the brain controls the lary",
+      "videoId": "kCJWb_nmxZc",
+      "show": "Danny Jones Podcast",
+      "title": "GLP-1 Drugs Are Getting More Powerful.",
+      "url": "https://www.youtube.com/watch?v=kCJWb_nmxZc",
+      "date": "2026-05-21T15:00:58.000Z",
+      "image": "https://i4.ytimg.com/vi/kCJWb_nmxZc/hqdefault.jpg",
+      "desc": "Full episode:\nhttps://www.youtube.com/watch?v=eiToDFy3FWU",
       "guestTags": []
     }
   ],
