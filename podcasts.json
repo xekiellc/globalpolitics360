@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-22T04:11:21.331Z",
+  "lastUpdated": "2026-05-22T09:39:23.357Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1629,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#659 - Ari Matti",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER7069539762.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER7069539762.mp3",
+      "date": "2026-05-22T07:55:00.000Z",
+      "duration": "6874",
+      "image": "https://megaphone.imgix.net/podcasts/c10873fa-55a7-11f1-86f9-07b8243a2c08/image/471cc9dd71feb9254a3aa6f0a8a27b7b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Ari Matti is a stand-up comedian from Estonia known for his regular appearances on “Kill Tony”. \n\nAri joins Theo to talk about a close call he had in a gay nature zone, Estonian vs American culture, and why protecting free speech matters now more than ever.\n\nAri Matti: https://www.instagram.com/arimatticomedy/ \n\n-------------------------------------------------\n\nTour Dates! https://theovon.com/tou",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -54,18 +66,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#306 Bryce Crawford - Gen Z Evangelist on the Vices Destroying Your Life",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4050025103.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4050025103.mp3",
-      "date": "2026-05-21T10:00:00.000Z",
-      "duration": "12777",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Bryce Crawford is a Christian evangelist and street preacher known for direct, face-to-face gospel conversations in public spaces. He grew up in a church-influenced environment but experienced intense anxiety, depression, and spiritual confusion as a teenager, eventually becoming bitter toward religion. At age 17, after reaching a personal crisis point in late 2020, Crawford describes a dramatic c",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#659 - Ari Matti",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER7069539762.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER7069539762.mp3",
+      "date": "2026-05-22T07:55:00.000Z",
+      "duration": "6874",
+      "image": "https://megaphone.imgix.net/podcasts/c10873fa-55a7-11f1-86f9-07b8243a2c08/image/471cc9dd71feb9254a3aa6f0a8a27b7b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Ari Matti is a stand-up comedian from Estonia known for his regular appearances on “Kill Tony”. \n\nAri joins Theo to talk about a close call he had in a gay nature zone, Estonian vs American culture, and why protecting free speech matters now more than ever.\n\nAri Matti: https://www.instagram.com/arimatticomedy/ \n\n-------------------------------------------------\n\nTour Dates! https://theovon.com/tou",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Interview with Jeremy Cordon",
@@ -154,18 +166,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#306 Bryce Crawford - Gen Z Evangelist on the Vices Destroying Your Life",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4050025103.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4050025103.mp3",
-      "date": "2026-05-21T10:00:00.000Z",
-      "duration": "12777",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Bryce Crawford is a Christian evangelist and street preacher known for direct, face-to-face gospel conversations in public spaces. He grew up in a church-influenced environment but experienced intense anxiety, depression, and spiritual confusion as a teenager, eventually becoming bitter toward religion. At age 17, after reaching a personal crisis point in late 2020, Crawford describes a dramatic c",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
