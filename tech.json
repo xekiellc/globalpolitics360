@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-05-22T16:30:46.370Z",
+  "lastUpdated": "2026-05-22T19:56:27.351Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "SEC Delaying Plan to Allow Crypto Versions of US Stocks: Report",
+      "url": "https://bitcoinmagazine.com/news/sec-delaying-plan-to-allow-crypto",
+      "date": "2026-05-22T19:43:28.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/SEC-Delaying-Plan-to-Allow-Crypto-Versions-of-US-Stocks-Report.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent",
+      "url": "https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin",
+      "date": "2026-05-22T18:54:55.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/A-Freshman-Congressman-from-Nashville-Wants-to-Make-the-National-Bitcoin-Reserve-Permanent.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Ep 155: Eric Scott on the Biggest Missed Opportunity in Venture Investing",
+      "url": "https://blog.joelonsdale.com/p/ep-155-eric-scott-on-the-biggest",
+      "date": "2026-05-22T18:34:09.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
     {
       "title": "Trump Media (DJT) Moves to Sell Bitcoin as Losses Reach $455 Million",
       "url": "https://bitcoinmagazine.com/news/trump-media-djt-moves-to-sell-bitcoin-as-losses-reach-455-million",
@@ -97,24 +124,6 @@
       "url": "https://bitcoinmagazine.com/news/spacex-heads-into-historic-ipo",
       "date": "2026-05-21T13:13:15.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/SpaceX-Heads-Into-Historic-IPO-With-a-1.45-Billion-Bitcoin-Treasury-on-Its-Books.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Foundation Raises $6.4M in Fulgur-led Round to Launch Passport Prime, a ‘Human Authority’ Device to Keep AI Agents in Check",
-      "url": "https://bitcoinmagazine.com/news/foundation-raises-6-4m-in-fulgur-led-round",
-      "date": "2026-05-21T13:05:41.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Foundation-Raises-6.4M-in-Fulgur-led-Round-to-Launch-Passport-Prime-a-‘Human-Authority-Device-to-Keep-AI-Agents-in-Check.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Hunter Biden Now Accepts Bitcoin for Artwork on His Official Website",
-      "url": "https://bitcoinmagazine.com/news/hunter-biden-now-accepts-bitcoin",
-      "date": "2026-05-20T18:48:22.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Hunter-Biden-Now-Accepts-Bitcoin-for-Artwork-on-His-Official-Website.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Introducing the a16z Design Engineer Fellowship",
-      "url": "https://www.a16z.news/p/introducing-the-a16z-design-engineer",
-      "date": "2026-04-30T14:02:18.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7e7de0be-fe75-4e8d-8e5c-3bb52e982828_5688x3200.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     }
   ]
 }
