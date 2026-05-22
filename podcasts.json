@@ -1,10 +1,26 @@
 {
-  "lastUpdated": "2026-05-22T21:18:16.211Z",
+  "lastUpdated": "2026-05-22T23:07:50.309Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1630,
+  "taggedCount": 1631,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E274_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis",
+      "date": "2026-05-22T22:46:00.000Z",
+      "duration": "01:42:00",
+      "image": "https://static.libsyn.com/p/assets/c/3/2/1/c321969eb8898bf116c3140a3186d450/1_Pod_E274.png",
+      "desc": "(0:00) Gavin Baker joins the show! (0:30) Andrej Karpathy joins Anthropic; hypergrowth and profitability (12:42) Why Americans have turned on AI, anti-human perception (27:22) Trump pulls AI EO, US-China AI relationship, dystopian AI layoffs (45:19) SpaceX S-1 tear down! Breaking down the three major businesses and the case for a $2T valuation (1:11:22) Nvidia smashes earnings but stock falls, why",
+      "guestTags": [
+        "Elon Musk",
+        "Alex Karp",
+        "Jensen Huang"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -16,20 +32,6 @@
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Finally, the Trump administration put out a counterterrorism strategy. Don’t get too hopeful about it, though — it’s a disaster.\n\nShopify: Start your business today with the industry’s best business partner, Shopify. Sign up for your one-dollar-per-month trial today at shopify.com/watch\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "“Happy Hour”: Massie’s Defeat, Media Distrust, and the Botox Dilemma: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/c7269d3b-6948-43e5-8a89-c5107bb1d5e3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=c7269d3b-6948-43e5-8a89-c5107bb1d5e3&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-05-22T20:00:00.000Z",
-      "duration": "01:20:51",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky responds to a number of viewer questions about politics and culture. She opens with a discussion about the SLPC and what parents can do if the curriculum is in their child’s school. She than discusses the importance of legal colorblindness, human dignity and protecting life. Several questions involve Kentucky Congressman Thomas Massie’s recen",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -106,6 +108,22 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E274_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis",
+      "date": "2026-05-22T22:46:00.000Z",
+      "duration": "01:42:00",
+      "image": "https://static.libsyn.com/p/assets/c/3/2/1/c321969eb8898bf116c3140a3186d450/1_Pod_E274.png",
+      "desc": "(0:00) Gavin Baker joins the show! (0:30) Andrej Karpathy joins Anthropic; hypergrowth and profitability (12:42) Why Americans have turned on AI, anti-human perception (27:22) Trump pulls AI EO, US-China AI relationship, dystopian AI layoffs (45:19) SpaceX S-1 tear down! Breaking down the three major businesses and the case for a $2T valuation (1:11:22) Nvidia smashes earnings but stock falls, why",
+      "guestTags": [
+        "Elon Musk",
+        "Alex Karp",
+        "Jensen Huang"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "This HORRIFIC Strategy Puts Every American in Danger",
@@ -116,20 +134,6 @@
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Finally, the Trump administration put out a counterterrorism strategy. Don’t get too hopeful about it, though — it’s a disaster.\n\nShopify: Start your business today with the industry’s best business partner, Shopify. Sign up for your one-dollar-per-month trial today at shopify.com/watch\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "“Happy Hour”: Massie’s Defeat, Media Distrust, and the Botox Dilemma: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/c7269d3b-6948-43e5-8a89-c5107bb1d5e3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=c7269d3b-6948-43e5-8a89-c5107bb1d5e3&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-05-22T20:00:00.000Z",
-      "duration": "01:20:51",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky responds to a number of viewer questions about politics and culture. She opens with a discussion about the SLPC and what parents can do if the curriculum is in their child’s school. She than discusses the importance of legal colorblindness, human dignity and protecting life. Several questions involve Kentucky Congressman Thomas Massie’s recen",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -205,7 +209,13 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
+    "Elon Musk": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Alex Karp": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Jensen Huang": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }
