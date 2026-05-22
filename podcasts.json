@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-21T23:08:26.429Z",
+  "lastUpdated": "2026-05-22T04:11:21.331Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
-  "taggedCount": 1630,
+  "taggedCount": 1629,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Interview with Jeremy Cordon",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/8fa537f1-dd1c-463f-bbed-546521a288ee.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/8fa537f1-dd1c-463f-bbed-546521a288ee.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-22T00:00:00.000Z",
+      "duration": "00:38:54",
+      "image": "https://content.production.cdn.art19.com/images/8c/f9/6c/7f/8cf96c7f-1514-41c9-8e57-9fa0042f7270/3ab8b1791db4ef7adff53dc5f8dc3c5dfaf1e051ca084cbf244645c7aebb0d3b9b7235783f9d68ce0dcd0f772e1ccea34f35d0e37d6efba089f531674347b774.jpeg",
+      "desc": "Dave interviews Jeremy Cordon, the president of Goldback. They discuss Goldback and how they fit into the modern economy, the effect of leaving the gold standard, the modern talking point of \"unaffordability\", and more.Goldback - https://www.goldback.com/Apply to Become a Goldback Merchant - https://www.goldback.com/become-a-merchant/#brxe-fycukkSupport Our Sponsors:Fast Growing Trees - Use code P",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -54,20 +66,6 @@
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Bryce Crawford is a Christian evangelist and street preacher known for direct, face-to-face gospel conversations in public spaces. He grew up in a church-influenced environment but experienced intense anxiety, depression, and spiritual confusion as a teenager, eventually becoming bitter toward religion. At age 17, after reaching a personal crisis point in late 2020, Crawford describes a dramatic c",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Massie 2028",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/70ce4612-9957-4e58-bd42-e1f063ebcd87.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/70ce4612-9957-4e58-bd42-e1f063ebcd87.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-05-20T21:00:00.000Z",
-      "duration": "00:53:15",
-      "image": "https://content.production.cdn.art19.com/images/27/78/de/46/2778de46-9041-4417-8b47-722ffd6b332b/f9de0b263e15945a584127f20f8beeba9b5d3f66e87b736557099b2f794fde728f6e9c47108053d062ca706dd0f120786d1c2cb4d96b7e4fbe50bfe6d7459de6.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Thomas Massie's loss in Kentucky, why they're being optimistic, debunk propaganda about why he lost, and more.Support Our Sponsors:Troll Co - https://www.trollco.com/problem and use code DAVE25 for 25% off your first orderSheath - https://sheathunderwear.com use promo ",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -108,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Interview with Jeremy Cordon",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/8fa537f1-dd1c-463f-bbed-546521a288ee.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/8fa537f1-dd1c-463f-bbed-546521a288ee.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-22T00:00:00.000Z",
+      "duration": "00:38:54",
+      "image": "https://content.production.cdn.art19.com/images/8c/f9/6c/7f/8cf96c7f-1514-41c9-8e57-9fa0042f7270/3ab8b1791db4ef7adff53dc5f8dc3c5dfaf1e051ca084cbf244645c7aebb0d3b9b7235783f9d68ce0dcd0f772e1ccea34f35d0e37d6efba089f531674347b774.jpeg",
+      "desc": "Dave interviews Jeremy Cordon, the president of Goldback. They discuss Goldback and how they fit into the modern economy, the effect of leaving the gold standard, the modern talking point of \"unaffordability\", and more.Goldback - https://www.goldback.com/Apply to Become a Goldback Merchant - https://www.goldback.com/become-a-merchant/#brxe-fycukkSupport Our Sponsors:Fast Growing Trees - Use code P",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2503 - Eric Weinstein",
@@ -156,20 +166,6 @@
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Bryce Crawford is a Christian evangelist and street preacher known for direct, face-to-face gospel conversations in public spaces. He grew up in a church-influenced environment but experienced intense anxiety, depression, and spiritual confusion as a teenager, eventually becoming bitter toward religion. At age 17, after reaching a personal crisis point in late 2020, Crawford describes a dramatic c",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Massie 2028",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/70ce4612-9957-4e58-bd42-e1f063ebcd87.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/70ce4612-9957-4e58-bd42-e1f063ebcd87.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-05-20T21:00:00.000Z",
-      "duration": "00:53:15",
-      "image": "https://content.production.cdn.art19.com/images/27/78/de/46/2778de46-9041-4417-8b47-722ffd6b332b/f9de0b263e15945a584127f20f8beeba9b5d3f66e87b736557099b2f794fde728f6e9c47108053d062ca706dd0f120786d1c2cb4d96b7e4fbe50bfe6d7459de6.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Thomas Massie's loss in Kentucky, why they're being optimistic, debunk propaganda about why he lost, and more.Support Our Sponsors:Troll Co - https://www.trollco.com/problem and use code DAVE25 for 25% off your first orderSheath - https://sheathunderwear.com use promo ",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -211,9 +207,6 @@
   "guestIndex": {
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Dave Smith": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
   }
 }
