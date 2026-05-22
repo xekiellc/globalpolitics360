@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T12:26:49.040Z",
+  "lastUpdated": "2026-05-22T16:30:55.806Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "L01CcCA3_o8",
-      "show": "TRIGGERnometry",
-      "title": "The West Must Choose",
-      "url": "https://www.youtube.com/watch?v=L01CcCA3_o8",
-      "date": "2026-05-22T09:33:15.000Z",
-      "image": "https://i1.ytimg.com/vi/L01CcCA3_o8/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "uk6DH9WK5Tg",
+      "show": "Theo Von",
+      "title": "Theo Tries an Intense Breathwork Exercise",
+      "url": "https://www.youtube.com/watch?v=uk6DH9WK5Tg",
+      "date": "2026-05-22T15:00:35.000Z",
+      "image": "https://i2.ytimg.com/vi/uk6DH9WK5Tg/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #641 | Breathing Expert James Nestor \nFull Episode: \n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: https://",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "L01CcCA3_o8",
-      "show": "TRIGGERnometry",
-      "title": "The West Must Choose",
-      "url": "https://www.youtube.com/watch?v=L01CcCA3_o8",
-      "date": "2026-05-22T09:33:15.000Z",
-      "image": "https://i1.ytimg.com/vi/L01CcCA3_o8/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. \n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "uk6DH9WK5Tg",
+      "show": "Theo Von",
+      "title": "Theo Tries an Intense Breathwork Exercise",
+      "url": "https://www.youtube.com/watch?v=uk6DH9WK5Tg",
+      "date": "2026-05-22T15:00:35.000Z",
+      "image": "https://i2.ytimg.com/vi/uk6DH9WK5Tg/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #641 | Breathing Expert James Nestor \nFull Episode: \n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: https://",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
