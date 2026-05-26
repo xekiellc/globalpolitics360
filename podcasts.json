@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-05-26T10:07:45.174Z",
+  "lastUpdated": "2026-05-26T15:54:25.984Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1633,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "5/26/26: Trump Bombs Iran, Prof Marandi On Negotiations, Trump Pauses Taiwan Arms Sales",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8920bba6-6a4c-4bb1-ae42-b45600fa2c9d/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/5-26-26-trump-bombs-iran-prof-marandi-on-negotiations-trump-pauses-taiwan-arms-sales",
+      "date": "2026-05-26T15:27:22.000Z",
+      "duration": "3561",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump bombs Iran as Israel ramps up Lebanon attacks, Professor Marandi on neocons killing deal, Trump pauses Taiwan arms sales. Professor Marandi: https://x.com/s_m_marandi?s=20&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingp",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "A Response to Michael Knowles",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/52dfc961-a139-421d-9ac8-11e34c584221.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/52dfc961-a139-421d-9ac8-11e34c584221.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-26T12:30:00.000Z",
+      "duration": "01:12:34",
+      "image": "https://content.production.cdn.art19.com/images/fb/27/ac/da/fb27acda-5382-45ea-9d65-54721672cb4f/8e5bd484fc2d230419b2d47dc18e254816d71bac6ef7ab24ae62314c9f967841f32769c0c0fa0430a61cd44405d9862818c3998f383113f3c948e0208c3b75b2.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss new developments on the war in Iran, Thomas Massie hinting at the idea of potentially running for office again in 2028, Michael Knowles' response to Dave's analysis of Thomas Massie's recent race, and more.Support Our Sponsors:Troll Co - https://www.trollco.com/problem",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
@@ -18,18 +44,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#769 - MAT EDGAR + CHRIS O'CONNOR",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU4836979572.mp3?updated=1779732008",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU4836979572.mp3?updated=1779732008",
-      "date": "2026-05-26T01:00:00.000Z",
-      "duration": "8220",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Chris O'Connor, Mat Edgar, Pat O'Neill, Dedrick Flynn, MartinPhillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling,Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, BrianRedban - RECORDED– 05/11/2026\n\n\n\nSign up for your one-dollar-per-month trial today at https://shopify.com/killtony\n\n\n\nRight now get 10% off at https://tecovas.com/killtony when you sign up for email and te",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2505 - Tom Segura",
@@ -39,18 +53,6 @@
       "duration": "10198",
       "image": "https://megaphone.imgix.net/podcasts/18b33436-588d-11f1-bd69-4b50659ad7ad/image/5517f0f66165c535b74ee785730ad963.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Tom Segura is a comedian, actor, author, and restaurateur. He hosts “Your Mom’s House” with his wife, comedian Christina Pazsitzky, and “Two Bears, One Cave” with comedian Bert Kreischer. He is also the owner of Ciccio Bomba, a chain of Italian cafes with three locations in Austin, Texas, and the author of “I’d Like to Play Alone, Please: Essays.” Season two of his series “Bad Thoughts” is streami",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "5/24/26: Neocons FREAK As Trump Says Iran Deal INCHES Away",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/af6b0c1f-a542-4389-aad0-b45400e494cf/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/5-24-26-neocons-freak-as-trump-says-iran-deal-inches-away",
-      "date": "2026-05-24T14:02:06.000Z",
-      "duration": "1697",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar are joined by Trita Parsi to break down the latest on a possible Iran deal. &nbsp; Trita Parsi: https://x.com/tparsi?s=20&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy i",
       "guestTags": []
     },
     {
@@ -108,6 +110,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "5/26/26: Trump Bombs Iran, Prof Marandi On Negotiations, Trump Pauses Taiwan Arms Sales",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8920bba6-6a4c-4bb1-ae42-b45600fa2c9d/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/5-26-26-trump-bombs-iran-prof-marandi-on-negotiations-trump-pauses-taiwan-arms-sales",
+      "date": "2026-05-26T15:27:22.000Z",
+      "duration": "3561",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump bombs Iran as Israel ramps up Lebanon attacks, Professor Marandi on neocons killing deal, Trump pauses Taiwan arms sales. Professor Marandi: https://x.com/s_m_marandi?s=20&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingp",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "A Response to Michael Knowles",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/52dfc961-a139-421d-9ac8-11e34c584221.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/52dfc961-a139-421d-9ac8-11e34c584221.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-05-26T12:30:00.000Z",
+      "duration": "01:12:34",
+      "image": "https://content.production.cdn.art19.com/images/fb/27/ac/da/fb27acda-5382-45ea-9d65-54721672cb4f/8e5bd484fc2d230419b2d47dc18e254816d71bac6ef7ab24ae62314c9f967841f32769c0c0fa0430a61cd44405d9862818c3998f383113f3c948e0208c3b75b2.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss new developments on the war in Iran, Thomas Massie hinting at the idea of potentially running for office again in 2028, Michael Knowles' response to Dave's analysis of Thomas Massie's recent race, and more.Support Our Sponsors:Troll Co - https://www.trollco.com/problem",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#307 Ron White - The 2,500-Year-Old Memory Skill the Romans Used That We've Completely Lost",
@@ -120,18 +148,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Kill Tony",
-      "title": "#769 - MAT EDGAR + CHRIS O'CONNOR",
-      "audioUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU4836979572.mp3?updated=1779732008",
-      "listenUrl": "https://pdst.fm/e/mgln.ai/e/135/verifi.podscribe.com/rss/p/swap.fm/track/i7NUCPwi3tJP053nG6mP/traffic.megaphone.fm/STU4836979572.mp3?updated=1779732008",
-      "date": "2026-05-26T01:00:00.000Z",
-      "duration": "8220",
-      "image": "https://megaphone.imgix.net/podcasts/0e93cde2-9672-11ee-9c08-efd392b695bc/image/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Chris O'Connor, Mat Edgar, Pat O'Neill, Dedrick Flynn, MartinPhillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling,Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, BrianRedban - RECORDED– 05/11/2026\n\n\n\nSign up for your one-dollar-per-month trial today at https://shopify.com/killtony\n\n\n\nRight now get 10% off at https://tecovas.com/killtony when you sign up for email and te",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2505 - Tom Segura",
@@ -141,18 +157,6 @@
       "duration": "10198",
       "image": "https://megaphone.imgix.net/podcasts/18b33436-588d-11f1-bd69-4b50659ad7ad/image/5517f0f66165c535b74ee785730ad963.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Tom Segura is a comedian, actor, author, and restaurateur. He hosts “Your Mom’s House” with his wife, comedian Christina Pazsitzky, and “Two Bears, One Cave” with comedian Bert Kreischer. He is also the owner of Ciccio Bomba, a chain of Italian cafes with three locations in Austin, Texas, and the author of “I’d Like to Play Alone, Please: Essays.” Season two of his series “Bad Thoughts” is streami",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "5/24/26: Neocons FREAK As Trump Says Iran Deal INCHES Away",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/af6b0c1f-a542-4389-aad0-b45400e494cf/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/5-24-26-neocons-freak-as-trump-says-iran-deal-inches-away",
-      "date": "2026-05-24T14:02:06.000Z",
-      "duration": "1697",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar are joined by Trita Parsi to break down the latest on a possible Iran deal. &nbsp; Trita Parsi: https://x.com/tparsi?s=20&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy i",
       "guestTags": []
     },
     {
@@ -209,6 +213,9 @@
     }
   ],
   "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Elon Musk": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
