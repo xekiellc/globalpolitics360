@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-05-26T21:51:08.746Z",
+  "lastUpdated": "2026-05-26T23:15:09.771Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 31,
+  "taggedCount": 13,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "g83XCfC6ZRs",
-      "show": "Danny Jones Podcast",
-      "title": "DARPA Dolphins are Real.",
-      "url": "https://www.youtube.com/watch?v=g83XCfC6ZRs",
-      "date": "2026-05-26T21:22:45.000Z",
-      "image": "https://i4.ytimg.com/vi/g83XCfC6ZRs/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/uS_i7ZhVGLY?si=SQdaL3kM0V_ASfJy",
-      "guestTags": []
+      "videoId": "ZJFevnwiCww",
+      "show": "All-In Podcast",
+      "title": "Chamath Rips Cloudflare CEO’s Layoff Memo: “Shut the f**k up. You suck at this.”",
+      "url": "https://www.youtube.com/watch?v=ZJFevnwiCww",
+      "date": "2026-05-26T14:51:04.000Z",
+      "image": "https://i3.ytimg.com/vi/ZJFevnwiCww/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "g83XCfC6ZRs",
-      "show": "Danny Jones Podcast",
-      "title": "DARPA Dolphins are Real.",
-      "url": "https://www.youtube.com/watch?v=g83XCfC6ZRs",
-      "date": "2026-05-26T21:22:45.000Z",
-      "image": "https://i4.ytimg.com/vi/g83XCfC6ZRs/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/uS_i7ZhVGLY?si=SQdaL3kM0V_ASfJy",
-      "guestTags": []
+      "videoId": "ZJFevnwiCww",
+      "show": "All-In Podcast",
+      "title": "Chamath Rips Cloudflare CEO’s Layoff Memo: “Shut the f**k up. You suck at this.”",
+      "url": "https://www.youtube.com/watch?v=ZJFevnwiCww",
+      "date": "2026-05-26T14:51:04.000Z",
+      "image": "https://i3.ytimg.com/vi/ZJFevnwiCww/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
