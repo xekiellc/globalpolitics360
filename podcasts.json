@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-27T04:19:54.962Z",
+  "lastUpdated": "2026-05-27T10:06:05.107Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1633,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#660 - Nate Bargatze",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2448269827.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2448269827.mp3",
+      "date": "2026-05-27T09:53:00.000Z",
+      "duration": "7254",
+      "image": "https://megaphone.imgix.net/podcasts/b67922ce-59b0-11f1-996f-3b988a0246b1/image/578ef4cfaa86227a1608c9a6563dc849.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Nate Bargatze is a stand-up comedian, host and actor. His new movie “The Breadwinner” is in theaters this Friday, May 29th.\n\nNate Bargatze returns to talk about writing and starring in his first movie, whether Davy Crockett or Daniel Boone had more aura, and how his idea for an amusement park turned into a reality.\n\nNate Bargatze: https://www.instagram.com/natebargatze/ \n\n“The Breadwinner” in thea",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -41,18 +53,6 @@
       "duration": "3561",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Trump bombs Iran as Israel ramps up Lebanon attacks, Professor Marandi on neocons killing deal, Trump pauses Taiwan arms sales. Professor Marandi: https://x.com/s_m_marandi?s=20&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingp",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#307 Ron White - The 2,500-Year-Old Memory Skill the Romans Used That We've Completely Lost",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2874004606.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2874004606.mp3",
-      "date": "2026-05-26T10:00:00.000Z",
-      "duration": "10844",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ron White is a two-time USA Memory Champion, U.S. Navy veteran, and one of the world's foremost memory training experts. Known as the \"Brain Athlete,\" he has dedicated his career to proving that extraordinary memory is not a gift — it's a trainable skill.\n\nA Texas-based entrepreneur and speaker, White first discovered memory techniques in 1991 at age 18 and has spent over three decades mastering a",
       "guestTags": []
     },
     {
@@ -110,6 +110,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#660 - Nate Bargatze",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2448269827.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2448269827.mp3",
+      "date": "2026-05-27T09:53:00.000Z",
+      "duration": "7254",
+      "image": "https://megaphone.imgix.net/podcasts/b67922ce-59b0-11f1-996f-3b988a0246b1/image/578ef4cfaa86227a1608c9a6563dc849.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Nate Bargatze is a stand-up comedian, host and actor. His new movie “The Breadwinner” is in theaters this Friday, May 29th.\n\nNate Bargatze returns to talk about writing and starring in his first movie, whether Davy Crockett or Daniel Boone had more aura, and how his idea for an amusement park turned into a reality.\n\nNate Bargatze: https://www.instagram.com/natebargatze/ \n\n“The Breadwinner” in thea",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "The War Goes On",
@@ -145,18 +157,6 @@
       "duration": "3561",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Trump bombs Iran as Israel ramps up Lebanon attacks, Professor Marandi on neocons killing deal, Trump pauses Taiwan arms sales. Professor Marandi: https://x.com/s_m_marandi?s=20&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingp",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#307 Ron White - The 2,500-Year-Old Memory Skill the Romans Used That We've Completely Lost",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2874004606.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2874004606.mp3",
-      "date": "2026-05-26T10:00:00.000Z",
-      "duration": "10844",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ron White is a two-time USA Memory Champion, U.S. Navy veteran, and one of the world's foremost memory training experts. Known as the \"Brain Athlete,\" he has dedicated his career to proving that extraordinary memory is not a gift — it's a trainable skill.\n\nA Texas-based entrepreneur and speaker, White first discovered memory techniques in 1991 at age 18 and has spent over three decades mastering a",
       "guestTags": []
     },
     {
