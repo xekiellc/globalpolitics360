@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-05-28T16:13:53.408Z",
+  "lastUpdated": "2026-05-28T20:32:19.929Z",
   "showCount": 22,
   "episodeCount": 8,
   "archiveCount": 8,
   "taggedCount": 1635,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2506 - Michelle Thaller",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2663008219.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2663008219.mp3",
+      "date": "2026-05-28T17:00:00.000Z",
+      "duration": "9781",
+      "image": "https://megaphone.imgix.net/podcasts/c9848b58-5a58-11f1-af46-1791c124921c/image/c68a8f811cb24486b2f4db238a0ddac7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Michelle Thaller, PhD, is an astrophysicist, award-winning science communicator, and retired NASA executive who worked at NASA’s Goddard Space Flight Center and NASA Headquarters. Her work has appeared in documentaries, podcasts, and television programs on The Science Channel, History Channel, Discovery, National Geographic, NPR, and many other platforms.www.youtube.com/@mlthallerwww.drmichelletha",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -41,18 +53,6 @@
       "duration": "12520",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Tara Suwinyattichaiporn is a tenured professor of Human Communication Studies at California State University, Fullerton, where she specializes in sexual and relational communication, online communication, and interpersonal relationships. Her work focuses on how people talk about intimacy, dating, culture, and long-term partnership and how communication shapes everything from attraction and com",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science &amp; Process of Healing from Grief",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM9466548315.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-and-process-of-healing-from-grief",
-      "date": "2026-05-28T08:00:00.000Z",
-      "duration": "2359",
-      "image": "https://megaphone.imgix.net/podcasts/99e90962-5a5f-11f1-ba4d-eb43c61a17f9/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I explain the neuroscience of grief, including how the brain maps relationships across three dimensions — space, time, and closeness — and why losing someone requires a remapping of those neural circuits. I describe how grief differs from depression, the role of oxytocin in driving yearning after a loss, and why people move through grief at different rates.",
       "guestTags": []
     },
     {
@@ -106,6 +106,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2506 - Michelle Thaller",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2663008219.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2663008219.mp3",
+      "date": "2026-05-28T17:00:00.000Z",
+      "duration": "9781",
+      "image": "https://megaphone.imgix.net/podcasts/c9848b58-5a58-11f1-af46-1791c124921c/image/c68a8f811cb24486b2f4db238a0ddac7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Michelle Thaller, PhD, is an astrophysicist, award-winning science communicator, and retired NASA executive who worked at NASA’s Goddard Space Flight Center and NASA Headquarters. Her work has appeared in documentaries, podcasts, and television programs on The Science Channel, History Channel, Discovery, National Geographic, NPR, and many other platforms.www.youtube.com/@mlthallerwww.drmichelletha",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "5/28/26: U.S. &amp; Iran Exchange Fire, Trump Says He Doesn't Care About Midterms, CDC Scrambles Amid Ebola Outbreak",
@@ -141,18 +153,6 @@
       "duration": "12520",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Tara Suwinyattichaiporn is a tenured professor of Human Communication Studies at California State University, Fullerton, where she specializes in sexual and relational communication, online communication, and interpersonal relationships. Her work focuses on how people talk about intimacy, dating, culture, and long-term partnership and how communication shapes everything from attraction and com",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science &amp; Process of Healing from Grief",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM9466548315.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-and-process-of-healing-from-grief",
-      "date": "2026-05-28T08:00:00.000Z",
-      "duration": "2359",
-      "image": "https://megaphone.imgix.net/podcasts/99e90962-5a5f-11f1-ba4d-eb43c61a17f9/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I explain the neuroscience of grief, including how the brain maps relationships across three dimensions — space, time, and closeness — and why losing someone requires a remapping of those neural circuits. I describe how grief differs from depression, the role of oxytocin in driving yearning after a loss, and why people move through grief at different rates.",
       "guestTags": []
     },
     {

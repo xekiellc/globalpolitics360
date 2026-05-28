@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T16:13:53.949Z",
+  "lastUpdated": "2026-05-28T20:32:20.657Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8L14ufi8YI8",
-      "show": "All-In Podcast",
-      "title": "David Sacks: AI Will Create More Jobs, Not Destroy Them",
-      "url": "https://www.youtube.com/watch?v=8L14ufi8YI8",
-      "date": "2026-05-28T14:33:28.000Z",
-      "image": "https://i1.ytimg.com/vi/8L14ufi8YI8/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "aJnnJw3MZfU",
+      "show": "Shawn Ryan Show",
+      "title": "She Almost Gave Shawn THIS as a Gift 💀",
+      "url": "https://www.youtube.com/watch?v=aJnnJw3MZfU",
+      "date": "2026-05-28T20:00:27.000Z",
+      "image": "https://i2.ytimg.com/vi/aJnnJw3MZfU/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8L14ufi8YI8",
-      "show": "All-In Podcast",
-      "title": "David Sacks: AI Will Create More Jobs, Not Destroy Them",
-      "url": "https://www.youtube.com/watch?v=8L14ufi8YI8",
-      "date": "2026-05-28T14:33:28.000Z",
-      "image": "https://i1.ytimg.com/vi/8L14ufi8YI8/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "aJnnJw3MZfU",
+      "show": "Shawn Ryan Show",
+      "title": "She Almost Gave Shawn THIS as a Gift 💀",
+      "url": "https://www.youtube.com/watch?v=aJnnJw3MZfU",
+      "date": "2026-05-28T20:00:27.000Z",
+      "image": "https://i2.ytimg.com/vi/aJnnJw3MZfU/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
