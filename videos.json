@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-05-28T10:14:52.302Z",
+  "lastUpdated": "2026-05-28T16:13:53.949Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 31,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "gy2YVq3fLB8",
-      "show": "Shawn Ryan Show",
-      "title": "This Bible Verse Will Change Your Life 🤯",
-      "url": "https://www.youtube.com/watch?v=gy2YVq3fLB8",
-      "date": "2026-05-28T02:00:05.000Z",
-      "image": "https://i4.ytimg.com/vi/gy2YVq3fLB8/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "8L14ufi8YI8",
+      "show": "All-In Podcast",
+      "title": "David Sacks: AI Will Create More Jobs, Not Destroy Them",
+      "url": "https://www.youtube.com/watch?v=8L14ufi8YI8",
+      "date": "2026-05-28T14:33:28.000Z",
+      "image": "https://i1.ytimg.com/vi/8L14ufi8YI8/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "gy2YVq3fLB8",
-      "show": "Shawn Ryan Show",
-      "title": "This Bible Verse Will Change Your Life 🤯",
-      "url": "https://www.youtube.com/watch?v=gy2YVq3fLB8",
-      "date": "2026-05-28T02:00:05.000Z",
-      "image": "https://i4.ytimg.com/vi/gy2YVq3fLB8/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "8L14ufi8YI8",
+      "show": "All-In Podcast",
+      "title": "David Sacks: AI Will Create More Jobs, Not Destroy Them",
+      "url": "https://www.youtube.com/watch?v=8L14ufi8YI8",
+      "date": "2026-05-28T14:33:28.000Z",
+      "image": "https://i1.ytimg.com/vi/8L14ufi8YI8/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
