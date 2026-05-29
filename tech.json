@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-05-29T10:04:41.888Z",
+  "lastUpdated": "2026-05-29T15:55:22.958Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Someone Just Inscribed the U.S. Constitution onto the Bitcoin Blockchain",
+      "url": "https://bitcoinmagazine.com/news/someone-inscribed-the-constitution-bitcoin",
+      "date": "2026-05-29T14:07:32.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Someone-Just-Inscribed-the-U.S.-Constitution-onto-the-Bitcoin-Blockchain.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Charts of the Week: Retail to the Moon",
+      "url": "https://www.a16z.news/p/charts-of-the-week-retail-to-the",
+      "date": "2026-05-29T14:02:26.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/0d1e1c5d-b0b5-499b-974b-82847040e48b_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Texas Names Bitcoin Reserve Advisory Committee as State Eyes Direct Bitcoin Custody",
+      "url": "https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee",
+      "date": "2026-05-29T13:10:28.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Pics-46.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #195",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-195",
+      "date": "2026-05-29T12:32:20.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!PcCU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e2cf505-f10b-44ac-90b4-5314ca1de52a_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin Miners Face AI Squeeze as Hash Rate Flattens and Network Enters New Security Phase, Fidelity Says",
       "url": "https://bitcoinmagazine.com/news/bitcoin-miners-face-ai-squeeze",
@@ -93,15 +129,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Strive&#8217;s SATA Tops Estimated 490 Bitcoin in a Single Day — More Than the Entire Daily Mining Supply",
-      "url": "https://bitcoinmagazine.com/news/strives-sata-tops-estimated-490-bitcoin",
-      "date": "2026-05-27T20:36:54.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strive-Expands-Bitcoin-Treasury-With-61.4-Million-Purchase-Holdings-Reach-14557-BTC.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Thank God For Data Centers",
       "url": "https://www.notboring.co/p/thank-god-for-data-centers",
       "date": "2026-05-27T19:19:05.000Z",
@@ -109,15 +136,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Miami IT Worker Arrested in $1.9 Million Bitcoin Theft from Former Boss",
-      "url": "https://bitcoinmagazine.com/news/miami-it-worker-in-1-9-million-bitcoin",
-      "date": "2026-05-27T18:48:35.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Miami-IT-Worker-Arrested-in-1.9-Million-Bitcoin-Theft-from-Former-Boss.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Avoiding Death on the Yellow Brick Road",
@@ -340,24 +358,6 @@
       "url": "https://www.a16z.news/p/the-ai-job-apocalypse-is-a-complete",
       "date": "2026-05-06T14:00:39.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/3ab9324f-a494-4922-892c-a8a017464650_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Meet the a16z Growth Engineer Fellows",
-      "url": "https://www.a16z.news/p/meet-the-a16z-growth-engineer-fellows",
-      "date": "2026-05-06T13:57:48.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/851732c8-86c4-4b1f-914d-eba4ff7bd2dc_848x444.webp",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "System Integration as Software",
-      "url": "https://www.a16z.news/p/system-integration-as-software",
-      "date": "2026-05-05T18:40:47.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/10b210ff-aed2-4bde-8026-0f26b6aea75e_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
