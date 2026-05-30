@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-05-30T10:05:31.624Z",
+  "lastUpdated": "2026-05-30T13:52:15.711Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "What America Needs from a New FDA Commissioner",
+      "url": "https://blog.joelonsdale.com/p/what-america-needs-from-a-new-fda",
+      "date": "2026-05-30T11:02:27.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!vl9-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c66ae03-782a-4001-8f92-255535688ca3_3072x1869.png",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
     {
       "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
       "url": "https://bitcoinmagazine.com/business/coinkite-launches-coldcard-mk5-major-ux-upgrades-to-flagship-bitcoin-hardware-wallet",
@@ -349,15 +358,6 @@
       "url": "https://www.a16z.news/p/how-an-ai-bill-becomes-a-law",
       "date": "2026-05-07T14:00:51.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/7088ff36-ce9b-499c-a1e7-6baae9f9aad3_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Ethos",
-      "url": "https://www.a16z.news/p/investing-in-ethos",
-      "date": "2026-05-06T15:03:12.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/eb749442-3554-4ba7-8841-beae3dc781c7_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
