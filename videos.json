@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T17:15:48.279Z",
+  "lastUpdated": "2026-05-30T19:26:08.766Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "keI-wXX2hf0",
-      "show": "All-In Podcast",
-      "title": "Anthropic Thinks It’s Building God, And That's Terrifying - Bill Gurley",
-      "url": "https://www.youtube.com/watch?v=keI-wXX2hf0",
-      "date": "2026-05-30T15:58:09.000Z",
-      "image": "https://i4.ytimg.com/vi/keI-wXX2hf0/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "OmZilyb--cE",
+      "show": "Shawn Ryan Show",
+      "title": "&quot;Extremely Damaging&quot; - Sex Expert Breaks Down the Porn Addiction Crisis",
+      "url": "https://www.youtube.com/watch?v=OmZilyb--cE",
+      "date": "2026-05-30T19:00:03.000Z",
+      "image": "https://i4.ytimg.com/vi/OmZilyb--cE/hqdefault.jpg",
+      "desc": "What is OnlyFans and porn REALLY doing to an entire generation? In this Hot Question, sex and relationship expert Dr. Tara sits down with Shawn Ryan to unpack one of the most uncomfortable cultural shifts of our time — a generation that's lonelier, more medicated, and having less sex and dating than",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "keI-wXX2hf0",
-      "show": "All-In Podcast",
-      "title": "Anthropic Thinks It’s Building God, And That's Terrifying - Bill Gurley",
-      "url": "https://www.youtube.com/watch?v=keI-wXX2hf0",
-      "date": "2026-05-30T15:58:09.000Z",
-      "image": "https://i4.ytimg.com/vi/keI-wXX2hf0/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "OmZilyb--cE",
+      "show": "Shawn Ryan Show",
+      "title": "&quot;Extremely Damaging&quot; - Sex Expert Breaks Down the Porn Addiction Crisis",
+      "url": "https://www.youtube.com/watch?v=OmZilyb--cE",
+      "date": "2026-05-30T19:00:03.000Z",
+      "image": "https://i4.ytimg.com/vi/OmZilyb--cE/hqdefault.jpg",
+      "desc": "What is OnlyFans and porn REALLY doing to an entire generation? In this Hot Question, sex and relationship expert Dr. Tara sits down with Shawn Ryan to unpack one of the most uncomfortable cultural shifts of our time — a generation that's lonelier, more medicated, and having less sex and dating than",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
