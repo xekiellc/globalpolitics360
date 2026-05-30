@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-05-30T15:14:38.151Z",
+  "lastUpdated": "2026-05-30T17:15:48.279Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 33,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "BL0eAZxDj-w",
-      "show": "Theo Von",
-      "title": "Nate Bargatze on his time working at Applebees",
-      "url": "https://www.youtube.com/watch?v=BL0eAZxDj-w",
-      "date": "2026-05-30T13:45:30.000Z",
-      "image": "https://i3.ytimg.com/vi/BL0eAZxDj-w/hqdefault.jpg",
-      "desc": "#shorts #natebargatze #theovon",
-      "guestTags": []
+      "videoId": "keI-wXX2hf0",
+      "show": "All-In Podcast",
+      "title": "Anthropic Thinks It’s Building God, And That's Terrifying - Bill Gurley",
+      "url": "https://www.youtube.com/watch?v=keI-wXX2hf0",
+      "date": "2026-05-30T15:58:09.000Z",
+      "image": "https://i4.ytimg.com/vi/keI-wXX2hf0/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "BL0eAZxDj-w",
-      "show": "Theo Von",
-      "title": "Nate Bargatze on his time working at Applebees",
-      "url": "https://www.youtube.com/watch?v=BL0eAZxDj-w",
-      "date": "2026-05-30T13:45:30.000Z",
-      "image": "https://i3.ytimg.com/vi/BL0eAZxDj-w/hqdefault.jpg",
-      "desc": "#shorts #natebargatze #theovon",
-      "guestTags": []
+      "videoId": "keI-wXX2hf0",
+      "show": "All-In Podcast",
+      "title": "Anthropic Thinks It’s Building God, And That's Terrifying - Bill Gurley",
+      "url": "https://www.youtube.com/watch?v=keI-wXX2hf0",
+      "date": "2026-05-30T15:58:09.000Z",
+      "image": "https://i4.ytimg.com/vi/keI-wXX2hf0/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
