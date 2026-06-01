@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-06-01T17:53:30.959Z",
+  "lastUpdated": "2026-06-01T21:39:42.200Z",
   "showCount": 22,
-  "episodeCount": 8,
-  "archiveCount": 8,
+  "episodeCount": 9,
+  "archiveCount": 9,
   "taggedCount": 1638,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9yc3Yuc2ltcGxl",
+      "show": "Kill Tony",
+      "title": "KILL TONY #770",
+      "audioUrl": "https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/bbf1f663-b614-4fc6-b720-c9cb87768279/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=bbf1f663-b614-4fc6-b720-c9cb87768279&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-06-01T20:00:00.000Z",
+      "duration": "02:11:02",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Tom Segura, Sheryl Underwood, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/18/2026\n\nTHIS EPISODE IS SPONSORED BY:\n\nVisit https://prizepicks.onelink.me/LME0/TONY and use code TONY for $50 in lineups when you play your first $5 lineup! PrizePicks. A Pref",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -105,6 +117,18 @@
     }
   ],
   "archive": [
+    {
+      "id": "aHR0cHM6Ly9yc3Yuc2ltcGxl",
+      "show": "Kill Tony",
+      "title": "KILL TONY #770",
+      "audioUrl": "https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/bbf1f663-b614-4fc6-b720-c9cb87768279/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=bbf1f663-b614-4fc6-b720-c9cb87768279&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-06-01T20:00:00.000Z",
+      "duration": "02:11:02",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Tom Segura, Sheryl Underwood, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/18/2026\n\nTHIS EPISODE IS SPONSORED BY:\n\nVisit https://prizepicks.onelink.me/LME0/TONY and use code TONY for $50 in lineups when you play your first $5 lineup! PrizePicks. A Pref",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
