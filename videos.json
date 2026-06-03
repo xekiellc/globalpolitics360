@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-06-03T11:11:50.345Z",
+  "lastUpdated": "2026-06-03T17:00:53.458Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 34,
+  "taggedCount": 33,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "QX8g3sgkrzA",
-      "show": "Shawn Ryan Show",
-      "title": "And Now It’s Just Crickets?! 😳",
-      "url": "https://www.youtube.com/watch?v=QX8g3sgkrzA",
-      "date": "2026-06-03T00:00:13.000Z",
-      "image": "https://i2.ytimg.com/vi/QX8g3sgkrzA/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "DFsZnOj-198",
+      "show": "TRIGGERnometry",
+      "title": "Screen Time Ruins Kids",
+      "url": "https://www.youtube.com/watch?v=DFsZnOj-198",
+      "date": "2026-06-03T15:42:12.000Z",
+      "image": "https://i1.ytimg.com/vi/DFsZnOj-198/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "QX8g3sgkrzA",
-      "show": "Shawn Ryan Show",
-      "title": "And Now It’s Just Crickets?! 😳",
-      "url": "https://www.youtube.com/watch?v=QX8g3sgkrzA",
-      "date": "2026-06-03T00:00:13.000Z",
-      "image": "https://i2.ytimg.com/vi/QX8g3sgkrzA/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "DFsZnOj-198",
+      "show": "TRIGGERnometry",
+      "title": "Screen Time Ruins Kids",
+      "url": "https://www.youtube.com/watch?v=DFsZnOj-198",
+      "date": "2026-06-03T15:42:12.000Z",
+      "image": "https://i1.ytimg.com/vi/DFsZnOj-198/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
