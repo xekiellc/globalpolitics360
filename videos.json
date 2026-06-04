@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T10:04:35.864Z",
+  "lastUpdated": "2026-06-04T15:28:56.397Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pHJAtkJC2aw",
-      "show": "Shawn Ryan Show",
-      "title": "Hunter Biden Says His Photos Were Faked 🤯",
-      "url": "https://www.youtube.com/watch?v=pHJAtkJC2aw",
-      "date": "2026-06-04T00:00:21.000Z",
-      "image": "https://i1.ytimg.com/vi/pHJAtkJC2aw/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "kehnnqfprns",
+      "show": "TRIGGERnometry",
+      "title": "Henry Nowak: How Anti-Racism Gave You Racism - Konstantin Kisin",
+      "url": "https://www.youtube.com/watch?v=kehnnqfprns",
+      "date": "2026-06-04T12:46:32.000Z",
+      "image": "https://i4.ytimg.com/vi/kehnnqfprns/hqdefault.jpg",
+      "desc": "Henry Nowak: How Anti-Racism Gave You Racism - Konstantin Kisin - https://substack.com/@konstantinkisin\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pHJAtkJC2aw",
-      "show": "Shawn Ryan Show",
-      "title": "Hunter Biden Says His Photos Were Faked 🤯",
-      "url": "https://www.youtube.com/watch?v=pHJAtkJC2aw",
-      "date": "2026-06-04T00:00:21.000Z",
-      "image": "https://i1.ytimg.com/vi/pHJAtkJC2aw/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "kehnnqfprns",
+      "show": "TRIGGERnometry",
+      "title": "Henry Nowak: How Anti-Racism Gave You Racism - Konstantin Kisin",
+      "url": "https://www.youtube.com/watch?v=kehnnqfprns",
+      "date": "2026-06-04T12:46:32.000Z",
+      "image": "https://i4.ytimg.com/vi/kehnnqfprns/hqdefault.jpg",
+      "desc": "Henry Nowak: How Anti-Racism Gave You Racism - Konstantin Kisin - https://substack.com/@konstantinkisin\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
