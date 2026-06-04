@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-06-04T18:23:53.793Z",
+  "lastUpdated": "2026-06-04T21:46:18.248Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1644,
+  "taggedCount": 1645,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/TL_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox",
+      "date": "2026-06-04T18:23:00.000Z",
+      "duration": "32:45",
+      "image": "https://static.libsyn.com/p/assets/4/c/3/0/4c300253a3ce6f7516c3140a3186d450/Podcast_Graphic_-_Liquidity-20260604-rdp09014pn.png",
+      "desc": "(0:00) Coatue's Thomas Laffont joins the Besties! (0:30) Public markets are back as AI is dominates the \"Unicorn Economy\" (5:15) The $4T AI IPO explosion (7:48) The case for SpaceX: Compounding launch monopoly and Starlink (10:38) The 10x Paradox: Why we're seeing unprecedented scaling (15:33) Segmenting AI markets and future impact (18:32) Bestie Q&A: Power Law in AI, future of VC, where revenue ",
+      "guestTags": [
+        "Elon Musk"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -28,20 +42,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Shawn Ryan says he was duped by Trump, protests erupt in Albania over Ivanka Trump island, Rubio confronted on Trump falling asleep. Ken Klippenstein: https://www.kenklippenstein.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.bre",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "AI Jobs Panic, FISA Fight, Pelley’s OUT at CBS, PLUS Emily vs Obama Bro",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/212173e4-0450-405c-b249-172946643a02/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=212173e4-0450-405c-b249-172946643a02&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-06-04T11:00:00.000Z",
-      "duration": "01:23:44",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/a177c620-6406-46b6-9d6a-af67e86244bc/3000x3000/ap_95_pip.jpg?aid=rss_feed",
-      "desc": "On the latest edition of “After Party,” Emily Jashinsky is joined by Republican Senator Rand Paul of Kentucky. They begin with a look at the latest developments in the Iran War and how President Trump is handling himself. Then they discuss the fight over renewing FISA Section 702, and Senator Paul offers his thoughts about Kentucky Congressman Thomas Massie’s loss. Next Emily is joined by Wynton H",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -120,6 +120,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/TL_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox",
+      "date": "2026-06-04T18:23:00.000Z",
+      "duration": "32:45",
+      "image": "https://static.libsyn.com/p/assets/4/c/3/0/4c300253a3ce6f7516c3140a3186d450/Podcast_Graphic_-_Liquidity-20260604-rdp09014pn.png",
+      "desc": "(0:00) Coatue's Thomas Laffont joins the Besties! (0:30) Public markets are back as AI is dominates the \"Unicorn Economy\" (5:15) The $4T AI IPO explosion (7:48) The case for SpaceX: Compounding launch monopoly and Starlink (10:38) The 10x Paradox: Why we're seeing unprecedented scaling (15:33) Segmenting AI markets and future impact (18:32) Bestie Q&A: Power Law in AI, future of VC, where revenue ",
+      "guestTags": [
+        "Elon Musk"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2509 - Caleb Hammer",
@@ -142,20 +156,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Shawn Ryan says he was duped by Trump, protests erupt in Albania over Ivanka Trump island, Rubio confronted on Trump falling asleep. Ken Klippenstein: https://www.kenklippenstein.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.bre",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "AI Jobs Panic, FISA Fight, Pelley’s OUT at CBS, PLUS Emily vs Obama Bro",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/212173e4-0450-405c-b249-172946643a02/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=212173e4-0450-405c-b249-172946643a02&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-06-04T11:00:00.000Z",
-      "duration": "01:23:44",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/a177c620-6406-46b6-9d6a-af67e86244bc/3000x3000/ap_95_pip.jpg?aid=rss_feed",
-      "desc": "On the latest edition of “After Party,” Emily Jashinsky is joined by Republican Senator Rand Paul of Kentucky. They begin with a look at the latest developments in the Iran War and how President Trump is handling himself. Then they discuss the fight over renewing FISA Section 702, and Senator Paul offers his thoughts about Kentucky Congressman Thomas Massie’s loss. Next Emily is joined by Wynton H",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -245,7 +245,7 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
+    "Elon Musk": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Dave Smith": [
