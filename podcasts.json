@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-06-04T04:43:34.739Z",
+  "lastUpdated": "2026-06-04T10:04:34.293Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1642,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#310 Josh Duhamel - Transformers Star Reveals His 26-Acre Off-Grid Survival Compound",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3401437048.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3401437048.mp3",
+      "date": "2026-06-04T10:00:00.000Z",
+      "duration": "5185",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Josh Duhamel is an American actor, producer, and entrepreneur born and raised in Minot, North Dakota, where a blue-collar upbringing instilled a strong work ethic. He played backup quarterback at Minot State University and majored in biology with plans for dentistry, but dropped out shy of graduation (later finishing in 2005). He headed west, fell into modeling, and won IMTA Male Model of the Year",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Psychedelics &amp; Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5296180263.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-psychedelics-neurostimulation-for-brain-rewiring-nolan-williams",
+      "date": "2026-06-04T08:00:00.000Z",
+      "duration": "2453",
+      "image": "https://megaphone.imgix.net/podcasts/2d042ec8-5fd0-11f1-a583-d34f98bf1200/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In loving memory of Nolan Williams (1982-2025): ⁠https://stan.md/3Qle2zp⁠\n\nIn this Huberman Lab Essentials episode, my guest is Dr. Nolan Williams, MD, a triple board-certified psychiatrist and neurologist. We discuss cutting-edge treatments for depression and post-traumatic stress disorder (PTSD), including transcranial magnetic stimulation, neuromodulation, and psychedelic-assisted therapies. We",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -20,20 +44,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "\"We’re Regressing Into The Unknown\" - Dr Jared Cooney Horvath",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT1419661407.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT1419661407.mp3",
-      "date": "2026-06-03T18:00:00.000Z",
-      "duration": "4069",
-      "image": "https://megaphone.imgix.net/podcasts/24b15ff2-5ea9-11f1-9678-176d415c67bb/image/e01b03497b2307679c1c1cc93c2876c7.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Check out Snakzy http://snakzy.me/triggerpod using our code \"Triggerpod\" to get a $10 sign up bonus.\n\n- Earn a yield on gold https://monetary-metals.com/triggernometry/\n\n- Shopify! Sign up for a $1 per month trial at https://www.shopify.co.uk/trigger/ \n\n- BUBS Naturals Collagen Peptides. Go to https://",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "CIA Targeter Explains China’s Iran Strategy",
@@ -43,18 +53,6 @@
       "duration": "1404",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "China is attempting one of the most complex geopolitical balancing acts in modern statecraft. Let’s talk about it.\n\nUltra Pouches: \nDon’t sleep on @ultrapouches. New customers get 15% Off with code WATCH at takeultra.com! #UltraPouches #ad\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2508 - Joe Eszterhas",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5133709752.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5133709752.mp3",
-      "date": "2026-06-03T17:00:00.000Z",
-      "duration": "8279",
-      "image": "https://megaphone.imgix.net/podcasts/e03b5594-5ed0-11f1-9ce3-2f5146ba6398/image/e47e931549fbe01a8c3c585b3edea4a2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe Eszterhas is an author, former journalist for “Rolling Stone,” and screenwriter known for films such as “Basic Instinct,” “Sliver,” “Showgirls,” and “Flashdance.”www.imdb.com/name/nm0000390/\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nUse code ROGAN at https://BlueChew.com  to get 10% OFF + Free Overnight Shipping on your first order.\n\n\n\nOpen an acco",
       "guestTags": []
     },
     {
@@ -120,6 +118,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#310 Josh Duhamel - Transformers Star Reveals His 26-Acre Off-Grid Survival Compound",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3401437048.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3401437048.mp3",
+      "date": "2026-06-04T10:00:00.000Z",
+      "duration": "5185",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Josh Duhamel is an American actor, producer, and entrepreneur born and raised in Minot, North Dakota, where a blue-collar upbringing instilled a strong work ethic. He played backup quarterback at Minot State University and majored in biology with plans for dentistry, but dropped out shy of graduation (later finishing in 2005). He headed west, fell into modeling, and won IMTA Male Model of the Year",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Psychedelics &amp; Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5296180263.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-psychedelics-neurostimulation-for-brain-rewiring-nolan-williams",
+      "date": "2026-06-04T08:00:00.000Z",
+      "duration": "2453",
+      "image": "https://megaphone.imgix.net/podcasts/2d042ec8-5fd0-11f1-a583-d34f98bf1200/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In loving memory of Nolan Williams (1982-2025): ⁠https://stan.md/3Qle2zp⁠\n\nIn this Huberman Lab Essentials episode, my guest is Dr. Nolan Williams, MD, a triple board-certified psychiatrist and neurologist. We discuss cutting-edge treatments for depression and post-traumatic stress disorder (PTSD), including transcranial magnetic stimulation, neuromodulation, and psychedelic-assisted therapies. We",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Jeremy Kauffman",
@@ -134,20 +156,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "\"We’re Regressing Into The Unknown\" - Dr Jared Cooney Horvath",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT1419661407.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT1419661407.mp3",
-      "date": "2026-06-03T18:00:00.000Z",
-      "duration": "4069",
-      "image": "https://megaphone.imgix.net/podcasts/24b15ff2-5ea9-11f1-9678-176d415c67bb/image/e01b03497b2307679c1c1cc93c2876c7.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Check out Snakzy http://snakzy.me/triggerpod using our code \"Triggerpod\" to get a $10 sign up bonus.\n\n- Earn a yield on gold https://monetary-metals.com/triggernometry/\n\n- Shopify! Sign up for a $1 per month trial at https://www.shopify.co.uk/trigger/ \n\n- BUBS Naturals Collagen Peptides. Go to https://",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "CIA Targeter Explains China’s Iran Strategy",
@@ -157,18 +165,6 @@
       "duration": "1404",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "China is attempting one of the most complex geopolitical balancing acts in modern statecraft. Let’s talk about it.\n\nUltra Pouches: \nDon’t sleep on @ultrapouches. New customers get 15% Off with code WATCH at takeultra.com! #UltraPouches #ad\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2508 - Joe Eszterhas",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5133709752.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5133709752.mp3",
-      "date": "2026-06-03T17:00:00.000Z",
-      "duration": "8279",
-      "image": "https://megaphone.imgix.net/podcasts/e03b5594-5ed0-11f1-9ce3-2f5146ba6398/image/e47e931549fbe01a8c3c585b3edea4a2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe Eszterhas is an author, former journalist for “Rolling Stone,” and screenwriter known for films such as “Basic Instinct,” “Sliver,” “Showgirls,” and “Flashdance.”www.imdb.com/name/nm0000390/\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nUse code ROGAN at https://BlueChew.com  to get 10% OFF + Free Overnight Shipping on your first order.\n\n\n\nOpen an acco",
       "guestTags": []
     },
     {
@@ -247,9 +243,6 @@
   "guestIndex": {
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ]
   }
 }
