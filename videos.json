@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T15:28:56.397Z",
+  "lastUpdated": "2026-06-04T18:23:55.218Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "kehnnqfprns",
-      "show": "TRIGGERnometry",
-      "title": "Henry Nowak: How Anti-Racism Gave You Racism - Konstantin Kisin",
-      "url": "https://www.youtube.com/watch?v=kehnnqfprns",
-      "date": "2026-06-04T12:46:32.000Z",
-      "image": "https://i4.ytimg.com/vi/kehnnqfprns/hqdefault.jpg",
-      "desc": "Henry Nowak: How Anti-Racism Gave You Racism - Konstantin Kisin - https://substack.com/@konstantinkisin\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "sZ0wrB3meIU",
+      "show": "Shawn Ryan Show",
+      "title": "He's 72% Ready for the Apocalypse 🤯",
+      "url": "https://www.youtube.com/watch?v=sZ0wrB3meIU",
+      "date": "2026-06-04T18:00:31.000Z",
+      "image": "https://i4.ytimg.com/vi/sZ0wrB3meIU/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "kehnnqfprns",
-      "show": "TRIGGERnometry",
-      "title": "Henry Nowak: How Anti-Racism Gave You Racism - Konstantin Kisin",
-      "url": "https://www.youtube.com/watch?v=kehnnqfprns",
-      "date": "2026-06-04T12:46:32.000Z",
-      "image": "https://i4.ytimg.com/vi/kehnnqfprns/hqdefault.jpg",
-      "desc": "Henry Nowak: How Anti-Racism Gave You Racism - Konstantin Kisin - https://substack.com/@konstantinkisin\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "sZ0wrB3meIU",
+      "show": "Shawn Ryan Show",
+      "title": "He's 72% Ready for the Apocalypse 🤯",
+      "url": "https://www.youtube.com/watch?v=sZ0wrB3meIU",
+      "date": "2026-06-04T18:00:31.000Z",
+      "image": "https://i4.ytimg.com/vi/sZ0wrB3meIU/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
