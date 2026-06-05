@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-06-05T18:00:36.685Z",
+  "lastUpdated": "2026-06-05T21:38:24.291Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1647,
+  "taggedCount": 1648,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "“Happy Hour”: Scott Pelley’s FIRING, the Value of Independent Media, and 2026 Midterms: Emily Answers YOUR Questions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/acf2bc81-13a3-41ee-87a6-d3bab5de5173/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=acf2bc81-13a3-41ee-87a6-d3bab5de5173&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-06-05T20:00:00.000Z",
+      "duration": "01:26:31",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky answers listener questions about hot topics in the news. She opens the show with comments about “After Party,” and her own workflow. She offers a behind-the-scenes look at the world of podcasting, and later dives into the importance of independent media, the choices journalists make in the stories they cover, and Scott Pelley’s firing from CB",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -12,7 +26,7 @@
       "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7558054394.mp3",
       "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7558054394.mp3",
       "date": "2026-06-05T17:12:00.000Z",
-      "duration": "3362",
+      "duration": "3422",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "In May 2026, Dave “Boon” Benton and I returned to Benghazi. Fourteen years after the attacks on the U.S. Consulate and CIA Annex, we went back to the city where history, politics, terrorism, and war collided in one of the most consequential attacks on Americans since 9/11. Here is Episode 1 of our 13-part series.\n\nGet 15% off OneSkin with the code WATCH at https://www.oneskin.co/WATCH #oneskinpod\n",
       "guestTags": []
@@ -67,20 +81,6 @@
       "desc": "John Kiriakou is a former CIA counter-terrorism officer, author and speaker. His new book “The Ultimate Guide to CIA Skills, Tactics and Techniques” is available August 4th. \n\nJohn joins Theo to talk about how he was recruited into the CIA, his decision to speak up about the agency’s torture programs, and why there are more spies in America than we might think. \n\nJohn Kiriakou: https://x.com/JohnK",
       "guestTags": [
         "John Kiriakou"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/TL_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox",
-      "date": "2026-06-04T18:23:00.000Z",
-      "duration": "32:45",
-      "image": "https://static.libsyn.com/p/assets/4/c/3/0/4c300253a3ce6f7516c3140a3186d450/Podcast_Graphic_-_Liquidity-20260604-rdp09014pn.png",
-      "desc": "(0:00) Coatue's Thomas Laffont joins the Besties! (0:30) Public markets are back as AI is dominates the \"Unicorn Economy\" (5:15) The $4T AI IPO explosion (7:48) The case for SpaceX: Compounding launch monopoly and Starlink (10:38) The 10x Paradox: Why we're seeing unprecedented scaling (15:33) Segmenting AI markets and future impact (18:32) Bestie Q&A: Power Law in AI, future of VC, where revenue ",
-      "guestTags": [
-        "Elon Musk"
       ]
     },
     {
@@ -122,13 +122,27 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "“Happy Hour”: Scott Pelley’s FIRING, the Value of Independent Media, and 2026 Midterms: Emily Answers YOUR Questions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/acf2bc81-13a3-41ee-87a6-d3bab5de5173/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=acf2bc81-13a3-41ee-87a6-d3bab5de5173&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-06-05T20:00:00.000Z",
+      "duration": "01:26:31",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky answers listener questions about hot topics in the news. She opens the show with comments about “After Party,” and her own workflow. She offers a behind-the-scenes look at the world of podcasting, and later dives into the importance of independent media, the choices journalists make in the stories they cover, and Scott Pelley’s firing from CB",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "Back to Benghazi | Episode 1: The Consulate",
       "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7558054394.mp3",
       "listenUrl": "https://pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7558054394.mp3",
       "date": "2026-06-05T17:12:00.000Z",
-      "duration": "3362",
+      "duration": "3422",
       "image": "https://megaphone.imgix.net/podcasts/ecdac2f0-e746-11f0-bed1-4b61668c9c8e/image/11b75106d00dfa8912b1e11bdb144e28.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "In May 2026, Dave “Boon” Benton and I returned to Benghazi. Fourteen years after the attacks on the U.S. Consulate and CIA Annex, we went back to the city where history, politics, terrorism, and war collided in one of the most consequential attacks on Americans since 9/11. Here is Episode 1 of our 13-part series.\n\nGet 15% off OneSkin with the code WATCH at https://www.oneskin.co/WATCH #oneskinpod\n",
       "guestTags": []
@@ -183,20 +197,6 @@
       "desc": "John Kiriakou is a former CIA counter-terrorism officer, author and speaker. His new book “The Ultimate Guide to CIA Skills, Tactics and Techniques” is available August 4th. \n\nJohn joins Theo to talk about how he was recruited into the CIA, his decision to speak up about the agency’s torture programs, and why there are more spies in America than we might think. \n\nJohn Kiriakou: https://x.com/JohnK",
       "guestTags": [
         "John Kiriakou"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/TL_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox",
-      "date": "2026-06-04T18:23:00.000Z",
-      "duration": "32:45",
-      "image": "https://static.libsyn.com/p/assets/4/c/3/0/4c300253a3ce6f7516c3140a3186d450/Podcast_Graphic_-_Liquidity-20260604-rdp09014pn.png",
-      "desc": "(0:00) Coatue's Thomas Laffont joins the Besties! (0:30) Public markets are back as AI is dominates the \"Unicorn Economy\" (5:15) The $4T AI IPO explosion (7:48) The case for SpaceX: Compounding launch monopoly and Starlink (10:38) The 10x Paradox: Why we're seeing unprecedented scaling (15:33) Segmenting AI markets and future impact (18:32) Bestie Q&A: Power Law in AI, future of VC, where revenue ",
-      "guestTags": [
-        "Elon Musk"
       ]
     },
     {
@@ -249,9 +249,11 @@
     }
   ],
   "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly9wb2R0cmFjLmNv",
+    "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Elon Musk": [
+      "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ],
     "John Kiriakou": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
