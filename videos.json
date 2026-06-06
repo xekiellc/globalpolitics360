@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-06-06T15:21:13.209Z",
+  "lastUpdated": "2026-06-06T17:20:07.116Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "WRej7YOKLb4",
-      "show": "Theo Von",
-      "title": "How John Kiriakou Got Recruited by the CIA",
-      "url": "https://www.youtube.com/watch?v=WRej7YOKLb4",
-      "date": "2026-06-06T13:00:21.000Z",
-      "image": "https://i4.ytimg.com/vi/WRej7YOKLb4/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
-      "guestTags": [
-        "John Kiriakou"
-      ]
+      "videoId": "jLICvWE7w2Q",
+      "show": "All-In Podcast",
+      "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
+      "url": "https://www.youtube.com/watch?v=jLICvWE7w2Q",
+      "date": "2026-06-06T16:30:25.000Z",
+      "image": "https://i3.ytimg.com/vi/jLICvWE7w2Q/hqdefault.jpg",
+      "desc": "(0:00) CEOs Andrew Feldman (Cerebras) and Will Marshall (Planet Labs) join the Besties!\n(2:05) Both CEOs on going public: Impact on employees, customers, and business operations\n(13:18) Timelines for datacenters in space\n(19:28) Cerebras business breakdown, AI's impact on the silicon market\n(24:45) ",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "WRej7YOKLb4",
-      "show": "Theo Von",
-      "title": "How John Kiriakou Got Recruited by the CIA",
-      "url": "https://www.youtube.com/watch?v=WRej7YOKLb4",
-      "date": "2026-06-06T13:00:21.000Z",
-      "image": "https://i4.ytimg.com/vi/WRej7YOKLb4/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
-      "guestTags": [
-        "John Kiriakou"
-      ]
+      "videoId": "jLICvWE7w2Q",
+      "show": "All-In Podcast",
+      "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
+      "url": "https://www.youtube.com/watch?v=jLICvWE7w2Q",
+      "date": "2026-06-06T16:30:25.000Z",
+      "image": "https://i3.ytimg.com/vi/jLICvWE7w2Q/hqdefault.jpg",
+      "desc": "(0:00) CEOs Andrew Feldman (Cerebras) and Will Marshall (Planet Labs) join the Besties!\n(2:05) Both CEOs on going public: Impact on employees, customers, and business operations\n(13:18) Timelines for datacenters in space\n(19:28) Cerebras business breakdown, AI's impact on the silicon market\n(24:45) ",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "John Kiriakou": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
