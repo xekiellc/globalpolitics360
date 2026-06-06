@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-06-06T10:11:02.298Z",
+  "lastUpdated": "2026-06-06T13:56:38.838Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 33,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "2snfacqm11A",
-      "show": "Shawn Ryan Show",
-      "title": "This Book Made Him Start Prepping 😳",
-      "url": "https://www.youtube.com/watch?v=2snfacqm11A",
-      "date": "2026-06-06T00:00:26.000Z",
-      "image": "https://i3.ytimg.com/vi/2snfacqm11A/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "WRej7YOKLb4",
+      "show": "Theo Von",
+      "title": "How John Kiriakou Got Recruited by the CIA",
+      "url": "https://www.youtube.com/watch?v=WRej7YOKLb4",
+      "date": "2026-06-06T13:00:21.000Z",
+      "image": "https://i4.ytimg.com/vi/WRej7YOKLb4/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "2snfacqm11A",
-      "show": "Shawn Ryan Show",
-      "title": "This Book Made Him Start Prepping 😳",
-      "url": "https://www.youtube.com/watch?v=2snfacqm11A",
-      "date": "2026-06-06T00:00:26.000Z",
-      "image": "https://i3.ytimg.com/vi/2snfacqm11A/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "WRej7YOKLb4",
+      "show": "Theo Von",
+      "title": "How John Kiriakou Got Recruited by the CIA",
+      "url": "https://www.youtube.com/watch?v=WRej7YOKLb4",
+      "date": "2026-06-06T13:00:21.000Z",
+      "image": "https://i4.ytimg.com/vi/WRej7YOKLb4/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "John Kiriakou": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
