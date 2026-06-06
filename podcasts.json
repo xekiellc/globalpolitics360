@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-06T04:00:16.013Z",
+  "lastUpdated": "2026-06-06T07:23:17.936Z",
   "showCount": 22,
-  "episodeCount": 8,
+  "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1614,
+  "taggedCount": 1567,
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -93,6 +93,18 @@
       "duration": "02:11:02",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Tom Segura, Sheryl Underwood, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/18/2026\n\nTHIS EPISODE IS SPONSORED BY:\n\nVisit https://prizepicks.onelink.me/LME0/TONY and use code TONY for $50 in lineups when you play your first $5 lineup! PrizePicks. A Pref",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy &#038; ToE &#8211; Don Lincoln",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3",
+      "listenUrl": "https://lexfridman.com/don-lincoln/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=don-lincoln",
+      "date": "2026-05-29T16:22:02.000Z",
+      "duration": "3:01:52",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; submit quest",
       "guestTags": []
     },
     {
