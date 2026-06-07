@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-06-07T17:24:23.854Z",
+  "lastUpdated": "2026-06-07T19:40:49.708Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1650,
+  "taggedCount": 1651,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI &amp; the Rise of Secondaries",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_MarketsPanel_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries",
+      "date": "2026-06-07T18:14:00.000Z",
+      "duration": "39:38",
+      "image": "https://static.libsyn.com/p/assets/3/6/6/8/366880b96b0acaabd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260607-ckyabry2wz.png",
+      "desc": "(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties! (0:47) Secondary Markets are Booming & Competing with IPOs (3:10) Why Companies are Staying Private So Long? (9:22) SPVs, the Forge-Schwab Deal, Democratizing Private Market Access (13:28) Secondary Markets as Exit Liquidity for VCs (27:00) The Private Market Bubble? (32:03) Hottest Secondary Companies Right Now Thanks to our",
+      "guestTags": [
+        "Elon Musk"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -32,18 +46,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_IPOPANEL_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel",
-      "date": "2026-06-06T16:30:00.000Z",
-      "duration": "32:29",
-      "image": "https://static.libsyn.com/p/assets/6/8/9/f/689f9ef1c2ea7e5d16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260606-tsajt9noo2.png",
-      "desc": "(0:00) CEOs Andrew Feldman (Cerebras) and Will Marshall (Planet Labs) join the Besties! (2:05) Both CEOs on going public: Impact on employees, customers, and business operations (13:18) Timelines for datacenters in space (19:28) Cerebras business breakdown, AI's impact on the silicon market (24:45) How Founder/CEOs think about liquidity on the road to going public Thanks to our partners for making",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -122,6 +124,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI &amp; the Rise of Secondaries",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_MarketsPanel_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries",
+      "date": "2026-06-07T18:14:00.000Z",
+      "duration": "39:38",
+      "image": "https://static.libsyn.com/p/assets/3/6/6/8/366880b96b0acaabd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260607-ckyabry2wz.png",
+      "desc": "(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties! (0:47) Secondary Markets are Booming & Competing with IPOs (3:10) Why Companies are Staying Private So Long? (9:22) SPVs, the Forge-Schwab Deal, Democratizing Private Market Access (13:28) Secondary Markets as Exit Liquidity for VCs (27:00) The Private Market Bubble? (32:03) Hottest Secondary Companies Right Now Thanks to our",
+      "guestTags": [
+        "Elon Musk"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "#432 - Jared Kushner LIES, Trump Phone Calls &amp; Roman Empire DATA CENTERS | Julian Dorey",
@@ -148,18 +164,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_IPOPANEL_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel",
-      "date": "2026-06-06T16:30:00.000Z",
-      "duration": "32:29",
-      "image": "https://static.libsyn.com/p/assets/6/8/9/f/689f9ef1c2ea7e5d16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260606-tsajt9noo2.png",
-      "desc": "(0:00) CEOs Andrew Feldman (Cerebras) and Will Marshall (Planet Labs) join the Besties! (2:05) Both CEOs on going public: Impact on employees, customers, and business operations (13:18) Timelines for datacenters in space (19:28) Cerebras business breakdown, AI's impact on the silicon market (24:45) How Founder/CEOs think about liquidity on the road to going public Thanks to our partners for making",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -249,14 +253,15 @@
     }
   ],
   "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "aHR0cHM6Ly9wb2R0cmFjLmNv"
+    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
-    ],
-    "Elon Musk": [
-      "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ]
   }
 }

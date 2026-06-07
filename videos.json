@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-06-07T17:24:26.061Z",
+  "lastUpdated": "2026-06-07T19:40:50.268Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 34,
+  "taggedCount": 33,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "4fcfpIxJpuY",
-      "show": "Theo Von",
-      "title": "How To Tell If You're Being Surveilled",
-      "url": "https://www.youtube.com/watch?v=4fcfpIxJpuY",
-      "date": "2026-06-07T13:30:37.000Z",
-      "image": "https://i1.ytimg.com/vi/4fcfpIxJpuY/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
-      "guestTags": [
-        "John Kiriakou"
-      ]
+      "videoId": "V0lFjTWx36I",
+      "show": "All-In Podcast",
+      "title": "Why Secondary Markets Are Eating the IPO | All-In Liquidity Secondary Markets Panel",
+      "url": "https://www.youtube.com/watch?v=V0lFjTWx36I",
+      "date": "2026-06-07T18:26:25.000Z",
+      "image": "https://i3.ytimg.com/vi/V0lFjTWx36I/hqdefault.jpg",
+      "desc": "(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties!\n(0:47) Secondary Markets are Booming &amp; Competing with IPOs\n(3:10) Why Companies are Staying Private So Long?\n(9:22) SPVs, the Forge-Schwab Deal, Democratizing Private Market Access\n(13:28) Secondary Markets as Exit Liquidit",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "4fcfpIxJpuY",
-      "show": "Theo Von",
-      "title": "How To Tell If You're Being Surveilled",
-      "url": "https://www.youtube.com/watch?v=4fcfpIxJpuY",
-      "date": "2026-06-07T13:30:37.000Z",
-      "image": "https://i1.ytimg.com/vi/4fcfpIxJpuY/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
-      "guestTags": [
-        "John Kiriakou"
-      ]
+      "videoId": "V0lFjTWx36I",
+      "show": "All-In Podcast",
+      "title": "Why Secondary Markets Are Eating the IPO | All-In Liquidity Secondary Markets Panel",
+      "url": "https://www.youtube.com/watch?v=V0lFjTWx36I",
+      "date": "2026-06-07T18:26:25.000Z",
+      "image": "https://i3.ytimg.com/vi/V0lFjTWx36I/hqdefault.jpg",
+      "desc": "(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties!\n(0:47) Secondary Markets are Booming &amp; Competing with IPOs\n(3:10) Why Companies are Staying Private So Long?\n(9:22) SPVs, the Forge-Schwab Deal, Democratizing Private Market Access\n(13:28) Secondary Markets as Exit Liquidit",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "John Kiriakou": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
