@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-06-07T11:53:20.832Z",
+  "lastUpdated": "2026-06-07T14:06:09.484Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 34,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ZKGnJxtkAhU",
-      "show": "Shawn Ryan Show",
-      "title": "The Lesson Every Dad Should STEAL 🤯",
-      "url": "https://www.youtube.com/watch?v=ZKGnJxtkAhU",
-      "date": "2026-06-07T00:00:35.000Z",
-      "image": "https://i3.ytimg.com/vi/ZKGnJxtkAhU/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "4fcfpIxJpuY",
+      "show": "Theo Von",
+      "title": "How To Tell If You're Being Surveilled",
+      "url": "https://www.youtube.com/watch?v=4fcfpIxJpuY",
+      "date": "2026-06-07T13:30:37.000Z",
+      "image": "https://i1.ytimg.com/vi/4fcfpIxJpuY/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ZKGnJxtkAhU",
-      "show": "Shawn Ryan Show",
-      "title": "The Lesson Every Dad Should STEAL 🤯",
-      "url": "https://www.youtube.com/watch?v=ZKGnJxtkAhU",
-      "date": "2026-06-07T00:00:35.000Z",
-      "image": "https://i3.ytimg.com/vi/ZKGnJxtkAhU/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "4fcfpIxJpuY",
+      "show": "Theo Von",
+      "title": "How To Tell If You're Being Surveilled",
+      "url": "https://www.youtube.com/watch?v=4fcfpIxJpuY",
+      "date": "2026-06-07T13:30:37.000Z",
+      "image": "https://i1.ytimg.com/vi/4fcfpIxJpuY/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "John Kiriakou": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
