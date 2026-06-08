@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T11:08:43.576Z",
+  "lastUpdated": "2026-06-08T16:04:42.896Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "EblT2nRztMY",
-      "show": "TRIGGERnometry",
-      "title": "The Russian Psyche Explained",
-      "url": "https://www.youtube.com/watch?v=EblT2nRztMY",
-      "date": "2026-06-08T10:33:55.000Z",
-      "image": "https://i2.ytimg.com/vi/EblT2nRztMY/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "oEMUMuezbgY",
+      "show": "Theo Von",
+      "title": "tough questions",
+      "url": "https://www.youtube.com/watch?v=oEMUMuezbgY",
+      "date": "2026-06-08T13:15:03.000Z",
+      "image": "https://i4.ytimg.com/vi/oEMUMuezbgY/hqdefault.jpg",
+      "desc": "#shorts #theovon #joerogan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "EblT2nRztMY",
-      "show": "TRIGGERnometry",
-      "title": "The Russian Psyche Explained",
-      "url": "https://www.youtube.com/watch?v=EblT2nRztMY",
-      "date": "2026-06-08T10:33:55.000Z",
-      "image": "https://i2.ytimg.com/vi/EblT2nRztMY/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "oEMUMuezbgY",
+      "show": "Theo Von",
+      "title": "tough questions",
+      "url": "https://www.youtube.com/watch?v=oEMUMuezbgY",
+      "date": "2026-06-08T13:15:03.000Z",
+      "image": "https://i4.ytimg.com/vi/oEMUMuezbgY/hqdefault.jpg",
+      "desc": "#shorts #theovon #joerogan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

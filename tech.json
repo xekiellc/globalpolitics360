@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-06-08T11:08:32.897Z",
+  "lastUpdated": "2026-06-08T16:04:32.772Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Strive Buys 32 Bitcoin at $63,900 Average, Bringing Total Holdings to 19,032 BTC",
+      "url": "https://bitcoinmagazine.com/news/strive-buys-32-bitcoin-at-63900-average",
+      "date": "2026-06-08T13:54:45.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-Buys-32-Bitcoin-at-63900-Average-Bringing-Total-Holdings-to-19032-BTC.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Strategy (MSTR) Restarts Bitcoin Purchases After Selling, Buys 1,550 BTC for $101 Million",
+      "url": "https://bitcoinmagazine.com/news/strategy-restarts-bitcoin-purchases-1550",
+      "date": "2026-06-08T13:07:45.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-is-About-to-Have-More-Bitcoin-Than-BlackRocks-IBIT-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Expanding the Radius of Daily Life",
+      "url": "https://www.notboring.co/p/expanding-the-radius-of-daily-life",
+      "date": "2026-06-08T13:04:26.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!8yiU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdef8aa2b-71f3-4a00-9355-fe65f58e9f0e_1200x612.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Ep 157: Scott Nolan on the AI Energy Crisis & America's Nuclear Renaissance",
       "url": "https://blog.joelonsdale.com/p/ep-157-scott-nolan-on-the-ai-energy",
@@ -102,15 +129,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Standard Chartered Sees Bitcoin Bottom &#8216;Almost In&#8217; as Sell-Off Cuts 14% in Seven Days",
-      "url": "https://bitcoinmagazine.com/news/standard-chartered-sees-bitcoin-bottom",
-      "date": "2026-06-04T13:50:06.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Standard-Chartered-Sees-Bitcoin-Bottom-Almost-In-as-Sell-Off-Cuts-14-in-Seven-Days.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "A16Z's Global Mission",
       "url": "https://www.a16z.news/p/a16zs-global-mission",
       "date": "2026-06-04T13:25:38.000Z",
@@ -145,15 +163,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Bitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-plunges-below-62000-erasing-months-of-recovery-as-sell-off-accelerates",
-      "date": "2026-06-04T02:21:50.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Plunges-Below-62000-Erasing-Months-of-Recovery-as-Sell-Off-Accelerates.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "A Functional Taxonomy of World Models",
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Horseshoe Jacobins",
-      "url": "https://blog.joelonsdale.com/p/horseshoe-jacobins",
-      "date": "2026-05-20T16:09:51.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!Hj6o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f17b5ce-b49e-4b38-b45b-e3a7d22d54ab_2072x1349.png",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
