@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-06-08T16:04:40.896Z",
+  "lastUpdated": "2026-06-08T20:25:53.848Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1651,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_NikeshArora_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company",
+      "date": "2026-06-08T19:34:00.000Z",
+      "duration": "31:22",
+      "image": "https://static.libsyn.com/p/assets/0/5/a/7/05a74d617c0bcc8fd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260608-lk81fi9xgm.png",
+      "desc": "(0:00) Palo Alto Networks CEO Nikesh Arora joins the Besties! (0:47) Claude Mythos found years of vulnerabilities in Palo Alto's code in weeks (5:15) Are cyber defenders losing the race against AI attackers? (6:50) Analytical SaaS is dead, so what survives the AI wave? (14:06) If models become a utility, where will the money be made? (20:35) Armchair CEO: Nikesh rates Waymo, Google, and OpenAI (28",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -40,20 +52,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Marie-Pierre St-Onge, PhD, is a professor of nutritional medicine at Columbia University School of Medicine and an expert on the bidirectional relationship between nutrition and sleep. We discuss how even moderate sleep loss increases appetite, changes hunger-related hormones, and causes weight gain, even when calories are not increased. We also explain how meal timing and specific foods, like",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI &amp; the Rise of Secondaries",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_MarketsPanel_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries",
-      "date": "2026-06-07T18:14:00.000Z",
-      "duration": "39:38",
-      "image": "https://static.libsyn.com/p/assets/3/6/6/8/366880b96b0acaabd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260607-ckyabry2wz.png",
-      "desc": "(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties! (0:47) Secondary Markets are Booming & Competing with IPOs (3:10) Why Companies are Staying Private So Long? (9:22) SPVs, the Forge-Schwab Deal, Democratizing Private Market Access (13:28) Secondary Markets as Exit Liquidity for VCs (27:00) The Private Market Bubble? (32:03) Hottest Secondary Companies Right Now Thanks to our",
-      "guestTags": [
-        "Elon Musk"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -120,6 +118,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_NikeshArora_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company",
+      "date": "2026-06-08T19:34:00.000Z",
+      "duration": "31:22",
+      "image": "https://static.libsyn.com/p/assets/0/5/a/7/05a74d617c0bcc8fd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260608-lk81fi9xgm.png",
+      "desc": "(0:00) Palo Alto Networks CEO Nikesh Arora joins the Besties! (0:47) Claude Mythos found years of vulnerabilities in Palo Alto's code in weeks (5:15) Are cyber defenders losing the race against AI attackers? (6:50) Analytical SaaS is dead, so what survives the AI wave? (14:06) If models become a utility, where will the money be made? (20:35) Armchair CEO: Nikesh rates Waymo, Google, and OpenAI (28",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "6/8/26: Iran &amp; Israel Exchange Fire, Trump Rage Quits Interview, Pentagon Warns Of Israeli Spying",
@@ -154,20 +164,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Marie-Pierre St-Onge, PhD, is a professor of nutritional medicine at Columbia University School of Medicine and an expert on the bidirectional relationship between nutrition and sleep. We discuss how even moderate sleep loss increases appetite, changes hunger-related hormones, and causes weight gain, even when calories are not increased. We also explain how meal timing and specific foods, like",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI &amp; the Rise of Secondaries",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_MarketsPanel_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries",
-      "date": "2026-06-07T18:14:00.000Z",
-      "duration": "39:38",
-      "image": "https://static.libsyn.com/p/assets/3/6/6/8/366880b96b0acaabd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260607-ckyabry2wz.png",
-      "desc": "(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties! (0:47) Secondary Markets are Booming & Competing with IPOs (3:10) Why Companies are Staying Private So Long? (9:22) SPVs, the Forge-Schwab Deal, Democratizing Private Market Access (13:28) Secondary Markets as Exit Liquidity for VCs (27:00) The Private Market Bubble? (32:03) Hottest Secondary Companies Right Now Thanks to our",
-      "guestTags": [
-        "Elon Musk"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -245,9 +241,6 @@
     }
   ],
   "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]

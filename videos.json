@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T16:04:42.896Z",
+  "lastUpdated": "2026-06-08T20:25:54.581Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,26 +7,26 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "oEMUMuezbgY",
-      "show": "Theo Von",
-      "title": "tough questions",
-      "url": "https://www.youtube.com/watch?v=oEMUMuezbgY",
-      "date": "2026-06-08T13:15:03.000Z",
-      "image": "https://i4.ytimg.com/vi/oEMUMuezbgY/hqdefault.jpg",
-      "desc": "#shorts #theovon #joerogan",
+      "videoId": "hObRMv6qCi0",
+      "show": "All-In Podcast",
+      "title": "Palo Alto Networks CEO: &quot;AI Found 5 Years of Bugs in 6 Weeks&quot;",
+      "url": "https://www.youtube.com/watch?v=hObRMv6qCi0",
+      "date": "2026-06-08T20:06:28.000Z",
+      "image": "https://i1.ytimg.com/vi/hObRMv6qCi0/hqdefault.jpg",
+      "desc": "(0:00) Palo Alto Networks CEO Nikesh Arora joins the Besties!\n(0:47) Claude Mythos found years of vulnerabilities in Palo Alto's code in weeks\n(5:15) Are cyber defenders losing the race against AI attackers?\n(6:50) Analytical SaaS is dead, so what survives the AI wave?\n(14:06) If models become a uti",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "oEMUMuezbgY",
-      "show": "Theo Von",
-      "title": "tough questions",
-      "url": "https://www.youtube.com/watch?v=oEMUMuezbgY",
-      "date": "2026-06-08T13:15:03.000Z",
-      "image": "https://i4.ytimg.com/vi/oEMUMuezbgY/hqdefault.jpg",
-      "desc": "#shorts #theovon #joerogan",
+      "videoId": "hObRMv6qCi0",
+      "show": "All-In Podcast",
+      "title": "Palo Alto Networks CEO: &quot;AI Found 5 Years of Bugs in 6 Weeks&quot;",
+      "url": "https://www.youtube.com/watch?v=hObRMv6qCi0",
+      "date": "2026-06-08T20:06:28.000Z",
+      "image": "https://i1.ytimg.com/vi/hObRMv6qCi0/hqdefault.jpg",
+      "desc": "(0:00) Palo Alto Networks CEO Nikesh Arora joins the Besties!\n(0:47) Claude Mythos found years of vulnerabilities in Palo Alto's code in weeks\n(5:15) Are cyber defenders losing the race against AI attackers?\n(6:50) Analytical SaaS is dead, so what survives the AI wave?\n(14:06) If models become a uti",
       "guestTags": []
     }
   ],
