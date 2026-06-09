@@ -1,10 +1,25 @@
 {
-  "lastUpdated": "2026-06-09T09:55:45.957Z",
+  "lastUpdated": "2026-06-09T12:42:58.522Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1651,
+  "taggedCount": 1652,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Scott Pelley Spirals, JLo’s Viral NY Take, PLUS Karmelo Anthony Trial, with Delano Squires",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/ad3d737d-f52f-4c9f-ac84-e52110e73a68/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=ad3d737d-f52f-4c9f-ac84-e52110e73a68&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-06-09T11:00:00.000Z",
+      "duration": "01:20:55",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/3d5567ac-e4a8-4fc7-a25a-5684d5942827/3000x3000/ap_96_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show with an epic response to Scott Pelley’s performative interview with “The New York Times” on his ouster from CBS’ “60 Minutes.” Emily breaks down his un-nerving take on his role, how he claims he didn’t know who Bari Weiss was, he couldn’t fathom anyone viewing CBS as biased, his take on the coverage of Renee Good’s death, and his insulting suggestion that he’s “been ",
+      "guestTags": [
+        "Bari Weiss",
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -30,18 +45,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_NikeshArora_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company",
-      "date": "2026-06-08T19:34:00.000Z",
-      "duration": "31:22",
-      "image": "https://static.libsyn.com/p/assets/0/5/a/7/05a74d617c0bcc8fd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260608-lk81fi9xgm.png",
-      "desc": "(0:00) Palo Alto Networks CEO Nikesh Arora joins the Besties! (0:47) Claude Mythos found years of vulnerabilities in Palo Alto's code in weeks (5:15) Are cyber defenders losing the race against AI attackers? (6:50) Analytical SaaS is dead, so what survives the AI wave? (14:06) If models become a utility, where will the money be made? (20:35) Armchair CEO: Nikesh rates Waymo, Google, and OpenAI (28",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -118,6 +121,21 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Scott Pelley Spirals, JLo’s Viral NY Take, PLUS Karmelo Anthony Trial, with Delano Squires",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/ad3d737d-f52f-4c9f-ac84-e52110e73a68/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=ad3d737d-f52f-4c9f-ac84-e52110e73a68&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-06-09T11:00:00.000Z",
+      "duration": "01:20:55",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/3d5567ac-e4a8-4fc7-a25a-5684d5942827/3000x3000/ap_96_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show with an epic response to Scott Pelley’s performative interview with “The New York Times” on his ouster from CBS’ “60 Minutes.” Emily breaks down his un-nerving take on his role, how he claims he didn’t know who Bari Weiss was, he couldn’t fathom anyone viewing CBS as biased, his take on the coverage of Renee Good’s death, and his insulting suggestion that he’s “been ",
+      "guestTags": [
+        "Bari Weiss",
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KILL TONY #771 - BRAD WILLIAMS + TIMMY NO BRAKES",
@@ -142,18 +160,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_NikeshArora_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company",
-      "date": "2026-06-08T19:34:00.000Z",
-      "duration": "31:22",
-      "image": "https://static.libsyn.com/p/assets/0/5/a/7/05a74d617c0bcc8fd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260608-lk81fi9xgm.png",
-      "desc": "(0:00) Palo Alto Networks CEO Nikesh Arora joins the Besties! (0:47) Claude Mythos found years of vulnerabilities in Palo Alto's code in weeks (5:15) Are cyber defenders losing the race against AI attackers? (6:50) Analytical SaaS is dead, so what survives the AI wave? (14:06) If models become a utility, where will the money be made? (20:35) Armchair CEO: Nikesh rates Waymo, Google, and OpenAI (28",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -241,6 +247,12 @@
     }
   ],
   "guestIndex": {
+    "Bari Weiss": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
