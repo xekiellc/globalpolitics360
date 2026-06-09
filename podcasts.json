@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-06-09T16:33:50.981Z",
+  "lastUpdated": "2026-06-09T20:13:29.481Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1652,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2511 - Terry Bradshaw",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1002417746.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1002417746.mp3",
+      "date": "2026-06-09T17:00:00.000Z",
+      "duration": "9816",
+      "image": "https://megaphone.imgix.net/podcasts/2812b022-639c-11f1-a977-ef24292591fb/image/74e33920a0b31998160b2437a0bdff98.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Terry Bradshaw is a retired NFL quarterback whose 14 seasons with the Pittsburgh Steelers included four Super Bowl wins, leading to his induction into the Pro Football Hall of Fame. Bradshaw is also a musician, actor, author, entrepreneur, commentator, and co-host of “Fox NFL Sunday.”www.foxsports.com/personalities/terry-bradshawwww.steelers.com/history/bios/bradshaw_terrywww.bradshawbourbon.com\n\n",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -65,18 +77,6 @@
       "duration": "9701",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Two guests, one wild story. Ben Owen and Ryan Dalton join the show to break down their 2026 expedition to Little St. James, Jeffrey Epstein's former private island, and what happened when it went sideways.\n\nBen Owen is the founder of We Fight Monsters, a Memphis-based anti-trafficking and addiction nonprofit. A recovered drug addict turned activist, he made national headlines in April 2026 after b",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Eating for Better Sleep &amp; Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5220943767.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/eating-for-better-sleep-and-foods-that-improve-metabolic-health-marie-pierre-st-onge",
-      "date": "2026-06-08T08:00:00.000Z",
-      "duration": "7024",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Marie-Pierre St-Onge, PhD, is a professor of nutritional medicine at Columbia University School of Medicine and an expert on the bidirectional relationship between nutrition and sleep. We discuss how even moderate sleep loss increases appetite, changes hunger-related hormones, and causes weight gain, even when calories are not increased. We also explain how meal timing and specific foods, like",
       "guestTags": []
     },
     {
@@ -118,6 +118,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2511 - Terry Bradshaw",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1002417746.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1002417746.mp3",
+      "date": "2026-06-09T17:00:00.000Z",
+      "duration": "9816",
+      "image": "https://megaphone.imgix.net/podcasts/2812b022-639c-11f1-a977-ef24292591fb/image/74e33920a0b31998160b2437a0bdff98.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Terry Bradshaw is a retired NFL quarterback whose 14 seasons with the Pittsburgh Steelers included four Super Bowl wins, leading to his induction into the Pro Football Hall of Fame. Bradshaw is also a musician, actor, author, entrepreneur, commentator, and co-host of “Fox NFL Sunday.”www.foxsports.com/personalities/terry-bradshawwww.steelers.com/history/bios/bradshaw_terrywww.bradshawbourbon.com\n\n",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "6/9/26: Trump Booed At Knicks Game, Sports Gambling Scandal, Chris Rabb On Platner Controversy",
@@ -177,18 +189,6 @@
       "duration": "9701",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Two guests, one wild story. Ben Owen and Ryan Dalton join the show to break down their 2026 expedition to Little St. James, Jeffrey Epstein's former private island, and what happened when it went sideways.\n\nBen Owen is the founder of We Fight Monsters, a Memphis-based anti-trafficking and addiction nonprofit. A recovered drug addict turned activist, he made national headlines in April 2026 after b",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Eating for Better Sleep &amp; Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5220943767.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/eating-for-better-sleep-and-foods-that-improve-metabolic-health-marie-pierre-st-onge",
-      "date": "2026-06-08T08:00:00.000Z",
-      "duration": "7024",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Marie-Pierre St-Onge, PhD, is a professor of nutritional medicine at Columbia University School of Medicine and an expert on the bidirectional relationship between nutrition and sleep. We discuss how even moderate sleep loss increases appetite, changes hunger-related hormones, and causes weight gain, even when calories are not increased. We also explain how meal timing and specific foods, like",
       "guestTags": []
     },
     {
