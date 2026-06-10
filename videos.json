@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-06-09T23:21:10.160Z",
+  "lastUpdated": "2026-06-10T04:15:11.662Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 3,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ByZN1_4RMEg",
-      "show": "Shawn Ryan Show",
-      "title": "We're Not This Dumb… Right? 😳",
-      "url": "https://www.youtube.com/watch?v=ByZN1_4RMEg",
-      "date": "2026-06-09T22:00:30.000Z",
-      "image": "https://i3.ytimg.com/vi/ByZN1_4RMEg/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "LczaQRI9H2k",
+      "show": "The Free Press",
+      "title": "How John Kiriakou got recruited by the CIA",
+      "url": "https://www.youtube.com/watch?v=LczaQRI9H2k",
+      "date": "2026-06-08T19:04:17.000Z",
+      "image": "https://i1.ytimg.com/vi/LczaQRI9H2k/hqdefault.jpg",
+      "desc": "#shorts #theovon #johnkiriakou",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ByZN1_4RMEg",
-      "show": "Shawn Ryan Show",
-      "title": "We're Not This Dumb… Right? 😳",
-      "url": "https://www.youtube.com/watch?v=ByZN1_4RMEg",
-      "date": "2026-06-09T22:00:30.000Z",
-      "image": "https://i3.ytimg.com/vi/ByZN1_4RMEg/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "LczaQRI9H2k",
+      "show": "The Free Press",
+      "title": "How John Kiriakou got recruited by the CIA",
+      "url": "https://www.youtube.com/watch?v=LczaQRI9H2k",
+      "date": "2026-06-08T19:04:17.000Z",
+      "image": "https://i1.ytimg.com/vi/LczaQRI9H2k/hqdefault.jpg",
+      "desc": "#shorts #theovon #johnkiriakou",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "John Kiriakou": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
