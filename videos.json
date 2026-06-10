@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-06-10T15:51:42.550Z",
+  "lastUpdated": "2026-06-10T18:34:46.021Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 31,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "6DA4Z6-z_vU",
-      "show": "Theo Von",
-      "title": "Are Humans Losing a Sense of Purpose?",
-      "url": "https://www.youtube.com/watch?v=6DA4Z6-z_vU",
-      "date": "2026-06-10T14:45:14.000Z",
-      "image": "https://i3.ytimg.com/vi/6DA4Z6-z_vU/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #595 | Dr. David Linden\nFull Episode: https://youtu.be/0G4YOWcRMNA?si=5xaoWdmCPN4sEh9K\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/",
-      "guestTags": []
+      "videoId": "6UrggZXSvYQ",
+      "show": "Shawn Ryan Show",
+      "title": "Just Waiting for the Day SpaceX Reaches Mars 😳",
+      "url": "https://www.youtube.com/watch?v=6UrggZXSvYQ",
+      "date": "2026-06-10T18:00:36.000Z",
+      "image": "https://i3.ytimg.com/vi/6UrggZXSvYQ/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "6DA4Z6-z_vU",
-      "show": "Theo Von",
-      "title": "Are Humans Losing a Sense of Purpose?",
-      "url": "https://www.youtube.com/watch?v=6DA4Z6-z_vU",
-      "date": "2026-06-10T14:45:14.000Z",
-      "image": "https://i3.ytimg.com/vi/6DA4Z6-z_vU/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #595 | Dr. David Linden\nFull Episode: https://youtu.be/0G4YOWcRMNA?si=5xaoWdmCPN4sEh9K\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/",
-      "guestTags": []
+      "videoId": "6UrggZXSvYQ",
+      "show": "Shawn Ryan Show",
+      "title": "Just Waiting for the Day SpaceX Reaches Mars 😳",
+      "url": "https://www.youtube.com/watch?v=6UrggZXSvYQ",
+      "date": "2026-06-10T18:00:36.000Z",
+      "image": "https://i3.ytimg.com/vi/6UrggZXSvYQ/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

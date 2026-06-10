@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-06-10T15:51:34.907Z",
+  "lastUpdated": "2026-06-10T18:34:39.056Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Return on Tokens (ROT)",
+      "url": "https://www.notboring.co/p/return-on-tokens-rot",
+      "date": "2026-06-10T18:02:16.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!0yXr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4269970-968a-4e63-b403-17b25c12ff5f_900x450.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Morgan Stanley&#8217;s Bitcoin Executive Says Education — Not Products — Is Wall Street&#8217;s Real Obstacle",
+      "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-executive-education",
+      "date": "2026-06-10T17:46:39.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Morgan-Stanleys-Bitcoin-Executive-Says-Education-—-Not-Products-—-Is-Wall-Streets-Real-Obstacle.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Fold Holdings Dumps $45M in Bitcoin to Wipe Out Debt, Stock Briefly Pumps Over 130%",
       "url": "https://bitcoinmagazine.com/news/fold-holdings-dumps-45m-in-bitcoin",
@@ -97,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoin-holds-near-63000-as-analysts",
       "date": "2026-06-08T18:24:23.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Holds-Near-63000-as-Analysts-Say-Its-Store-of-Value-Thesis-Remains-Intact-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Full Text of Strategic Bitcoin Reserve Bill Officially Published, Revealing 20-Year Lock-Up, Proof-of-Reserve Mandates",
-      "url": "https://bitcoinmagazine.com/news/full-of-strategic-bitcoin-reserve-bill",
-      "date": "2026-06-08T17:42:40.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Full-Text-of-Strategic-Bitcoin-Reserve-Bill-Officially-Published-Revealing-20-Year-Lock-Up-Proof-of-Reserve-Mandates.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Weekly Dose of Optimism #194",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-194",
-      "date": "2026-05-22T12:51:22.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!dnXa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb67bd8bd-37fc-420a-bdc8-309e8b3cc10d_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
