@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-06-10T04:15:10.058Z",
+  "lastUpdated": "2026-06-10T10:13:02.729Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1653,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#662 - Matt Rife",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER5354879641.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER5354879641.mp3",
+      "date": "2026-06-10T09:56:00.000Z",
+      "duration": "6881",
+      "image": "https://megaphone.imgix.net/podcasts/42bc1c48-64ae-11f1-9e26-17e94e5db3f7/image/2afbcf4b543671834848b015916bc54f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Matt Rife is a stand up comedian and actor. You can see him live on his “Stay Golden” tour now through the end of the year. \n\nMatt joins Theo to talk about buying a haunted house, why his grandfather was his biggest role model, and when crowd work goes wrong. \n\nMatt Rife: https://www.instagram.com/mattrife/ \n\nMatt’s new movie “Rolling Loud”: https://www.instagram.com/rollingloud/ \n\n---------------",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -29,20 +41,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Trump's updates on Iran negotiations, Sam Harris's Substack article on why he won't debate about Israel, and more.Support Our Sponsors:The Wellness Company - USA compounded, The Wellness Company’s RX Ivermectin + Mebendazole Parasite Cleanse! Clickhttp://www.twc.health",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Iran Shoots Down US Helicopter - Iran War Update with Richard Miniter and Thomas Small",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347532746.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347532746.mp3",
-      "date": "2026-06-09T20:24:00.000Z",
-      "duration": "5740",
-      "image": "https://megaphone.imgix.net/podcasts/43434ca8-6441-11f1-8bc0-1b0c30106099/image/cf9cb53a25650dd9b8a8e854be5fd7af.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Francis and Konstantin are joined by bestselling national security journalist Richard Miniter and Middle East expert Thomas Small. We use Ground News to stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.Go to https://Sheath.com. Use code TRIGGERNOMETRY for 20% off ABOUT OUR GUESTSRichard Miniter is a New York Times bestsellin",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -120,6 +118,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#662 - Matt Rife",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER5354879641.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER5354879641.mp3",
+      "date": "2026-06-10T09:56:00.000Z",
+      "duration": "6881",
+      "image": "https://megaphone.imgix.net/podcasts/42bc1c48-64ae-11f1-9e26-17e94e5db3f7/image/2afbcf4b543671834848b015916bc54f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Matt Rife is a stand up comedian and actor. You can see him live on his “Stay Golden” tour now through the end of the year. \n\nMatt joins Theo to talk about buying a haunted house, why his grandfather was his biggest role model, and when crowd work goes wrong. \n\nMatt Rife: https://www.instagram.com/mattrife/ \n\nMatt’s new movie “Rolling Loud”: https://www.instagram.com/rollingloud/ \n\n---------------",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
@@ -143,20 +153,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the fire\" Bernstein discuss Trump's updates on Iran negotiations, Sam Harris's Substack article on why he won't debate about Israel, and more.Support Our Sponsors:The Wellness Company - USA compounded, The Wellness Company’s RX Ivermectin + Mebendazole Parasite Cleanse! Clickhttp://www.twc.health",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Iran Shoots Down US Helicopter - Iran War Update with Richard Miniter and Thomas Small",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347532746.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347532746.mp3",
-      "date": "2026-06-09T20:24:00.000Z",
-      "duration": "5740",
-      "image": "https://megaphone.imgix.net/podcasts/43434ca8-6441-11f1-8bc0-1b0c30106099/image/cf9cb53a25650dd9b8a8e854be5fd7af.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Francis and Konstantin are joined by bestselling national security journalist Richard Miniter and Middle East expert Thomas Small. We use Ground News to stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.Go to https://Sheath.com. Use code TRIGGERNOMETRY for 20% off ABOUT OUR GUESTSRichard Miniter is a New York Times bestsellin",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -247,9 +243,6 @@
   "guestIndex": {
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ]
   }
 }
