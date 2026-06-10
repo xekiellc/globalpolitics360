@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-06-10T10:12:54.604Z",
+  "lastUpdated": "2026-06-10T15:51:34.907Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Fold Holdings Dumps $45M in Bitcoin to Wipe Out Debt, Stock Briefly Pumps Over 130%",
+      "url": "https://bitcoinmagazine.com/news/fold-holdings-dumps-45m-in-bitcoin",
+      "date": "2026-06-10T14:57:16.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/12/Fold-Launches-Nationwide-Bitcoin-Services-Across-All-50-States-With-BitGo.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Everything is Recorded Now",
+      "url": "https://www.a16z.news/p/everything-is-recorded-now",
+      "date": "2026-06-10T14:00:27.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/accffb9c-5c0c-4708-a4ce-71cf722bb5ee_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios",
       "url": "https://bitcoinmagazine.com/markets/traditional-finance-rushing-to-crypto",
@@ -88,15 +106,6 @@
       "url": "https://bitcoinmagazine.com/news/full-of-strategic-bitcoin-reserve-bill",
       "date": "2026-06-08T17:42:40.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Full-Text-of-Strategic-Bitcoin-Reserve-Bill-Officially-Published-Revealing-20-Year-Lock-Up-Proof-of-Reserve-Mandates.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Sam Bankman-Fried Formally Seeks Presidential Pardon From Trump, Files Clemency Petition",
-      "url": "https://bitcoinmagazine.com/news/sam-bankman-fried-formally-seeks-pardon",
-      "date": "2026-06-08T16:54:03.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Trump-Says-He-Wont-Pardon-Sam-Bankman-Fried.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -334,15 +343,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Avoiding Death on the Yellow Brick Road",
-      "url": "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick",
-      "date": "2026-05-27T14:01:00.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/4eb729f4-45a0-48ba-8d2b-c5f66f54b94f_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Ep 155: Eric Scott on the Biggest Missed Opportunity in Venture Investing",
