@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-06-10T18:34:45.684Z",
+  "lastUpdated": "2026-06-10T22:09:33.716Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1654,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_PASens_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner",
+      "date": "2026-06-10T18:05:00.000Z",
+      "duration": "43:23",
+      "image": "https://static.libsyn.com/p/assets/f/0/b/3/f0b30d692ad9524d16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260610-mm1ibd72q7.png",
+      "desc": "(0:00) PA Senators Fetterman and McCormick join the Besties (0:33) Bipartisanship in 2026, rejecting extremism (6:37) All-time unpopularity in the Senate, the filibuster question, tribalism (13:33) Fixing wealth concentration in the US (19:51) Graham Platner, why extremism wins primaries, and what it means for the future (28:12) How AI and energy are playing a part in PA's blue collar boom, dark m",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
@@ -65,18 +77,6 @@
       "duration": "10061",
       "image": "https://megaphone.imgix.net/podcasts/a2f1a724-6493-11f1-bd1a-5fde41bcabb7/image/62bf809ad91693dff05af3daece6392a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n1) SHEATH: Sheath. The underwear of legends. Go to https://sheath.com/JULIAN and use code JULIAN for 20% off. \n2) ULTRA POUCHES: Don’t sleep on @ultrapouches. New customers get 15% off Ultra Pouches with code JULIAN at https://takeultra.com! #UltraPouches #ad\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8Q",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_DanDreyfus_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/dan-dreyfus-americas-critical-minerals-crisis-is-here",
-      "date": "2026-06-10T03:04:00.000Z",
-      "duration": "24:37",
-      "image": "https://static.libsyn.com/p/assets/b/3/0/0/b300a1698fd66e4516c3140a3186d450/Podcast_Graphic_-_Liquidity-20260610-0jeiy2jpei.png",
-      "desc": "(0:00) Dan Dreyfus Presents: The Future of Critical Minerals (0:33) America's \"Capital Light Era\" is over, rapid supply/demand shocks (5:40) Impact of China cutting off the US from critical minerals (8:18) Copper's Rise: The next 18 years need as much as the last 10,000 (12:00) Dollar Debasement: $140T in debt and why hard assets win (13:50) The Grid is Dying: Blackouts, bottlenecks, and the craft",
       "guestTags": []
     },
     {
@@ -118,6 +118,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_PASens_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner",
+      "date": "2026-06-10T18:05:00.000Z",
+      "duration": "43:23",
+      "image": "https://static.libsyn.com/p/assets/f/0/b/3/f0b30d692ad9524d16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260610-mm1ibd72q7.png",
+      "desc": "(0:00) PA Senators Fetterman and McCormick join the Besties (0:33) Bipartisanship in 2026, rejecting extremism (6:37) All-time unpopularity in the Senate, the filibuster question, tribalism (13:33) Fixing wealth concentration in the US (19:51) Graham Platner, why extremism wins primaries, and what it means for the future (28:12) How AI and energy are playing a part in PA's blue collar boom, dark m",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
       "title": "Why Everything Is So Expensive - Financial Expert Patrick Boyle Explains",
@@ -177,18 +189,6 @@
       "duration": "10061",
       "image": "https://megaphone.imgix.net/podcasts/a2f1a724-6493-11f1-bd1a-5fde41bcabb7/image/62bf809ad91693dff05af3daece6392a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n1) SHEATH: Sheath. The underwear of legends. Go to https://sheath.com/JULIAN and use code JULIAN for 20% off. \n2) ULTRA POUCHES: Don’t sleep on @ultrapouches. New customers get 15% off Ultra Pouches with code JULIAN at https://takeultra.com! #UltraPouches #ad\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8Q",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_DanDreyfus_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/dan-dreyfus-americas-critical-minerals-crisis-is-here",
-      "date": "2026-06-10T03:04:00.000Z",
-      "duration": "24:37",
-      "image": "https://static.libsyn.com/p/assets/b/3/0/0/b300a1698fd66e4516c3140a3186d450/Podcast_Graphic_-_Liquidity-20260610-0jeiy2jpei.png",
-      "desc": "(0:00) Dan Dreyfus Presents: The Future of Critical Minerals (0:33) America's \"Capital Light Era\" is over, rapid supply/demand shocks (5:40) Impact of China cutting off the US from critical minerals (8:18) Copper's Rise: The next 18 years need as much as the last 10,000 (12:00) Dollar Debasement: $140T in debt and why hard assets win (13:50) The Grid is Dying: Blackouts, bottlenecks, and the craft",
       "guestTags": []
     },
     {
