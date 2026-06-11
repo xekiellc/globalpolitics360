@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-06-10T22:09:26.375Z",
+  "lastUpdated": "2026-06-11T04:27:03.701Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "The Case for Private Permitting",
+      "url": "https://blog.joelonsdale.com/p/the-case-for-private-permitting",
+      "date": "2026-06-10T23:01:50.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!nlk7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f220f44-f205-4bbd-a041-db569d1e595c_935x491.png",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
     {
       "title": "Strategy (MSTR) CEO Says Bitcoin Sale Was About Market &#8216;Inoculation,&#8217; Not a Retreat",
       "url": "https://bitcoinmagazine.com/news/strategy-mstr-ceo-says-bitcoin-sale",
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 155: Eric Scott on the Biggest Missed Opportunity in Venture Investing",
-      "url": "https://blog.joelonsdale.com/p/ep-155-eric-scott-on-the-biggest",
-      "date": "2026-05-22T18:34:09.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
