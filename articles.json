@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-06-11T16:12:16.404Z",
+  "lastUpdated": "2026-06-11T20:28:06.771Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "The Death of the Summer Job",
+      "url": "https://www.thefp.com/p/the-death-of-the-summer-job",
+      "date": "2026-06-11T18:49:53.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!vnGs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bc97f3e-14ec-4222-aa25-f70cebaf4449_1024x691.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "Chris Hedges: The Fight to Save America",
+      "url": "https://consortiumnews.com/2026/06/11/chris-hedges-the-fight-to-save-america/",
+      "date": "2026-06-11T18:00:45.000Z",
+      "image": "",
+      "source": "Consortium News",
+      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
+      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
+    },
+    {
+      "title": "Listen to This Article: Britain's Great Self-Loathing Crusade",
+      "url": "https://www.racket.news/p/listen-to-this-article-britains-great",
+      "date": "2026-06-11T17:33:40.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
     {
       "title": "One Gaza Flotilla Boat Made it to Gaza — in Pieces",
       "url": "https://consortiumnews.com/2026/06/11/one-gaza-flotilla-boat-made-it-to-gaza-in-pieces/",
@@ -138,7 +165,7 @@
       "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
-      "title": "Who Is the Aggressor?/Is it a Threat or an Obstacle?",
+      "title": "Who Is the Aggressor? Turning Obstacles into Threats",
       "url": "https://consortiumnews.com/2026/06/10/who-is-the-aggressor/",
       "date": "2026-06-10T14:05:11.000Z",
       "image": "",
@@ -273,15 +300,6 @@
       "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
-      "title": "Why a Weakened Iran Remains Dangerous, with Behnam Ben Taleblu",
-      "url": "https://www.thefp.com/p/why-a-weakened-iran-remains-dangerous",
-      "date": "2026-06-09T16:18:36.000Z",
-      "image": "https://substack-video.s3.amazonaws.com/video_upload/post/201317759/c1fbd54c-5c00-4c75-b028-8d94d59cd2d7/transcoded-1781020048.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
       "title": "EU Demands Sweeping Censorship To Influence Elections",
       "url": "https://www.public.news/p/eu-demands-sweeping-censorship-to",
       "date": "2026-06-09T16:08:05.000Z",
@@ -334,15 +352,6 @@
       "source": "Matt Taibbi / Racket News",
       "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
       "id": "aHR0cHM6Ly93d3cucmFja2V0"
-    },
-    {
-      "title": "Chris Hedges: The Rise of the Global South",
-      "url": "https://consortiumnews.com/2026/06/08/chris-hedges-the-rise-of-the-global-south/",
-      "date": "2026-06-08T16:08:26.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
       "title": "How Much Ethnocentrism is Okay?",
@@ -532,15 +541,6 @@
       "source": "Matt Taibbi / Racket News",
       "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
       "id": "aHR0cHM6Ly93d3cucmFja2V0"
-    },
-    {
-      "title": "Miranda Devine: Dems can cry corruption all they want – the DOJ&#8217;s anti-weaponization fund has precedent and purpose",
-      "url": "https://nypost.com/2026/05/31/opinion/dems-can-cry-corruption-all-they-want-the-dojs-anti-weaponization-fund-has-precedent-and-purpose/",
-      "date": "2026-06-01T02:31:23.000Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Fcrop-39543420-e1780280152881.jpg?quality%3D90%26strip%3Dall",
-      "source": "Miranda Devine / NY Post",
-      "teaser": "Miranda Devine criticizes Supreme Court Justice Jackson for applauding anti-ICE statements at Grammy Awards.",
-      "id": "aHR0cHM6Ly9ueXBvc3QuY29t"
     }
   ]
 }
