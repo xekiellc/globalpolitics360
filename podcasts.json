@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-06-11T10:47:37.411Z",
+  "lastUpdated": "2026-06-11T16:12:52.131Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1654,
+  "taggedCount": 1655,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Karmelo Anthony Fallout, Belfast Burns, Shock Gen Z Stat, PLUS Another Sorkin Fairytale",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/511b928e-e9ce-4943-aac5-94e5dcc4cc02/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=511b928e-e9ce-4943-aac5-94e5dcc4cc02&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-06-11T11:00:00.000Z",
+      "duration": "01:32:21",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Steve Krakauer, Executive Producer of “The Megyn Kelly Show” and AM Update and author of “Uncovered.” They open with a discussion about the Karmelo Anthony verdict and reaction to it including stunning comments from Anthony’s family and Rep Jasmine Crockett. The conversation then turns to Dana Loesch's advice on political disagreements and why they would take a differe",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
@@ -27,18 +41,6 @@
       "duration": "2362",
       "image": "https://megaphone.imgix.net/podcasts/f70fb0f4-64b5-11f1-a007-8f725da7d012/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "In this Huberman Lab Essentials episode, I discuss science-supported tools to improve sleep by supporting a healthy circadian rhythm using key behaviors and environmental cues. I explain specific morning, afternoon and evening behaviors that will increase daytime alertness and support deeper, more consistent sleep at night. I also cover sleep supplements, the effects of caffeine, alcohol and THC o",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_PASens_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner",
-      "date": "2026-06-10T18:05:00.000Z",
-      "duration": "43:23",
-      "image": "https://static.libsyn.com/p/assets/f/0/b/3/f0b30d692ad9524d16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260610-mm1ibd72q7.png",
-      "desc": "(0:00) PA Senators Fetterman and McCormick join the Besties (0:33) Bipartisanship in 2026, rejecting extremism (6:37) All-time unpopularity in the Senate, the filibuster question, tribalism (13:33) Fixing wealth concentration in the US (19:51) Graham Platner, why extremism wins primaries, and what it means for the future (28:12) How AI and energy are playing a part in PA's blue collar boom, dark m",
       "guestTags": []
     },
     {
@@ -116,6 +118,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Karmelo Anthony Fallout, Belfast Burns, Shock Gen Z Stat, PLUS Another Sorkin Fairytale",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/511b928e-e9ce-4943-aac5-94e5dcc4cc02/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=511b928e-e9ce-4943-aac5-94e5dcc4cc02&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-06-11T11:00:00.000Z",
+      "duration": "01:32:21",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Steve Krakauer, Executive Producer of “The Megyn Kelly Show” and AM Update and author of “Uncovered.” They open with a discussion about the Karmelo Anthony verdict and reaction to it including stunning comments from Anthony’s family and Rep Jasmine Crockett. The conversation then turns to Dana Loesch's advice on political disagreements and why they would take a differe",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#312 Sabrina Pasterski - Theoretical Physicist on the Hidden Code of the Universe",
@@ -137,18 +153,6 @@
       "duration": "2362",
       "image": "https://megaphone.imgix.net/podcasts/f70fb0f4-64b5-11f1-a007-8f725da7d012/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "In this Huberman Lab Essentials episode, I discuss science-supported tools to improve sleep by supporting a healthy circadian rhythm using key behaviors and environmental cues. I explain specific morning, afternoon and evening behaviors that will increase daytime alertness and support deeper, more consistent sleep at night. I also cover sleep supplements, the effects of caffeine, alcohol and THC o",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_PASens_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner",
-      "date": "2026-06-10T18:05:00.000Z",
-      "duration": "43:23",
-      "image": "https://static.libsyn.com/p/assets/f/0/b/3/f0b30d692ad9524d16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260610-mm1ibd72q7.png",
-      "desc": "(0:00) PA Senators Fetterman and McCormick join the Besties (0:33) Bipartisanship in 2026, rejecting extremism (6:37) All-time unpopularity in the Senate, the filibuster question, tribalism (13:33) Fixing wealth concentration in the US (19:51) Graham Platner, why extremism wins primaries, and what it means for the future (28:12) How AI and energy are playing a part in PA's blue collar boom, dark m",
       "guestTags": []
     },
     {
@@ -236,5 +240,9 @@
       "guestTags": []
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ]
+  }
 }
