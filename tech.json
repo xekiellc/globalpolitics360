@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-12T10:23:09.533Z",
+  "lastUpdated": "2026-06-12T15:28:05.762Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction",
+      "url": "https://bitcoinmagazine.com/news/sam-bankman-fried-loses-appeal-ftx",
+      "date": "2026-06-12T14:45:21.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Sam-Bankman-Fried-Loses-Appeal-to-Overturn-FTX-Fraud-Conviction.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Charts of the Week: Making the Stuff that Makes the Stuff",
+      "url": "https://www.a16z.news/p/charts-of-the-week-making-the-stuff",
+      "date": "2026-06-12T14:02:02.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/072ebaf7-e8ee-4e06-a986-36dfb3ea6b50_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount",
+      "url": "https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount",
+      "date": "2026-06-12T13:51:40.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-Stock-MSTR-Offers-Bitcoin-Exposure-At-18-Discount.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem",
+      "url": "https://bitcoinmagazine.com/news/metaplanet-acquires-siiibo-securities",
+      "date": "2026-06-12T13:32:45.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Metaplanet-Acquires-Siiibo-Securities-in-Push-to-Build-Bitcoin-Financial-Ecosystem.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #197",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-197",
+      "date": "2026-06-12T12:58:11.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!msxA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679c1eec-b221-4994-a62f-a46669425e87_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bukele’s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence",
       "url": "https://bitcoinmagazine.com/business/bukeles-reform-makes-el-salvador-a-top-tax-haven-0-on-foreign-income-and-bitcoin-gains-with-minimal-presence",
@@ -93,24 +138,6 @@
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     },
     {
-      "title": "Morgan Stanley&#8217;s Bitcoin Executive Says Education — Not Products — Is Wall Street&#8217;s Real Obstacle",
-      "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-executive-education",
-      "date": "2026-06-10T17:46:39.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Morgan-Stanleys-Bitcoin-Executive-Says-Education-—-Not-Products-—-Is-Wall-Streets-Real-Obstacle.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Fold Holdings Dumps $45M in Bitcoin to Wipe Out Debt, Stock Briefly Pumps Over 130%",
-      "url": "https://bitcoinmagazine.com/news/fold-holdings-dumps-45m-in-bitcoin",
-      "date": "2026-06-10T14:57:16.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/12/Fold-Launches-Nationwide-Bitcoin-Services-Across-All-50-States-With-BitGo.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Everything is Recorded Now",
       "url": "https://www.a16z.news/p/everything-is-recorded-now",
       "date": "2026-06-10T14:00:27.000Z",
@@ -118,15 +145,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios",
-      "url": "https://bitcoinmagazine.com/markets/traditional-finance-rushing-to-crypto",
-      "date": "2026-06-09T17:41:46.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Traditional-Finance-is-Rushing-Into-Crypto-as-Institutions-Buy-Bitcoins-Dip-Axios.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Month-End Is Now Just Another Day",
@@ -340,24 +358,6 @@
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-195",
       "date": "2026-05-29T12:32:20.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!PcCU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e2cf505-f10b-44ac-90b4-5314ca1de52a_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Narrative Violation: In B2B customer support, AI is a Copilot, Not a Replacement",
-      "url": "https://www.a16z.news/p/narrative-violation-in-b2b-customer",
-      "date": "2026-05-28T14:03:18.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7151e43b-eaec-4caf-9f02-4ea8a662d064_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Thank God For Data Centers",
-      "url": "https://www.notboring.co/p/thank-god-for-data-centers",
-      "date": "2026-05-27T19:19:05.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!zhh6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa23d4a7f-dcb2-4b76-b601-6b43607a98be_1200x603.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
