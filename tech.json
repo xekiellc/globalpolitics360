@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-06-12T15:28:05.762Z",
+  "lastUpdated": "2026-06-12T18:11:52.728Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC",
+      "url": "https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard",
+      "date": "2026-06-12T15:45:20.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/SpaceX-Officially-Joins-Public-Bitcoin-Leaderboard-as-8th-Largest-Holder-With-18712-BTC.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction",
       "url": "https://bitcoinmagazine.com/news/sam-bankman-fried-loses-appeal-ftx",
@@ -118,15 +127,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Strategy (MSTR) CEO Says Bitcoin Sale Was About Market &#8216;Inoculation,&#8217; Not a Retreat",
-      "url": "https://bitcoinmagazine.com/news/strategy-mstr-ceo-says-bitcoin-sale",
-      "date": "2026-06-10T20:41:08.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-CEO-Says-Bitcoin-Sale-Was-About-Market-Inoculation-Not-a-Retreat.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Return on Tokens (ROT)",
