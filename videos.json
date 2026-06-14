@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T15:50:33.476Z",
+  "lastUpdated": "2026-06-14T17:25:11.498Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jKZeMwiDJRg",
-      "show": "All-In Podcast",
-      "title": "David Friedberg: California’s Voting System Looks Fraudulent, But It’s Working Exactly as Designed",
-      "url": "https://www.youtube.com/watch?v=jKZeMwiDJRg",
-      "date": "2026-06-14T14:00:04.000Z",
-      "image": "https://i3.ytimg.com/vi/jKZeMwiDJRg/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "RkxZNwf1GEM",
+      "show": "Danny Jones Podcast",
+      "title": "Trump Said THIS about Netanyahu.",
+      "url": "https://www.youtube.com/watch?v=RkxZNwf1GEM",
+      "date": "2026-06-14T17:00:29.000Z",
+      "image": "https://i3.ytimg.com/vi/RkxZNwf1GEM/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://youtu.be/wTNBhMZz2Ao?si=6oRHDSSd2kR5dsDM",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jKZeMwiDJRg",
-      "show": "All-In Podcast",
-      "title": "David Friedberg: California’s Voting System Looks Fraudulent, But It’s Working Exactly as Designed",
-      "url": "https://www.youtube.com/watch?v=jKZeMwiDJRg",
-      "date": "2026-06-14T14:00:04.000Z",
-      "image": "https://i3.ytimg.com/vi/jKZeMwiDJRg/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "RkxZNwf1GEM",
+      "show": "Danny Jones Podcast",
+      "title": "Trump Said THIS about Netanyahu.",
+      "url": "https://www.youtube.com/watch?v=RkxZNwf1GEM",
+      "date": "2026-06-14T17:00:29.000Z",
+      "image": "https://i3.ytimg.com/vi/RkxZNwf1GEM/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://youtu.be/wTNBhMZz2Ao?si=6oRHDSSd2kR5dsDM",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
