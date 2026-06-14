@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-06-14T12:01:56.920Z",
+  "lastUpdated": "2026-06-14T15:50:05.082Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "Listen to This Article: American Elections Are a Joke",
+      "url": "https://www.racket.news/p/listen-to-this-article-american-elections",
+      "date": "2026-06-14T13:01:24.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
     {
       "title": "WATCH: The World This Week &#8212; &#8216;The USA v. Israel&#8217;",
       "url": "https://consortiumnews.com/2026/06/13/watch-the-world-this-week-the-usa-v-israel/",
@@ -532,15 +541,6 @@
       "source": "Miranda Devine / NY Post",
       "teaser": "Miranda Devine criticizes Supreme Court Justice Jackson for applauding anti-ICE statements at Grammy Awards.",
       "id": "aHR0cHM6Ly9ueXBvc3QuY29t"
-    },
-    {
-      "title": "Get Lit Book List",
-      "url": "https://www.racket.news/p/get-lit-book-list",
-      "date": "2026-06-02T19:14:58.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!im3I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5795271a-5921-464d-98a0-521729bf458f_3000x3000.png",
-      "source": "Matt Taibbi / Racket News",
-      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
-      "id": "aHR0cHM6Ly93d3cucmFja2V0"
     }
   ]
 }

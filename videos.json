@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-06-14T12:02:27.806Z",
+  "lastUpdated": "2026-06-14T15:50:33.476Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "1tE4-YTUhp4",
-      "show": "Shawn Ryan Show",
-      "title": "This is How They Hack Your Brain ⚠️",
-      "url": "https://www.youtube.com/watch?v=1tE4-YTUhp4",
-      "date": "2026-06-14T00:00:04.000Z",
-      "image": "https://i2.ytimg.com/vi/1tE4-YTUhp4/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "jKZeMwiDJRg",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: California’s Voting System Looks Fraudulent, But It’s Working Exactly as Designed",
+      "url": "https://www.youtube.com/watch?v=jKZeMwiDJRg",
+      "date": "2026-06-14T14:00:04.000Z",
+      "image": "https://i3.ytimg.com/vi/jKZeMwiDJRg/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "1tE4-YTUhp4",
-      "show": "Shawn Ryan Show",
-      "title": "This is How They Hack Your Brain ⚠️",
-      "url": "https://www.youtube.com/watch?v=1tE4-YTUhp4",
-      "date": "2026-06-14T00:00:04.000Z",
-      "image": "https://i2.ytimg.com/vi/1tE4-YTUhp4/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "jKZeMwiDJRg",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: California’s Voting System Looks Fraudulent, But It’s Working Exactly as Designed",
+      "url": "https://www.youtube.com/watch?v=jKZeMwiDJRg",
+      "date": "2026-06-14T14:00:04.000Z",
+      "image": "https://i3.ytimg.com/vi/jKZeMwiDJRg/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
