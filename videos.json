@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T11:22:22.615Z",
+  "lastUpdated": "2026-06-16T17:05:37.038Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,35 +7,40 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "H3t04MvhiTU",
-      "show": "TRIGGERnometry",
-      "title": "Don't Pick Up A Brick",
-      "url": "https://www.youtube.com/watch?v=H3t04MvhiTU",
-      "date": "2026-06-16T10:35:41.000Z",
-      "image": "https://i1.ytimg.com/vi/H3t04MvhiTU/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "videoId": "imjQRQHcIUw",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: The AI Jobs Panic Is a Crock of Sh*t",
+      "url": "https://www.youtube.com/watch?v=imjQRQHcIUw",
+      "date": "2026-06-16T15:45:45.000Z",
+      "image": "https://i2.ytimg.com/vi/imjQRQHcIUw/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "H3t04MvhiTU",
-      "show": "TRIGGERnometry",
-      "title": "Don't Pick Up A Brick",
-      "url": "https://www.youtube.com/watch?v=H3t04MvhiTU",
-      "date": "2026-06-16T10:35:41.000Z",
-      "image": "https://i1.ytimg.com/vi/H3t04MvhiTU/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent.\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: h",
+      "videoId": "imjQRQHcIUw",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: The AI Jobs Panic Is a Crock of Sh*t",
+      "url": "https://www.youtube.com/watch?v=imjQRQHcIUw",
+      "date": "2026-06-16T15:45:45.000Z",
+      "image": "https://i2.ytimg.com/vi/imjQRQHcIUw/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }
