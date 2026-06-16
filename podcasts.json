@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-06-16T05:03:47.112Z",
+  "lastUpdated": "2026-06-16T11:22:22.110Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1659,
+  "taggedCount": 1660,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Call Her Daddy CRISIS, Rainn Wilson Blasts Cancel Culture, UFC vs Lefty-palooza, &amp; Pratt’s Next Move, w/ Chris Fenton",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/55072a25-31dd-4e32-95bd-938f185dfae4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=55072a25-31dd-4e32-95bd-938f185dfae4&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-06-16T11:00:00.000Z",
+      "duration": "01:15:49",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/54db53be-aecc-4f3e-97d9-f65075093a02/3000x3000/ap_98_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Chris Fenton, producer of the upcoming comedy “Bad Counselors” and a professor at the University of Southern California’s John H. Mitchell Business of Cinematic Arts Program. They begin with a discussion about his new made in America film. Fenton spills the tea on what it’s like to work in Hollywood these days, how the movie industry became overly dependent on China, a",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -65,18 +79,6 @@
       "duration": "10510",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Andy Stumpf is a retired Navy SEAL, world-record-holding wingsuit BASE jumper, martial artist, and author. We discuss the mental framework and moment-to-moment decision-making process that can allow anyone to build discipline and resilience and better navigate both everyday life and life's most challenging moments. Andy explains several simple-yet-powerful tools gleaned from his time in — and afte",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up &amp; California's Broken Elections",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E276_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections",
-      "date": "2026-06-13T04:51:00.000Z",
-      "duration": "01:42:00",
-      "image": "https://static.libsyn.com/p/assets/6/7/e/c/67ec7acb0cac9bead959afa2a1bf1c87/1_Pod_E276.png",
-      "desc": "(0:00) Besties are back! (0:19) Anthropic gets massive backlash over secret Fable nerfing and privacy concerns (29:16) The AI regulatory capture trap, pragmatic safety solutions (37:59) Nationalizing AI: Trump/Sanders, justifications, and AI's \"Capitalist Cucks\" (59:22) Liquidity recap: Best moments and takeaways (1:05:39) Inflation heats up: CPI and PPI see 3+ year highs (1:12:27) California's lo",
       "guestTags": []
     },
     {
@@ -118,6 +120,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Call Her Daddy CRISIS, Rainn Wilson Blasts Cancel Culture, UFC vs Lefty-palooza, &amp; Pratt’s Next Move, w/ Chris Fenton",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/55072a25-31dd-4e32-95bd-938f185dfae4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=55072a25-31dd-4e32-95bd-938f185dfae4&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-06-16T11:00:00.000Z",
+      "duration": "01:15:49",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/54db53be-aecc-4f3e-97d9-f65075093a02/3000x3000/ap_98_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Chris Fenton, producer of the upcoming comedy “Bad Counselors” and a professor at the University of Southern California’s John H. Mitchell Business of Cinematic Arts Program. They begin with a discussion about his new made in America film. Fenton spills the tea on what it’s like to work in Hollywood these days, how the movie industry became overly dependent on China, a",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KILL TONY #772 - JOE DEROSA + TIM BUTTERLY",
@@ -177,18 +193,6 @@
       "duration": "10510",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Andy Stumpf is a retired Navy SEAL, world-record-holding wingsuit BASE jumper, martial artist, and author. We discuss the mental framework and moment-to-moment decision-making process that can allow anyone to build discipline and resilience and better navigate both everyday life and life's most challenging moments. Andy explains several simple-yet-powerful tools gleaned from his time in — and afte",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up &amp; California's Broken Elections",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E276_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections",
-      "date": "2026-06-13T04:51:00.000Z",
-      "duration": "01:42:00",
-      "image": "https://static.libsyn.com/p/assets/6/7/e/c/67ec7acb0cac9bead959afa2a1bf1c87/1_Pod_E276.png",
-      "desc": "(0:00) Besties are back! (0:19) Anthropic gets massive backlash over secret Fable nerfing and privacy concerns (29:16) The AI regulatory capture trap, pragmatic safety solutions (37:59) Nationalizing AI: Trump/Sanders, justifications, and AI's \"Capitalist Cucks\" (59:22) Liquidity recap: Best moments and takeaways (1:05:39) Inflation heats up: CPI and PPI see 3+ year highs (1:12:27) California's lo",
       "guestTags": []
     },
     {
@@ -241,6 +245,9 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
