@@ -1,47 +1,34 @@
 {
-  "lastUpdated": "2026-06-16T17:05:37.038Z",
+  "lastUpdated": "2026-06-16T21:09:30.136Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 26,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "imjQRQHcIUw",
+      "videoId": "_1BXHND0CRE",
       "show": "All-In Podcast",
-      "title": "David Friedberg: The AI Jobs Panic Is a Crock of Sh*t",
-      "url": "https://www.youtube.com/watch?v=imjQRQHcIUw",
-      "date": "2026-06-16T15:45:45.000Z",
-      "image": "https://i2.ytimg.com/vi/imjQRQHcIUw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "title": "The Trade That Put Bill Ackman on the Map: Forcing Wendy's to Spin Out Tim Hortons",
+      "url": "https://www.youtube.com/watch?v=_1BXHND0CRE",
+      "date": "2026-06-16T20:41:57.000Z",
+      "image": "https://i4.ytimg.com/vi/_1BXHND0CRE/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nEY - EY helps private equity firms turn market insight into action, navigating complexity and unlocking new paths to growth and long-term value.\nhttps://www.ey.com/en_us/industries/private-equity?WT.mc_id=3501315&amp;AA.tsrc=sponsorship\n\nNYSE - Thank",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "imjQRQHcIUw",
+      "videoId": "_1BXHND0CRE",
       "show": "All-In Podcast",
-      "title": "David Friedberg: The AI Jobs Panic Is a Crock of Sh*t",
-      "url": "https://www.youtube.com/watch?v=imjQRQHcIUw",
-      "date": "2026-06-16T15:45:45.000Z",
-      "image": "https://i2.ytimg.com/vi/imjQRQHcIUw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "title": "The Trade That Put Bill Ackman on the Map: Forcing Wendy's to Spin Out Tim Hortons",
+      "url": "https://www.youtube.com/watch?v=_1BXHND0CRE",
+      "date": "2026-06-16T20:41:57.000Z",
+      "image": "https://i4.ytimg.com/vi/_1BXHND0CRE/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nEY - EY helps private equity firms turn market insight into action, navigating complexity and unlocking new paths to growth and long-term value.\nhttps://www.ey.com/en_us/industries/private-equity?WT.mc_id=3501315&amp;AA.tsrc=sponsorship\n\nNYSE - Thank",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
