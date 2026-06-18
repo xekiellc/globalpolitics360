@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-06-18T15:38:35.050Z",
+  "lastUpdated": "2026-06-18T18:28:57.702Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 26,
+  "taggedCount": 25,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "m5doHrV3FNs",
-      "show": "The Free Press",
-      "title": "John Kiriakou talks about prison gangs",
-      "url": "https://www.youtube.com/watch?v=m5doHrV3FNs",
-      "date": "2026-06-18T14:30:37.000Z",
-      "image": "https://i2.ytimg.com/vi/m5doHrV3FNs/hqdefault.jpg",
-      "desc": "#shorts #theovon #johnkiriakou",
-      "guestTags": [
-        "John Kiriakou"
-      ]
+      "videoId": "XZRGJmSUBl8",
+      "show": "Shawn Ryan Show",
+      "title": "Wait… What Did I Just Hear?! 😡",
+      "url": "https://www.youtube.com/watch?v=XZRGJmSUBl8",
+      "date": "2026-06-18T18:00:38.000Z",
+      "image": "https://i1.ytimg.com/vi/XZRGJmSUBl8/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "m5doHrV3FNs",
-      "show": "The Free Press",
-      "title": "John Kiriakou talks about prison gangs",
-      "url": "https://www.youtube.com/watch?v=m5doHrV3FNs",
-      "date": "2026-06-18T14:30:37.000Z",
-      "image": "https://i2.ytimg.com/vi/m5doHrV3FNs/hqdefault.jpg",
-      "desc": "#shorts #theovon #johnkiriakou",
-      "guestTags": [
-        "John Kiriakou"
-      ]
+      "videoId": "XZRGJmSUBl8",
+      "show": "Shawn Ryan Show",
+      "title": "Wait… What Did I Just Hear?! 😡",
+      "url": "https://www.youtube.com/watch?v=XZRGJmSUBl8",
+      "date": "2026-06-18T18:00:38.000Z",
+      "image": "https://i1.ytimg.com/vi/XZRGJmSUBl8/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "John Kiriakou": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
