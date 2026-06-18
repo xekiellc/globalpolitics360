@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-06-17T22:05:29.834Z",
+  "lastUpdated": "2026-06-18T04:39:44.455Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Dear New Philanthropists",
+      "url": "https://blog.joelonsdale.com/p/dear-new-philanthropists",
+      "date": "2026-06-17T23:03:06.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!R_ss!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80aa8ea2-6de2-402b-8c89-b938b00e62ee_1440x800.webp",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
     {
       "title": "Fed Signals Possible Rate Hikes as Kevin Warsh Opens ‘New Chapter’ at Central Bank",
       "url": "https://bitcoinmagazine.com/news/fed-signals-rate-hikes-as-kevin-warsh",
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Weekly Dose of Optimism #195",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-195",
-      "date": "2026-05-29T12:32:20.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!PcCU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e2cf505-f10b-44ac-90b4-5314ca1de52a_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
