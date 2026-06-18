@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-06-18T10:38:41.084Z",
+  "lastUpdated": "2026-06-18T15:38:35.050Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 25,
+  "taggedCount": 26,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "yje7xk3NHYg",
-      "show": "Shawn Ryan Show",
-      "title": "What Does a SEAL Team 6 Operator Carry?",
-      "url": "https://www.youtube.com/watch?v=yje7xk3NHYg",
-      "date": "2026-06-18T00:00:39.000Z",
-      "image": "https://i2.ytimg.com/vi/yje7xk3NHYg/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "m5doHrV3FNs",
+      "show": "The Free Press",
+      "title": "John Kiriakou talks about prison gangs",
+      "url": "https://www.youtube.com/watch?v=m5doHrV3FNs",
+      "date": "2026-06-18T14:30:37.000Z",
+      "image": "https://i2.ytimg.com/vi/m5doHrV3FNs/hqdefault.jpg",
+      "desc": "#shorts #theovon #johnkiriakou",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "yje7xk3NHYg",
-      "show": "Shawn Ryan Show",
-      "title": "What Does a SEAL Team 6 Operator Carry?",
-      "url": "https://www.youtube.com/watch?v=yje7xk3NHYg",
-      "date": "2026-06-18T00:00:39.000Z",
-      "image": "https://i2.ytimg.com/vi/yje7xk3NHYg/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "m5doHrV3FNs",
+      "show": "The Free Press",
+      "title": "John Kiriakou talks about prison gangs",
+      "url": "https://www.youtube.com/watch?v=m5doHrV3FNs",
+      "date": "2026-06-18T14:30:37.000Z",
+      "image": "https://i2.ytimg.com/vi/m5doHrV3FNs/hqdefault.jpg",
+      "desc": "#shorts #theovon #johnkiriakou",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "John Kiriakou": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

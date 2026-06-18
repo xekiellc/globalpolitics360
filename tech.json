@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-06-18T10:38:36.090Z",
+  "lastUpdated": "2026-06-18T15:38:26.097Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Federal Reserve Moves to Close Stablecoin Loopholes With New Customer ID Rules",
+      "url": "https://bitcoinmagazine.com/news/federal-reserve-moves-to-close-stablecoin",
+      "date": "2026-06-18T15:31:09.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Federal-Reserve-Moves-to-Close-Stablecoin-Loopholes-With-New-Customer-ID-Rules.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "New Media, One Year In",
+      "url": "https://www.a16z.news/p/new-media-one-year-in",
+      "date": "2026-06-18T14:10:22.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ff5939a1-2b02-4075-b4ff-5e052b77de00_5688x3200.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Introducing the a16z Talent Engineer Fellowship",
+      "url": "https://www.a16z.news/p/introducing-the-a16z-talent-engineer",
+      "date": "2026-06-18T13:55:30.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!KGJi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F830e1968-aa7c-4712-8242-aaacefd01279_5688x3200.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification",
+      "url": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
+      "date": "2026-06-18T13:50:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/CME-Group-to-Sue-CFTC-Over-Bitcoin-Perpetual-Futures-Approval-in-Clash-Over-Dodd-Frank-Classification.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Dear New Philanthropists",
       "url": "https://blog.joelonsdale.com/p/dear-new-philanthropists",
@@ -118,24 +154,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Cardone Capital&#8217;s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings",
-      "url": "https://bitcoinmagazine.com/business/cardone-capitals-bitcoin-reit-hybrid-targeting-22-32-returns-by-blending-cash-flowing-properties-and-btc-holdings",
-      "date": "2026-06-16T17:27:53.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-4.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection",
-      "url": "https://bitcoinmagazine.com/news/binance-faces-european-union-exit",
-      "date": "2026-06-16T15:26:24.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Binance.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "SpaceX & the Sentient Sun",
@@ -318,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Introducing Special",
-      "url": "https://www.a16z.news/p/introducing-special",
-      "date": "2026-06-02T15:50:10.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/337b3d38-ddf6-401a-840b-6f06ec39a8e8_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "America Spins on Westmag",
       "url": "https://www.notboring.co/p/westmag",
       "date": "2026-06-02T15:34:10.000Z",
@@ -334,15 +343,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Investing in Westmag",
-      "url": "https://www.a16z.news/p/investing-in-westmag",
-      "date": "2026-06-02T14:29:04.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/01740f84-e24d-4f5c-8f12-77f7e5ca6653_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "What America Needs from a New FDA Commissioner",
