@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-06-19T21:13:04.748Z",
+  "lastUpdated": "2026-06-19T23:03:31.104Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 25,
+  "taggedCount": 26,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "I_Ev2WAWksM",
-      "show": "Theo Von",
-      "title": "Theo and Joaquin Phoenix Talk About Their Dads",
-      "url": "https://www.youtube.com/watch?v=I_Ev2WAWksM",
-      "date": "2026-06-19T21:00:29.000Z",
-      "image": "https://i2.ytimg.com/vi/I_Ev2WAWksM/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #598 | Joaquin Phoenix\nFull Episode: https://youtu.be/WW8UwUPturo?si=xpuysjxqOt_UOhBj\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/t",
-      "guestTags": []
+      "videoId": "3Amlu4y94Ho",
+      "show": "All-In Podcast",
+      "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+      "url": "https://www.youtube.com/watch?v=3Amlu4y94Ho",
+      "date": "2026-06-19T22:22:20.000Z",
+      "image": "https://i4.ytimg.com/vi/3Amlu4y94Ho/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros!\n(2:41) The New Oligarchs, America's incoming politburo, and learned helplessness\n(14:18) SpaceX's record breaking IPO, $60B Cursor acquisition, and trillionaire reactions\n(33:34) Behind the scenes of Anthropic's Fable ban\n(1:01:18) Claude psychoanalyzes its creator, Dario Amode",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "I_Ev2WAWksM",
-      "show": "Theo Von",
-      "title": "Theo and Joaquin Phoenix Talk About Their Dads",
-      "url": "https://www.youtube.com/watch?v=I_Ev2WAWksM",
-      "date": "2026-06-19T21:00:29.000Z",
-      "image": "https://i2.ytimg.com/vi/I_Ev2WAWksM/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #598 | Joaquin Phoenix\nFull Episode: https://youtu.be/WW8UwUPturo?si=xpuysjxqOt_UOhBj\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/t",
-      "guestTags": []
+      "videoId": "3Amlu4y94Ho",
+      "show": "All-In Podcast",
+      "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+      "url": "https://www.youtube.com/watch?v=3Amlu4y94Ho",
+      "date": "2026-06-19T22:22:20.000Z",
+      "image": "https://i4.ytimg.com/vi/3Amlu4y94Ho/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros!\n(2:41) The New Oligarchs, America's incoming politburo, and learned helplessness\n(14:18) SpaceX's record breaking IPO, $60B Cursor acquisition, and trillionaire reactions\n(33:34) Behind the scenes of Anthropic's Fable ban\n(1:01:18) Claude psychoanalyzes its creator, Dario Amode",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
