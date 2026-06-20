@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-06-20T15:47:24.189Z",
+  "lastUpdated": "2026-06-20T17:40:03.215Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1666,
+  "taggedCount": 1585,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #181 with Justin Gaethje &amp; Trevor Wittman",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1314948676.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1314948676.mp3",
+      "date": "2026-06-20T17:00:00.000Z",
+      "duration": "8619",
+      "image": "https://megaphone.imgix.net/podcasts/c02c1d02-6c3a-11f1-9abf-470c52089759/image/ede67c34735f33ef01819adae0265eca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe is joined by UFC Lightweight Champion Justin Gaethje &amp; boxing and MMA trainer Trevor Wittman.\n\n\n\nhttps://www.youtube.com/@justin_gaethje\n\nhttps://onxsports.com/\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan\n\n\n\nonX Offroad: Try onX Offroad for 50% off- go to ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -67,18 +79,6 @@
       "duration": "9135",
       "image": "https://megaphone.imgix.net/podcasts/53a98770-6bde-11f1-9f0f-17ef5776bad3/image/28edd9f7e8969f97ece5d350f2583e97.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n1) GHOSTBED: Go to GhostBed.com/julian for the 4th of July Sale, which gives you $200 off mattress bundles and get an extra 10% off on top of that with code JULIAN.\n2) HEXCLAD: Find your forever cookware @hexclad and get 10% off at hexclad.com/JULIAN #hexcladpartner \n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey\n\n\n\nCLIPPERS DISCORD: https://disc",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2516 - Rowan Jacobsen",
-      "audioUrl": "https://traffic.megaphone.fm/GLT3995715859.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT3995715859.mp3",
-      "date": "2026-06-18T17:00:00.000Z",
-      "duration": "7606",
-      "image": "https://megaphone.imgix.net/podcasts/04cb4c58-6aab-11f1-908a-ab69dccb621b/image/af988ac23c611415132d37439ec0c7d8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Rowan Jacobsen is an award-winning science and nature writer. His new book, “In Defense of Sunlight: The Surprising Science of Sun Exposure,” is available now.www.simonandschuster.com/books/In-Defense-of-Sunlight/Rowan-Jacobsen/9781668092163www.rowanjacobsen.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan for 30% OFF, or fi",
       "guestTags": []
     },
     {
@@ -120,6 +120,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #181 with Justin Gaethje &amp; Trevor Wittman",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1314948676.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1314948676.mp3",
+      "date": "2026-06-20T17:00:00.000Z",
+      "duration": "8619",
+      "image": "https://megaphone.imgix.net/podcasts/c02c1d02-6c3a-11f1-9abf-470c52089759/image/ede67c34735f33ef01819adae0265eca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe is joined by UFC Lightweight Champion Justin Gaethje &amp; boxing and MMA trainer Trevor Wittman.\n\n\n\nhttps://www.youtube.com/@justin_gaethje\n\nhttps://onxsports.com/\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan\n\n\n\nonX Offroad: Try onX Offroad for 50% off- go to ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
@@ -181,18 +193,6 @@
       "duration": "9135",
       "image": "https://megaphone.imgix.net/podcasts/53a98770-6bde-11f1-9f0f-17ef5776bad3/image/28edd9f7e8969f97ece5d350f2583e97.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n1) GHOSTBED: Go to GhostBed.com/julian for the 4th of July Sale, which gives you $200 off mattress bundles and get an extra 10% off on top of that with code JULIAN.\n2) HEXCLAD: Find your forever cookware @hexclad and get 10% off at hexclad.com/JULIAN #hexcladpartner \n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey\n\n\n\nCLIPPERS DISCORD: https://disc",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2516 - Rowan Jacobsen",
-      "audioUrl": "https://traffic.megaphone.fm/GLT3995715859.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT3995715859.mp3",
-      "date": "2026-06-18T17:00:00.000Z",
-      "duration": "7606",
-      "image": "https://megaphone.imgix.net/podcasts/04cb4c58-6aab-11f1-908a-ab69dccb621b/image/af988ac23c611415132d37439ec0c7d8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Rowan Jacobsen is an award-winning science and nature writer. His new book, “In Defense of Sunlight: The Surprising Science of Sun Exposure,” is available now.www.simonandschuster.com/books/In-Defense-of-Sunlight/Rowan-Jacobsen/9781668092163www.rowanjacobsen.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan for 30% OFF, or fi",
       "guestTags": []
     },
     {
