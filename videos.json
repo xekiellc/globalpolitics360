@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T21:20:11.321Z",
+  "lastUpdated": "2026-06-21T23:20:49.940Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,41 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FFxFoHeOQx4",
-      "show": "Jordan Peterson",
-      "title": "Present or Absent We Wrestle with God",
-      "url": "https://www.youtube.com/watch?v=FFxFoHeOQx4",
-      "date": "2026-06-21T20:12:50.000Z",
-      "image": "https://i3.ytimg.com/vi/FFxFoHeOQx4/hqdefault.jpg",
-      "desc": "Hi, everybody.\n\nI’m pleased to let you know that we’re going to release a lecture a week from my extensive tour archive, beginning this Sunday and then repeating every Sunday after that.\n\nThis allows me to do something interesting and useful while I’m otherwise incapacitated. My health is such at th",
-      "guestTags": []
+      "videoId": "FvxUX5oSDPw",
+      "show": "All-In Podcast",
+      "title": "The Great Lie: It's not rich vs poor, it's makers vs takers",
+      "url": "https://www.youtube.com/watch?v=FvxUX5oSDPw",
+      "date": "2026-06-21T22:46:11.000Z",
+      "image": "https://i3.ytimg.com/vi/FvxUX5oSDPw/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FFxFoHeOQx4",
-      "show": "Jordan Peterson",
-      "title": "Present or Absent We Wrestle with God",
-      "url": "https://www.youtube.com/watch?v=FFxFoHeOQx4",
-      "date": "2026-06-21T20:12:50.000Z",
-      "image": "https://i3.ytimg.com/vi/FFxFoHeOQx4/hqdefault.jpg",
-      "desc": "Hi, everybody.\n\nI’m pleased to let you know that we’re going to release a lecture a week from my extensive tour archive, beginning this Sunday and then repeating every Sunday after that.\n\nThis allows me to do something interesting and useful while I’m otherwise incapacitated. My health is such at th",
-      "guestTags": []
+      "videoId": "FvxUX5oSDPw",
+      "show": "All-In Podcast",
+      "title": "The Great Lie: It's not rich vs poor, it's makers vs takers",
+      "url": "https://www.youtube.com/watch?v=FvxUX5oSDPw",
+      "date": "2026-06-21T22:46:11.000Z",
+      "image": "https://i3.ytimg.com/vi/FvxUX5oSDPw/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
