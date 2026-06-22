@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-06-22T18:14:24.692Z",
+  "lastUpdated": "2026-06-22T22:08:33.850Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?",
+      "url": "https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders",
+      "date": "2026-06-22T21:35:38.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bernstein-Pushes-Back-on-Bitcoin-Quantum-Threat-Fears-Says-Its-Not-a-Crisis-Report.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division",
+      "url": "https://bitcoinmagazine.com/news/franklin-templeton-closes-250-digital",
+      "date": "2026-06-22T18:18:45.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Franklin-Templeton-to-Acquire-CoinFund-Spinoff-for-Institutional-Crypto-Push-WSJ.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Impeccable by Design",
       "url": "https://www.a16z.news/p/impeccable-by-design",
@@ -93,15 +111,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Michael Saylor’s Strategy (MSTR) Buys 520 Bitcoin, Raises USD Reserve to $1.4 Billion",
-      "url": "https://bitcoinmagazine.com/news/michael-saylors-strategy-buys-520-bitcoin",
-      "date": "2026-06-22T13:16:43.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Investing in Prosper AI",
       "url": "https://www.a16z.news/p/investing-in-prosper-ai",
       "date": "2026-06-22T13:01:17.000Z",
@@ -109,15 +118,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "JPMorgan: Bitcoin Mining Costs Have &#8216;Worsened&#8217; as BTC Trades Below Production Cost",
-      "url": "https://bitcoinmagazine.com/news/jpmorgan-bitcoin-mining-costs-worsened",
-      "date": "2026-06-19T18:35:13.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/JPMorgan-Bitcoin-Mining-Costs-Have-Worsened-as-BTC-Trades-Below-Production-Cost.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Meet the second cohort of a16z New Media Fellows",
