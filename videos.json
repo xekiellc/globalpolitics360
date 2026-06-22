@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T23:20:49.940Z",
+  "lastUpdated": "2026-06-22T05:02:19.405Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FvxUX5oSDPw",
-      "show": "All-In Podcast",
-      "title": "The Great Lie: It's not rich vs poor, it's makers vs takers",
-      "url": "https://www.youtube.com/watch?v=FvxUX5oSDPw",
-      "date": "2026-06-21T22:46:11.000Z",
-      "image": "https://i3.ytimg.com/vi/FvxUX5oSDPw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "0dM_7uO895A",
+      "show": "The Free Press",
+      "title": "Crooners Welcome | This Past Weekend w/ Theo Von #664",
+      "url": "https://www.youtube.com/watch?v=0dM_7uO895A",
+      "date": "2026-06-21T23:40:36.000Z",
+      "image": "https://i1.ytimg.com/vi/0dM_7uO895A/hqdefault.jpg",
+      "desc": "Theo is back with a solo episode to talk about unique rodeo names, the time he tried to impress a barista, and when things get greasy. He also responds to some of your voicemails. \n\nBusboys streaming now at https://www.busboysmovie.com\n\nWatch on Prime Video ➡️ https://amazon.com/dp/B0GYQGKX1H \n\nWatc",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FvxUX5oSDPw",
-      "show": "All-In Podcast",
-      "title": "The Great Lie: It's not rich vs poor, it's makers vs takers",
-      "url": "https://www.youtube.com/watch?v=FvxUX5oSDPw",
-      "date": "2026-06-21T22:46:11.000Z",
-      "image": "https://i3.ytimg.com/vi/FvxUX5oSDPw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "0dM_7uO895A",
+      "show": "The Free Press",
+      "title": "Crooners Welcome | This Past Weekend w/ Theo Von #664",
+      "url": "https://www.youtube.com/watch?v=0dM_7uO895A",
+      "date": "2026-06-21T23:40:36.000Z",
+      "image": "https://i1.ytimg.com/vi/0dM_7uO895A/hqdefault.jpg",
+      "desc": "Theo is back with a solo episode to talk about unique rodeo names, the time he tried to impress a barista, and when things get greasy. He also responds to some of your voicemails. \n\nBusboys streaming now at https://www.busboysmovie.com\n\nWatch on Prime Video ➡️ https://amazon.com/dp/B0GYQGKX1H \n\nWatc",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
