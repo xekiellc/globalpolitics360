@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-23T12:38:08.525Z",
+  "lastUpdated": "2026-06-23T16:28:40.396Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
+      "url": "https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed",
+      "date": "2026-06-23T15:17:11.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/US-Senate-Passes-Housing-Bill-With-Four-Year-Fed-CBDC-Ban.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Nakamoto Inc. (NAKA) Closes Last Healthcare Clinic, Completes Full Pivot to Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/nakamoto-completes-full-pivot-to-bitcoin",
+      "date": "2026-06-23T14:40:06.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Nakamoto-Inc.-NAKA-Strengthens-Balance-With-600-Bitcoin-Sale-Refinancing-and-Buyback-Authorization.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-secures-micar-license",
+      "date": "2026-06-23T14:31:29.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Suisse-Secures-MiCAR-License-Launches-European-Expansion-from-Liechtenstein.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "The World-Building Doors Are Open, Again.",
+      "url": "https://www.a16z.news/p/the-world-building-doors-are-open",
+      "date": "2026-06-23T14:01:48.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6d138f2c-0d57-4e10-a1f9-042de6a24357_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Probook",
+      "url": "https://www.a16z.news/p/investing-in-probook",
+      "date": "2026-06-23T13:02:39.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/2cdd355b-2aa5-449d-b2fd-fdccbc692e58_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?",
       "url": "https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders",
@@ -75,24 +120,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users",
-      "url": "https://bitcoinmagazine.com/news/ice-and-okx-form-crypto-to-connect-nyse",
-      "date": "2026-06-22T14:17:43.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/ICE-and-OKX-Form-Joint-Venture-to-Connect-NYSE-Infrastructure-With-120-Million-Crypto-Users.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Price Rises Above $65,000 as ETF Outflows Slow, Iran Deal and Fed Pull in Opposite Directions",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-rises-above-65000-etf",
-      "date": "2026-06-22T14:11:30.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Rises-Above-65000-as-ETF-Outflows-Slow-Iran-Deal-and-Fed-Pull-in-Opposite-Directions.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "How to Win a Space War",
       "url": "https://www.a16z.news/p/how-to-win-a-space-war",
       "date": "2026-06-22T14:02:59.000Z",
@@ -100,15 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC",
-      "url": "https://bitcoinmagazine.com/news/strive-asst-buys-759-bitcoin-for-50-mil",
-      "date": "2026-06-22T13:21:27.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Strive-ASST-Buys-1109-Bitcoin-Lifts-Holdings-to-16500-BTC.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Investing in Prosper AI",
@@ -331,24 +349,6 @@
       "url": "https://www.a16z.news/p/helping-our-portfolio-companies-expand",
       "date": "2026-06-04T13:17:40.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/bb6c7e3a-3a94-4f3c-90dd-b4602012fcd8_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "A16Z Investor Relations is now Global Partnerships",
-      "url": "https://www.a16z.news/p/a16z-investor-relations-is-now-global",
-      "date": "2026-06-04T13:17:23.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7800512b-30f5-4736-ab60-7b92db6b428d_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Technology is Security, for America and Her Allies",
-      "url": "https://www.a16z.news/p/technology-is-security-for-america",
-      "date": "2026-06-04T13:17:04.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9deecc1a-7046-45f8-af7f-62941a517c72_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
