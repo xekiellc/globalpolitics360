@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T09:53:11.967Z",
+  "lastUpdated": "2026-06-23T12:38:16.761Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "KvLdZW61lWg",
-      "show": "Shawn Ryan Show",
-      "title": "Being Present Is a Trap?! 😳",
-      "url": "https://www.youtube.com/watch?v=KvLdZW61lWg",
-      "date": "2026-06-23T02:00:24.000Z",
-      "image": "https://i4.ytimg.com/vi/KvLdZW61lWg/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "p8C818ViQcU",
+      "show": "TRIGGERnometry",
+      "title": "Konstantin Kisin's Opening Speech at ARC",
+      "url": "https://www.youtube.com/watch?v=p8C818ViQcU",
+      "date": "2026-06-23T11:53:27.000Z",
+      "image": "https://i1.ytimg.com/vi/p8C818ViQcU/hqdefault.jpg",
+      "desc": "Konstantin Kisin's Opening Speech at ARC\nARC Live Stream -  https://www.arc-conference.com/livestream\nARC Age of reconstruction book - https://www.amazon.co.uk/dp/1916948510\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "KvLdZW61lWg",
-      "show": "Shawn Ryan Show",
-      "title": "Being Present Is a Trap?! 😳",
-      "url": "https://www.youtube.com/watch?v=KvLdZW61lWg",
-      "date": "2026-06-23T02:00:24.000Z",
-      "image": "https://i4.ytimg.com/vi/KvLdZW61lWg/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "p8C818ViQcU",
+      "show": "TRIGGERnometry",
+      "title": "Konstantin Kisin's Opening Speech at ARC",
+      "url": "https://www.youtube.com/watch?v=p8C818ViQcU",
+      "date": "2026-06-23T11:53:27.000Z",
+      "image": "https://i1.ytimg.com/vi/p8C818ViQcU/hqdefault.jpg",
+      "desc": "Konstantin Kisin's Opening Speech at ARC\nARC Live Stream -  https://www.arc-conference.com/livestream\nARC Age of reconstruction book - https://www.amazon.co.uk/dp/1916948510\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
