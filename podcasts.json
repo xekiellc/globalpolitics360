@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-06-23T20:12:34.889Z",
+  "lastUpdated": "2026-06-23T23:12:03.186Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1670,
+  "taggedCount": 1671,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Cohen_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay",
+      "date": "2026-06-23T20:52:00.000Z",
+      "duration": "01:03:03",
+      "image": "https://static.libsyn.com/p/assets/9/3/1/3/93138d0f7fcef9b816c3140a3186d450/1_Pod_Cohen.png",
+      "desc": "(0:00) David Friedberg intros GameStop CEO Ryan Cohen! (1:56) Building and selling Chewy for $3.35B, how to compete with Amazon in e-commerce (11:58) Post-Chewy life, activist investing, the road to GameStop CEO, expanding into collectibles (26:39) Why he wants to buy eBay for $56B: Massive potential, poor execution (slow growth, rising expenses, seller relationship failure) (43:58) Ryan's three-p",
+      "guestTags": [
+        "Roaring Kitty"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
@@ -40,21 +54,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss John Mearsheimer on Iran war and Ukraine, Tucker says he is done with the GOP. John Mearsheimer: https://www.mearsheimer.com/ Blowback Podcast: https://blowback.show/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Kamala Rambles, Hillary Rages, &amp; Joy Reid Trashes July 4th, with Rachel &amp; Inez, PLUS Rosie in Denial",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/351d7013-bd66-4f43-bab4-82546f936e42/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=351d7013-bd66-4f43-bab4-82546f936e42&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-06-23T11:00:00.000Z",
-      "duration": "01:27:00",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/112677cd-31e4-4b4b-89d5-297945040994/3000x3000/ap_100_pip_jpeg.jpg?aid=rss_feed",
-      "desc": "“After Party” celebrates its 100th episode as Emily Jashinsky welcomes fan favorites, Rachel Bovard, Vice President at the Conservative Partnership Institute, and Inez Stepman, legal analyst at Independent Women, for a discussion on politics, culture, and friendship. The ladies begin with newly resurfaced comments from Texas Democrat James Talarico who suggested a self-described “TransQueer, Latin",
-      "guestTags": [
-        "Emily Jashinsky",
-        "Jim Bovard"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -121,6 +120,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Cohen_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay",
+      "date": "2026-06-23T20:52:00.000Z",
+      "duration": "01:03:03",
+      "image": "https://static.libsyn.com/p/assets/9/3/1/3/93138d0f7fcef9b816c3140a3186d450/1_Pod_Cohen.png",
+      "desc": "(0:00) David Friedberg intros GameStop CEO Ryan Cohen! (1:56) Building and selling Chewy for $3.35B, how to compete with Amazon in e-commerce (11:58) Post-Chewy life, activist investing, the road to GameStop CEO, expanding into collectibles (26:39) Why he wants to buy eBay for $56B: Massive potential, poor execution (slow growth, rising expenses, seller relationship failure) (43:58) Ryan's three-p",
+      "guestTags": [
+        "Roaring Kitty"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "The Real Story Behind the U.S.-Iran Negotiations",
@@ -155,21 +168,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss John Mearsheimer on Iran war and Ukraine, Tucker says he is done with the GOP. John Mearsheimer: https://www.mearsheimer.com/ Blowback Podcast: https://blowback.show/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Kamala Rambles, Hillary Rages, &amp; Joy Reid Trashes July 4th, with Rachel &amp; Inez, PLUS Rosie in Denial",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/351d7013-bd66-4f43-bab4-82546f936e42/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=351d7013-bd66-4f43-bab4-82546f936e42&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-06-23T11:00:00.000Z",
-      "duration": "01:27:00",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/112677cd-31e4-4b4b-89d5-297945040994/3000x3000/ap_100_pip_jpeg.jpg?aid=rss_feed",
-      "desc": "“After Party” celebrates its 100th episode as Emily Jashinsky welcomes fan favorites, Rachel Bovard, Vice President at the Conservative Partnership Institute, and Inez Stepman, legal analyst at Independent Women, for a discussion on politics, culture, and friendship. The ladies begin with newly resurfaced comments from Texas Democrat James Talarico who suggested a self-described “TransQueer, Latin",
-      "guestTags": [
-        "Emily Jashinsky",
-        "Jim Bovard"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -247,10 +245,7 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Jim Bovard": [
+    "Roaring Kitty": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Dave Smith": [
