@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T19:53:55.898Z",
+  "lastUpdated": "2026-06-24T21:26:55.526Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PeNclyAl9N4",
-      "show": "All-In Podcast",
-      "title": "GameStop CEO Ryan Cohen: 3 Ways I’d Fix eBay",
-      "url": "https://www.youtube.com/watch?v=PeNclyAl9N4",
-      "date": "2026-06-24T18:36:16.000Z",
-      "image": "https://i1.ytimg.com/vi/PeNclyAl9N4/hqdefault.jpg",
-      "desc": "Most advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in cl",
-      "guestTags": [
-        "Roaring Kitty"
-      ]
+      "videoId": "5FxjVyflnNQ",
+      "show": "Shawn Ryan Show",
+      "title": "His Mom Ended His GTA Side Quest 😂",
+      "url": "https://www.youtube.com/watch?v=5FxjVyflnNQ",
+      "date": "2026-06-24T20:00:33.000Z",
+      "image": "https://i2.ytimg.com/vi/5FxjVyflnNQ/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PeNclyAl9N4",
-      "show": "All-In Podcast",
-      "title": "GameStop CEO Ryan Cohen: 3 Ways I’d Fix eBay",
-      "url": "https://www.youtube.com/watch?v=PeNclyAl9N4",
-      "date": "2026-06-24T18:36:16.000Z",
-      "image": "https://i1.ytimg.com/vi/PeNclyAl9N4/hqdefault.jpg",
-      "desc": "Most advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in cl",
-      "guestTags": [
-        "Roaring Kitty"
-      ]
+      "videoId": "5FxjVyflnNQ",
+      "show": "Shawn Ryan Show",
+      "title": "His Mom Ended His GTA Side Quest 😂",
+      "url": "https://www.youtube.com/watch?v=5FxjVyflnNQ",
+      "date": "2026-06-24T20:00:33.000Z",
+      "image": "https://i2.ytimg.com/vi/5FxjVyflnNQ/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Roaring Kitty": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
