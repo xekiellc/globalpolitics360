@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-06-26T12:15:47.566Z",
+  "lastUpdated": "2026-06-26T16:21:23.586Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Michael Saylor Responds to Scrutiny as Strategy Shares and STRC Hit 52-Week Lows",
+      "url": "https://bitcoinmagazine.com/news/michael-saylor-responds-scrutiny-strategy",
+      "date": "2026-06-26T14:32:37.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-Breaks-13-Week-Bitcoin-Buying-Streak-Holdings-Hold-at-762099-BTC.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "&#8216;I See Volatility as Opportunity&#8217;: Bitcoin Tests Critical Support as Key Level Hangs in the Balance",
+      "url": "https://bitcoinmagazine.com/news/i-see-volatility-as-opportunity-bitcoin",
+      "date": "2026-06-26T14:15:55.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/I-See-Volatility-as-Opportunity-Bitcoin-Tests-Critical-Support-as-Key-Level-Hangs-in-the-Balance.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Charts of the Week: Cycles, different but the same",
+      "url": "https://www.a16z.news/p/charts-of-the-week-cycles-different",
+      "date": "2026-06-26T14:03:35.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d3ced9a9-07cd-4f50-8c78-f1deb5fe2172_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #199",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-199",
+      "date": "2026-06-26T12:34:31.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!jvEC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17783a21-7656-4150-ae1e-c615b7a0e4af_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Strategy Stock (MSTR) Nearly Craters Another 10% as Securities Lawsuit Lands",
       "url": "https://bitcoinmagazine.com/markets/strategy-stock-mstr-craters-another-10",
@@ -100,24 +136,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Bitcoin Price Collapses to $59,000 — and the Worst May Not Be Over",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000",
-      "date": "2026-06-24T18:37:29.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Crashes-to-67000-Range-Down-13-in-a-Week-Amid-ETF-Outflows-and-Market-Fears.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying",
-      "url": "https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low",
-      "date": "2026-06-24T18:06:06.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Bitcoin-Price-Crashes-Nearly-4000-in-Two-Hours-As-More-Trump-Tariffs-Rattle-Markets.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "The World-Building Doors Are Open, Again.",
@@ -318,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Month-End Is Now Just Another Day",
-      "url": "https://www.a16z.news/p/month-end-is-now-just-another-day",
-      "date": "2026-06-09T14:04:58.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/dade4029-aed5-4d88-9686-89dbff3f9942_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Expanding the Radius of Daily Life",
       "url": "https://www.notboring.co/p/expanding-the-radius-of-daily-life",
       "date": "2026-06-08T13:04:26.000Z",
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-196",
       "date": "2026-06-05T12:53:49.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!Etsp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54771a3e-461c-4eed-bef2-b9247f2bdcd4_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "America Spins on Westmag",
-      "url": "https://www.notboring.co/p/westmag",
-      "date": "2026-06-02T15:34:10.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!1IMs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cbf3066-8266-47be-8dcb-ccbe26efb68f_1208x700.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
