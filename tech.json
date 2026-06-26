@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-06-26T16:21:23.586Z",
+  "lastUpdated": "2026-06-26T19:58:06.516Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Billionaire Investor Jeremy Grantham: Bitcoin Will &#8216;Dwindle Away With a Whimper&#8217;",
+      "url": "https://bitcoinmagazine.com/news/billionaire-jeremy-grantham-bitcoin",
+      "date": "2026-06-26T17:57:49.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Billionaire-Investor-Jeremy-Grantham-Bitcoin-Will-Dwindle-Away-With-a-Whimper.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Meet the a16z Design Engineer Fellows",
+      "url": "https://www.a16z.news/p/meet-the-a16z-design-engineer-fellows",
+      "date": "2026-06-26T17:20:09.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!HMFN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d31a06e-245b-4bb2-a1da-17fe0966b4b4_2400x1260.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Michael Saylor Responds to Scrutiny as Strategy Shares and STRC Hit 52-Week Lows",
       "url": "https://bitcoinmagazine.com/news/michael-saylor-responds-scrutiny-strategy",
@@ -97,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-from-61000-to-58000",
       "date": "2026-06-25T14:27:34.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Flash-Crashes-from-61000-to-58000-as-Market-Waits-For-Support.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "SBI Holdings Agrees to Acquire Japanese Crypto Exchange Bitbank in $288.6 Million Deal",
-      "url": "https://bitcoinmagazine.com/news/sbi-holdings-agrees-to-acquire-bitbank",
-      "date": "2026-06-25T14:22:29.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/SBI-Holdings-Agrees-to-Acquire-Japanese-Crypto-Exchange-Bitbank-in-288.6-Million-Deal.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -325,15 +334,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Everything is Recorded Now",
-      "url": "https://www.a16z.news/p/everything-is-recorded-now",
-      "date": "2026-06-10T14:00:27.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/accffb9c-5c0c-4708-a4ce-71cf722bb5ee_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Expanding the Radius of Daily Life",
