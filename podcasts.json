@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-06-25T23:23:04.220Z",
+  "lastUpdated": "2026-06-26T04:11:52.624Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1674,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#665 - Jeff Bridges",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER3823824682.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER3823824682.mp3",
+      "date": "2026-06-26T00:50:00.000Z",
+      "duration": "6496",
+      "image": "https://megaphone.imgix.net/podcasts/4d5179a4-70f8-11f1-905f-2f156c969657/image/23db87a325b07a90991ba3e1c497e7e4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jeff Bridges is an actor and musician known for his roles in movies like The Big Lebowski, Crazy Heart, True Grit and more. His new movie “Minions and Monsters” is in theaters July 1st. \n\nJeff joins Theo to talk about spirituality in the modern world, how he stays in a creative headspace, and what he’s learned about love over the years. \n\nJeff Bridges: https://www.instagram.com/thejeffbridges/ \n\n-",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -31,18 +43,6 @@
         "Glenn Greenwald",
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#316 Brian Keating - Brian Keating - The First Object Ever Found From Another Solar System",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4830097160.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4830097160.mp3",
-      "date": "2026-06-25T10:00:00.000Z",
-      "duration": "14173",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Brian Keating is the Chancellor’s Distinguished Professor of Physics in the Department of Physics at the University of California, San Diego, and the principal investigator of the Simons Observatory.\n\nHe is a public speaker, inventor, and expert in the study of the universe’s oldest light, the cosmic microwave background (CMB), using it to learn about the origin and evolution of the universe. Keat",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -121,6 +121,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#665 - Jeff Bridges",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER3823824682.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER3823824682.mp3",
+      "date": "2026-06-26T00:50:00.000Z",
+      "duration": "6496",
+      "image": "https://megaphone.imgix.net/podcasts/4d5179a4-70f8-11f1-905f-2f156c969657/image/23db87a325b07a90991ba3e1c497e7e4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jeff Bridges is an actor and musician known for his roles in movies like The Big Lebowski, Crazy Heart, True Grit and more. His new movie “Minions and Monsters” is in theaters July 1st. \n\nJeff joins Theo to talk about spirituality in the modern world, how he stays in a creative headspace, and what he’s learned about love over the years. \n\nJeff Bridges: https://www.instagram.com/thejeffbridges/ \n\n-",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "6/25/26: Trump Holds Housing Bill Hostage, Trump Freaks Over War Powers, NSPM-7 Crackdown, AI Hype Debate",
@@ -146,18 +158,6 @@
         "Glenn Greenwald",
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#316 Brian Keating - Brian Keating - The First Object Ever Found From Another Solar System",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4830097160.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4830097160.mp3",
-      "date": "2026-06-25T10:00:00.000Z",
-      "duration": "14173",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Brian Keating is the Chancellor’s Distinguished Professor of Physics in the Department of Physics at the University of California, San Diego, and the principal investigator of the Simons Observatory.\n\nHe is a public speaker, inventor, and expert in the study of the universe’s oldest light, the cosmic microwave background (CMB), using it to learn about the origin and evolution of the universe. Keat",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
