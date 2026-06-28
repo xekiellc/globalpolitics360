@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-06-28T19:38:07.258Z",
+  "lastUpdated": "2026-06-28T21:09:09.164Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 34,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "UK1hwJm-l8Q",
-      "show": "Jordan Peterson",
-      "title": "Message from JBP | You Cannot Avoid Having a God. Here Is What That Actually Means.",
-      "url": "https://www.youtube.com/watch?v=UK1hwJm-l8Q",
-      "date": "2026-06-28T18:01:51.000Z",
-      "image": "https://i2.ytimg.com/vi/UK1hwJm-l8Q/hqdefault.jpg",
-      "desc": "This is the second lecture from the We Who Wrestle With God tour.\n\nWhat does it mean that your God is whatever you put first? Why are the stories that grip you not false but hyper-real? Why is work identical to sacrifice, and what does that reveal about the nature of the covenantal relationship betw",
-      "guestTags": []
+      "videoId": "iGG6bjAz2QM",
+      "show": "All-In Podcast",
+      "title": "What the UK's Social Media Ban is REALLY About",
+      "url": "https://www.youtube.com/watch?v=iGG6bjAz2QM",
+      "date": "2026-06-28T20:30:31.000Z",
+      "image": "https://i2.ytimg.com/vi/iGG6bjAz2QM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "UK1hwJm-l8Q",
-      "show": "Jordan Peterson",
-      "title": "Message from JBP | You Cannot Avoid Having a God. Here Is What That Actually Means.",
-      "url": "https://www.youtube.com/watch?v=UK1hwJm-l8Q",
-      "date": "2026-06-28T18:01:51.000Z",
-      "image": "https://i2.ytimg.com/vi/UK1hwJm-l8Q/hqdefault.jpg",
-      "desc": "This is the second lecture from the We Who Wrestle With God tour.\n\nWhat does it mean that your God is whatever you put first? Why are the stories that grip you not false but hyper-real? Why is work identical to sacrifice, and what does that reveal about the nature of the covenantal relationship betw",
-      "guestTags": []
+      "videoId": "iGG6bjAz2QM",
+      "show": "All-In Podcast",
+      "title": "What the UK's Social Media Ban is REALLY About",
+      "url": "https://www.youtube.com/watch?v=iGG6bjAz2QM",
+      "date": "2026-06-28T20:30:31.000Z",
+      "image": "https://i2.ytimg.com/vi/iGG6bjAz2QM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
