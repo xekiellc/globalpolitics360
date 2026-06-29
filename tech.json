@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-06-29T11:10:28.975Z",
+  "lastUpdated": "2026-06-29T15:58:49.732Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "2007–2009—The Global Financial Crisis and the Birth of Bitcoin",
+      "url": "https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin",
+      "date": "2026-06-29T15:45:53.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-10_32_28-AM.png",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash",
+      "url": "https://bitcoinmagazine.com/news/strive-asst-holds-19864-btc-no-new",
+      "date": "2026-06-29T15:15:57.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Holds-19864-BTC-With-No-New-Purchases-Last-Week-Balance-Sheet-Hits-141.7M-Cash-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "The 2026 Summer Reading List",
+      "url": "https://www.a16z.news/p/the-2026-summer-reading-list",
+      "date": "2026-06-29T14:02:51.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8a5914c0-92e9-4d83-aa1e-8a9cf3976d5f_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Strategy (MSTR) Raises STRC Dividend, Authorizes $2B in Buybacks, and Unlocks Further Bitcoin Sales",
+      "url": "https://bitcoinmagazine.com/news/strategy-mstr-strc-dividend-authorizes-2b",
+      "date": "2026-06-29T12:48:15.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-is-About-to-Have-More-Bitcoin-Than-BlackRocks-IBIT-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
       "url": "https://bitcoinmagazine.com/news/galaxy-research-cuts-clarity-act-passage",
@@ -88,33 +124,6 @@
       "url": "https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban",
       "date": "2026-06-25T17:54:13.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-6.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Perception Exits Beta With Four Digital Asset Integrations",
-      "url": "https://bitcoinmagazine.com/news/perception-exits-beta-with-digital-asset",
-      "date": "2026-06-25T16:17:35.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Perception-Exits-Beta-With-Four-Digital-Asset-Integrations.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitplanet Signs Agreement with Antalpha to Launch Bitcoin Mining Operations",
-      "url": "https://bitcoinmagazine.com/news/bitplanet-signs-agreement-with-antalpha",
-      "date": "2026-06-25T15:39:18.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitplanet-Signs-Agreement-with-Antalpha-to-Launch-Bitcoin-Mining-Operations.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
-      "url": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
-      "date": "2026-06-25T14:32:37.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Mining-Pool-DMND-Mines-First-Known-Stratum-V2-Block-GoMining-Constructs-Its-Own-Template.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -307,15 +316,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Late Stage Venture Is About Late Stage Founders",
-      "url": "https://www.a16z.news/p/late-stage-venture-is-about-late",
-      "date": "2026-06-11T14:02:53.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/3b5e1070-05a8-49aa-a614-ec9b9ddf67f6_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "The Case for Private Permitting",

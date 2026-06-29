@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T11:10:38.400Z",
+  "lastUpdated": "2026-06-29T15:58:57.058Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "iGG6bjAz2QM",
-      "show": "All-In Podcast",
-      "title": "What the UK's Social Media Ban is REALLY About",
-      "url": "https://www.youtube.com/watch?v=iGG6bjAz2QM",
-      "date": "2026-06-28T20:30:31.000Z",
-      "image": "https://i2.ytimg.com/vi/iGG6bjAz2QM/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "jShUS0iYWQ4",
+      "show": "Theo Von",
+      "title": "What Jeff Bridges Has Learned About Love",
+      "url": "https://www.youtube.com/watch?v=jShUS0iYWQ4",
+      "date": "2026-06-29T15:40:13.000Z",
+      "image": "https://i3.ytimg.com/vi/jShUS0iYWQ4/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #665 Jeff Bridges\nFull Episode: https://youtu.be/9_0KVBvEfW0\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: ",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "iGG6bjAz2QM",
-      "show": "All-In Podcast",
-      "title": "What the UK's Social Media Ban is REALLY About",
-      "url": "https://www.youtube.com/watch?v=iGG6bjAz2QM",
-      "date": "2026-06-28T20:30:31.000Z",
-      "image": "https://i2.ytimg.com/vi/iGG6bjAz2QM/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "jShUS0iYWQ4",
+      "show": "Theo Von",
+      "title": "What Jeff Bridges Has Learned About Love",
+      "url": "https://www.youtube.com/watch?v=jShUS0iYWQ4",
+      "date": "2026-06-29T15:40:13.000Z",
+      "image": "https://i3.ytimg.com/vi/jShUS0iYWQ4/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #665 Jeff Bridges\nFull Episode: https://youtu.be/9_0KVBvEfW0\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: ",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
