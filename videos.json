@@ -1,22 +1,42 @@
 {
-  "lastUpdated": "2026-06-30T04:06:32.029Z",
+  "lastUpdated": "2026-06-30T09:50:42.594Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 32,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "aUCGHBDF0Qo",
+      "show": "TRIGGERnometry",
+      "title": "“The law has turned against itself.” - Dr David Starkey",
+      "url": "https://www.youtube.com/watch?v=aUCGHBDF0Qo",
+      "date": "2026-06-30T07:59:08.000Z",
+      "image": "https://i2.ytimg.com/vi/aUCGHBDF0Qo/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "4TfnPDvFM70",
-      "show": "Theo Von",
-      "title": "Jeff Bridges Brings Out His AI Assistant &quot;Gary&quot;",
-      "url": "https://www.youtube.com/watch?v=4TfnPDvFM70",
-      "date": "2026-06-29T22:00:39.000Z",
-      "image": "https://i1.ytimg.com/vi/4TfnPDvFM70/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #665 Jeff Bridges\nFull Episode: https://youtu.be/9_0KVBvEfW0\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter: ",
-      "guestTags": []
+      "videoId": "aUCGHBDF0Qo",
+      "show": "TRIGGERnometry",
+      "title": "“The law has turned against itself.” - Dr David Starkey",
+      "url": "https://www.youtube.com/watch?v=aUCGHBDF0Qo",
+      "date": "2026-06-30T07:59:08.000Z",
+      "image": "https://i2.ytimg.com/vi/aUCGHBDF0Qo/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
