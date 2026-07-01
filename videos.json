@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T16:29:34.254Z",
+  "lastUpdated": "2026-07-01T20:03:00.446Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "y1ZA3dke82s",
-      "show": "TRIGGERnometry",
-      "title": "People Use Crime Statistics to Lie About Crime",
-      "url": "https://www.youtube.com/watch?v=y1ZA3dke82s",
-      "date": "2026-07-01T10:25:41.000Z",
-      "image": "https://i2.ytimg.com/vi/y1ZA3dke82s/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "Kbt6faGT-vk",
+      "show": "Shawn Ryan Show",
+      "title": "Vietnam Machine Gunner Reveals the Loadout That Kept Marines Alive",
+      "url": "https://www.youtube.com/watch?v=Kbt6faGT-vk",
+      "date": "2026-07-01T19:00:31.000Z",
+      "image": "https://i4.ytimg.com/vi/Kbt6faGT-vk/hqdefault.jpg",
+      "desc": "Shawn Ryan and Johnnie Clark discuss what it was like to be an 18-year-old Marine M60 machine gunner in Vietnam, where machine gunners were considered the number one target once a firefight started. Johnnie breaks down the reality of carrying hundreds of rounds through the jungle, keeping the M60 ru",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "y1ZA3dke82s",
-      "show": "TRIGGERnometry",
-      "title": "People Use Crime Statistics to Lie About Crime",
-      "url": "https://www.youtube.com/watch?v=y1ZA3dke82s",
-      "date": "2026-07-01T10:25:41.000Z",
-      "image": "https://i2.ytimg.com/vi/y1ZA3dke82s/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "Kbt6faGT-vk",
+      "show": "Shawn Ryan Show",
+      "title": "Vietnam Machine Gunner Reveals the Loadout That Kept Marines Alive",
+      "url": "https://www.youtube.com/watch?v=Kbt6faGT-vk",
+      "date": "2026-07-01T19:00:31.000Z",
+      "image": "https://i4.ytimg.com/vi/Kbt6faGT-vk/hqdefault.jpg",
+      "desc": "Shawn Ryan and Johnnie Clark discuss what it was like to be an 18-year-old Marine M60 machine gunner in Vietnam, where machine gunners were considered the number one target once a firefight started. Johnnie breaks down the reality of carrying hundreds of rounds through the jungle, keeping the M60 ru",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
