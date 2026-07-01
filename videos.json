@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T09:59:35.162Z",
+  "lastUpdated": "2026-07-01T12:42:40.572Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "BH0U8Se89mA",
-      "show": "The Free Press",
-      "title": "Sen. John Kennedy | This Past Weekend w/ Theo Von #666",
-      "url": "https://www.youtube.com/watch?v=BH0U8Se89mA",
-      "date": "2026-07-01T05:22:32.000Z",
-      "image": "https://i3.ytimg.com/vi/BH0U8Se89mA/hqdefault.jpg",
-      "desc": "John Kennedy is a United States Senator who has represented Louisiana since 2017. Before that he was an attorney and state treasurer.\n\nSen. Kennedy joins Theo to talk about their Louisiana roots, his experiences working across the aisle with Democrats, and why he thinks it’s time to regulate Big Tec",
-      "guestTags": []
+      "videoId": "y1ZA3dke82s",
+      "show": "TRIGGERnometry",
+      "title": "People Use Crime Statistics to Lie About Crime",
+      "url": "https://www.youtube.com/watch?v=y1ZA3dke82s",
+      "date": "2026-07-01T10:25:41.000Z",
+      "image": "https://i2.ytimg.com/vi/y1ZA3dke82s/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "BH0U8Se89mA",
-      "show": "The Free Press",
-      "title": "Sen. John Kennedy | This Past Weekend w/ Theo Von #666",
-      "url": "https://www.youtube.com/watch?v=BH0U8Se89mA",
-      "date": "2026-07-01T05:22:32.000Z",
-      "image": "https://i3.ytimg.com/vi/BH0U8Se89mA/hqdefault.jpg",
-      "desc": "John Kennedy is a United States Senator who has represented Louisiana since 2017. Before that he was an attorney and state treasurer.\n\nSen. Kennedy joins Theo to talk about their Louisiana roots, his experiences working across the aisle with Democrats, and why he thinks it’s time to regulate Big Tec",
-      "guestTags": []
+      "videoId": "y1ZA3dke82s",
+      "show": "TRIGGERnometry",
+      "title": "People Use Crime Statistics to Lie About Crime",
+      "url": "https://www.youtube.com/watch?v=y1ZA3dke82s",
+      "date": "2026-07-01T10:25:41.000Z",
+      "image": "https://i2.ytimg.com/vi/y1ZA3dke82s/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
