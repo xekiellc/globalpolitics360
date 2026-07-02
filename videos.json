@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-07-01T23:20:19.083Z",
+  "lastUpdated": "2026-07-02T04:01:58.090Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 10,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "xf6kKs1UpNw",
-      "show": "Shawn Ryan Show",
-      "title": "Vietnam Vet Tests a Modern SIG 😳",
-      "url": "https://www.youtube.com/watch?v=xf6kKs1UpNw",
-      "date": "2026-07-01T22:00:35.000Z",
-      "image": "https://i1.ytimg.com/vi/xf6kKs1UpNw/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "V3luvOVc4to",
+      "show": "All-In Podcast",
+      "title": "$50B Fund Manager Breaks Down SpaceX’s Soaring Valuation",
+      "url": "https://www.youtube.com/watch?v=V3luvOVc4to",
+      "date": "2026-07-02T03:06:48.000Z",
+      "image": "https://i3.ytimg.com/vi/V3luvOVc4to/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nEY - Great tech starts with a big idea. From startup to scale, EY helps tech founders get financials right early so they can focus on what’s next.\nhttps://www.ey.com/en_us/tech-sector/tech-startups?WT.mc_id=3501317&amp;AA.tsrc=sponsorship\n\nNYSE - Tha",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "xf6kKs1UpNw",
-      "show": "Shawn Ryan Show",
-      "title": "Vietnam Vet Tests a Modern SIG 😳",
-      "url": "https://www.youtube.com/watch?v=xf6kKs1UpNw",
-      "date": "2026-07-01T22:00:35.000Z",
-      "image": "https://i1.ytimg.com/vi/xf6kKs1UpNw/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "V3luvOVc4to",
+      "show": "All-In Podcast",
+      "title": "$50B Fund Manager Breaks Down SpaceX’s Soaring Valuation",
+      "url": "https://www.youtube.com/watch?v=V3luvOVc4to",
+      "date": "2026-07-02T03:06:48.000Z",
+      "image": "https://i3.ytimg.com/vi/V3luvOVc4to/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nEY - Great tech starts with a big idea. From startup to scale, EY helps tech founders get financials right early so they can focus on what’s next.\nhttps://www.ey.com/en_us/tech-sector/tech-startups?WT.mc_id=3501317&amp;AA.tsrc=sponsorship\n\nNYSE - Tha",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
