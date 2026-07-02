@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-07-02T16:07:10.859Z",
+  "lastUpdated": "2026-07-02T19:40:22.888Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1680,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2522 - Tony Hinchcliffe",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9450539163.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9450539163.mp3",
+      "date": "2026-07-02T17:00:00.000Z",
+      "duration": "10478",
+      "image": "https://megaphone.imgix.net/podcasts/254816ac-75d0-11f1-bc38-8bc518292219/image/742fc54b89a0240534c8e0eef21dcca6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Tony Hinchcliffe is a comedian, writer, actor, and host of the podcast and live show “Kill Tony.” His new special, \"Man of the People,\" is now streaming on Netflix.www.youtube.com/@killtonyhttps://tonyhinchcliffe.komi.iowww.tonyhinchcliffe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nTry ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan\n\n\nLearn ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -39,18 +51,6 @@
       "duration": "17201",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Candace Owens is an American political commentator, author, and independent journalist known for her outspoken views on politics, culture, and current events. She rose to prominence through conservative media and has built a large audience by challenging mainstream narratives, investigating high-profile stories, and advocating for free speech and individual liberty. Today, she produces independent",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5974928415.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-tools-for-hormone-optimization-in-males-kyle-gillett",
-      "date": "2026-07-02T08:00:00.000Z",
-      "duration": "2427",
-      "image": "https://megaphone.imgix.net/podcasts/3447d81e-75d4-11f1-bdd9-fff21f539a49/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Kyle Gillett, MD, a dual board-certified physician in family medicine and obesity medicine, and an expert in hormone optimization. We discuss science-based tools for optimizing male hormones across the lifespan, including the role of bloodwork, nutrition, and exercise in supporting healthy hormone levels. We also discuss testosterone therapy, ha",
       "guestTags": []
     },
     {
@@ -118,6 +118,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2522 - Tony Hinchcliffe",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9450539163.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9450539163.mp3",
+      "date": "2026-07-02T17:00:00.000Z",
+      "duration": "10478",
+      "image": "https://megaphone.imgix.net/podcasts/254816ac-75d0-11f1-bc38-8bc518292219/image/742fc54b89a0240534c8e0eef21dcca6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Tony Hinchcliffe is a comedian, writer, actor, and host of the podcast and live show “Kill Tony.” His new special, \"Man of the People,\" is now streaming on Netflix.www.youtube.com/@killtonyhttps://tonyhinchcliffe.komi.iowww.tonyhinchcliffe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nTry ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan\n\n\nLearn ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "7/2/26: Trump's Crypto Corruption Worth Billions, Vance Says US Reloading For War With Iran",
@@ -151,18 +163,6 @@
       "duration": "17201",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Candace Owens is an American political commentator, author, and independent journalist known for her outspoken views on politics, culture, and current events. She rose to prominence through conservative media and has built a large audience by challenging mainstream narratives, investigating high-profile stories, and advocating for free speech and individual liberty. Today, she produces independent",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5974928415.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-tools-for-hormone-optimization-in-males-kyle-gillett",
-      "date": "2026-07-02T08:00:00.000Z",
-      "duration": "2427",
-      "image": "https://megaphone.imgix.net/podcasts/3447d81e-75d4-11f1-bdd9-fff21f539a49/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Kyle Gillett, MD, a dual board-certified physician in family medicine and obesity medicine, and an expert in hormone optimization. We discuss science-based tools for optimizing male hormones across the lifespan, including the role of bloodwork, nutrition, and exercise in supporting healthy hormone levels. We also discuss testosterone therapy, ha",
       "guestTags": []
     },
     {
