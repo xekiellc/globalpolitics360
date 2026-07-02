@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T12:12:03.630Z",
+  "lastUpdated": "2026-07-02T16:07:11.222Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,35 +7,40 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "oz8mUEnO_dM",
-      "show": "TRIGGERnometry",
-      "title": "&quot;The bug of ISIS and al-Qaeda started in Egypt in 1928.&quot;",
-      "url": "https://www.youtube.com/watch?v=oz8mUEnO_dM",
-      "date": "2026-07-02T12:03:24.000Z",
-      "image": "https://i4.ytimg.com/vi/oz8mUEnO_dM/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "videoId": "86RP8smtuWo",
+      "show": "All-In Podcast",
+      "title": "What Anthropic is Actually Worth... It's More Than You Think",
+      "url": "https://www.youtube.com/watch?v=86RP8smtuWo",
+      "date": "2026-07-02T14:30:34.000Z",
+      "image": "https://i1.ytimg.com/vi/86RP8smtuWo/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "oz8mUEnO_dM",
-      "show": "TRIGGERnometry",
-      "title": "&quot;The bug of ISIS and al-Qaeda started in Egypt in 1928.&quot;",
-      "url": "https://www.youtube.com/watch?v=oz8mUEnO_dM",
-      "date": "2026-07-02T12:03:24.000Z",
-      "image": "https://i4.ytimg.com/vi/oz8mUEnO_dM/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "videoId": "86RP8smtuWo",
+      "show": "All-In Podcast",
+      "title": "What Anthropic is Actually Worth... It's More Than You Think",
+      "url": "https://www.youtube.com/watch?v=86RP8smtuWo",
+      "date": "2026-07-02T14:30:34.000Z",
+      "image": "https://i1.ytimg.com/vi/86RP8smtuWo/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }

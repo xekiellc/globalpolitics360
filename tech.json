@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-07-02T12:11:56.459Z",
+  "lastUpdated": "2026-07-02T16:07:03.714Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "FBI Director Kash Patel Did Not Disclose Six-Figure Strategy (MSTR) Stake: Report",
+      "url": "https://bitcoinmagazine.com/news/fbi-director-kash-patel-did-not-disclose",
+      "date": "2026-07-02T14:49:36.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/FBI-Director-Kash-Patel-Did-Not-Disclose-Six-Figure-Strategy-MSTR-Stake-Report.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "America's Next 250",
+      "url": "https://www.notboring.co/p/americas-next-250",
+      "date": "2026-07-02T14:06:26.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!lxby!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3f9c5b9-5f98-4b60-ad3e-852e088a304f_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Metaplanet Adds 2,823 Bitcoin, Reaches 43,000 BTC and Becomes World&#8217;s Third-Largest Corporate Treasury",
+      "url": "https://bitcoinmagazine.com/news/metaplanet-adds-2823-bitcoin-reaches-43000",
+      "date": "2026-07-02T12:23:39.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Metaplanet-Adds-2823-Bitcoin-Reaches-43000-BTC-and-Becomes-Worlds-Third-Largest-Corporate-Treasury.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth",
       "url": "https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth",
@@ -70,24 +97,6 @@
       "url": "https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-july-2",
       "date": "2026-07-01T15:29:00.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Trump-Linked-American-Bitcoin-ABTC-Surpasses-7000-BTC-as-Treasury-Growth-Accelerates-Mining-Peer-Slides.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "SEC&#8217;s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape",
-      "url": "https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing",
-      "date": "2026-07-01T14:56:51.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Congress-Schedules-CLARITY-Act-Hearing-for-July-17-in-New-York.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Taiwan Passes Crucial Crypto Law With Licensing Rules, Stablecoin Framework",
-      "url": "https://bitcoinmagazine.com/news/taiwan-passes-crucial-crypto-law",
-      "date": "2026-07-01T14:07:47.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Taiwan-Passes-Crucial-Crypto-Law-With-Licensing-Rules-Stablecoin-Framework.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Weekly Dose of Optimism #196",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-196",
-      "date": "2026-06-05T12:53:49.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!Etsp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54771a3e-461c-4eed-bef2-b9247f2bdcd4_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
