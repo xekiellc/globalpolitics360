@@ -1,10 +1,25 @@
 {
-  "lastUpdated": "2026-07-03T17:38:41.344Z",
+  "lastUpdated": "2026-07-03T19:37:37.305Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1681,
+  "taggedCount": 1682,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "What the AirCon Debate Says About Britain's Climate Insanity - Konstantin Kisin",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9770177860.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9770177860.mp3",
+      "date": "2026-07-03T18:00:00.000Z",
+      "duration": "590",
+      "image": "https://megaphone.imgix.net/podcasts/2e84b67c-76f1-11f1-b2f0-97bd950738bf/image/4241bc5fb36ccb48d089d2fcc524bc3b.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "What the AirCon Debate Says About Britain's Climate Insanity - Konstantin Kisin\n\nTriggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\nKonstantin X / Twitter - https://x.com/Konstant",
+      "guestTags": [
+        "Edward Snowden",
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -53,18 +68,6 @@
       "duration": "01:33:19",
       "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/7052f77f-4a8c-49a9-8353-be823f8f0ce1/3000x3000/ap_103_pip.jpg?aid=rss_feed",
       "desc": "From Caitlin Clark’s latest WNBA controversy to the Supreme Court’s transgender ruling, this episode tackles the biggest political and cultural stories making headlines. Emily is joined by Mark Hemingway to discuss JK Rowling’s response to the SCOTUS decision, Trump’s reported crypto earnings, and the disastrous Nina Totenberg NPR \"mistake\" and what many see as the growing credibility crisis in jo",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#318 Candace Owens - The Most Sued Woman in American Media",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2117426435.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2117426435.mp3",
-      "date": "2026-07-02T10:00:00.000Z",
-      "duration": "17201",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Candace Owens is an American political commentator, author, and independent journalist known for her outspoken views on politics, culture, and current events. She rose to prominence through conservative media and has built a large audience by challenging mainstream narratives, investigating high-profile stories, and advocating for free speech and individual liberty. Today, she produces independent",
       "guestTags": []
     },
     {
@@ -118,6 +121,21 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "What the AirCon Debate Says About Britain's Climate Insanity - Konstantin Kisin",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9770177860.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9770177860.mp3",
+      "date": "2026-07-03T18:00:00.000Z",
+      "duration": "590",
+      "image": "https://megaphone.imgix.net/podcasts/2e84b67c-76f1-11f1-b2f0-97bd950738bf/image/4241bc5fb36ccb48d089d2fcc524bc3b.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "What the AirCon Debate Says About Britain's Climate Insanity - Konstantin Kisin\n\nTriggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\nKonstantin X / Twitter - https://x.com/Konstant",
+      "guestTags": [
+        "Edward Snowden",
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "7/3/26: Jobs Disaster, Establishment Dems Bow To Zohran, Israel Journo Killings, Intercept Tipline, Palantir Freakout",
@@ -165,18 +183,6 @@
       "duration": "01:33:19",
       "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/7052f77f-4a8c-49a9-8353-be823f8f0ce1/3000x3000/ap_103_pip.jpg?aid=rss_feed",
       "desc": "From Caitlin Clark’s latest WNBA controversy to the Supreme Court’s transgender ruling, this episode tackles the biggest political and cultural stories making headlines. Emily is joined by Mark Hemingway to discuss JK Rowling’s response to the SCOTUS decision, Trump’s reported crypto earnings, and the disastrous Nina Totenberg NPR \"mistake\" and what many see as the growing credibility crisis in jo",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#318 Candace Owens - The Most Sued Woman in American Media",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2117426435.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2117426435.mp3",
-      "date": "2026-07-02T10:00:00.000Z",
-      "duration": "17201",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Candace Owens is an American political commentator, author, and independent journalist known for her outspoken views on politics, culture, and current events. She rose to prominence through conservative media and has built a large audience by challenging mainstream narratives, investigating high-profile stories, and advocating for free speech and individual liberty. Today, she produces independent",
       "guestTags": []
     },
     {
@@ -241,6 +247,12 @@
     }
   ],
   "guestIndex": {
+    "Edward Snowden": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Alex Karp": [
       "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ]
