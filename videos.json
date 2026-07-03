@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T10:43:06.807Z",
+  "lastUpdated": "2026-07-03T14:20:56.073Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "iKvZUscgOq4",
-      "show": "Shawn Ryan Show",
-      "title": "Why Were So Many Men Wearing Maroon? 😳",
-      "url": "https://www.youtube.com/watch?v=iKvZUscgOq4",
-      "date": "2026-07-03T00:00:04.000Z",
-      "image": "https://i2.ytimg.com/vi/iKvZUscgOq4/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "MAAnqHXmmrE",
+      "show": "TRIGGERnometry",
+      "title": "Did God favour the British?",
+      "url": "https://www.youtube.com/watch?v=MAAnqHXmmrE",
+      "date": "2026-07-03T12:45:03.000Z",
+      "image": "https://i2.ytimg.com/vi/MAAnqHXmmrE/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "iKvZUscgOq4",
-      "show": "Shawn Ryan Show",
-      "title": "Why Were So Many Men Wearing Maroon? 😳",
-      "url": "https://www.youtube.com/watch?v=iKvZUscgOq4",
-      "date": "2026-07-03T00:00:04.000Z",
-      "image": "https://i2.ytimg.com/vi/iKvZUscgOq4/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "MAAnqHXmmrE",
+      "show": "TRIGGERnometry",
+      "title": "Did God favour the British?",
+      "url": "https://www.youtube.com/watch?v=MAAnqHXmmrE",
+      "date": "2026-07-03T12:45:03.000Z",
+      "image": "https://i2.ytimg.com/vi/MAAnqHXmmrE/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

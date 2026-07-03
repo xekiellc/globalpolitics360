@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-03T10:43:02.070Z",
+  "lastUpdated": "2026-07-03T14:20:48.384Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "America: The Next 250 Years",
+      "url": "https://www.a16z.news/p/america-250",
+      "date": "2026-07-03T14:01:45.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/0443baea-40e4-4a72-9298-60c98954e0f9_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #200",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-200",
+      "date": "2026-07-03T12:58:20.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!uMi-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F930ef3ff-3fe0-4165-8eb5-6adae1c1febc_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Ep 159: Aaron Cannon Is Building the Leading AI Customer Research Platform; It's About to Upend a $140B Industry",
       "url": "https://blog.joelonsdale.com/p/ep-159-aaron-cannon-is-building-the",
@@ -318,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "SpaceX & the Sentient Sun",
-      "url": "https://www.a16z.news/p/spacex-and-the-sentient-sun",
-      "date": "2026-06-15T14:01:50.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/4aa29c1b-2ce9-4697-b32f-de0c0f65fe38_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #197",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-197",
       "date": "2026-06-12T12:58:11.000Z",
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/return-on-tokens-rot",
       "date": "2026-06-10T18:02:16.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!0yXr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4269970-968a-4e63-b403-17b25c12ff5f_900x450.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Expanding the Radius of Daily Life",
-      "url": "https://www.notboring.co/p/expanding-the-radius-of-daily-life",
-      "date": "2026-06-08T13:04:26.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!8yiU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdef8aa2b-71f3-4a00-9355-fe65f58e9f0e_1200x612.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
