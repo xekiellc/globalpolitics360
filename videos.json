@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T13:45:48.259Z",
+  "lastUpdated": "2026-07-04T15:10:53.119Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,41 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "TUXpRKXO6Bw",
-      "show": "Shawn Ryan Show",
-      "title": "Can Vance Survive What Trump Did? 😳",
-      "url": "https://www.youtube.com/watch?v=TUXpRKXO6Bw",
-      "date": "2026-07-04T01:30:27.000Z",
-      "image": "https://i1.ytimg.com/vi/TUXpRKXO6Bw/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "qt_74JM1om4",
+      "show": "All-In Podcast",
+      "title": "Don't trust OpenAI. Use your own models.",
+      "url": "https://www.youtube.com/watch?v=qt_74JM1om4",
+      "date": "2026-07-04T14:00:31.000Z",
+      "image": "https://i2.ytimg.com/vi/qt_74JM1om4/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "TUXpRKXO6Bw",
-      "show": "Shawn Ryan Show",
-      "title": "Can Vance Survive What Trump Did? 😳",
-      "url": "https://www.youtube.com/watch?v=TUXpRKXO6Bw",
-      "date": "2026-07-04T01:30:27.000Z",
-      "image": "https://i1.ytimg.com/vi/TUXpRKXO6Bw/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "qt_74JM1om4",
+      "show": "All-In Podcast",
+      "title": "Don't trust OpenAI. Use your own models.",
+      "url": "https://www.youtube.com/watch?v=qt_74JM1om4",
+      "date": "2026-07-04T14:00:31.000Z",
+      "image": "https://i2.ytimg.com/vi/qt_74JM1om4/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
