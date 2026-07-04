@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-07-04T21:04:12.860Z",
+  "lastUpdated": "2026-07-04T23:02:23.109Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 34,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "UXiCRWHwYdw",
-      "show": "Shawn Ryan Show",
-      "title": "Charlie Kirk Said He Would Die Young 😳",
-      "url": "https://www.youtube.com/watch?v=UXiCRWHwYdw",
-      "date": "2026-07-04T19:30:27.000Z",
-      "image": "https://i2.ytimg.com/vi/UXiCRWHwYdw/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "JR3HuyXIt-A",
+      "show": "All-In Podcast",
+      "title": "Friedberg’s Immigration Test: Workers vs Welfare",
+      "url": "https://www.youtube.com/watch?v=JR3HuyXIt-A",
+      "date": "2026-07-04T21:00:00.000Z",
+      "image": "https://i3.ytimg.com/vi/JR3HuyXIt-A/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "UXiCRWHwYdw",
-      "show": "Shawn Ryan Show",
-      "title": "Charlie Kirk Said He Would Die Young 😳",
-      "url": "https://www.youtube.com/watch?v=UXiCRWHwYdw",
-      "date": "2026-07-04T19:30:27.000Z",
-      "image": "https://i2.ytimg.com/vi/UXiCRWHwYdw/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "JR3HuyXIt-A",
+      "show": "All-In Podcast",
+      "title": "Friedberg’s Immigration Test: Workers vs Welfare",
+      "url": "https://www.youtube.com/watch?v=JR3HuyXIt-A",
+      "date": "2026-07-04T21:00:00.000Z",
+      "image": "https://i3.ytimg.com/vi/JR3HuyXIt-A/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
