@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T17:12:23.071Z",
+  "lastUpdated": "2026-07-04T19:22:15.019Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "JheU-ycu-hI",
-      "show": "Jordan Peterson",
-      "title": "On Demonizing Anger",
-      "url": "https://www.youtube.com/watch?v=JheU-ycu-hI",
-      "date": "2026-07-04T16:00:35.000Z",
-      "image": "https://i3.ytimg.com/vi/JheU-ycu-hI/hqdefault.jpg",
-      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
-      "guestTags": []
+      "videoId": "dlF0ZzH6C9s",
+      "show": "TRIGGERnometry",
+      "title": "The Real Reason Putin Invaded Ukraine — Sir Bill Browder",
+      "url": "https://www.youtube.com/watch?v=dlF0ZzH6C9s",
+      "date": "2026-07-04T18:00:32.000Z",
+      "image": "https://i1.ytimg.com/vi/dlF0ZzH6C9s/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.com/TRIG\n\n- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ condi",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "JheU-ycu-hI",
-      "show": "Jordan Peterson",
-      "title": "On Demonizing Anger",
-      "url": "https://www.youtube.com/watch?v=JheU-ycu-hI",
-      "date": "2026-07-04T16:00:35.000Z",
-      "image": "https://i3.ytimg.com/vi/JheU-ycu-hI/hqdefault.jpg",
-      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
-      "guestTags": []
+      "videoId": "dlF0ZzH6C9s",
+      "show": "TRIGGERnometry",
+      "title": "The Real Reason Putin Invaded Ukraine — Sir Bill Browder",
+      "url": "https://www.youtube.com/watch?v=dlF0ZzH6C9s",
+      "date": "2026-07-04T18:00:32.000Z",
+      "image": "https://i1.ytimg.com/vi/dlF0ZzH6C9s/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.com/TRIG\n\n- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ condi",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
