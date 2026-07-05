@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T15:17:27.752Z",
+  "lastUpdated": "2026-07-05T17:17:49.403Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "JR3HuyXIt-A",
-      "show": "All-In Podcast",
-      "title": "Friedberg’s Immigration Test: Workers vs Welfare",
-      "url": "https://www.youtube.com/watch?v=JR3HuyXIt-A",
-      "date": "2026-07-04T21:00:00.000Z",
-      "image": "https://i3.ytimg.com/vi/JR3HuyXIt-A/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "n8yFs6-BBps",
+      "show": "Jordan Peterson",
+      "title": "&quot;All your ideas are the ideas of dead philosophers.&quot;",
+      "url": "https://www.youtube.com/watch?v=n8yFs6-BBps",
+      "date": "2026-07-05T16:00:37.000Z",
+      "image": "https://i3.ytimg.com/vi/n8yFs6-BBps/hqdefault.jpg",
+      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "JR3HuyXIt-A",
-      "show": "All-In Podcast",
-      "title": "Friedberg’s Immigration Test: Workers vs Welfare",
-      "url": "https://www.youtube.com/watch?v=JR3HuyXIt-A",
-      "date": "2026-07-04T21:00:00.000Z",
-      "image": "https://i3.ytimg.com/vi/JR3HuyXIt-A/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "n8yFs6-BBps",
+      "show": "Jordan Peterson",
+      "title": "&quot;All your ideas are the ideas of dead philosophers.&quot;",
+      "url": "https://www.youtube.com/watch?v=n8yFs6-BBps",
+      "date": "2026-07-05T16:00:37.000Z",
+      "image": "https://i3.ytimg.com/vi/n8yFs6-BBps/hqdefault.jpg",
+      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
