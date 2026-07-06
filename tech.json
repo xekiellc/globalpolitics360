@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-06T18:14:44.927Z",
+  "lastUpdated": "2026-07-06T21:40:15.829Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Trump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC",
+      "url": "https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-abtc",
+      "date": "2026-07-06T18:54:29.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Trump-Linked-American-Bitcoin-ABTC-Surpasses-7000-BTC-as-Treasury-Growth-Accelerates-Mining-Peer-Slides.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
       "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
@@ -118,15 +127,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Metaplanet Adds 2,823 Bitcoin, Reaches 43,000 BTC and Becomes World&#8217;s Third-Largest Corporate Treasury",
-      "url": "https://bitcoinmagazine.com/news/metaplanet-adds-2823-bitcoin-reaches-43000",
-      "date": "2026-07-02T12:23:39.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Metaplanet-Adds-2823-Bitcoin-Reaches-43000-BTC-and-Becomes-Worlds-Third-Largest-Corporate-Treasury.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Charts of the Summer: Featuring Deel",
