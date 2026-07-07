@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-07-07T07:47:24.646Z",
+  "lastUpdated": "2026-07-07T11:13:44.411Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1686,
+  "taggedCount": 1687,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Hollywood&apos;s Odyssey Rewrite, Cover Girl Ketanji, Mamdani&apos;s America, w/ VDH, &amp; Taylor&apos;s Wedding Spectacle",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/541d20c8-89ac-4e2c-9aba-3b7d286c62de/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=541d20c8-89ac-4e2c-9aba-3b7d286c62de&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-07-07T11:00:00.000Z",
+      "duration": "01:03:07",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/00681d14-f71b-41dc-9932-910974dbcbc0/3000x3000/ap_104_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Victor Davis Hanson, Senior Fellow at the Hoover Institution and author of the forthcoming book, “The Counterrevolution: The Fall and Rise of Donald Trump and the MAGA Movement.” They open by examining the backlash over Christopher Nolan's upcoming adaptation of “The Odyssey,” and discuss Hollywood's approach to the Western canon, identity politics, and cultural herita",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -66,21 +80,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Cesar Millan is a world-renowned dog behavior expert. We discuss how to adjust your energy and behavior to ensure your dog is calm and happy and always follows your lead. Cesar shares specific tools for: returning home to your dog each day, structuring their walks, and eliminating aggressive behaviors and anxiety. We discuss how to determine if your dog is front, middle, or back of the pack order—",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie",
-      "date": "2026-07-03T22:12:00.000Z",
-      "duration": "01:42:11",
-      "image": "https://static.libsyn.com/p/assets/d/8/7/f/d87f00a1f440bb8ed959afa2a1bf1c87/1_Pod_E279.png",
-      "desc": "(0:00) Bestie intros: Happy Fourth of July! (0:21) Palantir-Nvidia open source deal, Alex Karp's CNBC \"Crashout\" (33:52) Update on the AI jobs debate (50:24) Anthropic's Fable 5 available after export restrictions lifted (59:06) SCOTUS upholds birthright citizenship, striking Trump's EO (1:21:30) Newsom's \"balanced budget\" and how California's dire fiscal situation could break apart the Union Appl",
-      "guestTags": [
-        "Alex Karp",
-        "Jensen Huang"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -121,6 +120,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Hollywood&apos;s Odyssey Rewrite, Cover Girl Ketanji, Mamdani&apos;s America, w/ VDH, &amp; Taylor&apos;s Wedding Spectacle",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/541d20c8-89ac-4e2c-9aba-3b7d286c62de/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=541d20c8-89ac-4e2c-9aba-3b7d286c62de&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-07-07T11:00:00.000Z",
+      "duration": "01:03:07",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/00681d14-f71b-41dc-9932-910974dbcbc0/3000x3000/ap_104_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Victor Davis Hanson, Senior Fellow at the Hoover Institution and author of the forthcoming book, “The Counterrevolution: The Fall and Rise of Donald Trump and the MAGA Movement.” They open by examining the backlash over Christopher Nolan's upcoming adaptation of “The Odyssey,” and discuss Hollywood's approach to the Western canon, identity politics, and cultural herita",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KILL TONY #775 - JOE ROGAN + THAT MEXICAN OT",
@@ -181,21 +194,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Cesar Millan is a world-renowned dog behavior expert. We discuss how to adjust your energy and behavior to ensure your dog is calm and happy and always follows your lead. Cesar shares specific tools for: returning home to your dog each day, structuring their walks, and eliminating aggressive behaviors and anxiety. We discuss how to determine if your dog is front, middle, or back of the pack order—",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie",
-      "date": "2026-07-03T22:12:00.000Z",
-      "duration": "01:42:11",
-      "image": "https://static.libsyn.com/p/assets/d/8/7/f/d87f00a1f440bb8ed959afa2a1bf1c87/1_Pod_E279.png",
-      "desc": "(0:00) Bestie intros: Happy Fourth of July! (0:21) Palantir-Nvidia open source deal, Alex Karp's CNBC \"Crashout\" (33:52) Update on the AI jobs debate (50:24) Anthropic's Fable 5 available after export restrictions lifted (59:06) SCOTUS upholds birthright citizenship, striking Trump's EO (1:21:30) Newsom's \"balanced budget\" and how California's dire fiscal situation could break apart the Union Appl",
-      "guestTags": [
-        "Alex Karp",
-        "Jensen Huang"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -247,14 +245,11 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Alex Karp": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Jensen Huang": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T07:47:26.276Z",
+  "lastUpdated": "2026-07-07T11:13:44.972Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ugcao1Otpjk",
-      "show": "Kill Tony",
-      "title": "KT #775 - JOE ROGAN + THAT MEXICAN OT",
-      "url": "https://www.youtube.com/watch?v=Ugcao1Otpjk",
-      "date": "2026-07-07T01:00:06.000Z",
-      "image": "https://i2.ytimg.com/vi/Ugcao1Otpjk/hqdefault.jpg",
-      "desc": "Joe Rogan, That Mexican OT, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 06/22/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHIN",
-      "guestTags": []
+      "videoId": "kHpztr3WGTM",
+      "show": "TRIGGERnometry",
+      "title": "This Is Making Britain Poorer",
+      "url": "https://www.youtube.com/watch?v=kHpztr3WGTM",
+      "date": "2026-07-07T10:43:24.000Z",
+      "image": "https://i4.ytimg.com/vi/kHpztr3WGTM/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ugcao1Otpjk",
-      "show": "Kill Tony",
-      "title": "KT #775 - JOE ROGAN + THAT MEXICAN OT",
-      "url": "https://www.youtube.com/watch?v=Ugcao1Otpjk",
-      "date": "2026-07-07T01:00:06.000Z",
-      "image": "https://i2.ytimg.com/vi/Ugcao1Otpjk/hqdefault.jpg",
-      "desc": "Joe Rogan, That Mexican OT, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 06/22/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHIN",
-      "guestTags": []
+      "videoId": "kHpztr3WGTM",
+      "show": "TRIGGERnometry",
+      "title": "This Is Making Britain Poorer",
+      "url": "https://www.youtube.com/watch?v=kHpztr3WGTM",
+      "date": "2026-07-07T10:43:24.000Z",
+      "image": "https://i4.ytimg.com/vi/kHpztr3WGTM/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
