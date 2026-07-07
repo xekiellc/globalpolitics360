@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T14:49:29.771Z",
+  "lastUpdated": "2026-07-07T18:04:45.543Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "kHpztr3WGTM",
-      "show": "TRIGGERnometry",
-      "title": "This Is Making Britain Poorer",
-      "url": "https://www.youtube.com/watch?v=kHpztr3WGTM",
-      "date": "2026-07-07T10:43:24.000Z",
-      "image": "https://i4.ytimg.com/vi/kHpztr3WGTM/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "AnbKyw32jzQ",
+      "show": "The Free Press",
+      "title": "🐊 talk w/ Sen. John Kennedy",
+      "url": "https://www.youtube.com/watch?v=AnbKyw32jzQ",
+      "date": "2026-07-07T16:07:02.000Z",
+      "image": "https://i2.ytimg.com/vi/AnbKyw32jzQ/hqdefault.jpg",
+      "desc": "#shorts #theovon #johnkennedy",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "kHpztr3WGTM",
-      "show": "TRIGGERnometry",
-      "title": "This Is Making Britain Poorer",
-      "url": "https://www.youtube.com/watch?v=kHpztr3WGTM",
-      "date": "2026-07-07T10:43:24.000Z",
-      "image": "https://i4.ytimg.com/vi/kHpztr3WGTM/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "AnbKyw32jzQ",
+      "show": "The Free Press",
+      "title": "🐊 talk w/ Sen. John Kennedy",
+      "url": "https://www.youtube.com/watch?v=AnbKyw32jzQ",
+      "date": "2026-07-07T16:07:02.000Z",
+      "image": "https://i2.ytimg.com/vi/AnbKyw32jzQ/hqdefault.jpg",
+      "desc": "#shorts #theovon #johnkennedy",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

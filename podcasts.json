@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-07-07T14:49:28.850Z",
+  "lastUpdated": "2026-07-07T18:04:44.987Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1687,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2523 - Ali Siddiq",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2738913736.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2738913736.mp3",
+      "date": "2026-07-07T17:00:00.000Z",
+      "duration": "10030",
+      "image": "https://megaphone.imgix.net/podcasts/20c24484-7992-11f1-a40e-3f6b34f7c121/image/8d291f84318b393b58150b567becafaf.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Ali Siddiq is a comedian, author, and public speaker. His new special, \"My Father,\" is now streaming on YouTube. See him live on the \"Custom Fit\" Tour.https://youtu.be/XiSewRUOVygwww.youtube.com/@AliSiddiqComedywww.alisiddiq.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings a",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/7/26: AI CEOs Panic Over Job Losses, WH Press Sec Attacks GenZ As Lazy, McConnell Still Missing After Heart Attack",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/fdfb8a7a-2377-4544-a946-b48000f94c22/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-7-26-ai-ceos-panic-over-job-losses-wh-press-sec-attacks-genz-as-lazy-mcconnell-still-missing-after-heart-attack",
+      "date": "2026-07-07T15:39:42.000Z",
+      "duration": "2652",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Ryan and Saagar discuss AI CEOs panic over job losses, WH Press Sec says GenZ is lazy, McConnell still missing after heart attack. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy information.",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -46,18 +70,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/6/26: Netanyahu Israeli Coup, Iran Mourns Ayatollah Chanting Death To America",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/36ba677f-ef85-4217-8116-b47f00ff6bd9/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-6-26-netanyahu-israeli-coup-iran-mourns-ayatollah-chanting-death-to-america",
-      "date": "2026-07-06T15:49:19.000Z",
-      "duration": "3633",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Netanyahu war with Israeli courts, Iran mourns Ayatollah. &nbsp; Noga Tarnopolsky: https://x.com/NTarnopolsky?lang=en&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy i",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
       "title": "You Cannot Avoid Having a God. Here Is What That Actually Means.",
@@ -67,18 +79,6 @@
       "duration": "6730",
       "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "This is the second lecture from the We Who Wrestle With God tour.What does it mean that your God is whatever you put first? Why are the stories that grip you not false but hyper-real? Why is work identical to sacrifice, and what does that reveal about the nature of the covenantal relationship between humanity and the spirit of being? What happened when Cain offered his second rate effort and why i",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Raising a Dog &amp; Mastering Calm Assertive Energy | Cesar Millan",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM6380580289.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan",
-      "date": "2026-07-06T08:00:00.000Z",
-      "duration": "9503",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Cesar Millan is a world-renowned dog behavior expert. We discuss how to adjust your energy and behavior to ensure your dog is calm and happy and always follows your lead. Cesar shares specific tools for: returning home to your dog each day, structuring their walks, and eliminating aggressive behaviors and anxiety. We discuss how to determine if your dog is front, middle, or back of the pack order—",
       "guestTags": []
     },
     {
@@ -120,6 +120,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2523 - Ali Siddiq",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2738913736.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2738913736.mp3",
+      "date": "2026-07-07T17:00:00.000Z",
+      "duration": "10030",
+      "image": "https://megaphone.imgix.net/podcasts/20c24484-7992-11f1-a40e-3f6b34f7c121/image/8d291f84318b393b58150b567becafaf.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Ali Siddiq is a comedian, author, and public speaker. His new special, \"My Father,\" is now streaming on YouTube. See him live on the \"Custom Fit\" Tour.https://youtu.be/XiSewRUOVygwww.youtube.com/@AliSiddiqComedywww.alisiddiq.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings a",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/7/26: AI CEOs Panic Over Job Losses, WH Press Sec Attacks GenZ As Lazy, McConnell Still Missing After Heart Attack",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/fdfb8a7a-2377-4544-a946-b48000f94c22/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-7-26-ai-ceos-panic-over-job-losses-wh-press-sec-attacks-genz-as-lazy-mcconnell-still-missing-after-heart-attack",
+      "date": "2026-07-07T15:39:42.000Z",
+      "duration": "2652",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Ryan and Saagar discuss AI CEOs panic over job losses, WH Press Sec says GenZ is lazy, McConnell still missing after heart attack. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy information.",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Hollywood&apos;s Odyssey Rewrite, Cover Girl Ketanji, Mamdani&apos;s America, w/ VDH, &amp; Taylor&apos;s Wedding Spectacle",
@@ -160,18 +184,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/6/26: Netanyahu Israeli Coup, Iran Mourns Ayatollah Chanting Death To America",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/36ba677f-ef85-4217-8116-b47f00ff6bd9/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-6-26-netanyahu-israeli-coup-iran-mourns-ayatollah-chanting-death-to-america",
-      "date": "2026-07-06T15:49:19.000Z",
-      "duration": "3633",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Netanyahu war with Israeli courts, Iran mourns Ayatollah. &nbsp; Noga Tarnopolsky: https://x.com/NTarnopolsky?lang=en&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy i",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
       "title": "You Cannot Avoid Having a God. Here Is What That Actually Means.",
@@ -181,18 +193,6 @@
       "duration": "6730",
       "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "This is the second lecture from the We Who Wrestle With God tour.What does it mean that your God is whatever you put first? Why are the stories that grip you not false but hyper-real? Why is work identical to sacrifice, and what does that reveal about the nature of the covenantal relationship between humanity and the spirit of being? What happened when Cain offered his second rate effort and why i",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Raising a Dog &amp; Mastering Calm Assertive Energy | Cesar Millan",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM6380580289.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan",
-      "date": "2026-07-06T08:00:00.000Z",
-      "duration": "9503",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Cesar Millan is a world-renowned dog behavior expert. We discuss how to adjust your energy and behavior to ensure your dog is calm and happy and always follows your lead. Cesar shares specific tools for: returning home to your dog each day, structuring their walks, and eliminating aggressive behaviors and anxiety. We discuss how to determine if your dog is front, middle, or back of the pack order—",
       "guestTags": []
     },
     {
