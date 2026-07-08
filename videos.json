@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-07-08T03:21:56.799Z",
+  "lastUpdated": "2026-07-08T06:33:07.954Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 12,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "EmMyZzZzTwg",
+      "show": "All-In Podcast",
+      "title": "The Three Warring Factions of The Democratic Party: Progressives, Abundance, Resistance",
+      "url": "https://www.youtube.com/watch?v=EmMyZzZzTwg",
+      "date": "2026-07-07T18:02:38.000Z",
+      "image": "https://i2.ytimg.com/vi/EmMyZzZzTwg/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nStarting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at northwestregisteredagent.com/ALLINFREE \n\nIf your work depends on conversations ",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "qhmITF5ZVX0",
-      "show": "Shawn Ryan Show",
-      "title": "You Can't Enter This Abandoned City 🤯",
-      "url": "https://www.youtube.com/watch?v=qhmITF5ZVX0",
-      "date": "2026-07-07T22:00:07.000Z",
-      "image": "https://i2.ytimg.com/vi/qhmITF5ZVX0/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "videoId": "EmMyZzZzTwg",
+      "show": "All-In Podcast",
+      "title": "The Three Warring Factions of The Democratic Party: Progressives, Abundance, Resistance",
+      "url": "https://www.youtube.com/watch?v=EmMyZzZzTwg",
+      "date": "2026-07-07T18:02:38.000Z",
+      "image": "https://i2.ytimg.com/vi/EmMyZzZzTwg/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nStarting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at northwestregisteredagent.com/ALLINFREE \n\nIf your work depends on conversations ",
       "guestTags": []
     }
   ],
