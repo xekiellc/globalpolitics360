@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T14:27:22.210Z",
+  "lastUpdated": "2026-07-08T17:42:59.146Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "LthCFHHpJmw",
-      "show": "All-In Podcast",
-      "title": "Four Reasons Why Gavin Newsom’s Presidential Chances are Dropping FAST - Nate Silver",
-      "url": "https://www.youtube.com/watch?v=LthCFHHpJmw",
-      "date": "2026-07-08T14:16:33.000Z",
-      "image": "https://i1.ytimg.com/vi/LthCFHHpJmw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "6Go3dmyWxYo",
+      "show": "Jordan Peterson",
+      "title": "Battle Cry of the Dead",
+      "url": "https://www.youtube.com/watch?v=6Go3dmyWxYo",
+      "date": "2026-07-08T16:00:13.000Z",
+      "image": "https://i3.ytimg.com/vi/6Go3dmyWxYo/hqdefault.jpg",
+      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "LthCFHHpJmw",
-      "show": "All-In Podcast",
-      "title": "Four Reasons Why Gavin Newsom’s Presidential Chances are Dropping FAST - Nate Silver",
-      "url": "https://www.youtube.com/watch?v=LthCFHHpJmw",
-      "date": "2026-07-08T14:16:33.000Z",
-      "image": "https://i1.ytimg.com/vi/LthCFHHpJmw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "6Go3dmyWxYo",
+      "show": "Jordan Peterson",
+      "title": "Battle Cry of the Dead",
+      "url": "https://www.youtube.com/watch?v=6Go3dmyWxYo",
+      "date": "2026-07-08T16:00:13.000Z",
+      "image": "https://i3.ytimg.com/vi/6Go3dmyWxYo/hqdefault.jpg",
+      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
