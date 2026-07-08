@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-07-08T19:41:15.759Z",
+  "lastUpdated": "2026-07-08T21:14:03.482Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 34,
+  "taggedCount": 35,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jCVnqe9hAsU",
-      "show": "Shawn Ryan Show",
-      "title": "The Real-Life Tunnel Rat Weapon 🤯",
-      "url": "https://www.youtube.com/watch?v=jCVnqe9hAsU",
-      "date": "2026-07-08T18:00:34.000Z",
-      "image": "https://i3.ytimg.com/vi/jCVnqe9hAsU/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "4YyvG_u46n0",
+      "show": "Theo Von",
+      "title": "What Country Spies on America the Most?",
+      "url": "https://www.youtube.com/watch?v=4YyvG_u46n0",
+      "date": "2026-07-08T20:03:28.000Z",
+      "image": "https://i1.ytimg.com/vi/4YyvG_u46n0/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "jCVnqe9hAsU",
-      "show": "Shawn Ryan Show",
-      "title": "The Real-Life Tunnel Rat Weapon 🤯",
-      "url": "https://www.youtube.com/watch?v=jCVnqe9hAsU",
-      "date": "2026-07-08T18:00:34.000Z",
-      "image": "https://i3.ytimg.com/vi/jCVnqe9hAsU/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "4YyvG_u46n0",
+      "show": "Theo Von",
+      "title": "What Country Spies on America the Most?",
+      "url": "https://www.youtube.com/watch?v=4YyvG_u46n0",
+      "date": "2026-07-08T20:03:28.000Z",
+      "image": "https://i1.ytimg.com/vi/4YyvG_u46n0/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "John Kiriakou": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
