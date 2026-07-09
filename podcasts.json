@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-07-09T15:22:00.442Z",
+  "lastUpdated": "2026-07-09T18:01:20.292Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1691,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #182 - Protect Ya Neck",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1118485865.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1118485865.mp3",
+      "date": "2026-07-09T17:00:00.000Z",
+      "duration": "9903",
+      "image": "https://megaphone.imgix.net/podcasts/34453dce-7b20-11f1-92f8-4f32c8ca28d7/image/1c87b5e21277836f5982efcd7d18609c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe is joined by mixed martial artists John Rallo, Matt Serra, and Din Thomas.\n\nJohn Rallo owns Shogun Fights and is the owner and head coach of Ground Control Mixed Martial Arts Academy.www.groundcontrolbaltimore.comwww.shogunfights.com\n\nMatt Serra is a mixed martial artist and host of \"UFC Unfiltered\" with Jim Norton and \"Geeking Out with Matt Serra.\" He is the owner and an instructor at Serra B",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/9/26: Mitch McConnell Still Missing, Abdul Vs Stevens Debate, Senior Property Tax Breaks",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/f90279d2-198a-4573-a7de-b48200fbcdf2/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-9-26-mitch-mcconnell-still-missing-abdul-vs-stevens-debate-senior-property-tax-breaks",
+      "date": "2026-07-09T15:53:56.000Z",
+      "duration": "2973",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Ryan and Saagar discuss McConnell still missing, Abdul Vs Stevens debate, Saagar loses it over senior property tax breaks. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy information.",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -32,18 +56,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science &amp; Treatment of Obsessive Compulsive Disorder (OCD)",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8423515647.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-obsessive-compulsive-disorder",
-      "date": "2026-07-09T08:00:00.000Z",
-      "duration": "2133",
-      "image": "https://megaphone.imgix.net/podcasts/4770a1ce-7b55-11f1-b552-7395758b62d8/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I explain the biology and psychology of obsessive-compulsive disorder (OCD) and describe the neural circuitry behind repetitive \"thought-action loops,\" including why compulsive actions actually strengthen the underlying obsessions rather than relieve them. I discuss the most effective treatments for OCD, including exposure-based cognitive behavioral therapy",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "M.O.U. is Over &amp; Dinesh is Wrong",
@@ -56,18 +68,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/8/26: Trump Says Iran Ceasefire Over, Bibi Rages Over Turkey, Platner Fallout Continues",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/6bb7fa6d-8064-4e2a-86de-b48100fc647b/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-8-26-trump-says-iran-ceasefire-over-bibi-rages-over-turkey-platner-fallout-continues",
-      "date": "2026-07-08T15:50:07.000Z",
-      "duration": "4380",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Saagar discuss Trump says Iran ceasefire over, Bibi rages over F-35s to Turkey, Maine Dems reject Platner influencing replacement, Platner story left key details out. David Morales: https://www.davidmoralespvd.com/ Kai Newkirk: https://kaiforaz.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoint",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -120,6 +120,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #182 - Protect Ya Neck",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1118485865.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1118485865.mp3",
+      "date": "2026-07-09T17:00:00.000Z",
+      "duration": "9903",
+      "image": "https://megaphone.imgix.net/podcasts/34453dce-7b20-11f1-92f8-4f32c8ca28d7/image/1c87b5e21277836f5982efcd7d18609c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe is joined by mixed martial artists John Rallo, Matt Serra, and Din Thomas.\n\nJohn Rallo owns Shogun Fights and is the owner and head coach of Ground Control Mixed Martial Arts Academy.www.groundcontrolbaltimore.comwww.shogunfights.com\n\nMatt Serra is a mixed martial artist and host of \"UFC Unfiltered\" with Jim Norton and \"Geeking Out with Matt Serra.\" He is the owner and an instructor at Serra B",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/9/26: Mitch McConnell Still Missing, Abdul Vs Stevens Debate, Senior Property Tax Breaks",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/f90279d2-198a-4573-a7de-b48200fbcdf2/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-9-26-mitch-mcconnell-still-missing-abdul-vs-stevens-debate-senior-property-tax-breaks",
+      "date": "2026-07-09T15:53:56.000Z",
+      "duration": "2973",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Ryan and Saagar discuss McConnell still missing, Abdul Vs Stevens debate, Saagar loses it over senior property tax breaks. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy information.",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Platner Drops Out, Smithsonian TRUTH Bomb, Citizen Vigilante Panic, &amp; Pratt&apos;s Next Move",
@@ -146,18 +170,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science &amp; Treatment of Obsessive Compulsive Disorder (OCD)",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8423515647.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-obsessive-compulsive-disorder",
-      "date": "2026-07-09T08:00:00.000Z",
-      "duration": "2133",
-      "image": "https://megaphone.imgix.net/podcasts/4770a1ce-7b55-11f1-b552-7395758b62d8/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I explain the biology and psychology of obsessive-compulsive disorder (OCD) and describe the neural circuitry behind repetitive \"thought-action loops,\" including why compulsive actions actually strengthen the underlying obsessions rather than relieve them. I discuss the most effective treatments for OCD, including exposure-based cognitive behavioral therapy",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "M.O.U. is Over &amp; Dinesh is Wrong",
@@ -170,18 +182,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/8/26: Trump Says Iran Ceasefire Over, Bibi Rages Over Turkey, Platner Fallout Continues",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/6bb7fa6d-8064-4e2a-86de-b48100fc647b/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-8-26-trump-says-iran-ceasefire-over-bibi-rages-over-turkey-platner-fallout-continues",
-      "date": "2026-07-08T15:50:07.000Z",
-      "duration": "4380",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Saagar discuss Trump says Iran ceasefire over, Bibi rages over F-35s to Turkey, Maine Dems reject Platner influencing replacement, Platner story left key details out. David Morales: https://www.davidmoralespvd.com/ Kai Newkirk: https://kaiforaz.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoint",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
