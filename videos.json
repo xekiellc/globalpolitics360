@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-07-09T23:17:11.820Z",
+  "lastUpdated": "2026-07-10T03:50:45.939Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 34,
+  "taggedCount": 2,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mLXgzSpto6s",
-      "show": "Shawn Ryan Show",
-      "title": "This Red Laser Reveals Hidden Code 🤯",
-      "url": "https://www.youtube.com/watch?v=mLXgzSpto6s",
-      "date": "2026-07-09T22:00:33.000Z",
-      "image": "https://i2.ytimg.com/vi/mLXgzSpto6s/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "videoId": "k3wWF6pQgpE",
+      "show": "Joe Rogan",
+      "title": "How researchers mapped the magnetic field of our Local Bubble for the first time #shorts",
+      "url": "https://www.youtube.com/watch?v=k3wWF6pQgpE",
+      "date": "2023-01-20T00:00:17.000Z",
+      "image": "https://i4.ytimg.com/vi/k3wWF6pQgpE/hqdefault.jpg",
+      "desc": "Our solar system exists in a giant bubble of dust and gas in space, and researchers at the Harvard-Smithsonian Center for Astrophysics have just mapped its magnetic field for the first time. This new research is part of a larger effort to better understand the nature of superbubbles and our cosmic n",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mLXgzSpto6s",
-      "show": "Shawn Ryan Show",
-      "title": "This Red Laser Reveals Hidden Code 🤯",
-      "url": "https://www.youtube.com/watch?v=mLXgzSpto6s",
-      "date": "2026-07-09T22:00:33.000Z",
-      "image": "https://i2.ytimg.com/vi/mLXgzSpto6s/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "videoId": "k3wWF6pQgpE",
+      "show": "Joe Rogan",
+      "title": "How researchers mapped the magnetic field of our Local Bubble for the first time #shorts",
+      "url": "https://www.youtube.com/watch?v=k3wWF6pQgpE",
+      "date": "2023-01-20T00:00:17.000Z",
+      "image": "https://i4.ytimg.com/vi/k3wWF6pQgpE/hqdefault.jpg",
+      "desc": "Our solar system exists in a giant bubble of dust and gas in space, and researchers at the Harvard-Smithsonian Center for Astrophysics have just mapped its magnetic field for the first time. This new research is part of a larger effort to better understand the nature of superbubbles and our cosmic n",
       "guestTags": []
     }
   ],

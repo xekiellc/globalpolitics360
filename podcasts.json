@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-07-09T23:17:11.239Z",
+  "lastUpdated": "2026-07-10T03:50:44.205Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1691,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras &amp; Black Forest Labs",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
+      "date": "2026-07-10T01:26:00.000Z",
+      "duration": "01:03:57",
+      "image": "https://static.libsyn.com/p/assets/d/1/d/d/d1dd2623c0e3ae6a16c3140a3186d450/1_Pod_Versailles-20260710-0sxlqfsd3j.png",
+      "desc": "(0:00) The AI Buildout: Datacenters Bigger Than Cities (Andrew Feldman) (1:50) Reasoning, Inference, and Breaking Moore's Law (16:28) Open Source, AI Sovereignty, and the Road to AGI (40:54) The Innovation Behind Generative Video (Robin Rombach) (47:31) Martin Scorsese, Robots, and the Future of Hollywood IP Thanks to our partners for making this possible! AppLovin Ads - AppLovin's AI advertising ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -28,20 +40,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan and Saagar discuss McConnell still missing, Abdul Vs Stevens debate, Saagar loses it over senior property tax breaks. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy information.",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Platner Drops Out, Smithsonian TRUTH Bomb, Citizen Vigilante Panic, &amp; Pratt&apos;s Next Move",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/b3a672de-ea9a-4431-90ab-d542b5258a68/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=b3a672de-ea9a-4431-90ab-d542b5258a68&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-07-09T11:00:00.000Z",
-      "duration": "01:13:05",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky breaks down the latest developments in the Graham Platner scandal as he drops out of the race. She details the allegations against him, while arguing that the media's coverage reveals a broader misunderstanding of how voters view political scandals today. She also explains why she thinks he could have still won the race. Emily then explores the rise of Democratic Socialists in Amer",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -120,6 +118,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras &amp; Black Forest Labs",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
+      "date": "2026-07-10T01:26:00.000Z",
+      "duration": "01:03:57",
+      "image": "https://static.libsyn.com/p/assets/d/1/d/d/d1dd2623c0e3ae6a16c3140a3186d450/1_Pod_Versailles-20260710-0sxlqfsd3j.png",
+      "desc": "(0:00) The AI Buildout: Datacenters Bigger Than Cities (Andrew Feldman) (1:50) Reasoning, Inference, and Breaking Moore's Law (16:28) Open Source, AI Sovereignty, and the Road to AGI (40:54) The Innovation Behind Generative Video (Robin Rombach) (47:31) Martin Scorsese, Robots, and the Future of Hollywood IP Thanks to our partners for making this possible! AppLovin Ads - AppLovin's AI advertising ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "JRE MMA Show #182 - Protect Ya Neck",
@@ -142,20 +152,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan and Saagar discuss McConnell still missing, Abdul Vs Stevens debate, Saagar loses it over senior property tax breaks. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy information.",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Platner Drops Out, Smithsonian TRUTH Bomb, Citizen Vigilante Panic, &amp; Pratt&apos;s Next Move",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/b3a672de-ea9a-4431-90ab-d542b5258a68/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=b3a672de-ea9a-4431-90ab-d542b5258a68&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-07-09T11:00:00.000Z",
-      "duration": "01:13:05",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky breaks down the latest developments in the Graham Platner scandal as he drops out of the race. She details the allegations against him, while arguing that the media's coverage reveals a broader misunderstanding of how voters view political scandals today. She also explains why she thinks he could have still won the race. Emily then explores the rise of Democratic Socialists in Amer",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -245,9 +241,6 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
