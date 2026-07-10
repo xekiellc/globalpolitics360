@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-10T11:10:32.772Z",
+  "lastUpdated": "2026-07-10T14:39:52.952Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin is &#8220;A Screaming Buy&#8221;: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered",
+      "date": "2026-07-10T13:49:38.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-is-22A-Screaming-Buy22-Standard-Chartered-Backs-100000-Target-Shrugs-Off-Strategy-MSTR-Sell-Off.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #201",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-201",
+      "date": "2026-07-10T12:56:10.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!XgL6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0650238-dd46-4191-9f32-70a6e54cc68f_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "JPMorgan Says the Real Threat to Bitcoin Isn&#8217;t Strategy (MSTR) — It&#8217;s Private Blockchains",
       "url": "https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin",
@@ -79,15 +97,6 @@
       "url": "https://bitcoinmagazine.com/news/schwab-strategist-backs-bitcoin-strategy",
       "date": "2026-07-08T15:21:58.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Schwab-Strategist-Backs-Strategys-STRC-Playbook-Amid-Bitcoin-Weakness.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Cantor SPAC and Adam Back&#8217;s Bitcoin Treasury Renegotiate Merger Terms, Vow New Structure",
-      "url": "https://bitcoinmagazine.com/news/cantor-spac-adam-backs-bitcoin-treasury",
-      "date": "2026-07-08T15:10:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Morgan-Stanleys-Bitcoin-Executive-Says-Education-—-Not-Products-—-Is-Wall-Streets-Real-Obstacle.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Return on Tokens (ROT)",
-      "url": "https://www.notboring.co/p/return-on-tokens-rot",
-      "date": "2026-06-10T18:02:16.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!0yXr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4269970-968a-4e63-b403-17b25c12ff5f_900x450.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
