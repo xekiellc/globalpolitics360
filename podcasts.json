@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-07-10T19:40:09.092Z",
+  "lastUpdated": "2026-07-10T21:10:51.249Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1692,
+  "taggedCount": 1693,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "&quot;Happy Hour&quot;: Broken Journalism, Taylor Swift&apos;s Public Persona, and if Socialists Can Be Patriots: Emily Answers YOUR Questions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/cac9149f-6d44-42f6-a7f1-e39415cf6c5e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=cac9149f-6d44-42f6-a7f1-e39415cf6c5e&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-07-10T20:00:00.000Z",
+      "duration": "01:12:51",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "On this week's edition of “Happy Hour,” Emily Jashinsky answers listener questions on a wide range of political, media, and cultural topics. Emily explains what she believes is the central problem with modern journalism, why journalists often struggle to recognize their own biases, and discusses the role journalism schools play in shaping the profession. She also weighs in on violence in women's s",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -30,18 +44,6 @@
       "guestTags": [
         "Alex Karp"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras &amp; Black Forest Labs",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
-      "date": "2026-07-10T01:26:00.000Z",
-      "duration": "01:03:57",
-      "image": "https://static.libsyn.com/p/assets/d/1/d/d/d1dd2623c0e3ae6a16c3140a3186d450/1_Pod_Versailles-20260710-0sxlqfsd3j.png",
-      "desc": "(0:00) The AI Buildout: Datacenters Bigger Than Cities (Andrew Feldman) (1:50) Reasoning, Inference, and Breaking Moore's Law (16:28) Open Source, AI Sovereignty, and the Road to AGI (40:54) The Innovation Behind Generative Video (Robin Rombach) (47:31) Martin Scorsese, Robots, and the Future of Hollywood IP Thanks to our partners for making this possible! AppLovin Ads - AppLovin's AI advertising ",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -118,6 +120,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "&quot;Happy Hour&quot;: Broken Journalism, Taylor Swift&apos;s Public Persona, and if Socialists Can Be Patriots: Emily Answers YOUR Questions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/cac9149f-6d44-42f6-a7f1-e39415cf6c5e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=cac9149f-6d44-42f6-a7f1-e39415cf6c5e&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-07-10T20:00:00.000Z",
+      "duration": "01:12:51",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "On this week's edition of “Happy Hour,” Emily Jashinsky answers listener questions on a wide range of political, media, and cultural topics. Emily explains what she believes is the central problem with modern journalism, why journalists often struggle to recognize their own biases, and discusses the role journalism schools play in shaping the profession. She also weighs in on violence in women's s",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "7/10/26: Dems Scramble To Replace Platner, Iran Trump Assassination Claims From Israel",
@@ -142,18 +158,6 @@
       "guestTags": [
         "Alex Karp"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras &amp; Black Forest Labs",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
-      "date": "2026-07-10T01:26:00.000Z",
-      "duration": "01:03:57",
-      "image": "https://static.libsyn.com/p/assets/d/1/d/d/d1dd2623c0e3ae6a16c3140a3186d450/1_Pod_Versailles-20260710-0sxlqfsd3j.png",
-      "desc": "(0:00) The AI Buildout: Datacenters Bigger Than Cities (Andrew Feldman) (1:50) Reasoning, Inference, and Breaking Moore's Law (16:28) Open Source, AI Sovereignty, and the Road to AGI (40:54) The Innovation Behind Generative Video (Robin Rombach) (47:31) Martin Scorsese, Robots, and the Future of Hollywood IP Thanks to our partners for making this possible! AppLovin Ads - AppLovin's AI advertising ",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -241,6 +245,9 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Alex Karp": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
