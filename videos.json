@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-07-11T17:03:01.262Z",
+  "lastUpdated": "2026-07-11T19:11:54.684Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 33,
+  "taggedCount": 34,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "CdcgoZHBGHQ",
-      "show": "Jordan Peterson",
-      "title": "Meaning That Sustains Life",
-      "url": "https://www.youtube.com/watch?v=CdcgoZHBGHQ",
-      "date": "2026-07-11T16:00:30.000Z",
-      "image": "https://i4.ytimg.com/vi/CdcgoZHBGHQ/hqdefault.jpg",
-      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
-      "guestTags": []
+      "videoId": "AoLvGVrc-nw",
+      "show": "TRIGGERnometry",
+      "title": "Why Crazy Activism is Taking Over the West — Harvard Professor Arthur Brooks",
+      "url": "https://www.youtube.com/watch?v=AoLvGVrc-nw",
+      "date": "2026-07-11T18:00:35.000Z",
+      "image": "https://i2.ytimg.com/vi/AoLvGVrc-nw/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Expat Money: download the report to understand offshore banking, second passports, asset protection and international business\nhttps://expatmoney.com/trigger\n\n- CyberGhost VPN: Our VPN of choice. Grab th",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "CdcgoZHBGHQ",
-      "show": "Jordan Peterson",
-      "title": "Meaning That Sustains Life",
-      "url": "https://www.youtube.com/watch?v=CdcgoZHBGHQ",
-      "date": "2026-07-11T16:00:30.000Z",
-      "image": "https://i4.ytimg.com/vi/CdcgoZHBGHQ/hqdefault.jpg",
-      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
-      "guestTags": []
+      "videoId": "AoLvGVrc-nw",
+      "show": "TRIGGERnometry",
+      "title": "Why Crazy Activism is Taking Over the West — Harvard Professor Arthur Brooks",
+      "url": "https://www.youtube.com/watch?v=AoLvGVrc-nw",
+      "date": "2026-07-11T18:00:35.000Z",
+      "image": "https://i2.ytimg.com/vi/AoLvGVrc-nw/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Expat Money: download the report to understand offshore banking, second passports, asset protection and international business\nhttps://expatmoney.com/trigger\n\n- CyberGhost VPN: Our VPN of choice. Grab th",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
