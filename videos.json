@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T23:02:12.065Z",
+  "lastUpdated": "2026-07-11T03:17:04.992Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "H7yw_HGwZ5M",
-      "show": "Shawn Ryan Show",
-      "title": "Candace Rates Shawn Ryan's Gummy Bears 😂",
-      "url": "https://www.youtube.com/watch?v=H7yw_HGwZ5M",
-      "date": "2026-07-10T22:00:39.000Z",
-      "image": "https://i1.ytimg.com/vi/H7yw_HGwZ5M/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "PHL1j2ti420",
+      "show": "All-In Podcast",
+      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+      "url": "https://www.youtube.com/watch?v=PHL1j2ti420",
+      "date": "2026-07-11T02:39:34.000Z",
+      "image": "https://i1.ytimg.com/vi/PHL1j2ti420/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg!\n(2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence\n(27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly\n(54:29) CCP considerin",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "H7yw_HGwZ5M",
-      "show": "Shawn Ryan Show",
-      "title": "Candace Rates Shawn Ryan's Gummy Bears 😂",
-      "url": "https://www.youtube.com/watch?v=H7yw_HGwZ5M",
-      "date": "2026-07-10T22:00:39.000Z",
-      "image": "https://i1.ytimg.com/vi/H7yw_HGwZ5M/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "PHL1j2ti420",
+      "show": "All-In Podcast",
+      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+      "url": "https://www.youtube.com/watch?v=PHL1j2ti420",
+      "date": "2026-07-11T02:39:34.000Z",
+      "image": "https://i1.ytimg.com/vi/PHL1j2ti420/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg!\n(2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence\n(27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly\n(54:29) CCP considerin",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
