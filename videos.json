@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T11:10:05.597Z",
+  "lastUpdated": "2026-07-11T13:38:47.177Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PHL1j2ti420",
-      "show": "All-In Podcast",
-      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
-      "url": "https://www.youtube.com/watch?v=PHL1j2ti420",
-      "date": "2026-07-11T02:39:34.000Z",
-      "image": "https://i1.ytimg.com/vi/PHL1j2ti420/hqdefault.jpg",
-      "desc": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg!\n(2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence\n(27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly\n(54:29) CCP considerin",
-      "guestTags": [
-        "Elon Musk"
-      ]
+      "videoId": "7RD8FxI0yuM",
+      "show": "Danny Jones Podcast",
+      "title": "Inside the Darkest Conspiracies in the World | Greg Carlwood",
+      "url": "https://www.youtube.com/watch?v=7RD8FxI0yuM",
+      "date": "2026-07-11T12:45:14.000Z",
+      "image": "https://i4.ytimg.com/vi/7RD8FxI0yuM/hqdefault.jpg",
+      "desc": "Watch every episode ad-free &amp; uncensored on Patreon: https://patreon.com/dannyjones\nGreg Carlwood is the creator and host of @TheHighersideChats podcast where he interviews researchers, authors, and experts on a whole host of unusual, suppressed, alternative, paranormal, occult, and fringe subje",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PHL1j2ti420",
-      "show": "All-In Podcast",
-      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
-      "url": "https://www.youtube.com/watch?v=PHL1j2ti420",
-      "date": "2026-07-11T02:39:34.000Z",
-      "image": "https://i1.ytimg.com/vi/PHL1j2ti420/hqdefault.jpg",
-      "desc": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg!\n(2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence\n(27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly\n(54:29) CCP considerin",
-      "guestTags": [
-        "Elon Musk"
-      ]
+      "videoId": "7RD8FxI0yuM",
+      "show": "Danny Jones Podcast",
+      "title": "Inside the Darkest Conspiracies in the World | Greg Carlwood",
+      "url": "https://www.youtube.com/watch?v=7RD8FxI0yuM",
+      "date": "2026-07-11T12:45:14.000Z",
+      "image": "https://i4.ytimg.com/vi/7RD8FxI0yuM/hqdefault.jpg",
+      "desc": "Watch every episode ad-free &amp; uncensored on Patreon: https://patreon.com/dannyjones\nGreg Carlwood is the creator and host of @TheHighersideChats podcast where he interviews researchers, authors, and experts on a whole host of unusual, suppressed, alternative, paranormal, occult, and fringe subje",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
