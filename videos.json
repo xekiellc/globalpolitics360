@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T11:18:44.174Z",
+  "lastUpdated": "2026-07-13T14:46:35.817Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "4MIXQTyy9Fo",
-      "show": "Huberman Lab",
-      "title": "How to Access Calm, Confident Energy in You &amp; Your Dog",
-      "url": "https://www.youtube.com/watch?v=4MIXQTyy9Fo",
-      "date": "2026-07-12T19:23:14.000Z",
-      "image": "https://i1.ytimg.com/vi/4MIXQTyy9Fo/hqdefault.jpg",
-      "desc": "Cesar Millan is a world-renowned dog behavior expert.\n\nWhile this episode is about human-dog relationships (and cats are mentioned as well), it's really about human energy and how to attain and maintain a calm, assertive, and confident energy for all relationships — both with dogs and with humans.\n\n",
-      "guestTags": []
+      "videoId": "N7cTR6aVJ-I",
+      "show": "TRIGGERnometry",
+      "title": "Why Do We Laugh?",
+      "url": "https://www.youtube.com/watch?v=N7cTR6aVJ-I",
+      "date": "2026-07-13T12:27:18.000Z",
+      "image": "https://i3.ytimg.com/vi/N7cTR6aVJ-I/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "4MIXQTyy9Fo",
-      "show": "Huberman Lab",
-      "title": "How to Access Calm, Confident Energy in You &amp; Your Dog",
-      "url": "https://www.youtube.com/watch?v=4MIXQTyy9Fo",
-      "date": "2026-07-12T19:23:14.000Z",
-      "image": "https://i1.ytimg.com/vi/4MIXQTyy9Fo/hqdefault.jpg",
-      "desc": "Cesar Millan is a world-renowned dog behavior expert.\n\nWhile this episode is about human-dog relationships (and cats are mentioned as well), it's really about human energy and how to attain and maintain a calm, assertive, and confident energy for all relationships — both with dogs and with humans.\n\n",
-      "guestTags": []
+      "videoId": "N7cTR6aVJ-I",
+      "show": "TRIGGERnometry",
+      "title": "Why Do We Laugh?",
+      "url": "https://www.youtube.com/watch?v=N7cTR6aVJ-I",
+      "date": "2026-07-13T12:27:18.000Z",
+      "image": "https://i3.ytimg.com/vi/N7cTR6aVJ-I/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
