@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-07-13T19:41:57.812Z",
+  "lastUpdated": "2026-07-13T21:01:54.201Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 34,
+  "taggedCount": 32,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "DIJduAY5cjE",
-      "show": "Shawn Ryan Show",
-      "title": "The Most Decorated Soldier in History 🤯",
-      "url": "https://www.youtube.com/watch?v=DIJduAY5cjE",
-      "date": "2026-07-13T18:00:37.000Z",
-      "image": "https://i1.ytimg.com/vi/DIJduAY5cjE/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "gy1txZ-xeqs",
+      "show": "All-In Podcast",
+      "title": "Brad Gerstner: Companies Will Pay 5x More for the Best AI",
+      "url": "https://www.youtube.com/watch?v=gy1txZ-xeqs",
+      "date": "2026-07-13T20:30:36.000Z",
+      "image": "https://i4.ytimg.com/vi/gy1txZ-xeqs/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "DIJduAY5cjE",
-      "show": "Shawn Ryan Show",
-      "title": "The Most Decorated Soldier in History 🤯",
-      "url": "https://www.youtube.com/watch?v=DIJduAY5cjE",
-      "date": "2026-07-13T18:00:37.000Z",
-      "image": "https://i1.ytimg.com/vi/DIJduAY5cjE/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "gy1txZ-xeqs",
+      "show": "All-In Podcast",
+      "title": "Brad Gerstner: Companies Will Pay 5x More for the Best AI",
+      "url": "https://www.youtube.com/watch?v=gy1txZ-xeqs",
+      "date": "2026-07-13T20:30:36.000Z",
+      "image": "https://i4.ytimg.com/vi/gy1txZ-xeqs/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
