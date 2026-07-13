@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-07-13T14:46:35.817Z",
+  "lastUpdated": "2026-07-13T17:59:26.390Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 34,
+  "taggedCount": 35,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "N7cTR6aVJ-I",
-      "show": "TRIGGERnometry",
-      "title": "Why Do We Laugh?",
-      "url": "https://www.youtube.com/watch?v=N7cTR6aVJ-I",
-      "date": "2026-07-13T12:27:18.000Z",
-      "image": "https://i3.ytimg.com/vi/N7cTR6aVJ-I/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "AqLrc1JWi_o",
+      "show": "Shawn Ryan Show",
+      "title": "Ryan Holiday - Watch This If You Have a Negative Mind | SRS #321",
+      "url": "https://www.youtube.com/watch?v=AqLrc1JWi_o",
+      "date": "2026-07-13T17:30:12.000Z",
+      "image": "https://i2.ytimg.com/vi/AqLrc1JWi_o/hqdefault.jpg",
+      "desc": "Ryan Holiday is a bestselling author and one of the most influential modern voices on Stoicism. His 12 books, including The Obstacle Is the Way, Ego Is the Enemy, and Stillness Is the Key, have sold more than 10 million copies worldwide. He's also the founder of Daily Stoic, a media company that rea",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "N7cTR6aVJ-I",
-      "show": "TRIGGERnometry",
-      "title": "Why Do We Laugh?",
-      "url": "https://www.youtube.com/watch?v=N7cTR6aVJ-I",
-      "date": "2026-07-13T12:27:18.000Z",
-      "image": "https://i3.ytimg.com/vi/N7cTR6aVJ-I/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "AqLrc1JWi_o",
+      "show": "Shawn Ryan Show",
+      "title": "Ryan Holiday - Watch This If You Have a Negative Mind | SRS #321",
+      "url": "https://www.youtube.com/watch?v=AqLrc1JWi_o",
+      "date": "2026-07-13T17:30:12.000Z",
+      "image": "https://i2.ytimg.com/vi/AqLrc1JWi_o/hqdefault.jpg",
+      "desc": "Ryan Holiday is a bestselling author and one of the most influential modern voices on Stoicism. His 12 books, including The Obstacle Is the Way, Ego Is the Enemy, and Stillness Is the Key, have sold more than 10 million copies worldwide. He's also the founder of Daily Stoic, a media company that rea",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
