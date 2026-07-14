@@ -1,10 +1,48 @@
 {
-  "lastUpdated": "2026-07-13T22:59:28.171Z",
+  "lastUpdated": "2026-07-14T02:53:20.911Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1696,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #776 - BRIAN MOSES + DAVE LANDAU",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/2a611cbd-7c42-4ba4-9b84-fcbba16860ac/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=2a611cbd-7c42-4ba4-9b84-fcbba16860ac&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-07-14T01:00:00.000Z",
+      "duration": "02:11:48",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Dave Landau, Brian Moses, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 06/29/2026\nTHIS EPISODE IS SPONSORED BY: \nQuo: Money is on the line. Always say hello with QUO. Try it for free & get 20% off your first 6 months at https://Quo.com/KI",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Lindsey Graham is Dead &amp; His War is Alive",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/9a783c88-25ab-4c92-b739-4a92e25976a0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/9a783c88-25ab-4c92-b739-4a92e25976a0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-07-14T00:00:00.000Z",
+      "duration": "01:04:55",
+      "image": "https://content.production.cdn.art19.com/images/2f/c1/33/41/2fc13341-5ae8-4a7c-89bb-10a8a4fb5768/6d15cfebd36d8bf7c13dcdca404ccac000ed1f2ca6efb56f4157d24ed7948eefa3eeb12f43b40aa3d74cfe3d2494530b1772f9a03ed4cf8ea7e8ef397d39105c.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Lindsey Graham's death, the conspiracies surrounding it, Mamdani's comment about capitalism and the economy, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEMGoldback - https://www.goldback.com/dave/CrowdHealth - https://www.join",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law &amp; the End of the Billable Hour",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
+      "date": "2026-07-13T22:07:00.000Z",
+      "duration": "51:33",
+      "image": "https://static.libsyn.com/p/assets/f/e/0/e/fe0e7bc7041988a5d959afa2a1bf1c87/1_Pod_France.png",
+      "desc": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs (15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic (31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour (42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models Thanks to our partners for making this possible! Airwallex is a leading global payments and financial pl",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -15,18 +53,6 @@
       "duration": "4461",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Trump says US will take over Strait of Hormuz, Trump launches Freedom Fuel stations, Lindsey Graham dead at 71, Mitch McConnell proof of life. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "#448 - \"Kirk BULLET!\" - Death Investigator BREAKS SILENCE on Charlie Kirk | Joseph Scott Morgan",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3923842154.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3923842154.mp3",
-      "date": "2026-07-13T16:00:00.000Z",
-      "duration": "11699",
-      "image": "https://megaphone.imgix.net/podcasts/ab0f41ac-7ea4-11f1-850f-2b16486c0a35/image/09ce2412c6e783ee363ee107ba27a62c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n1) REMI: Go to https://shopremi.com/JULIAN and use code JULIAN  at checkout for 55% off with Remi Club Subscribe &amp; Save. \n2) MONARCH MONEY: Write your own money story with Monarch. Get 50% off your first year of Monarch Core at https://monarch.com with code JULIAN.\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://dis",
       "guestTags": []
     },
     {
@@ -51,32 +77,6 @@
       "duration": "8919",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Alan Castel, PhD, is a professor of psychology at the University of California, Los Angeles (UCLA) and one of the world's foremost experts on human memory and cognitive aging. We discuss what science actually tells us about how to improve our learning ability and memory at any age. We also discuss how memory works, why all planning and imagination about the future is based on the past, false m",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E280_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts",
-      "date": "2026-07-11T02:12:00.000Z",
-      "duration": "01:42:05",
-      "image": "https://static.libsyn.com/p/assets/a/e/6/f/ae6f7f47771b6c86d959afa2a1bf1c87/1_Pod_E280.png",
-      "desc": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg! (2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence (27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly (54:29) CCP considering putting export controls on Chinese models, is open source ending in China? (1:03:09) Trump Account",
-      "guestTags": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KILL TONY #775 - JOE ROGAN + THAT MEXICAN OT",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/d92f3a16-e433-49e9-939d-8f65ef786b6e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=d92f3a16-e433-49e9-939d-8f65ef786b6e&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-07-07T01:00:00.000Z",
-      "duration": "02:00:12",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Joe Rogan, That Mexican OT, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 06/22/2026\nTHIS EPISODE IS SPONSORED BY: \nZipRecruiter: Try it FOR FREE at http://ZipRecruiter.com/KILLTONY \nPrizePicks: Visit https://prizepicks.onelink.me/LME0/TON",
       "guestTags": []
     },
     {
@@ -118,6 +118,44 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #776 - BRIAN MOSES + DAVE LANDAU",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/2a611cbd-7c42-4ba4-9b84-fcbba16860ac/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=2a611cbd-7c42-4ba4-9b84-fcbba16860ac&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-07-14T01:00:00.000Z",
+      "duration": "02:11:48",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Dave Landau, Brian Moses, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 06/29/2026\nTHIS EPISODE IS SPONSORED BY: \nQuo: Money is on the line. Always say hello with QUO. Try it for free & get 20% off your first 6 months at https://Quo.com/KI",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Lindsey Graham is Dead &amp; His War is Alive",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/9a783c88-25ab-4c92-b739-4a92e25976a0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/9a783c88-25ab-4c92-b739-4a92e25976a0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-07-14T00:00:00.000Z",
+      "duration": "01:04:55",
+      "image": "https://content.production.cdn.art19.com/images/2f/c1/33/41/2fc13341-5ae8-4a7c-89bb-10a8a4fb5768/6d15cfebd36d8bf7c13dcdca404ccac000ed1f2ca6efb56f4157d24ed7948eefa3eeb12f43b40aa3d74cfe3d2494530b1772f9a03ed4cf8ea7e8ef397d39105c.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Lindsey Graham's death, the conspiracies surrounding it, Mamdani's comment about capitalism and the economy, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEMGoldback - https://www.goldback.com/dave/CrowdHealth - https://www.join",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law &amp; the End of the Billable Hour",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
+      "date": "2026-07-13T22:07:00.000Z",
+      "duration": "51:33",
+      "image": "https://static.libsyn.com/p/assets/f/e/0/e/fe0e7bc7041988a5d959afa2a1bf1c87/1_Pod_France.png",
+      "desc": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs (15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic (31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour (42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models Thanks to our partners for making this possible! Airwallex is a leading global payments and financial pl",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "7/13/26: Trump Says US Will Take Over Hormuz, Freedom Fuel Stations, Lindsey Graham Dead",
@@ -127,18 +165,6 @@
       "duration": "4461",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Trump says US will take over Strait of Hormuz, Trump launches Freedom Fuel stations, Lindsey Graham dead at 71, Mitch McConnell proof of life. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "#448 - \"Kirk BULLET!\" - Death Investigator BREAKS SILENCE on Charlie Kirk | Joseph Scott Morgan",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3923842154.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3923842154.mp3",
-      "date": "2026-07-13T16:00:00.000Z",
-      "duration": "11699",
-      "image": "https://megaphone.imgix.net/podcasts/ab0f41ac-7ea4-11f1-850f-2b16486c0a35/image/09ce2412c6e783ee363ee107ba27a62c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n1) REMI: Go to https://shopremi.com/JULIAN and use code JULIAN  at checkout for 55% off with Remi Club Subscribe &amp; Save. \n2) MONARCH MONEY: Write your own money story with Monarch. Get 50% off your first year of Monarch Core at https://monarch.com with code JULIAN.\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://dis",
       "guestTags": []
     },
     {
@@ -163,32 +189,6 @@
       "duration": "8919",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Alan Castel, PhD, is a professor of psychology at the University of California, Los Angeles (UCLA) and one of the world's foremost experts on human memory and cognitive aging. We discuss what science actually tells us about how to improve our learning ability and memory at any age. We also discuss how memory works, why all planning and imagination about the future is based on the past, false m",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E280_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts",
-      "date": "2026-07-11T02:12:00.000Z",
-      "duration": "01:42:05",
-      "image": "https://static.libsyn.com/p/assets/a/e/6/f/ae6f7f47771b6c86d959afa2a1bf1c87/1_Pod_E280.png",
-      "desc": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg! (2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence (27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly (54:29) CCP considering putting export controls on Chinese models, is open source ending in China? (1:03:09) Trump Account",
-      "guestTags": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KILL TONY #775 - JOE ROGAN + THAT MEXICAN OT",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/d92f3a16-e433-49e9-939d-8f65ef786b6e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=d92f3a16-e433-49e9-939d-8f65ef786b6e&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-07-07T01:00:00.000Z",
-      "duration": "02:00:12",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Joe Rogan, That Mexican OT, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 06/22/2026\nTHIS EPISODE IS SPONSORED BY: \nZipRecruiter: Try it FOR FREE at http://ZipRecruiter.com/KILLTONY \nPrizePicks: Visit https://prizepicks.onelink.me/LME0/TON",
       "guestTags": []
     },
     {
@@ -241,8 +241,8 @@
     }
   ],
   "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
   }
 }
