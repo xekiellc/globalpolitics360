@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-14T15:36:37.101Z",
+  "lastUpdated": "2026-07-14T17:19:32.456Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "You Just Hired a Million Bad Employees",
+      "url": "https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops",
+      "date": "2026-07-14T16:33:49.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b5d3f677-adb4-46e5-af51-c649218d6b45_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "CleanSpark Signs $6.6 Billion Data Center Lease as Bitcoin Miner Pivots to Compute",
+      "url": "https://bitcoinmagazine.com/news/cleanspark-signs-6-billion-center-lease",
+      "date": "2026-07-14T16:04:07.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/CleanSpark-Signs-6.6-Billion-Data-Center-Lease-as-Bitcoin-Miner-Pivots-to-Compute.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "UK Adopts &#8216;No Gain, No Loss&#8217; Tax Treatment for Crypto Lending and Liquidity Pools",
       "url": "https://bitcoinmagazine.com/news/uk-adopts-no-gain-no-loss-tax-crypto",
@@ -88,15 +106,6 @@
       "url": "https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval",
       "date": "2026-07-10T16:43:52.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Metaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan",
-      "url": "https://bitcoinmagazine.com/news/metaplanet-announces-joint-study-bitcoin",
-      "date": "2026-07-10T15:14:13.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Metaplanet-Acquires-Siiibo-Securities-in-Push-to-Build-Bitcoin-Financial-Ecosystem.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -331,15 +340,6 @@
       "url": "https://www.a16z.news/p/investing-in-convey",
       "date": "2026-06-17T14:03:26.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/948ac69a-b3af-4ef3-bd1e-0f6151d1c5cf_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Uneven Frontiers",
-      "url": "https://www.a16z.news/p/uneven-frontiers",
-      "date": "2026-06-17T13:59:34.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/086fa80e-de80-41e3-8c5f-dee266308e1a_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"

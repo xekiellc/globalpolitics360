@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-07-14T15:36:45.203Z",
+  "lastUpdated": "2026-07-14T17:19:38.881Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1697,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2525 - Nick Bostrom",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1555016650.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1555016650.mp3",
+      "date": "2026-07-14T17:00:00.000Z",
+      "duration": "8411",
+      "image": "https://megaphone.imgix.net/podcasts/709f4dec-7f16-11f1-ae05-dbca289f806f/image/d2a48ed6017333a6b91a9c56be513ebb.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Nick Bostrom is a philosopher whose work focuses on artificial intelligence, existential risk, and the future of humanity. He is&amp;nbsp;Principal&amp;nbsp;Researcher at the Macrostrategy Research Initiative and the author of several books, the most recent of which is “Deep Utopia: Life and Meaning in a Solved World.”www.simonandschuster.com/books/Deep-Utopia/Nick-Bostrom/9781646871643www.nickbos",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/14/26: Trump Says US Is Hormuz Guardian, Oil Crisis Looms, ICE Shootings In Maine And Texas",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/35adf201-486a-43b9-b6e3-b48700fe6342/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-14-26-trump-says-us-is-hormuz-guardian-oil-crisis-looms-ice-shootings-in-maine-and-texas",
+      "date": "2026-07-14T15:45:49.000Z",
+      "duration": "4859",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump says US will take over Strait of Hormuz, oil crisis looms, more ICE shootings in Maine and Texas. Trita Parsi: https://tritaparsi.substack.com/p/a-new-us-iran-war-would-end-where&nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingp",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -46,18 +70,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/13/26: Trump Says US Will Take Over Hormuz, Freedom Fuel Stations, Lindsey Graham Dead",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4d0694d2-6f64-4740-8ec9-b486010139d5/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-13-26-trump-says-us-will-take-over-hormuz-freedom-fuel-stations-lindsey-graham-dead",
-      "date": "2026-07-13T16:10:29.000Z",
-      "duration": "4461",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Trump says US will take over Strait of Hormuz, Trump launches Freedom Fuel stations, Lindsey Graham dead at 71, Mitch McConnell proof of life. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#321 Ryan Holiday - The Stoic Survival Guide",
@@ -67,18 +79,6 @@
       "duration": "11586",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Ryan Holiday is a bestselling author and one of the most influential modern voices on Stoicism. His 12 books, including The Obstacle Is the Way, Ego Is the Enemy, and Stillness Is the Key, have sold more than 10 million copies worldwide. He's also the founder of Daily Stoic, a media company that reaches millions through books, podcasts, newsletters, and YouTube. In 2025, Ryan completed his four-bo",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How to Improve Your Memory &amp; Cognitive Function at Any Age | Dr. Alan Castel",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5781519002.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel",
-      "date": "2026-07-13T08:00:00.000Z",
-      "duration": "8919",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Alan Castel, PhD, is a professor of psychology at the University of California, Los Angeles (UCLA) and one of the world's foremost experts on human memory and cognitive aging. We discuss what science actually tells us about how to improve our learning ability and memory at any age. We also discuss how memory works, why all planning and imagination about the future is based on the past, false m",
       "guestTags": []
     },
     {
@@ -120,6 +120,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2525 - Nick Bostrom",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1555016650.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1555016650.mp3",
+      "date": "2026-07-14T17:00:00.000Z",
+      "duration": "8411",
+      "image": "https://megaphone.imgix.net/podcasts/709f4dec-7f16-11f1-ae05-dbca289f806f/image/d2a48ed6017333a6b91a9c56be513ebb.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Nick Bostrom is a philosopher whose work focuses on artificial intelligence, existential risk, and the future of humanity. He is&amp;nbsp;Principal&amp;nbsp;Researcher at the Macrostrategy Research Initiative and the author of several books, the most recent of which is “Deep Utopia: Life and Meaning in a Solved World.”www.simonandschuster.com/books/Deep-Utopia/Nick-Bostrom/9781646871643www.nickbos",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/14/26: Trump Says US Is Hormuz Guardian, Oil Crisis Looms, ICE Shootings In Maine And Texas",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/35adf201-486a-43b9-b6e3-b48700fe6342/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-14-26-trump-says-us-is-hormuz-guardian-oil-crisis-looms-ice-shootings-in-maine-and-texas",
+      "date": "2026-07-14T15:45:49.000Z",
+      "duration": "4859",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump says US will take over Strait of Hormuz, oil crisis looms, more ICE shootings in Maine and Texas. Trita Parsi: https://tritaparsi.substack.com/p/a-new-us-iran-war-would-end-where&nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingp",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Lindsey Graham&apos;s Legacy, Charlie Kirk Questions, and J.K. Rowling Hits Back",
@@ -160,18 +184,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/13/26: Trump Says US Will Take Over Hormuz, Freedom Fuel Stations, Lindsey Graham Dead",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4d0694d2-6f64-4740-8ec9-b486010139d5/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-13-26-trump-says-us-will-take-over-hormuz-freedom-fuel-stations-lindsey-graham-dead",
-      "date": "2026-07-13T16:10:29.000Z",
-      "duration": "4461",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Trump says US will take over Strait of Hormuz, Trump launches Freedom Fuel stations, Lindsey Graham dead at 71, Mitch McConnell proof of life. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#321 Ryan Holiday - The Stoic Survival Guide",
@@ -181,18 +193,6 @@
       "duration": "11586",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Ryan Holiday is a bestselling author and one of the most influential modern voices on Stoicism. His 12 books, including The Obstacle Is the Way, Ego Is the Enemy, and Stillness Is the Key, have sold more than 10 million copies worldwide. He's also the founder of Daily Stoic, a media company that reaches millions through books, podcasts, newsletters, and YouTube. In 2025, Ryan completed his four-bo",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How to Improve Your Memory &amp; Cognitive Function at Any Age | Dr. Alan Castel",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5781519002.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel",
-      "date": "2026-07-13T08:00:00.000Z",
-      "duration": "8919",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Alan Castel, PhD, is a professor of psychology at the University of California, Los Angeles (UCLA) and one of the world's foremost experts on human memory and cognitive aging. We discuss what science actually tells us about how to improve our learning ability and memory at any age. We also discuss how memory works, why all planning and imagination about the future is based on the past, false m",
       "guestTags": []
     },
     {
