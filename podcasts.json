@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-07-14T10:03:34.172Z",
+  "lastUpdated": "2026-07-14T13:56:43.087Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1696,
+  "taggedCount": 1697,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Lindsey Graham&apos;s Legacy, Charlie Kirk Questions, and J.K. Rowling Hits Back",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/1fa8418d-93d2-4cc5-b67f-4b46323f3600/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=1fa8418d-93d2-4cc5-b67f-4b46323f3600&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-07-14T11:00:00.000Z",
+      "duration": "01:21:20",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/c43b431c-a6ce-4223-9f08-1d01411295c7/3000x3000/ap_106_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show by reflecting on the sudden death of South Carolina Senator Lindsey Graham. She examines his political legacy, addresses the conspiracy theories surrounding his passing, and explains why she remains skeptical of them. Then Emily breaks down the latest developments in the Charlie Kirk murder case and a new interview in which Vice President JD Vance discusses whether t",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -30,18 +44,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law &amp; the End of the Billable Hour",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
-      "date": "2026-07-13T22:07:00.000Z",
-      "duration": "51:33",
-      "image": "https://static.libsyn.com/p/assets/f/e/0/e/fe0e7bc7041988a5d959afa2a1bf1c87/1_Pod_France.png",
-      "desc": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs (15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic (31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour (42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models Thanks to our partners for making this possible! Airwallex is a leading global payments and financial pl",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -118,6 +120,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Lindsey Graham&apos;s Legacy, Charlie Kirk Questions, and J.K. Rowling Hits Back",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/1fa8418d-93d2-4cc5-b67f-4b46323f3600/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=1fa8418d-93d2-4cc5-b67f-4b46323f3600&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-07-14T11:00:00.000Z",
+      "duration": "01:21:20",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/c43b431c-a6ce-4223-9f08-1d01411295c7/3000x3000/ap_106_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky opens the show by reflecting on the sudden death of South Carolina Senator Lindsey Graham. She examines his political legacy, addresses the conspiracy theories surrounding his passing, and explains why she remains skeptical of them. Then Emily breaks down the latest developments in the Charlie Kirk murder case and a new interview in which Vice President JD Vance discusses whether t",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KILL TONY #776 - BRIAN MOSES + DAVE LANDAU",
@@ -142,18 +158,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law &amp; the End of the Billable Hour",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
-      "date": "2026-07-13T22:07:00.000Z",
-      "duration": "51:33",
-      "image": "https://static.libsyn.com/p/assets/f/e/0/e/fe0e7bc7041988a5d959afa2a1bf1c87/1_Pod_France.png",
-      "desc": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs (15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic (31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour (42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models Thanks to our partners for making this possible! Airwallex is a leading global payments and financial pl",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -241,6 +245,9 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
