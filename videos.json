@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T17:22:13.487Z",
+  "lastUpdated": "2026-07-15T19:19:12.242Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "I3DoOcNqSXA",
-      "show": "TRIGGERnometry",
-      "title": "Alastair Campbell vs. TRIGGERnometry: Grooming Gangs, Immigration and Iraq",
-      "url": "https://www.youtube.com/watch?v=I3DoOcNqSXA",
-      "date": "2026-07-15T16:30:01.000Z",
-      "image": "https://i2.ytimg.com/vi/I3DoOcNqSXA/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigger/ \n\n- MassZymes by BIOptimizers: digestive enzyme formula. \nCLICK https://bioptimizers.com/trigger. Use code TRIGGERNOMTERY ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "KRpnvbMyoNI",
+      "show": "Shawn Ryan Show",
+      "title": "The Most Decorated Military Soldier of World War II",
+      "url": "https://www.youtube.com/watch?v=KRpnvbMyoNI",
+      "date": "2026-07-15T19:00:35.000Z",
+      "image": "https://i4.ytimg.com/vi/KRpnvbMyoNI/hqdefault.jpg",
+      "desc": "Audie Murphy was rejected by the Marines and paratroopers for being too small, but he ultimately joined the U.S. Army and became the most decorated American combat soldier of World War II. In January 1945, near Holtzwihr, France, Murphy climbed onto a burning tank destroyer and single-handedly fough",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "I3DoOcNqSXA",
-      "show": "TRIGGERnometry",
-      "title": "Alastair Campbell vs. TRIGGERnometry: Grooming Gangs, Immigration and Iraq",
-      "url": "https://www.youtube.com/watch?v=I3DoOcNqSXA",
-      "date": "2026-07-15T16:30:01.000Z",
-      "image": "https://i2.ytimg.com/vi/I3DoOcNqSXA/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigger/ \n\n- MassZymes by BIOptimizers: digestive enzyme formula. \nCLICK https://bioptimizers.com/trigger. Use code TRIGGERNOMTERY ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "KRpnvbMyoNI",
+      "show": "Shawn Ryan Show",
+      "title": "The Most Decorated Military Soldier of World War II",
+      "url": "https://www.youtube.com/watch?v=KRpnvbMyoNI",
+      "date": "2026-07-15T19:00:35.000Z",
+      "image": "https://i4.ytimg.com/vi/KRpnvbMyoNI/hqdefault.jpg",
+      "desc": "Audie Murphy was rejected by the Marines and paratroopers for being too small, but he ultimately joined the U.S. Army and became the most decorated American combat soldier of World War II. In January 1945, near Holtzwihr, France, Murphy climbed onto a burning tank destroyer and single-handedly fough",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
