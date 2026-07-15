@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-07-15T06:19:55.544Z",
+  "lastUpdated": "2026-07-15T10:07:50.847Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 30,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "LRNadlqei4w",
+      "show": "The Free Press",
+      "title": "Riley Green | This Past Weekend w/ Theo Von #669",
+      "url": "https://www.youtube.com/watch?v=LRNadlqei4w",
+      "date": "2026-07-15T06:55:21.000Z",
+      "image": "https://i1.ytimg.com/vi/LRNadlqei4w/hqdefault.jpg",
+      "desc": "Riley Green is a country musician and songwriter from Jacksonville, Alabama. His new album “That’s Just Me” is out September 18th and his “Cowboy As It Gets Tour” is happening now. \n\nRiley joins Theo to talk about his new job on The Voice, popular Native American canines, and the perks of living sli",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "14dH4YHN-k0",
-      "show": "Shawn Ryan Show",
-      "title": "Everyone Needs To Hear This Message...",
-      "url": "https://www.youtube.com/watch?v=14dH4YHN-k0",
-      "date": "2026-07-14T22:00:15.000Z",
-      "image": "https://i2.ytimg.com/vi/14dH4YHN-k0/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "videoId": "LRNadlqei4w",
+      "show": "The Free Press",
+      "title": "Riley Green | This Past Weekend w/ Theo Von #669",
+      "url": "https://www.youtube.com/watch?v=LRNadlqei4w",
+      "date": "2026-07-15T06:55:21.000Z",
+      "image": "https://i1.ytimg.com/vi/LRNadlqei4w/hqdefault.jpg",
+      "desc": "Riley Green is a country musician and songwriter from Jacksonville, Alabama. His new album “That’s Just Me” is out September 18th and his “Cowboy As It Gets Tour” is happening now. \n\nRiley joins Theo to talk about his new job on The Voice, popular Native American canines, and the perks of living sli",
       "guestTags": []
     }
   ],
