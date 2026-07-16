@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-07-16T10:15:25.579Z",
+  "lastUpdated": "2026-07-16T14:05:22.044Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Reactors Have a Surprising Amount of Detail",
+      "url": "https://www.a16z.news/p/reactors-have-a-surprising-amount",
+      "date": "2026-07-16T14:01:49.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e9442bc8-729e-4a9e-9467-cd512053d954_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Senate Unanimously Votes That Sam Bankman-Fried Should Never Get a Pardon",
+      "url": "https://bitcoinmagazine.com/news/senate-unanumously-bankman-fried",
+      "date": "2026-07-16T13:48:11.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Sam-Bankman-Fried-Loses-Appeal-to-Overturn-FTX-Fraud-Conviction.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Senra Systems: Harnessing Human Skill",
+      "url": "https://www.notboring.co/p/senra-systems-harnessing-human-skill",
+      "date": "2026-07-16T12:53:19.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!07jy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5b899af-1d05-4c5a-8afe-cae9bb911f20_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin to $40,000? If History&#8217;s Anything to Go By, It&#8217;s Possible, Says Report",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report",
@@ -100,15 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "CleanSpark Signs $6.6 Billion Data Center Lease as Bitcoin Miner Pivots to Compute",
-      "url": "https://bitcoinmagazine.com/news/cleanspark-signs-6-billion-center-lease",
-      "date": "2026-07-14T16:04:07.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/CleanSpark-Signs-6.6-Billion-Data-Center-Lease-as-Bitcoin-Miner-Pivots-to-Compute.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "The Most Human Technology Ever Made",
@@ -336,15 +354,6 @@
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     },
     {
-      "title": "Investing in Telepatia",
-      "url": "https://www.a16z.news/p/investing-in-telepatia",
-      "date": "2026-06-17T18:04:41.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!zmQu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c9faee1-a82e-472c-82c4-8a2bd0ac0ac4_1200x630.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #197",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-197",
       "date": "2026-06-12T12:58:11.000Z",
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "The Case for Private Permitting",
-      "url": "https://blog.joelonsdale.com/p/the-case-for-private-permitting",
-      "date": "2026-06-10T23:01:50.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!nlk7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f220f44-f205-4bbd-a041-db569d1e595c_935x491.png",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
