@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-07-16T14:05:28.350Z",
+  "lastUpdated": "2026-07-16T17:24:06.393Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1700,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2527 - Mr. Beast",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2845814639.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2845814639.mp3",
+      "date": "2026-07-16T17:00:00.000Z",
+      "duration": "10453",
+      "image": "https://megaphone.imgix.net/podcasts/72615f9a-80aa-11f1-adca-2f13d8da1330/image/d25ba980d43340c2b6683d805140c13f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jimmy Donaldson, better known as MrBeast, is a YouTuber, entrepreneur, and philanthropist. He is the founder of Beast Industries and Beast Philanthropy, and the creator and host of the Prime Video competition series “Beast Games.”www.beastgames.comwww.beastphilanthropy.orgwww.youtube.com/@MrBeast\n\n\n\n\n\n\n\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/16/26: Trump Eyes Ground Invasion, Minab Strike Coverup, Massie &amp; Ro On Epstein Act 2, Dems Push Israel Cuts",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/5e53458e-5f55-4864-9661-b48900faecd7/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-16-26-trump-eyes-ground-invasion-minab-strike-coverup-massie-ro-on-epstein-act-2-dems-push-israel-cuts",
+      "date": "2026-07-16T15:40:39.000Z",
+      "duration": "4174",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump eyes ground invasion in Iran, Trump covers up strike on school, Ro Khanna and Massie on Epstein Act 2, majority of Dems vote to cut Israel funding. &nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -32,18 +56,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science &amp; Treatment of Bipolar Disorder",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8821948371.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-bipolar-disorder",
-      "date": "2026-07-16T08:00:00.000Z",
-      "duration": "2100",
-      "image": "https://megaphone.imgix.net/podcasts/e614eff6-80d7-11f1-a215-df69293e9c50/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I explain the biology, symptoms and types of bipolar disorder (sometimes called bipolar depression), a condition characterized by extreme, maladaptive shifts in energy, mood and perception. I describe the diagnostic criteria that distinguish bipolar I from bipolar II, including mania and hypomania and the different patterns of mood cycling. I discuss the re",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "The Populist Moment",
@@ -56,18 +68,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/15/26: NY Ban On Data Centers, Scahill Vs Ro On Oct 7, Michigan Elections",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/2777e78c-03fb-4586-bb3c-b48801026703/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-15-26-ny-ban-on-data-centers-scahill-vs-ro-on-oct-7-michigan-elections",
-      "date": "2026-07-15T16:12:56.000Z",
-      "duration": "3365",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss NY ban on data centers, Scahill rips Ro on Oct 7, Michigan elections light up. Robert Pape:&nbsp;https://escalationtrap.substack.com/ Juan David Rojas: https://substack.com/@rojasrjuand Donovan&nbsp; McKinney: https://www.donavanforcongress.com/ To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.c",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -120,6 +120,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2527 - Mr. Beast",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2845814639.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2845814639.mp3",
+      "date": "2026-07-16T17:00:00.000Z",
+      "duration": "10453",
+      "image": "https://megaphone.imgix.net/podcasts/72615f9a-80aa-11f1-adca-2f13d8da1330/image/d25ba980d43340c2b6683d805140c13f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jimmy Donaldson, better known as MrBeast, is a YouTuber, entrepreneur, and philanthropist. He is the founder of Beast Industries and Beast Philanthropy, and the creator and host of the Prime Video competition series “Beast Games.”www.beastgames.comwww.beastphilanthropy.orgwww.youtube.com/@MrBeast\n\n\n\n\n\n\n\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/16/26: Trump Eyes Ground Invasion, Minab Strike Coverup, Massie &amp; Ro On Epstein Act 2, Dems Push Israel Cuts",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/5e53458e-5f55-4864-9661-b48900faecd7/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-16-26-trump-eyes-ground-invasion-minab-strike-coverup-massie-ro-on-epstein-act-2-dems-push-israel-cuts",
+      "date": "2026-07-16T15:40:39.000Z",
+      "duration": "4174",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump eyes ground invasion in Iran, Trump covers up strike on school, Ro Khanna and Massie on Epstein Act 2, majority of Dems vote to cut Israel funding. &nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "The &quot;Super Sus&quot; Pratt Loss, Jack Smith’s BIG Problem, and the Biden Grift, with Tom Bevan",
@@ -146,18 +170,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: The Science &amp; Treatment of Bipolar Disorder",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8821948371.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-bipolar-disorder",
-      "date": "2026-07-16T08:00:00.000Z",
-      "duration": "2100",
-      "image": "https://megaphone.imgix.net/podcasts/e614eff6-80d7-11f1-a215-df69293e9c50/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I explain the biology, symptoms and types of bipolar disorder (sometimes called bipolar depression), a condition characterized by extreme, maladaptive shifts in energy, mood and perception. I describe the diagnostic criteria that distinguish bipolar I from bipolar II, including mania and hypomania and the different patterns of mood cycling. I discuss the re",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "The Populist Moment",
@@ -170,18 +182,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/15/26: NY Ban On Data Centers, Scahill Vs Ro On Oct 7, Michigan Elections",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/2777e78c-03fb-4586-bb3c-b48801026703/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-15-26-ny-ban-on-data-centers-scahill-vs-ro-on-oct-7-michigan-elections",
-      "date": "2026-07-15T16:12:56.000Z",
-      "duration": "3365",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss NY ban on data centers, Scahill rips Ro on Oct 7, Michigan elections light up. Robert Pape:&nbsp;https://escalationtrap.substack.com/ Juan David Rojas: https://substack.com/@rojasrjuand Donovan&nbsp; McKinney: https://www.donavanforcongress.com/ To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.c",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",

@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-07-16T14:05:22.044Z",
+  "lastUpdated": "2026-07-16T17:24:00.330Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-vcs-launch-holding-company",
+      "date": "2026-07-16T16:56:07.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-VC-Veterans-Launch-40-Million-Holding-Company-Targeting-Small-Business-Acquisitions.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Breez Partners With Turnkey to Bring Non-Custodial Bitcoin to Backend-Run Apps",
+      "url": "https://bitcoinmagazine.com/news/breez-partners-with-turnkey-non",
+      "date": "2026-07-16T15:32:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Breez-Partners-With-Turnkey-to-Bring-Non-Custodial-Bitcoin-to-Backend-Run-Apps.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Investing in Runta",
+      "url": "https://www.a16z.news/p/investing-in-runta",
+      "date": "2026-07-16T15:15:25.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/efc1ff4a-94a3-4592-b284-9e7bee71f6c5_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Cloudflare x402 Integration Opens Door for Bitcoin in AI Agent Micropayments",
+      "url": "https://bitcoinmagazine.com/business/cloudflare-x402-integration-opens-door-for-bitcoin-in-ai-agent-micropayments",
+      "date": "2026-07-16T14:42:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn-4.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Reactors Have a Surprising Amount of Detail",
       "url": "https://www.a16z.news/p/reactors-have-a-surprising-amount",
@@ -88,33 +124,6 @@
       "url": "https://bitcoinmagazine.com/news/japan-reclassifies-bitcoin-and-crypto",
       "date": "2026-07-15T13:04:55.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Japan-Reclassifies-Bitcoin-And-Crypto-As-Financial-Assets-In-Landmark-Vote.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Keel Infrastructure to Consolidate Three Bitcoin Sites Into One AI Campus",
-      "url": "https://bitcoinmagazine.com/news/keel-infrastructure-to-consolidate",
-      "date": "2026-07-15T12:48:09.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Keel-Infrastructure-to-Consolidate-Three-Bitcoin-Sites-Into-One-AI-Campus.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "China&#8217;s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering",
-      "url": "https://bitcoinmagazine.com/news/chinas-prosecutors-treat-crypto-mixers",
-      "date": "2026-07-14T19:47:38.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Chinas-Prosecutors-Move-to-Treat-Crypto-Mixers-as-Evidence-of-Money-Laundering.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "The Bitcoin Softfork That Tried to Police “Junk Data” — And Why It’s Already Failing",
-      "url": "https://bitcoinmagazine.com/technical/the-bitcoin-softfork-that-tried-to-police-junk-data-and-why-its-already-failing",
-      "date": "2026-07-14T17:47:31.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn-3.webp",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -331,15 +340,6 @@
       "url": "https://www.a16z.news/p/new-media-one-year-in",
       "date": "2026-06-18T14:10:22.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/ff5939a1-2b02-4075-b4ff-5e052b77de00_5688x3200.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Introducing the a16z Talent Engineer Fellowship",
-      "url": "https://www.a16z.news/p/introducing-the-a16z-talent-engineer",
-      "date": "2026-06-18T13:55:30.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!KGJi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F830e1968-aa7c-4712-8242-aaacefd01279_5688x3200.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
