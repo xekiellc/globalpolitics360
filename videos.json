@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-07-16T03:13:02.332Z",
+  "lastUpdated": "2026-07-16T06:23:31.234Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 30,
+  "taggedCount": 15,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "2-DNAY6Ecl4",
-      "show": "Theo Von",
-      "title": "&quot;He was in a prison on the moon!&quot;",
-      "url": "https://www.youtube.com/watch?v=2-DNAY6Ecl4",
-      "date": "2026-07-16T01:00:15.000Z",
-      "image": "https://i3.ytimg.com/vi/2-DNAY6Ecl4/hqdefault.jpg",
-      "desc": "#shorts #theovon #duncantrussell",
+      "videoId": "FncQhrEnTEU",
+      "show": "Huberman Lab",
+      "title": "Errors Are Necessary for Learning",
+      "url": "https://www.youtube.com/watch?v=FncQhrEnTEU",
+      "date": "2026-07-15T23:38:22.000Z",
+      "image": "https://i3.ytimg.com/vi/FncQhrEnTEU/hqdefault.jpg",
+      "desc": "My guest on the Huberman Lab podcast out now is Dr. Alan Castel, PhD, professor of psychology at the University of California, Los Angeles (UCLA) and one of the world's foremost experts on human memory and cognitive aging.\n\nWe discuss what science actually tells us about how to improve our learning ",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "2-DNAY6Ecl4",
-      "show": "Theo Von",
-      "title": "&quot;He was in a prison on the moon!&quot;",
-      "url": "https://www.youtube.com/watch?v=2-DNAY6Ecl4",
-      "date": "2026-07-16T01:00:15.000Z",
-      "image": "https://i3.ytimg.com/vi/2-DNAY6Ecl4/hqdefault.jpg",
-      "desc": "#shorts #theovon #duncantrussell",
+      "videoId": "FncQhrEnTEU",
+      "show": "Huberman Lab",
+      "title": "Errors Are Necessary for Learning",
+      "url": "https://www.youtube.com/watch?v=FncQhrEnTEU",
+      "date": "2026-07-15T23:38:22.000Z",
+      "image": "https://i3.ytimg.com/vi/FncQhrEnTEU/hqdefault.jpg",
+      "desc": "My guest on the Huberman Lab podcast out now is Dr. Alan Castel, PhD, professor of psychology at the University of California, Los Angeles (UCLA) and one of the world's foremost experts on human memory and cognitive aging.\n\nWe discuss what science actually tells us about how to improve our learning ",
       "guestTags": []
     }
   ],
