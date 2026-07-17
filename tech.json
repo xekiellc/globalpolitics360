@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-17T10:03:14.293Z",
+  "lastUpdated": "2026-07-17T13:49:25.522Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump&#8217;s China Charge, but Onchain Data Points to Buyers",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-63000",
+      "date": "2026-07-17T13:34:44.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Price-Falls-Under-63000-on-U.S.-Iran-Strikes-and-Trumps-China-Charge-but-Onchain-Data-Points-to-Buyers.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #202",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-202",
+      "date": "2026-07-17T11:43:07.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!aZgr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0387a0e-c952-451f-9b71-1c3a047735be_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation",
       "url": "https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel",
@@ -106,15 +124,6 @@
       "url": "https://bitcoinmagazine.com/news/president-trump-to-meet-senators",
       "date": "2026-07-15T17:47:38.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/President-Donald-Trump-Discloses-More-Than-50-Million-in-Bitcoin-Held-in-Cold-Storage.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Traders Took $8.2 Million From Polymarket&#8217;s Five-Minute Bitcoin Bets, Study Found",
-      "url": "https://bitcoinmagazine.com/news/traders-took-8-2-million-from-polymarkets",
-      "date": "2026-07-15T17:33:41.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Traders-Took-8.2-Million-From-Polymarkets-Five-Minute-Bitcoin-Bets-Study-Found.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Weekly Dose of Optimism #197",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-197",
-      "date": "2026-06-12T12:58:11.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!msxA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679c1eec-b221-4994-a62f-a46669425e87_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
