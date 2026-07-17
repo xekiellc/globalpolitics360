@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-17T13:49:25.522Z",
+  "lastUpdated": "2026-07-17T15:17:58.733Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Charts of the Week: Software’s Selective Sell-Off",
+      "url": "https://www.a16z.news/p/charts-of-the-week-softwares-selective",
+      "date": "2026-07-17T14:03:49.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/da423ae7-6c29-4979-ab4c-56945b1559f2_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump&#8217;s China Charge, but Onchain Data Points to Buyers",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-63000",
@@ -343,15 +352,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "New Media, One Year In",
-      "url": "https://www.a16z.news/p/new-media-one-year-in",
-      "date": "2026-06-18T14:10:22.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ff5939a1-2b02-4075-b4ff-5e052b77de00_5688x3200.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Dear New Philanthropists",

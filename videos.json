@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T13:49:32.342Z",
+  "lastUpdated": "2026-07-17T15:18:08.716Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3S9ZDdI5BRM",
-      "show": "TRIGGERnometry",
-      "title": "Alastair Campbell on Racial Integration and the French World Cup Team",
-      "url": "https://www.youtube.com/watch?v=3S9ZDdI5BRM",
-      "date": "2026-07-17T12:14:38.000Z",
-      "image": "https://i4.ytimg.com/vi/3S9ZDdI5BRM/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "LXUCaw_67U8",
+      "show": "Theo Von",
+      "title": "Cristina Mariani checks Theo",
+      "url": "https://www.youtube.com/watch?v=LXUCaw_67U8",
+      "date": "2026-07-17T14:15:32.000Z",
+      "image": "https://i1.ytimg.com/vi/LXUCaw_67U8/hqdefault.jpg",
+      "desc": "#shorts #theovon #cristinamariani",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3S9ZDdI5BRM",
-      "show": "TRIGGERnometry",
-      "title": "Alastair Campbell on Racial Integration and the French World Cup Team",
-      "url": "https://www.youtube.com/watch?v=3S9ZDdI5BRM",
-      "date": "2026-07-17T12:14:38.000Z",
-      "image": "https://i4.ytimg.com/vi/3S9ZDdI5BRM/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "LXUCaw_67U8",
+      "show": "Theo Von",
+      "title": "Cristina Mariani checks Theo",
+      "url": "https://www.youtube.com/watch?v=LXUCaw_67U8",
+      "date": "2026-07-17T14:15:32.000Z",
+      "image": "https://i1.ytimg.com/vi/LXUCaw_67U8/hqdefault.jpg",
+      "desc": "#shorts #theovon #cristinamariani",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
