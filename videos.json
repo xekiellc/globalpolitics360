@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T14:59:12.760Z",
+  "lastUpdated": "2026-07-18T17:02:11.919Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,26 +7,26 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "dVWEKDCsI7U",
-      "show": "Theo Von",
-      "title": "Theo breaks Stavros",
-      "url": "https://www.youtube.com/watch?v=dVWEKDCsI7U",
-      "date": "2026-07-18T14:15:40.000Z",
-      "image": "https://i1.ytimg.com/vi/dVWEKDCsI7U/hqdefault.jpg",
-      "desc": "#shorts #theovon #stavroshalkias",
+      "videoId": "4N52UfzhZ54",
+      "show": "Jordan Peterson",
+      "title": "On Demonizing Anger",
+      "url": "https://www.youtube.com/watch?v=4N52UfzhZ54",
+      "date": "2026-07-18T16:00:28.000Z",
+      "image": "https://i1.ytimg.com/vi/4N52UfzhZ54/hqdefault.jpg",
+      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available at @PetersonAcademy",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "dVWEKDCsI7U",
-      "show": "Theo Von",
-      "title": "Theo breaks Stavros",
-      "url": "https://www.youtube.com/watch?v=dVWEKDCsI7U",
-      "date": "2026-07-18T14:15:40.000Z",
-      "image": "https://i1.ytimg.com/vi/dVWEKDCsI7U/hqdefault.jpg",
-      "desc": "#shorts #theovon #stavroshalkias",
+      "videoId": "4N52UfzhZ54",
+      "show": "Jordan Peterson",
+      "title": "On Demonizing Anger",
+      "url": "https://www.youtube.com/watch?v=4N52UfzhZ54",
+      "date": "2026-07-18T16:00:28.000Z",
+      "image": "https://i1.ytimg.com/vi/4N52UfzhZ54/hqdefault.jpg",
+      "desc": "Excerpt from Dr. Jordan B. Peterson’s new course, Nietzsche: Further Down the Rabbit Hole, available at @PetersonAcademy",
       "guestTags": []
     }
   ],
