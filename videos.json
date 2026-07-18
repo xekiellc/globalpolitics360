@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-07-17T22:53:58.464Z",
+  "lastUpdated": "2026-07-18T02:53:13.605Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 32,
+  "taggedCount": 31,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "lISkYXXfwOI",
-      "show": "Shawn Ryan Show",
-      "title": "How PG&amp;E Nearly Got Away With Poisoning a Town",
-      "url": "https://www.youtube.com/watch?v=lISkYXXfwOI",
-      "date": "2026-07-17T22:00:32.000Z",
-      "image": "https://i1.ytimg.com/vi/lISkYXXfwOI/hqdefault.jpg",
-      "desc": "Erin Brockovich joins Shawn Ryan to break down one of the biggest accountability questions in America: how do powerful corporations and families cause massive damage, make billions, and still avoid prison?\n\nFrom poisoned water to the opioid crisis, Erin explains why the people responsible are often ",
+      "videoId": "9IMwRIei-Xc",
+      "show": "All-In Podcast",
+      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+      "url": "https://www.youtube.com/watch?v=9IMwRIei-Xc",
+      "date": "2026-07-18T00:54:40.000Z",
+      "image": "https://i2.ytimg.com/vi/9IMwRIei-Xc/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros!\n(1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body\n(20:01) Stripe, Block, and Advent offer $53B to acquire PayPal\n(37:51) Apple sues OpenAI, alleging stolen trade secrets\n(42:49) Grok Build data leak, AI data privacy, Tokenmaxxing update, Mira",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "lISkYXXfwOI",
-      "show": "Shawn Ryan Show",
-      "title": "How PG&amp;E Nearly Got Away With Poisoning a Town",
-      "url": "https://www.youtube.com/watch?v=lISkYXXfwOI",
-      "date": "2026-07-17T22:00:32.000Z",
-      "image": "https://i1.ytimg.com/vi/lISkYXXfwOI/hqdefault.jpg",
-      "desc": "Erin Brockovich joins Shawn Ryan to break down one of the biggest accountability questions in America: how do powerful corporations and families cause massive damage, make billions, and still avoid prison?\n\nFrom poisoned water to the opioid crisis, Erin explains why the people responsible are often ",
+      "videoId": "9IMwRIei-Xc",
+      "show": "All-In Podcast",
+      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+      "url": "https://www.youtube.com/watch?v=9IMwRIei-Xc",
+      "date": "2026-07-18T00:54:40.000Z",
+      "image": "https://i2.ytimg.com/vi/9IMwRIei-Xc/hqdefault.jpg",
+      "desc": "(0:00) Bestie intros!\n(1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body\n(20:01) Stripe, Block, and Advent offer $53B to acquire PayPal\n(37:51) Apple sues OpenAI, alleging stolen trade secrets\n(42:49) Grok Build data leak, AI data privacy, Tokenmaxxing update, Mira",
       "guestTags": []
     }
   ],

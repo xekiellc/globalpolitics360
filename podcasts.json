@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T22:53:57.615Z",
+  "lastUpdated": "2026-07-18T02:53:12.649Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
@@ -7,17 +7,15 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: Christianity Without Christ?, JFK Conspiracies, and America’s Aging Leadership: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/2f4f6e9d-802b-40e9-bafd-f25c4bc981ff/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=2f4f6e9d-802b-40e9-bafd-f25c4bc981ff&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-07-17T20:00:00.000Z",
-      "duration": "01:08:04",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky opens with reflections on her recent trip back to Wisconsin to celebrate her late grandfather’s life. She also shares stories about the state’s famous supper clubs, accents, and thoughts about the disappearing quirks of regional American culture. Emily then dives into a wide-ranging discussion about Christianity, whether it’s possible to sepa",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
+      "show": "All-In Podcast",
+      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E281_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
+      "date": "2026-07-18T00:36:00.000Z",
+      "duration": "01:29:55",
+      "image": "https://static.libsyn.com/p/assets/1/d/b/4/1db440afa8f397edd959afa2a1bf1c87/1_Pod_E281.png",
+      "desc": "(0:00) Bestie intros! (1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body (20:01) Stripe, Block, and Advent offer $53B to acquire PayPal (37:51) Apple sues OpenAI, alleging stolen trade secrets (42:49) Grok Build data leak, AI data privacy, Tokenmaxxing update, Mira Murati's new model (59:53) NY bans datacenters, becoming first state to enact a moratorium (1:22:57",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -119,17 +117,15 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: Christianity Without Christ?, JFK Conspiracies, and America’s Aging Leadership: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/2f4f6e9d-802b-40e9-bafd-f25c4bc981ff/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=2f4f6e9d-802b-40e9-bafd-f25c4bc981ff&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-07-17T20:00:00.000Z",
-      "duration": "01:08:04",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky opens with reflections on her recent trip back to Wisconsin to celebrate her late grandfather’s life. She also shares stories about the state’s famous supper clubs, accents, and thoughts about the disappearing quirks of regional American culture. Emily then dives into a wide-ranging discussion about Christianity, whether it’s possible to sepa",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
+      "show": "All-In Podcast",
+      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E281_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
+      "date": "2026-07-18T00:36:00.000Z",
+      "duration": "01:29:55",
+      "image": "https://static.libsyn.com/p/assets/1/d/b/4/1db440afa8f397edd959afa2a1bf1c87/1_Pod_E281.png",
+      "desc": "(0:00) Bestie intros! (1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body (20:01) Stripe, Block, and Advent offer $53B to acquire PayPal (37:51) Apple sues OpenAI, alleging stolen trade secrets (42:49) Grok Build data leak, AI data privacy, Tokenmaxxing update, Mira Murati's new model (59:53) NY bans datacenters, becoming first state to enact a moratorium (1:22:57",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -240,9 +236,5 @@
       "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ]
-  }
+  "guestIndex": {}
 }
