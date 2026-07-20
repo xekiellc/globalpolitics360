@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-07-20T11:06:08.929Z",
+  "lastUpdated": "2026-07-20T14:19:13.834Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "The 7 Hires a Hardware Startup Needs to Get Right",
+      "url": "https://www.a16z.news/p/the-7-hires-a-hardware-startup-needs",
+      "date": "2026-07-20T14:03:47.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ac1e6f-0273-4cdf-b52d-5538dcb6e347_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Neo",
+      "url": "https://www.a16z.news/p/investing-in-neo",
+      "date": "2026-07-20T13:31:08.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!JJym!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5c203f1-5acf-472c-b3e6-502a4766ae21_1200x630.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Connor Love",
+      "url": "https://www.a16z.news/p/connor-love",
+      "date": "2026-07-20T13:01:37.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7be341a8-7894-41d8-a7e5-6da5938f5292_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion",
+      "url": "https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr",
+      "date": "2026-07-20T12:29:51.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Bitcoin Sentiment Is Turning Bullish — But It&#8217;s Too Early to Celebrate: Report",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares",
@@ -97,15 +133,6 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-vcs-launch-holding-company",
       "date": "2026-07-16T16:56:07.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-VC-Veterans-Launch-40-Million-Holding-Company-Targeting-Small-Business-Acquisitions.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Breez Partners With Turnkey to Bring Non-Custodial Bitcoin to Backend-Run Apps",
-      "url": "https://bitcoinmagazine.com/news/breez-partners-with-turnkey-non",
-      "date": "2026-07-16T15:32:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Breez-Partners-With-Turnkey-to-Bring-Non-Custodial-Bitcoin-to-Backend-Run-Apps.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -304,33 +331,6 @@
       "url": "https://www.a16z.news/p/impeccable-by-design",
       "date": "2026-06-22T17:36:06.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/7ffd5abe-b284-46e3-9e99-6eedc8ec6714_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "How to Win a Space War",
-      "url": "https://www.a16z.news/p/how-to-win-a-space-war",
-      "date": "2026-06-22T14:02:59.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f77c2ce4-62e1-4d29-8d7d-64468b40cc16_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Prosper AI",
-      "url": "https://www.a16z.news/p/investing-in-prosper-ai",
-      "date": "2026-06-22T13:01:17.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12a08d2c-8885-4c23-ba36-b2a74f4363be_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Meet the second cohort of a16z New Media Fellows",
-      "url": "https://www.a16z.news/p/meet-the-second-cohort-of-a16z-new",
-      "date": "2026-06-19T13:55:22.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ee8d3b03-fd20-4ed8-93aa-ffe5061efa83_5688x3200.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
