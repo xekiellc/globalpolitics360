@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-07-21T17:26:18.376Z",
+  "lastUpdated": "2026-07-21T19:38:37.273Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1705,
+  "taggedCount": 1706,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "Reaction to Alastair Campbell, Nigel Farage and Andy Burnham as PM",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7949518510.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7949518510.mp3",
+      "date": "2026-07-21T18:00:00.000Z",
+      "duration": "3092",
+      "image": "https://megaphone.imgix.net/podcasts/c3d731f8-8521-11f1-984f-ef05d4576986/image/0ae8a7a7895aa6727190544b5d52f763.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Don’t sleep on Ultra Pouches. New customers get 15% Off with code TRIG at takeultra.com! #UltraPouches #ad\n\nJoin our exclusive",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -68,18 +82,6 @@
       "guestTags": [
         "Julian Dorey"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#323 Annie Jacobsen - Is America Ready for Biological War?",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7888515601.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7888515601.mp3",
-      "date": "2026-07-20T10:00:00.000Z",
-      "duration": "8689",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and bestselling author known for her in-depth reporting on national security, intelligence, military history, and classified government programs. She is the author of several acclaimed books, including Nuclear War: A Scenario, Area 51, Operation Paperclip, The Pentagon's Brain, and Surprise, Kill, Vanish. Drawing on extensive i",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -120,6 +122,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "Reaction to Alastair Campbell, Nigel Farage and Andy Burnham as PM",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7949518510.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7949518510.mp3",
+      "date": "2026-07-21T18:00:00.000Z",
+      "duration": "3092",
+      "image": "https://megaphone.imgix.net/podcasts/c3d731f8-8521-11f1-984f-ef05d4576986/image/0ae8a7a7895aa6727190544b5d52f763.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Don’t sleep on Ultra Pouches. New customers get 15% Off with code TRIG at takeultra.com! #UltraPouches #ad\n\nJoin our exclusive",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2528 - Cassie Coppersmith",
@@ -182,18 +198,6 @@
       "guestTags": [
         "Julian Dorey"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#323 Annie Jacobsen - Is America Ready for Biological War?",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7888515601.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7888515601.mp3",
-      "date": "2026-07-20T10:00:00.000Z",
-      "duration": "8689",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and bestselling author known for her in-depth reporting on national security, intelligence, military history, and classified government programs. She is the author of several acclaimed books, including Nuclear War: A Scenario, Area 51, Operation Paperclip, The Pentagon's Brain, and Surprise, Kill, Vanish. Drawing on extensive i",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -245,6 +249,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
