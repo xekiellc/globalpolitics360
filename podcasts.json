@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-07-20T23:04:10.659Z",
+  "lastUpdated": "2026-07-21T03:18:41.550Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1704,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #777",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/8cbcdac1-3f38-4328-a575-d0ce57341af4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=8cbcdac1-3f38-4328-a575-d0ce57341af4&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-07-21T01:00:00.000Z",
+      "duration": "02:06:00",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Myles Johnson, Fuzzy Khilji, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/06/2026\nThis episode is brought to you by:\nTecovas: Step into premium comfort this summer with handcrafted boots from Tecovas—get 10% off your pair right now by ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -65,18 +77,6 @@
       "duration": "01:29:55",
       "image": "https://static.libsyn.com/p/assets/1/d/b/4/1db440afa8f397edd959afa2a1bf1c87/1_Pod_E281.png",
       "desc": "(0:00) Bestie intros! (1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body (20:01) Stripe, Block, and Advent offer $53B to acquire PayPal (37:51) Apple sues OpenAI, alleging stolen trade secrets (42:49) Grok Build data leak, AI data privacy, Tokenmaxxing update, Mira Murati's new model (59:53) NY bans datacenters, becoming first state to enact a moratorium (1:22:57",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KILL TONY #776 - BRIAN MOSES + DAVE LANDAU",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/2a611cbd-7c42-4ba4-9b84-fcbba16860ac/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=2a611cbd-7c42-4ba4-9b84-fcbba16860ac&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-07-14T01:00:00.000Z",
-      "duration": "02:11:48",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Dave Landau, Brian Moses, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 06/29/2026\nTHIS EPISODE IS SPONSORED BY: \nQuo: Money is on the line. Always say hello with QUO. Try it for free & get 20% off your first 6 months at https://Quo.com/KI",
       "guestTags": []
     },
     {
@@ -118,6 +118,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #777",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/8cbcdac1-3f38-4328-a575-d0ce57341af4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=8cbcdac1-3f38-4328-a575-d0ce57341af4&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-07-21T01:00:00.000Z",
+      "duration": "02:06:00",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Myles Johnson, Fuzzy Khilji, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/06/2026\nThis episode is brought to you by:\nTecovas: Step into premium comfort this summer with handcrafted boots from Tecovas—get 10% off your pair right now by ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "#452 - “Shocking COVERUP!” - Joe Kent UNLOADS on Iran, Butler, Charlie Kirk &amp; Epstein",
@@ -177,18 +189,6 @@
       "duration": "01:29:55",
       "image": "https://static.libsyn.com/p/assets/1/d/b/4/1db440afa8f397edd959afa2a1bf1c87/1_Pod_E281.png",
       "desc": "(0:00) Bestie intros! (1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body (20:01) Stripe, Block, and Advent offer $53B to acquire PayPal (37:51) Apple sues OpenAI, alleging stolen trade secrets (42:49) Grok Build data leak, AI data privacy, Tokenmaxxing update, Mira Murati's new model (59:53) NY bans datacenters, becoming first state to enact a moratorium (1:22:57",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KILL TONY #776 - BRIAN MOSES + DAVE LANDAU",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/2a611cbd-7c42-4ba4-9b84-fcbba16860ac/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=2a611cbd-7c42-4ba4-9b84-fcbba16860ac&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-07-14T01:00:00.000Z",
-      "duration": "02:11:48",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Dave Landau, Brian Moses, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 06/29/2026\nTHIS EPISODE IS SPONSORED BY: \nQuo: Money is on the line. Always say hello with QUO. Try it for free & get 20% off your first 6 months at https://Quo.com/KI",
       "guestTags": []
     },
     {
