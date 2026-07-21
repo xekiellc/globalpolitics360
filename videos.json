@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-07-21T06:34:11.402Z",
+  "lastUpdated": "2026-07-21T10:28:50.189Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 31,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "ZdN1tvVoq-Y",
+      "show": "Theo Von",
+      "title": "How Locals Are Defeating Data Centers",
+      "url": "https://www.youtube.com/watch?v=ZdN1tvVoq-Y",
+      "date": "2026-07-21T02:00:16.000Z",
+      "image": "https://i3.ytimg.com/vi/ZdN1tvVoq-Y/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #670 | Erin Brockovich\nFull Episode: https://youtu.be/iswPzD4blZk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwit",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ph99woFVPMA",
-      "show": "Shawn Ryan Show",
-      "title": "Russia Wanted to Destroy America with a Bioweapon 😳",
-      "url": "https://www.youtube.com/watch?v=ph99woFVPMA",
-      "date": "2026-07-20T22:00:18.000Z",
-      "image": "https://i1.ytimg.com/vi/ph99woFVPMA/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "videoId": "ZdN1tvVoq-Y",
+      "show": "Theo Von",
+      "title": "How Locals Are Defeating Data Centers",
+      "url": "https://www.youtube.com/watch?v=ZdN1tvVoq-Y",
+      "date": "2026-07-21T02:00:16.000Z",
+      "image": "https://i3.ytimg.com/vi/ZdN1tvVoq-Y/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #670 | Erin Brockovich\nFull Episode: https://youtu.be/iswPzD4blZk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwit",
       "guestTags": []
     }
   ],
