@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-07-21T14:05:22.461Z",
+  "lastUpdated": "2026-07-21T17:26:18.376Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1705,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2528 - Cassie Coppersmith",
+      "audioUrl": "https://traffic.megaphone.fm/GLT3078553075.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT3078553075.mp3",
+      "date": "2026-07-21T17:00:00.000Z",
+      "duration": "9573",
+      "image": "https://megaphone.imgix.net/podcasts/8aaa3e0c-8495-11f1-8af9-63001aaad13a/image/5c2ee211add2fe66eb5240dbb1f79a0d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Cassie Coppersmith is an independent researcher studying ancient civilizations and archaeological mysteries, and&amp;nbsp;host of the “Secrets in Stone” podcast.www.youtube.com/@CassieCoppersmith\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet 30% off + 2 free gifts at https://ARMRA.com/rogan\nLearn more about your ad choices. Visit podcastchoices.com/adc",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/21/26: Krystal HEATED Debate w Top Dem On Israel, DSA",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/d4482bb1-396d-4eee-97dc-b48e00fde200/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-21-26-krystal-heated-debate-w-top-dem-on-israel-dsa",
+      "date": "2026-07-21T16:05:28.000Z",
+      "duration": "2708",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal has a heated debate with Rep Adam Smith on Israel, AIPAC, DSA and more. &nbsp; Annie Jacobsen: ​https://www.penguinrandomhouse.com/books/783250/biological-war-by-annie-jacobsen/​&nbsp; Adam Smith: ​https://electadamsmith.com/&nbsp; &nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp;",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -46,18 +70,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/20/26: Trump Insider Trading, ICE Shooter Details Exposed, Tim Dillon Rips JD Vance",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/b2c501ce-1a5b-451d-9b16-b48d00f9dcaa/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-20-26-trump-insider-trading-ice-shooter-details-exposed-tim-dillon-rips-jd-vance",
-      "date": "2026-07-20T15:38:34.000Z",
-      "duration": "2937",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Trump teleprompter operator insider trading, Maine ICE killing details revealed, Tim Dillon rips JD Vance. Murtaza Hussain: https://x.com/MazMHussain&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See o",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#323 Annie Jacobsen - Is America Ready for Biological War?",
@@ -67,18 +79,6 @@
       "duration": "8689",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and bestselling author known for her in-depth reporting on national security, intelligence, military history, and classified government programs. She is the author of several acclaimed books, including Nuclear War: A Scenario, Area 51, Operation Paperclip, The Pentagon's Brain, and Surprise, Kill, Vanish. Drawing on extensive i",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Accelerate Learning &amp; Increase Cognitive Capacity | Dr. Tommy Wood",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM4201272551.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/accelerate-learning-and-increase-cognitive-capacity-tommy-wood",
-      "date": "2026-07-20T08:00:00.000Z",
-      "duration": "9685",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Tommy Wood, BM, BCh, PhD, is a professor of neuroscience at the University of Washington and an expert on brain health, neuroplasticity, and cognitive performance. Dr. Wood explains how to use specific forms of exercise, dietary strategies, and compounds to enhance the rate and stability of mental and/or physical skill development. We also discuss science-based tools to preserve cognitive func",
       "guestTags": []
     },
     {
@@ -120,6 +120,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2528 - Cassie Coppersmith",
+      "audioUrl": "https://traffic.megaphone.fm/GLT3078553075.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT3078553075.mp3",
+      "date": "2026-07-21T17:00:00.000Z",
+      "duration": "9573",
+      "image": "https://megaphone.imgix.net/podcasts/8aaa3e0c-8495-11f1-8af9-63001aaad13a/image/5c2ee211add2fe66eb5240dbb1f79a0d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Cassie Coppersmith is an independent researcher studying ancient civilizations and archaeological mysteries, and&amp;nbsp;host of the “Secrets in Stone” podcast.www.youtube.com/@CassieCoppersmith\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet 30% off + 2 free gifts at https://ARMRA.com/rogan\nLearn more about your ad choices. Visit podcastchoices.com/adc",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/21/26: Krystal HEATED Debate w Top Dem On Israel, DSA",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/d4482bb1-396d-4eee-97dc-b48e00fde200/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-21-26-krystal-heated-debate-w-top-dem-on-israel-dsa",
+      "date": "2026-07-21T16:05:28.000Z",
+      "duration": "2708",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal has a heated debate with Rep Adam Smith on Israel, AIPAC, DSA and more. &nbsp; Annie Jacobsen: ​https://www.penguinrandomhouse.com/books/783250/biological-war-by-annie-jacobsen/​&nbsp; Adam Smith: ​https://electadamsmith.com/&nbsp; &nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp;",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "The Odyssey Problem, Don Lemon for President?!, Canada&apos;s Crackdown, w/ John Daniel Davidson, &amp; Shane Gillis Makes History",
@@ -160,18 +184,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/20/26: Trump Insider Trading, ICE Shooter Details Exposed, Tim Dillon Rips JD Vance",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/b2c501ce-1a5b-451d-9b16-b48d00f9dcaa/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-20-26-trump-insider-trading-ice-shooter-details-exposed-tim-dillon-rips-jd-vance",
-      "date": "2026-07-20T15:38:34.000Z",
-      "duration": "2937",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Trump teleprompter operator insider trading, Maine ICE killing details revealed, Tim Dillon rips JD Vance. Murtaza Hussain: https://x.com/MazMHussain&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See o",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#323 Annie Jacobsen - Is America Ready for Biological War?",
@@ -181,18 +193,6 @@
       "duration": "8689",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and bestselling author known for her in-depth reporting on national security, intelligence, military history, and classified government programs. She is the author of several acclaimed books, including Nuclear War: A Scenario, Area 51, Operation Paperclip, The Pentagon's Brain, and Surprise, Kill, Vanish. Drawing on extensive i",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Accelerate Learning &amp; Increase Cognitive Capacity | Dr. Tommy Wood",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM4201272551.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/accelerate-learning-and-increase-cognitive-capacity-tommy-wood",
-      "date": "2026-07-20T08:00:00.000Z",
-      "duration": "9685",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Tommy Wood, BM, BCh, PhD, is a professor of neuroscience at the University of Washington and an expert on brain health, neuroplasticity, and cognitive performance. Dr. Wood explains how to use specific forms of exercise, dietary strategies, and compounds to enhance the rate and stability of mental and/or physical skill development. We also discuss science-based tools to preserve cognitive func",
       "guestTags": []
     },
     {
