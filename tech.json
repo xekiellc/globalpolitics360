@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-22T14:08:10.625Z",
+  "lastUpdated": "2026-07-22T17:25:01.729Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Winklevoss Twins Donated $10 Million From Bitcoin Sale to Trump Super PAC",
+      "url": "https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump",
+      "date": "2026-07-22T17:21:41.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2024/11/needham-winklevoss-bitcoin-etf-would-have-profound-impact-on-price.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Meet the a16z Forward Deployed Engineer Fellows",
+      "url": "https://www.a16z.news/p/meet-the-a16z-forward-deployed-engineer",
+      "date": "2026-07-22T17:11:49.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8bca2319-0f0b-4cd7-a87f-fb5c3dab0697_5688x3200.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Bitcoin ETFs Take in Nearly $1B in New Money — But What Will the Price Do?",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-take-in-nearly-1b",
+      "date": "2026-07-22T15:28:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-ETFs.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Coinbase Settles FOIA Fight With the SEC Over Gensler&#8217;s Vanished Texts",
+      "url": "https://bitcoinmagazine.com/news/coinbase-settles-foia-fight-with-the-sec",
+      "date": "2026-07-22T15:16:06.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coinbase-Settles-FOIA-Fight-With-the-SEC-Over-Genslers-Vanished-Texts.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "VanEck: Bitcoin&#8217;s Summer Lull Masks a Tightening Supply Base",
+      "url": "https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask",
+      "date": "2026-07-22T14:22:02.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Exchange-Inflows-Spike-to-49000-BTC-in-a-Day-Signaling-Volatility-is-Coming-Report.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting",
       "url": "https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation",
@@ -57,24 +102,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "U.S. Senator: Clarity Act is &#8216;Almost There,’ Treasury Secretary Puts It at the &#8216;1-Yard Line&#8217;",
-      "url": "https://bitcoinmagazine.com/news/u-s-senator-clarity-act-is-almost-there",
-      "date": "2026-07-21T16:21:17.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-price-67000-lifting-crypto-stocks",
-      "date": "2026-07-21T15:19:31.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-1-1.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Making a Billion Intelligent Machines",
       "url": "https://www.a16z.news/p/making-a-billion-intelligent-machines",
       "date": "2026-07-21T15:02:32.000Z",
@@ -82,24 +109,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah&#8217;s Assets",
-      "url": "https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran",
-      "date": "2026-07-21T14:42:30.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/U.S.-Charges-Two-Men-for-389-Million-Bitcoin-and-Crypto-Money-Laundering-Scheme-Tied-to-Dark-Web.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade",
-      "url": "https://bitcoinmagazine.com/news/russia-passes-landmark-crypto-law",
-      "date": "2026-07-21T13:15:41.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russia-Passes-Landmark-Crypto-Law-Setting-State-Run-Rails-for-Sanctioned-Trade.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "The 7 Hires a Hardware Startup Needs to Get Right",
@@ -322,15 +331,6 @@
       "url": "https://www.a16z.news/p/the-world-building-doors-are-open",
       "date": "2026-06-23T14:01:48.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/6d138f2c-0d57-4e10-a1f9-042de6a24357_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Probook",
-      "url": "https://www.a16z.news/p/investing-in-probook",
-      "date": "2026-06-23T13:02:39.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/2cdd355b-2aa5-449d-b2fd-fdccbc692e58_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
