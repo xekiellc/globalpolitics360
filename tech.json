@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-07-22T17:25:01.729Z",
+  "lastUpdated": "2026-07-22T19:27:13.407Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Travis is Back",
+      "url": "https://www.a16z.news/p/travis-is-back",
+      "date": "2026-07-22T18:35:19.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/bb6ce301-5f83-497e-95ee-3b689a038b8d_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Unfinished Business",
+      "url": "https://www.a16z.news/p/unfinished-business",
+      "date": "2026-07-22T18:33:49.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/dbf44693-3f1e-462c-b6b6-e7289ca31b4d_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "New Clarity Act Draft Would Bar Trump and Officials From Issuing Crypto, With a 2029 Sunset",
+      "url": "https://bitcoinmagazine.com/news/new-clarity-act-draft-bar-trump",
+      "date": "2026-07-22T17:28:56.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Clarity-Act-Draft-Would-Bar-Trump-and-Officials-From-Issuing-Crypto-With-a-2029-Sunset.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Winklevoss Twins Donated $10 Million From Bitcoin Sale to Trump Super PAC",
       "url": "https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump",
@@ -15,7 +42,7 @@
       "title": "Meet the a16z Forward Deployed Engineer Fellows",
       "url": "https://www.a16z.news/p/meet-the-a16z-forward-deployed-engineer",
       "date": "2026-07-22T17:11:49.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8bca2319-0f0b-4cd7-a87f-fb5c3dab0697_5688x3200.png",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9aec7573-5618-4dc6-b511-b58bcd4a59fc_5688x3200.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
@@ -88,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/white-house-presses-senate-democrats",
       "date": "2026-07-21T19:25:50.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/White-House-Presses-Senate-Democrats-To-Accept-Trump-Ethics-Deal-On-Clarity-Act-Report-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Hyperscale Data Buys More Bitcoin, Bridging Holdings to Over $72 million",
-      "url": "https://bitcoinmagazine.com/news/hyperscale-data-buys-more-bitcoin",
-      "date": "2026-07-21T16:46:29.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-2-1.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -313,24 +331,6 @@
       "url": "https://www.a16z.news/p/investing-in-netris",
       "date": "2026-06-25T12:31:38.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/2b90ce84-b77c-4b69-bb88-07aad97b0a17_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Mirendil",
-      "url": "https://www.a16z.news/p/investing-in-mirendil",
-      "date": "2026-06-24T19:13:17.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/227d0d67-d5bc-4193-b964-a983cdbbe284_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "The World-Building Doors Are Open, Again.",
-      "url": "https://www.a16z.news/p/the-world-building-doors-are-open",
-      "date": "2026-06-23T14:01:48.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6d138f2c-0d57-4e10-a1f9-042de6a24357_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"

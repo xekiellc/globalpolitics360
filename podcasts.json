@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-07-22T17:25:06.924Z",
+  "lastUpdated": "2026-07-22T19:27:18.455Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
-  "taggedCount": 1625,
+  "taggedCount": 1707,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "What The Odyssey Is Actually About",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6653634368.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6653634368.mp3",
+      "date": "2026-07-22T18:00:00.000Z",
+      "duration": "4187",
+      "image": "https://megaphone.imgix.net/podcasts/b2c7b3b2-85ec-11f1-a8ad-33077b152161/image/e94b8b3783313249d0cb36d9c5d5f84d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigger/ \n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- SHEATH: go to https://Sheath.com. Use code TRIGGERNOMETRY for 20% off \n\nJoin our exclusive TRIGGERnometry community on Substack! http",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -41,20 +55,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss the circular nature of the war with Iran, Trump's latest statements about discussions with Iran, Hasan Piker's viral statement saying that Mao Zedong was a great leader, and more.Support Our Sponsors:Upgrade your oral care with SMILE! Click www.twc.health/problem and u",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Reaction to Alastair Campbell, Nigel Farage and Andy Burnham as PM",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7949518510.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7949518510.mp3",
-      "date": "2026-07-21T18:00:00.000Z",
-      "duration": "3092",
-      "image": "https://megaphone.imgix.net/podcasts/c3d731f8-8521-11f1-984f-ef05d4576986/image/0ae8a7a7895aa6727190544b5d52f763.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Don’t sleep on Ultra Pouches. New customers get 15% Off with code TRIG at takeultra.com! #UltraPouches #ad\n\nJoin our exclusive",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -122,6 +122,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "What The Odyssey Is Actually About",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6653634368.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6653634368.mp3",
+      "date": "2026-07-22T18:00:00.000Z",
+      "duration": "4187",
+      "image": "https://megaphone.imgix.net/podcasts/b2c7b3b2-85ec-11f1-a8ad-33077b152161/image/e94b8b3783313249d0cb36d9c5d5f84d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigger/ \n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- SHEATH: go to https://Sheath.com. Use code TRIGGERNOMETRY for 20% off \n\nJoin our exclusive TRIGGERnometry community on Substack! http",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2529 - Zach Bush",
@@ -157,20 +171,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss the circular nature of the war with Iran, Trump's latest statements about discussions with Iran, Hasan Piker's viral statement saying that Mao Zedong was a great leader, and more.Support Our Sponsors:Upgrade your oral care with SMILE! Click www.twc.health/problem and u",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Reaction to Alastair Campbell, Nigel Farage and Andy Burnham as PM",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7949518510.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7949518510.mp3",
-      "date": "2026-07-21T18:00:00.000Z",
-      "duration": "3092",
-      "image": "https://megaphone.imgix.net/podcasts/c3d731f8-8521-11f1-984f-ef05d4576986/image/0ae8a7a7895aa6727190544b5d52f763.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Don’t sleep on Ultra Pouches. New customers get 15% Off with code TRIG at takeultra.com! #UltraPouches #ad\n\nJoin our exclusive",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -249,11 +249,11 @@
     }
   ],
   "guestIndex": {
-    "Dave Smith": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
