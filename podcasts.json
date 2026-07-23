@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T06:34:19.631Z",
+  "lastUpdated": "2026-07-23T10:28:14.667Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
@@ -7,28 +7,26 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "What The Odyssey Is Actually About",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6653634368.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6653634368.mp3",
-      "date": "2026-07-22T18:00:00.000Z",
-      "duration": "4187",
-      "image": "https://megaphone.imgix.net/podcasts/b2c7b3b2-85ec-11f1-a8ad-33077b152161/image/e94b8b3783313249d0cb36d9c5d5f84d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigger/ \n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- SHEATH: go to https://Sheath.com. Use code TRIGGERNOMETRY for 20% off \n\nJoin our exclusive TRIGGERnometry community on Substack! http",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "show": "Shawn Ryan Show",
+      "title": "#324 Father Ripperger - The Signs of Diabolical Influence in America",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1532540629.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1532540629.mp3",
+      "date": "2026-07-23T10:00:00.000Z",
+      "duration": "9946",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Father Chad Ripperger is a Roman Catholic priest, theologian, philosopher, and exorcist serving in the Archdiocese of Denver. He is the founder and superior general of the Society of the Most Sorrowful Mother (Doloran Fathers) and is widely known for his teaching on spiritual warfare, virtue, Thomistic philosophy, and Catholic theology. A prolific author and sought-after speaker, Father Ripperger ",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2529 - Zach Bush",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6631073592.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6631073592.mp3",
-      "date": "2026-07-22T17:00:00.000Z",
-      "duration": "10621",
-      "image": "https://megaphone.imgix.net/podcasts/266c6a86-8559-11f1-a679-ebb68a31490a/image/d95197b23403f3ff0a7684b05e7f5c13.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Zach Bush,&amp;nbsp;MD,&amp;nbsp;&amp;nbsp;is a physician specializing in internal medicine, endocrinology, and hospice care. He is the founder of Seraphic Group and Farmer’s Footprint, a nonprofit dedicated to regenerative agriculture.www.youtube.com/zachbushmdwww.farmersfootprint.uswww.seraphicgroup.comwww.zachbushmd.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.",
+      "show": "Huberman Lab",
+      "title": "Essentials: Using Meditation to Focus, View Consciousness &amp; Expand Your Mind | Dr. Sam Harris",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7293799235.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
+      "date": "2026-07-23T08:00:00.000Z",
+      "duration": "2449",
+      "image": "https://megaphone.imgix.net/podcasts/4cce45d0-8650-11f1-bfef-b3259654b6b2/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Sam Harris, PhD, a neuroscientist, bestselling author, and world-renowned meditation teacher whose work focuses on consciousness, ethics, and religion. We discuss how meditation can help us better understand the nature of the self and transform the conscious experience. Sam also explains how meditation can help overcome universal challenges ",
       "guestTags": []
     },
     {
@@ -123,28 +121,26 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "What The Odyssey Is Actually About",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6653634368.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6653634368.mp3",
-      "date": "2026-07-22T18:00:00.000Z",
-      "duration": "4187",
-      "image": "https://megaphone.imgix.net/podcasts/b2c7b3b2-85ec-11f1-a8ad-33077b152161/image/e94b8b3783313249d0cb36d9c5d5f84d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigger/ \n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- SHEATH: go to https://Sheath.com. Use code TRIGGERNOMETRY for 20% off \n\nJoin our exclusive TRIGGERnometry community on Substack! http",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "show": "Shawn Ryan Show",
+      "title": "#324 Father Ripperger - The Signs of Diabolical Influence in America",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1532540629.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1532540629.mp3",
+      "date": "2026-07-23T10:00:00.000Z",
+      "duration": "9946",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Father Chad Ripperger is a Roman Catholic priest, theologian, philosopher, and exorcist serving in the Archdiocese of Denver. He is the founder and superior general of the Society of the Most Sorrowful Mother (Doloran Fathers) and is widely known for his teaching on spiritual warfare, virtue, Thomistic philosophy, and Catholic theology. A prolific author and sought-after speaker, Father Ripperger ",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2529 - Zach Bush",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6631073592.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6631073592.mp3",
-      "date": "2026-07-22T17:00:00.000Z",
-      "duration": "10621",
-      "image": "https://megaphone.imgix.net/podcasts/266c6a86-8559-11f1-a679-ebb68a31490a/image/d95197b23403f3ff0a7684b05e7f5c13.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Zach Bush,&amp;nbsp;MD,&amp;nbsp;&amp;nbsp;is a physician specializing in internal medicine, endocrinology, and hospice care. He is the founder of Seraphic Group and Farmer’s Footprint, a nonprofit dedicated to regenerative agriculture.www.youtube.com/zachbushmdwww.farmersfootprint.uswww.seraphicgroup.comwww.zachbushmd.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.",
+      "show": "Huberman Lab",
+      "title": "Essentials: Using Meditation to Focus, View Consciousness &amp; Expand Your Mind | Dr. Sam Harris",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7293799235.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
+      "date": "2026-07-23T08:00:00.000Z",
+      "duration": "2449",
+      "image": "https://megaphone.imgix.net/podcasts/4cce45d0-8650-11f1-bfef-b3259654b6b2/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Sam Harris, PhD, a neuroscientist, bestselling author, and world-renowned meditation teacher whose work focuses on consciousness, ethics, and religion. We discuss how meditation can help us better understand the nature of the self and transform the conscious experience. Sam also explains how meditation can help overcome universal challenges ",
       "guestTags": []
     },
     {
@@ -249,9 +245,6 @@
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
-    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
