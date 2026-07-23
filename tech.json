@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-07-23T10:28:05.725Z",
+  "lastUpdated": "2026-07-23T14:14:17.715Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Kazakhstan Moves to Build a National Crypto Reserve Funded by Bitcoin Miners",
+      "url": "https://bitcoinmagazine.com/news/kazakhstan-to-build-a-national-crypto",
+      "date": "2026-07-23T14:04:31.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Kazakhstan-Moves-to-Build-a-National-Crypto-Reserve-Funded-by-Bitcoin-Miners.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Renting is stressful. Millions of renter conversations tell us why.",
+      "url": "https://www.a16z.news/p/renting-is-stressful-millions-of",
+      "date": "2026-07-23T14:01:13.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/0bef684f-9ecb-49eb-a003-9cdb6bd3e119_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Crypto Derivatives Exchange BitMEX To Shut Down in September",
+      "url": "https://bitcoinmagazine.com/news/crypto-exchange-bitmex-to-shut-down",
+      "date": "2026-07-23T13:48:32.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/01/bitmex-blocks-hong-kong-bermuda-and-seychelles.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development",
+      "url": "https://bitcoinmagazine.com/news/blackrock-coinbase-strategy-bitcoin",
+      "date": "2026-07-23T13:33:43.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Swiss Bank BancaStato Launches Bitcoin Trading Through Sygnum and Avaloq",
       "url": "https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin",
@@ -91,33 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Bitcoin ETFs Take in Nearly $1B in New Money — But What Will the Price Do?",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-take-in-nearly-1b",
-      "date": "2026-07-22T15:28:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-ETFs.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Coinbase Settles FOIA Fight With the SEC Over Gensler&#8217;s Vanished Texts",
-      "url": "https://bitcoinmagazine.com/news/coinbase-settles-foia-fight-with-the-sec",
-      "date": "2026-07-22T15:16:06.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coinbase-Settles-FOIA-Fight-With-the-SEC-Over-Genslers-Vanished-Texts.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "VanEck: Bitcoin&#8217;s Summer Lull Masks a Tightening Supply Base",
-      "url": "https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask",
-      "date": "2026-07-22T14:22:02.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Exchange-Inflows-Spike-to-49000-BTC-in-a-Day-Signaling-Volatility-is-Coming-Report.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Making a Billion Intelligent Machines",
@@ -322,15 +331,6 @@
       "url": "https://www.a16z.news/p/nasas-artemis-ii-mission",
       "date": "2026-06-25T14:02:20.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/e788c1f1-ca60-417d-8381-bf65905fbdbb_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Netris",
-      "url": "https://www.a16z.news/p/investing-in-netris",
-      "date": "2026-06-25T12:31:38.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/2b90ce84-b77c-4b69-bb88-07aad97b0a17_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
