@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-07-23T14:14:23.837Z",
+  "lastUpdated": "2026-07-23T17:35:24.561Z",
   "showCount": 22,
   "episodeCount": 9,
   "archiveCount": 10,
   "taggedCount": 1708,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2530 - Timothy Alberino",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8709484594.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8709484594.mp3",
+      "date": "2026-07-23T17:00:00.000Z",
+      "duration": "9939",
+      "image": "https://megaphone.imgix.net/podcasts/b569ee94-856c-11f1-bb2f-cf7ff131c798/image/9eb56f60d746efad14ad7d23506fd043.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Timothy&amp;nbsp;Alberino&amp;nbsp;is an author, lecturer, and explorer. His latest release is a new edition of the ancient text “The Book of Enoch,” for which he wrote the introduction and commentary.\n\nwww.youtube.com/@TimothyAlberinowww.timothyalberino.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\nLearn more about your ad choices. Visit podcastchoices.c",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -29,18 +41,6 @@
       "duration": "9946",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Father Chad Ripperger is a Roman Catholic priest, theologian, philosopher, and exorcist serving in the Archdiocese of Denver. He is the founder and superior general of the Society of the Most Sorrowful Mother (Doloran Fathers) and is widely known for his teaching on spiritual warfare, virtue, Thomistic philosophy, and Catholic theology. A prolific author and sought-after speaker, Father Ripperger ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Using Meditation to Focus, View Consciousness &amp; Expand Your Mind | Dr. Sam Harris",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7293799235.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
-      "date": "2026-07-23T08:00:00.000Z",
-      "duration": "2449",
-      "image": "https://megaphone.imgix.net/podcasts/4cce45d0-8650-11f1-bfef-b3259654b6b2/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Sam Harris, PhD, a neuroscientist, bestselling author, and world-renowned meditation teacher whose work focuses on consciousness, ethics, and religion. We discuss how meditation can help us better understand the nature of the self and transform the conscious experience. Sam also explains how meditation can help overcome universal challenges ",
       "guestTags": []
     },
     {
@@ -120,6 +120,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2530 - Timothy Alberino",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8709484594.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8709484594.mp3",
+      "date": "2026-07-23T17:00:00.000Z",
+      "duration": "9939",
+      "image": "https://megaphone.imgix.net/podcasts/b569ee94-856c-11f1-bb2f-cf7ff131c798/image/9eb56f60d746efad14ad7d23506fd043.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Timothy&amp;nbsp;Alberino&amp;nbsp;is an author, lecturer, and explorer. His latest release is a new edition of the ancient text “The Book of Enoch,” for which he wrote the introduction and commentary.\n\nwww.youtube.com/@TimothyAlberinowww.timothyalberino.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\nLearn more about your ad choices. Visit podcastchoices.c",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "NYT’s Bill Gates Problem, Gavin Newsom’s Collapse, NJ Voting Scandal, w/ Halperin, PLUS Rapinoe’s Terrible Take",
@@ -143,18 +155,6 @@
       "duration": "9946",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Father Chad Ripperger is a Roman Catholic priest, theologian, philosopher, and exorcist serving in the Archdiocese of Denver. He is the founder and superior general of the Society of the Most Sorrowful Mother (Doloran Fathers) and is widely known for his teaching on spiritual warfare, virtue, Thomistic philosophy, and Catholic theology. A prolific author and sought-after speaker, Father Ripperger ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Using Meditation to Focus, View Consciousness &amp; Expand Your Mind | Dr. Sam Harris",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7293799235.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
-      "date": "2026-07-23T08:00:00.000Z",
-      "duration": "2449",
-      "image": "https://megaphone.imgix.net/podcasts/4cce45d0-8650-11f1-bfef-b3259654b6b2/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Sam Harris, PhD, a neuroscientist, bestselling author, and world-renowned meditation teacher whose work focuses on consciousness, ethics, and religion. We discuss how meditation can help us better understand the nature of the self and transform the conscious experience. Sam also explains how meditation can help overcome universal challenges ",
       "guestTags": []
     },
     {

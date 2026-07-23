@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-07-23T14:14:17.715Z",
+  "lastUpdated": "2026-07-23T17:35:17.652Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "BlackRock Says Crypto Can Outrun the Quantum Threat — If It Moves Fast Enough",
+      "url": "https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum",
+      "date": "2026-07-23T16:50:23.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "How to Win the Largest Market in AI",
+      "url": "https://www.a16z.news/p/how-to-win-the-largest-market-in",
+      "date": "2026-07-23T15:34:26.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5dba7502-f1e0-4718-9b4c-bbbf08c13982_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Goldman Sachs Backs the Clarity Act, Splitting Wall Street Over Crypto Rules",
+      "url": "https://bitcoinmagazine.com/news/goldman-sachs-backs-the-clarity-act",
+      "date": "2026-07-23T15:34:05.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Goldman-Sachs-Backs-the-Clarity-Act-Splitting-Wall-Street-Over-Crypto-Rules.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Coinbase Builds Post-Quantum Custody System, Funds Bitcoin&#8217;s Crypto Upgrade",
+      "url": "https://bitcoinmagazine.com/news/coinbase-building-post-quantum-solutions",
+      "date": "2026-07-23T14:47:10.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/12/Coinbase-is-About-to-Launch-Prediction-Markets-and-Tokenized-Stocks-Report.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Kazakhstan Moves to Build a National Crypto Reserve Funded by Bitcoin Miners",
       "url": "https://bitcoinmagazine.com/news/kazakhstan-to-build-a-national-crypto",
@@ -75,15 +111,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Lightning Labs Launches Wavelength: “Bitcoin on Easy Mode” for Developers and Autonomous Agents",
-      "url": "https://bitcoinmagazine.com/technical/lightning-labs-launches-wavelength-bitcoin-on-easy-mode-for-developers-and-autonomous-agents",
-      "date": "2026-07-22T20:01:48.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Travis is Back",
       "url": "https://www.a16z.news/p/travis-is-back",
       "date": "2026-07-22T18:35:19.000Z",
@@ -100,24 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "New Clarity Act Draft Would Bar Trump and Officials From Issuing Crypto, With a 2029 Sunset",
-      "url": "https://bitcoinmagazine.com/news/new-clarity-act-draft-bar-trump",
-      "date": "2026-07-22T17:28:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Clarity-Act-Draft-Would-Bar-Trump-and-Officials-From-Issuing-Crypto-With-a-2029-Sunset.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Winklevoss Twins Donated $10 Million From Bitcoin Sale to Trump Super PAC",
-      "url": "https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump",
-      "date": "2026-07-22T17:21:41.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2024/11/needham-winklevoss-bitcoin-etf-would-have-profound-impact-on-price.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Meet the a16z Forward Deployed Engineer Fellows",
@@ -325,15 +334,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "NASA’s Artemis II Mission",
-      "url": "https://www.a16z.news/p/nasas-artemis-ii-mission",
-      "date": "2026-06-25T14:02:20.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e788c1f1-ca60-417d-8381-bf65905fbdbb_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Weekly Dose of Optimism #198",
