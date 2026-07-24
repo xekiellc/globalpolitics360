@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-24T21:09:27.957Z",
+  "lastUpdated": "2026-07-24T23:05:39.751Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "Meet The New Boss, Same as the Old Boss",
+      "url": "https://www.racket.news/p/meet-the-new-boss-same-as-the-old",
+      "date": "2026-07-24T22:53:39.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!C_vf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36089f5a-fb11-43da-8f38-9777656c0401_2872x1988.png",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
     {
       "title": "Coleman Hughes: The Case Against Sports Betting",
       "url": "https://www.thefp.com/p/coleman-hughes-case-against-sports-betting",
@@ -532,15 +541,6 @@
       "source": "Matt Taibbi / Racket News",
       "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
       "id": "aHR0cHM6Ly93d3cucmFja2V0"
-    },
-    {
-      "title": "Hunter Biden is on a shameless media blitz to promote an upcoming doc — and attempts to rewrite history",
-      "url": "https://nypost.com/2026/07/12/opinion/hunter-biden-is-on-a-shameless-media-blitz-to-promote-an-upcoming-doc-and-attempts-to-rewrite-history/",
-      "date": "2026-07-13T02:23:19.000Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fhunter-biden-leaves-federal-court-130712171.jpg?quality%3D90%26strip%3Dall",
-      "source": "Miranda Devine / NY Post",
-      "teaser": "Miranda Devine criticizes Supreme Court Justice Jackson for applauding anti-ICE statements at Grammy Awards.",
-      "id": "aHR0cHM6Ly9ueXBvc3QuY29t"
     }
   ]
 }
