@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T20:58:33.735Z",
+  "lastUpdated": "2026-07-25T22:59:01.717Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ka2y-0Of0Dc",
-      "show": "All-In Podcast",
-      "title": "Chamath: Banning Open Source AI Will Crash the Stock Market",
-      "url": "https://www.youtube.com/watch?v=Ka2y-0Of0Dc",
-      "date": "2026-07-25T20:30:21.000Z",
-      "image": "https://i4.ytimg.com/vi/Ka2y-0Of0Dc/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "Pe1hXaOkvlU",
+      "show": "Shawn Ryan Show",
+      "title": "Saying This Would Get You Killed in Rome 😳",
+      "url": "https://www.youtube.com/watch?v=Pe1hXaOkvlU",
+      "date": "2026-07-25T22:00:11.000Z",
+      "image": "https://i1.ytimg.com/vi/Pe1hXaOkvlU/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ka2y-0Of0Dc",
-      "show": "All-In Podcast",
-      "title": "Chamath: Banning Open Source AI Will Crash the Stock Market",
-      "url": "https://www.youtube.com/watch?v=Ka2y-0Of0Dc",
-      "date": "2026-07-25T20:30:21.000Z",
-      "image": "https://i4.ytimg.com/vi/Ka2y-0Of0Dc/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "Pe1hXaOkvlU",
+      "show": "Shawn Ryan Show",
+      "title": "Saying This Would Get You Killed in Rome 😳",
+      "url": "https://www.youtube.com/watch?v=Pe1hXaOkvlU",
+      "date": "2026-07-25T22:00:11.000Z",
+      "image": "https://i1.ytimg.com/vi/Pe1hXaOkvlU/hqdefault.jpg",
+      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
