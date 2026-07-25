@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T23:05:50.145Z",
+  "lastUpdated": "2026-07-25T03:16:30.172Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,41 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "h3HGtORcQV8",
-      "show": "Shawn Ryan Show",
-      "title": "Exorcist Battles a Demon Over the Phone 🤯",
-      "url": "https://www.youtube.com/watch?v=h3HGtORcQV8",
-      "date": "2026-07-24T22:00:18.000Z",
-      "image": "https://i1.ytimg.com/vi/h3HGtORcQV8/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "3LUSjHpKn6c",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: The Socialists Are Coming for Your Private Property Rights",
+      "url": "https://www.youtube.com/watch?v=3LUSjHpKn6c",
+      "date": "2026-07-25T02:09:58.000Z",
+      "image": "https://i4.ytimg.com/vi/3LUSjHpKn6c/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "h3HGtORcQV8",
-      "show": "Shawn Ryan Show",
-      "title": "Exorcist Battles a Demon Over the Phone 🤯",
-      "url": "https://www.youtube.com/watch?v=h3HGtORcQV8",
-      "date": "2026-07-24T22:00:18.000Z",
-      "image": "https://i1.ytimg.com/vi/h3HGtORcQV8/hqdefault.jpg",
-      "desc": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilan",
-      "guestTags": []
+      "videoId": "3LUSjHpKn6c",
+      "show": "All-In Podcast",
+      "title": "David Friedberg: The Socialists Are Coming for Your Private Property Rights",
+      "url": "https://www.youtube.com/watch?v=3LUSjHpKn6c",
+      "date": "2026-07-25T02:09:58.000Z",
+      "image": "https://i4.ytimg.com/vi/3LUSjHpKn6c/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
