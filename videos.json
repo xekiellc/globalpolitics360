@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T15:08:15.381Z",
+  "lastUpdated": "2026-07-25T17:05:04.913Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,35 +7,40 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "GFOHN4xo3gA",
-      "show": "Theo Von",
-      "title": "John Kiriakou's Biggest Issue with the Democratic Party",
-      "url": "https://www.youtube.com/watch?v=GFOHN4xo3gA",
-      "date": "2026-07-25T15:00:19.000Z",
-      "image": "https://i4.ytimg.com/vi/GFOHN4xo3gA/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "videoId": "rXox_xc-ddM",
+      "show": "All-In Podcast",
+      "title": "David Sacks: Anthropic Is Trying to Crush Open Source AI and the American Developers Who Use It",
+      "url": "https://www.youtube.com/watch?v=rXox_xc-ddM",
+      "date": "2026-07-25T16:00:16.000Z",
+      "image": "https://i3.ytimg.com/vi/rXox_xc-ddM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
       "guestTags": [
-        "John Kiriakou"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "GFOHN4xo3gA",
-      "show": "Theo Von",
-      "title": "John Kiriakou's Biggest Issue with the Democratic Party",
-      "url": "https://www.youtube.com/watch?v=GFOHN4xo3gA",
-      "date": "2026-07-25T15:00:19.000Z",
-      "image": "https://i4.ytimg.com/vi/GFOHN4xo3gA/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "videoId": "rXox_xc-ddM",
+      "show": "All-In Podcast",
+      "title": "David Sacks: Anthropic Is Trying to Crush Open Source AI and the American Developers Who Use It",
+      "url": "https://www.youtube.com/watch?v=rXox_xc-ddM",
+      "date": "2026-07-25T16:00:16.000Z",
+      "image": "https://i3.ytimg.com/vi/rXox_xc-ddM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
       "guestTags": [
-        "John Kiriakou"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "guestIndex": {
-    "John Kiriakou": [
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }
