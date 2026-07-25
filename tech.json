@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-25T17:04:58.333Z",
+  "lastUpdated": "2026-07-25T19:15:40.295Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "AI is Oil, Not God",
+      "url": "https://www.notboring.co/p/ai-is-oil-not-god",
+      "date": "2026-07-25T17:25:07.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!rMD1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5deb492f-93c9-4c1c-8bf4-05d7795a4b8b_1200x675.webp",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
       "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million",
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 158: Nima Ghamsari on Blend's Comeback & the Power of AI Agents and Infinite Workforce",
-      "url": "https://blog.joelonsdale.com/p/ep-158-nima-ghamsari-on-blends-comeback",
-      "date": "2026-06-18T17:31:31.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }

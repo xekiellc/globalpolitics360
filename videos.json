@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T17:05:04.913Z",
+  "lastUpdated": "2026-07-25T19:15:48.192Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,40 +7,35 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "rXox_xc-ddM",
-      "show": "All-In Podcast",
-      "title": "David Sacks: Anthropic Is Trying to Crush Open Source AI and the American Developers Who Use It",
-      "url": "https://www.youtube.com/watch?v=rXox_xc-ddM",
-      "date": "2026-07-25T16:00:16.000Z",
-      "image": "https://i3.ytimg.com/vi/rXox_xc-ddM/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "videoId": "8T381U3ZcR4",
+      "show": "TRIGGERnometry",
+      "title": "&quot;We Live in the Age of Delusions&quot; - Peter Hitchens",
+      "url": "https://www.youtube.com/watch?v=8T381U3ZcR4",
+      "date": "2026-07-25T18:00:02.000Z",
+      "image": "https://i1.ytimg.com/vi/8T381U3ZcR4/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- Find your forever cookware @hexclad and get 10% off at https://hexclad.com/TRIG\n#hexcladpartner\n\n- BUBS Naturals Colla",
       "guestTags": [
-        "Chamath",
-        "David Sacks"
+        "Konstantin Kisin"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "rXox_xc-ddM",
-      "show": "All-In Podcast",
-      "title": "David Sacks: Anthropic Is Trying to Crush Open Source AI and the American Developers Who Use It",
-      "url": "https://www.youtube.com/watch?v=rXox_xc-ddM",
-      "date": "2026-07-25T16:00:16.000Z",
-      "image": "https://i3.ytimg.com/vi/rXox_xc-ddM/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "videoId": "8T381U3ZcR4",
+      "show": "TRIGGERnometry",
+      "title": "&quot;We Live in the Age of Delusions&quot; - Peter Hitchens",
+      "url": "https://www.youtube.com/watch?v=8T381U3ZcR4",
+      "date": "2026-07-25T18:00:02.000Z",
+      "image": "https://i1.ytimg.com/vi/8T381U3ZcR4/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- Find your forever cookware @hexclad and get 10% off at https://hexclad.com/TRIG\n#hexcladpartner\n\n- BUBS Naturals Colla",
       "guestTags": [
-        "Chamath",
-        "David Sacks"
+        "Konstantin Kisin"
       ]
     }
   ],
   "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
+    "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }
