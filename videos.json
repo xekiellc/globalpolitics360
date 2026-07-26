@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-07-26T15:09:41.751Z",
+  "lastUpdated": "2026-07-26T17:08:08.256Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 28,
+  "taggedCount": 29,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3jqlYku4MDE",
-      "show": "Theo Von",
-      "title": "Looking Into the Georgia Guidestones",
-      "url": "https://www.youtube.com/watch?v=3jqlYku4MDE",
-      "date": "2026-07-26T14:15:14.000Z",
-      "image": "https://i4.ytimg.com/vi/3jqlYku4MDE/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #554 Joe Rogan\nFull Episode: https://www.youtube.com/watch?v=Z7shjsOnamU&amp;t=74s\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/this",
-      "guestTags": []
+      "videoId": "b8V_4jb8Yes",
+      "show": "All-In Podcast",
+      "title": "Chamath: Google Is the Ultimate AI Compounding Machine",
+      "url": "https://www.youtube.com/watch?v=b8V_4jb8Yes",
+      "date": "2026-07-26T15:24:27.000Z",
+      "image": "https://i3.ytimg.com/vi/b8V_4jb8Yes/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "3jqlYku4MDE",
-      "show": "Theo Von",
-      "title": "Looking Into the Georgia Guidestones",
-      "url": "https://www.youtube.com/watch?v=3jqlYku4MDE",
-      "date": "2026-07-26T14:15:14.000Z",
-      "image": "https://i4.ytimg.com/vi/3jqlYku4MDE/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #554 Joe Rogan\nFull Episode: https://www.youtube.com/watch?v=Z7shjsOnamU&amp;t=74s\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/this",
-      "guestTags": []
+      "videoId": "b8V_4jb8Yes",
+      "show": "All-In Podcast",
+      "title": "Chamath: Google Is the Ultimate AI Compounding Machine",
+      "url": "https://www.youtube.com/watch?v=b8V_4jb8Yes",
+      "date": "2026-07-26T15:24:27.000Z",
+      "image": "https://i3.ytimg.com/vi/b8V_4jb8Yes/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
