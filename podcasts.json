@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-07-27T14:47:50.949Z",
+  "lastUpdated": "2026-07-27T17:46:50.150Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1714,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/27/26: U.S. Munitions Run Low In War, Houthis Pressure Saudi Oil, Ukraine Strikes Iran Tanker",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/ca696519-ddef-49d9-8b8b-b49401074f0f/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-27-26-u-s-munitions-run-low-in-war-houthis-pressure-saudi-oil-ukraine-strikes-iran-tanker",
+      "date": "2026-07-27T16:16:25.000Z",
+      "duration": "5589",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump slowing major escalation due to low munitions, Saudi Oil threatened by Houthis, Ukraine striking and Iranian commercial vessel, new doc footage of Lindsey Graham plotting the Iran War with Netanyahu, and an assassinated Prosecutor who was investigating the US boat strikes. To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
@@ -56,18 +68,6 @@
       "guestTags": [
         "Elon Musk"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/23/26: War Historically Unpopular, AI Hack Meltdown, Old People Debate",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8bb7034c-3d70-466d-8029-b4910002ccdf/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-23-26-war-historically-unpopular-ai-hack-meltdown-old-people-debate",
-      "date": "2026-07-24T00:15:11.000Z",
-      "duration": "3166",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Trump insists Iran war is popular, tech meltdown after AI hack, debate on old people power in US. &nbsp; Professor Marandi: https://x.com/s_m_marandi?s=20 Garrison Lovely: https://www.amazon.com/dp/1682196305?&nbsp; ref=cm_sw_r_ffobk_cso_cp_apin_dp_BSQ72NWD042H06CYBAA0&amp;ref_=cm_sw_r_ffobk_cso_cp_apin_dp_BSQ72NWD042H06CYBAA0&amp;social_share=cm_sw_r_ffobk_cso_cp_apin_d",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/27/26: U.S. Munitions Run Low In War, Houthis Pressure Saudi Oil, Ukraine Strikes Iran Tanker",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/ca696519-ddef-49d9-8b8b-b49401074f0f/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-27-26-u-s-munitions-run-low-in-war-houthis-pressure-saudi-oil-ukraine-strikes-iran-tanker",
+      "date": "2026-07-27T16:16:25.000Z",
+      "duration": "5589",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump slowing major escalation due to low munitions, Saudi Oil threatened by Houthis, Ukraine striking and Iranian commercial vessel, new doc footage of Lindsey Graham plotting the Iran War with Netanyahu, and an assassinated Prosecutor who was investigating the US boat strikes. To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#325 Sean Strickland - The Most Controversial Fighter in the UFC Opens Up Like Never Before",
@@ -182,18 +194,6 @@
       "guestTags": [
         "Elon Musk"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/23/26: War Historically Unpopular, AI Hack Meltdown, Old People Debate",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8bb7034c-3d70-466d-8029-b4910002ccdf/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-23-26-war-historically-unpopular-ai-hack-meltdown-old-people-debate",
-      "date": "2026-07-24T00:15:11.000Z",
-      "duration": "3166",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Trump insists Iran war is popular, tech meltdown after AI hack, debate on old people power in US. &nbsp; Professor Marandi: https://x.com/s_m_marandi?s=20 Garrison Lovely: https://www.amazon.com/dp/1682196305?&nbsp; ref=cm_sw_r_ffobk_cso_cp_apin_dp_BSQ72NWD042H06CYBAA0&amp;ref_=cm_sw_r_ffobk_cso_cp_apin_dp_BSQ72NWD042H06CYBAA0&amp;social_share=cm_sw_r_ffobk_cso_cp_apin_d",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
