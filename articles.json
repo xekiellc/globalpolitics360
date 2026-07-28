@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-28T14:21:46.571Z",
+  "lastUpdated": "2026-07-28T17:39:19.623Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "Wednesday, 8:30 AM ET: Live Commentary on Anthony Fauci Hearing With Dr. Matt Bivens",
+      "url": "https://www.racket.news/p/wednesday-830-am-et-live-commentary",
+      "date": "2026-07-28T15:34:00.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!pxet!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0699296a-e5b6-40a9-a6a0-45c58133f28f_3110x2054.png",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
     {
       "title": "“Get Lit” Livestream: The Comic Climax of Dostoyevsky's \"Demons\"",
       "url": "https://www.racket.news/p/get-lit-livestream-the-comic-climax",
@@ -532,15 +541,6 @@
       "source": "Miranda Devine / NY Post",
       "teaser": "Miranda Devine criticizes Supreme Court Justice Jackson for applauding anti-ICE statements at Grammy Awards.",
       "id": "aHR0cHM6Ly9ueXBvc3QuY29t"
-    },
-    {
-      "title": "“Get Lit\" July 16, 2026: Dostoevsky's \"Demons\" Hits a Lunatic Crescendo",
-      "url": "https://www.racket.news/p/get-lit-july-16-2026-dostoyevskys",
-      "date": "2026-07-16T14:30:37.000Z",
-      "image": "https://substack-video.s3.amazonaws.com/video_upload/post/207230317/fb1f1509-cb61-4cd5-83b5-504ec479223e/transcoded-00000.png",
-      "source": "Matt Taibbi / Racket News",
-      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
-      "id": "aHR0cHM6Ly93d3cucmFja2V0"
     }
   ]
 }
