@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-07-28T02:54:59.479Z",
+  "lastUpdated": "2026-07-28T06:30:56.910Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1714,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#672 - Trace Adkins",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9417740599.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9417740599.mp3",
+      "date": "2026-07-28T06:11:00.000Z",
+      "duration": "7458",
+      "image": "https://megaphone.imgix.net/podcasts/b8c603b6-8a49-11f1-b400-97190af30e28/image/2dcfc05b9b5f3bd1143dd684cef2d755.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Trace Adkins is a country musician, songwriter and actor. You can see him live on his 30th anniversary tour now through the end of the year.&amp;nbsp;\n\nTrace joins Theo to talk about his journey from blue collar to Broadway, finding success in multiple eras of country music, and what it really feels like to get shot.&amp;nbsp;\n\nTrace Adkins: https://www.instagram.com/traceadkins/&amp;nbsp;\n\n------",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -41,18 +53,6 @@
       "duration": "2956",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan and Krystal interview Kshama Sawant who is running for WA-9 Congress seat against Dem incumbent Adam Smith. Sawant argues that both major parties serve billionaires and war interests, and she calls for a new working-class party. Kshama Sawant:&nbsp;https://www.kshamasawant.org/​See omnystudio.com/listener for privacy information.",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#325 Sean Strickland - The Most Controversial Fighter in the UFC Opens Up Like Never Before",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3554642049.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3554642049.mp3",
-      "date": "2026-07-27T10:00:00.000Z",
-      "duration": "14862",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Sean Strickland is a two-time UFC Middleweight Champion known for his outspoken personality and unconventional path to the top. After overcoming a difficult childhood, he found purpose through MMA and rose to become one of the sport's biggest stars, capturing the middleweight title in 2023 and reclaiming it in 2026.\n\n\n\nPrivacy isn't Paranoia, it's Protection\n\nDownload Glacier - htps://theglacierap",
       "guestTags": []
     },
     {
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#672 - Trace Adkins",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9417740599.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9417740599.mp3",
+      "date": "2026-07-28T06:11:00.000Z",
+      "duration": "7458",
+      "image": "https://megaphone.imgix.net/podcasts/b8c603b6-8a49-11f1-b400-97190af30e28/image/2dcfc05b9b5f3bd1143dd684cef2d755.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Trace Adkins is a country musician, songwriter and actor. You can see him live on his 30th anniversary tour now through the end of the year.&amp;nbsp;\n\nTrace joins Theo to talk about his journey from blue collar to Broadway, finding success in multiple eras of country music, and what it really feels like to get shot.&amp;nbsp;\n\nTrace Adkins: https://www.instagram.com/traceadkins/&amp;nbsp;\n\n------",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KILL TONY #778 - JIMMY CARR",
@@ -167,18 +179,6 @@
       "duration": "2956",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan and Krystal interview Kshama Sawant who is running for WA-9 Congress seat against Dem incumbent Adam Smith. Sawant argues that both major parties serve billionaires and war interests, and she calls for a new working-class party. Kshama Sawant:&nbsp;https://www.kshamasawant.org/​See omnystudio.com/listener for privacy information.",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#325 Sean Strickland - The Most Controversial Fighter in the UFC Opens Up Like Never Before",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3554642049.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3554642049.mp3",
-      "date": "2026-07-27T10:00:00.000Z",
-      "duration": "14862",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Sean Strickland is a two-time UFC Middleweight Champion known for his outspoken personality and unconventional path to the top. After overcoming a difficult childhood, he found purpose through MMA and rose to become one of the sport's biggest stars, capturing the middleweight title in 2023 and reclaiming it in 2026.\n\n\n\nPrivacy isn't Paranoia, it's Protection\n\nDownload Glacier - htps://theglacierap",
       "guestTags": []
     },
     {
