@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T10:40:35.694Z",
+  "lastUpdated": "2026-07-28T14:21:55.103Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mcEa-tSincA",
-      "show": "The Free Press",
-      "title": "Trace Adkins | This Past Weekend w/ Theo Von #672",
-      "url": "https://www.youtube.com/watch?v=mcEa-tSincA",
-      "date": "2026-07-28T09:00:19.000Z",
-      "image": "https://i2.ytimg.com/vi/mcEa-tSincA/hqdefault.jpg",
-      "desc": "Trace Adkins is a country musician, songwriter and actor. You can see him live on his 30th anniversary tour now through the end of the year. \n\nTrace joins Theo to talk about his journey from blue collar to Broadway, finding success in multiple eras of country music, and what it really feels like to ",
-      "guestTags": []
+      "videoId": "JUSOM5VgwOw",
+      "show": "TRIGGERnometry",
+      "title": "The Dark Truth Behind Performative Activism",
+      "url": "https://www.youtube.com/watch?v=JUSOM5VgwOw",
+      "date": "2026-07-28T13:04:13.000Z",
+      "image": "https://i3.ytimg.com/vi/JUSOM5VgwOw/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mcEa-tSincA",
-      "show": "The Free Press",
-      "title": "Trace Adkins | This Past Weekend w/ Theo Von #672",
-      "url": "https://www.youtube.com/watch?v=mcEa-tSincA",
-      "date": "2026-07-28T09:00:19.000Z",
-      "image": "https://i2.ytimg.com/vi/mcEa-tSincA/hqdefault.jpg",
-      "desc": "Trace Adkins is a country musician, songwriter and actor. You can see him live on his 30th anniversary tour now through the end of the year. \n\nTrace joins Theo to talk about his journey from blue collar to Broadway, finding success in multiple eras of country music, and what it really feels like to ",
-      "guestTags": []
+      "videoId": "JUSOM5VgwOw",
+      "show": "TRIGGERnometry",
+      "title": "The Dark Truth Behind Performative Activism",
+      "url": "https://www.youtube.com/watch?v=JUSOM5VgwOw",
+      "date": "2026-07-28T13:04:13.000Z",
+      "image": "https://i3.ytimg.com/vi/JUSOM5VgwOw/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

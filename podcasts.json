@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-07-28T10:40:35.204Z",
+  "lastUpdated": "2026-07-28T14:21:54.731Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1714,
+  "taggedCount": 1715,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Fauci’s ICK Diary Exposed, Biden Audio Reveals Decline, &amp; Trump Trolls Kaitlan Collins, w/ Mary Margaret Olohan",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/4d4f7d49-0078-4630-9f3e-5eff468c99d4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=4d4f7d49-0078-4630-9f3e-5eff468c99d4&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-07-28T11:00:00.000Z",
+      "duration": "01:15:48",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/f72f1b85-3cc8-4725-961b-cf613c2556db/3000x3000/ap_110_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky breaks down Anthony Fauci's newly released COVID-era diary entries, arguing they reveal a striking level of self-regard, cozy relationships with prominent journalists and celebrities, and private comments that raise new questions about his public messaging during the pandemic. Then Emily is joined by Mary Margaret Olohan, White House correspondent for “The Daily Wire,” to react to ",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
@@ -66,20 +80,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "I answer questions submitted by listeners about topics ranging from how to ensure great sleep after nighttime exercise, effective no-caffeine pre-workouts (that also improve your sleep quality), neuroscience-supported tools for improving your memory and sense of smell, nutrition and supplementation for improving female and male fertility, the link between (peri)menopause and mental health, acceler",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence",
-      "date": "2026-07-24T20:46:00.000Z",
-      "duration": "01:33:44",
-      "image": "https://static.libsyn.com/p/assets/2/f/d/f/2fdf321765cc17a9d959afa2a1bf1c87/1_E282.png",
-      "desc": "(0:00) Bestie intros! (0:18) The fight to save open source AI: Kimi K3 panic, Anthropic/OpenAI regulatory capture (27:38) Anthropic/OpenAI historic growth rates, China's long game (48:29) Anthropic's $1.5B piracy settlement and the great IP theft hypocrisy (1:07:12) Google and Tesla stocks tank on surging AI capex (1:17:19) Socialism Corner: \"Evictions = Violence\" and the threat to private propert",
-      "guestTags": [
-        "Elon Musk"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -132,6 +132,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Fauci’s ICK Diary Exposed, Biden Audio Reveals Decline, &amp; Trump Trolls Kaitlan Collins, w/ Mary Margaret Olohan",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/4d4f7d49-0078-4630-9f3e-5eff468c99d4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=4d4f7d49-0078-4630-9f3e-5eff468c99d4&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-07-28T11:00:00.000Z",
+      "duration": "01:15:48",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/f72f1b85-3cc8-4725-961b-cf613c2556db/3000x3000/ap_110_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky breaks down Anthony Fauci's newly released COVID-era diary entries, arguing they reveal a striking level of self-regard, cozy relationships with prominent journalists and celebrities, and private comments that raise new questions about his public messaging during the pandemic. Then Emily is joined by Mary Margaret Olohan, White House correspondent for “The Daily Wire,” to react to ",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
       "title": "#672 - Trace Adkins",
@@ -192,20 +206,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "I answer questions submitted by listeners about topics ranging from how to ensure great sleep after nighttime exercise, effective no-caffeine pre-workouts (that also improve your sleep quality), neuroscience-supported tools for improving your memory and sense of smell, nutrition and supplementation for improving female and male fertility, the link between (peri)menopause and mental health, acceler",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence",
-      "date": "2026-07-24T20:46:00.000Z",
-      "duration": "01:33:44",
-      "image": "https://static.libsyn.com/p/assets/2/f/d/f/2fdf321765cc17a9d959afa2a1bf1c87/1_E282.png",
-      "desc": "(0:00) Bestie intros! (0:18) The fight to save open source AI: Kimi K3 panic, Anthropic/OpenAI regulatory capture (27:38) Anthropic/OpenAI historic growth rates, China's long game (48:29) Anthropic's $1.5B piracy settlement and the great IP theft hypocrisy (1:07:12) Google and Tesla stocks tank on surging AI capex (1:17:19) Socialism Corner: \"Evictions = Violence\" and the threat to private propert",
-      "guestTags": [
-        "Elon Musk"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -269,11 +269,11 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Elon Musk": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }
 }
