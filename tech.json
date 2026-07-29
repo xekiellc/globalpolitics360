@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-29T10:43:52.047Z",
+  "lastUpdated": "2026-07-29T14:21:42.123Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Crypto Giant DCG Warns Senate: Pass Clarity Act or Lose Ground to Singapore, UAE",
+      "url": "https://bitcoinmagazine.com/news/crypto-giant-dcg-supports-clarity-act",
+      "date": "2026-07-29T14:12:10.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/DCG-Urges-Clarity-Act-to-Pass.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Building Worlds That Train Robots",
+      "url": "https://www.a16z.news/p/building-worlds-that-train-robots",
+      "date": "2026-07-29T14:01:02.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/40533710-e04c-4934-b5dc-a951e9090028_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "SEC Chairman Says He&#8217;s &#8216;Committed&#8217; to Helping Advance Crypto Clarity Act",
       "url": "https://bitcoinmagazine.com/news/sec-chair-paul-atkins-supports-clarity-act",
@@ -97,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/coinbase-policy-officer-praises-clarity",
       "date": "2026-07-27T20:43:13.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Coinbase-Receives-Conditional-OCC-Approval-to-Form-National-Trust-Company.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Republicans Hope For Democratic Support on Crypto Clarity Act",
-      "url": "https://bitcoinmagazine.com/news/republicans-want-democrats-clarity-support",
-      "date": "2026-07-27T19:20:43.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -343,15 +352,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Charts of the Summer: Featuring Deel",
-      "url": "https://www.a16z.news/p/charts-of-the-summer-featuring-deel",
-      "date": "2026-06-30T14:00:48.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/03756b0a-881a-4891-b2ab-967d62487401_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Weekly Dose of Optimism #199",
