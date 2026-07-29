@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-07-29T17:19:57.338Z",
+  "lastUpdated": "2026-07-29T19:24:24.705Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1716,
+  "taggedCount": 1717,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "Climate Change: What the Data Actually Shows with Geologist Scott Tinker",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2194002953.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2194002953.mp3",
+      "date": "2026-07-29T18:00:00.000Z",
+      "duration": "4728",
+      "image": "https://megaphone.imgix.net/podcasts/d6f2f4f6-8b5d-11f1-9035-37dc72adfbd2/image/52a229da854c869d590a55f70d22df9f.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.com/TRIG\n\n- Expat Money: download the report to understand offshore banking, second passports, asset protection and international business\nhttps://expatmoney.com/trigger\n\n- MassZym",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -67,18 +81,6 @@
       "duration": "3:53:07",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "Gary Gallagher is a historian of the American Civil War.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/gary-gallagher-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; s",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#672 - Trace Adkins",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9417740599.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9417740599.mp3",
-      "date": "2026-07-28T06:11:00.000Z",
-      "duration": "7458",
-      "image": "https://megaphone.imgix.net/podcasts/b8c603b6-8a49-11f1-b400-97190af30e28/image/2dcfc05b9b5f3bd1143dd684cef2d755.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Trace Adkins is a country musician, songwriter and actor. You can see him live on his 30th anniversary tour now through the end of the year.&amp;nbsp;\n\nTrace joins Theo to talk about his journey from blue collar to Broadway, finding success in multiple eras of country music, and what it really feels like to get shot.&amp;nbsp;\n\nTrace Adkins: https://www.instagram.com/traceadkins/&amp;nbsp;\n\n------",
       "guestTags": []
     },
     {
@@ -132,6 +134,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "Climate Change: What the Data Actually Shows with Geologist Scott Tinker",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2194002953.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2194002953.mp3",
+      "date": "2026-07-29T18:00:00.000Z",
+      "duration": "4728",
+      "image": "https://megaphone.imgix.net/podcasts/d6f2f4f6-8b5d-11f1-9035-37dc72adfbd2/image/52a229da854c869d590a55f70d22df9f.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.com/TRIG\n\n- Expat Money: download the report to understand offshore banking, second passports, asset protection and international business\nhttps://expatmoney.com/trigger\n\n- MassZym",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2532 - Tim Robbins",
@@ -193,18 +209,6 @@
       "duration": "3:53:07",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "Gary Gallagher is a historian of the American Civil War.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/gary-gallagher-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; s",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#672 - Trace Adkins",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9417740599.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9417740599.mp3",
-      "date": "2026-07-28T06:11:00.000Z",
-      "duration": "7458",
-      "image": "https://megaphone.imgix.net/podcasts/b8c603b6-8a49-11f1-b400-97190af30e28/image/2dcfc05b9b5f3bd1143dd684cef2d755.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Trace Adkins is a country musician, songwriter and actor. You can see him live on his 30th anniversary tour now through the end of the year.&amp;nbsp;\n\nTrace joins Theo to talk about his journey from blue collar to Broadway, finding success in multiple eras of country music, and what it really feels like to get shot.&amp;nbsp;\n\nTrace Adkins: https://www.instagram.com/traceadkins/&amp;nbsp;\n\n------",
       "guestTags": []
     },
     {
@@ -269,6 +273,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Elon Musk": [
       "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ],
