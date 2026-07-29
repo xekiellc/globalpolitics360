@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-29T21:01:40.962Z",
+  "lastUpdated": "2026-07-29T23:01:55.323Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "Listen to This Article: History's Most Preventable Terror Attack?",
+      "url": "https://www.racket.news/p/listen-to-this-article-historys-most",
+      "date": "2026-07-29T21:59:08.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
     {
       "title": "Why Mamdani Is Asking My Mom to Pay His Pied-à-Terre Tax",
       "url": "https://www.thefp.com/p/mamdani-pied-a-terre-tax-nyc-rollout",
@@ -532,15 +541,6 @@
       "source": "Andy Ngo / Ngo Comment",
       "teaser": "First video footage emerges of members from secretive transgender death cult group.",
       "id": "aHR0cHM6Ly93d3cubmdvY29t"
-    },
-    {
-      "title": "Anatomy of a Struggle Session",
-      "url": "https://www.racket.news/p/anatomy-of-a-struggle-session",
-      "date": "2026-07-16T20:06:35.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!7CIa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1cf0aa6-7459-4fb5-b58a-b73ccfa4b7b9_3150x2090.png",
-      "source": "Matt Taibbi / Racket News",
-      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
-      "id": "aHR0cHM6Ly93d3cucmFja2V0"
     }
   ]
 }
