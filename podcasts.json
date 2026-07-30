@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-07-30T14:15:10.970Z",
+  "lastUpdated": "2026-07-30T17:40:50.123Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1718,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2533 - Diana Pasulka",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1888945098.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1888945098.mp3",
+      "date": "2026-07-30T17:00:00.000Z",
+      "duration": "9836",
+      "image": "https://megaphone.imgix.net/podcasts/3e41b214-8ba4-11f1-9b3e-6700767b4af0/image/3b34418dc009c084df68d2d39c7be423.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Diana Pasulka is a professor of religious studies at the University of North Carolina Wilmington and the author of several books. Her most recent, \"The Others: UFOs, AI, and the Secret Forces Guiding Human Destiny,\" is out now.https://static.macmillan.com/static/smp/the-others-9781250394866/www.youtube.com/@Diana.Walsh.Pasulkahttps://substack.com/@dwpasulkawww.dwpasulka.com\n\n\n\nPerplexity: Download",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/30/26: Iran Claims Fighter Jets Struck, Munitions Shortage, Fauci Pleads Fifth, AI Bubble Watch",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/a062026a-f0ef-4cd4-bac3-b49700fa14d8/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-30-26-iran-claims-fighter-jets-struck-munitions-shortage-fauci-pleads-fifth-ai-bubble-watch",
+      "date": "2026-07-30T15:51:20.000Z",
+      "duration": "4105",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Iran claims US fighter jets struck, Fauci pleads the fifth in Congress, AI bubble watch. Nick Cleveland-Stout: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakin",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -32,18 +56,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How to Become Resilient, Forge Your Identity &amp; Lead Others | Jocko Willink",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM2090153799.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink",
-      "date": "2026-07-30T08:00:00.000Z",
-      "duration": "2232",
-      "image": "https://megaphone.imgix.net/podcasts/20b30760-8bd2-11f1-a696-b36351beadba/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Jocko Willink, a retired U.S. Navy SEAL officer, author and host of the Jocko Podcast. We discuss why discipline, rather than motivation, is the reliable driver of daily action, and how taking action is the most effective way to move through adversity, loss and setbacks. We also discuss how exercise generates energy, the leader’s role as a count",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Fauci Sets Fire to His Legacy",
@@ -55,20 +67,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave discusses Anthony Fauci's senate hearing in which he continuously pleads the fifth amendment, the implications and best moments from this hearing, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEMGoldback - https://www.goldback.com/dave/ Part Of The Problem is availabl",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/29/26: Americans Demand Bibi Arrest, West Bank Violence, Elon AI Extinction, Data Center Revolt &amp; MORE!",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/86522dd3-58b4-41f6-a7cf-b496010bed1b/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-29-26-americans-demand-bibi-arrest-west-bank-violence-elon-ai-extinction-data-center-revolt-more",
-      "date": "2026-07-29T16:24:50.000Z",
-      "duration": "3795",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Emily discuss Americans demand Netanyahu arrest, West Bank violence escalates, Elon laughs off AI wiping out humanity, data center revolt fuels socialist rise. &nbsp; Jasper Nathaniel:&nbsp;https://www.infinitejaz.com/Alex Holder:&nbsp;https://x.com/alexjholder?lang=en To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.bre",
-      "guestTags": [
-        "Elon Musk"
       ]
     },
     {
@@ -134,6 +132,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2533 - Diana Pasulka",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1888945098.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1888945098.mp3",
+      "date": "2026-07-30T17:00:00.000Z",
+      "duration": "9836",
+      "image": "https://megaphone.imgix.net/podcasts/3e41b214-8ba4-11f1-9b3e-6700767b4af0/image/3b34418dc009c084df68d2d39c7be423.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Diana Pasulka is a professor of religious studies at the University of North Carolina Wilmington and the author of several books. Her most recent, \"The Others: UFOs, AI, and the Secret Forces Guiding Human Destiny,\" is out now.https://static.macmillan.com/static/smp/the-others-9781250394866/www.youtube.com/@Diana.Walsh.Pasulkahttps://substack.com/@dwpasulkawww.dwpasulka.com\n\n\n\nPerplexity: Download",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/30/26: Iran Claims Fighter Jets Struck, Munitions Shortage, Fauci Pleads Fifth, AI Bubble Watch",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/a062026a-f0ef-4cd4-bac3-b49700fa14d8/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-30-26-iran-claims-fighter-jets-struck-munitions-shortage-fauci-pleads-fifth-ai-bubble-watch",
+      "date": "2026-07-30T15:51:20.000Z",
+      "duration": "4105",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Iran claims US fighter jets struck, Fauci pleads the fifth in Congress, AI bubble watch. Nick Cleveland-Stout: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakin",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Fauci Pleads the Fifth, Newsom’s New Problem, WNBA’s Culture War, with Jennifer Sey &amp; the Banned Book Myth",
@@ -160,18 +182,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How to Become Resilient, Forge Your Identity &amp; Lead Others | Jocko Willink",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM2090153799.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink",
-      "date": "2026-07-30T08:00:00.000Z",
-      "duration": "2232",
-      "image": "https://megaphone.imgix.net/podcasts/20b30760-8bd2-11f1-a696-b36351beadba/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Jocko Willink, a retired U.S. Navy SEAL officer, author and host of the Jocko Podcast. We discuss why discipline, rather than motivation, is the reliable driver of daily action, and how taking action is the most effective way to move through adversity, loss and setbacks. We also discuss how exercise generates energy, the leader’s role as a count",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Fauci Sets Fire to His Legacy",
@@ -183,20 +193,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave discusses Anthony Fauci's senate hearing in which he continuously pleads the fifth amendment, the implications and best moments from this hearing, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEMGoldback - https://www.goldback.com/dave/ Part Of The Problem is availabl",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/29/26: Americans Demand Bibi Arrest, West Bank Violence, Elon AI Extinction, Data Center Revolt &amp; MORE!",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/86522dd3-58b4-41f6-a7cf-b496010bed1b/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-29-26-americans-demand-bibi-arrest-west-bank-violence-elon-ai-extinction-data-center-revolt-more",
-      "date": "2026-07-29T16:24:50.000Z",
-      "duration": "3795",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Emily discuss Americans demand Netanyahu arrest, West Bank violence escalates, Elon laughs off AI wiping out humanity, data center revolt fuels socialist rise. &nbsp; Jasper Nathaniel:&nbsp;https://www.infinitejaz.com/Alex Holder:&nbsp;https://x.com/alexjholder?lang=en To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.bre",
-      "guestTags": [
-        "Elon Musk"
       ]
     },
     {
@@ -278,9 +274,6 @@
     ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Elon Musk": [
-      "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ]
   }
 }
