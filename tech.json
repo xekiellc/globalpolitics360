@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-07-30T10:29:37.105Z",
+  "lastUpdated": "2026-07-30T14:15:03.211Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "The Hidden Math of Behavioral Health",
+      "url": "https://www.a16z.news/p/the-hidden-math-of-behavioral-health",
+      "date": "2026-07-30T14:04:06.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/14d999eb-0c63-4d5b-906c-e55a04313cdc_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Spanish Bank Banco Santander Reveals $4.3M Bitcoin Investment",
+      "url": "https://bitcoinmagazine.com/news/spanish-bank-banco-santander-buys-bitcoin",
+      "date": "2026-07-30T14:02:49.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Banco-Santander.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitchat Mesh App Defies India Cybercrime Notice After Protesters Use It During Network Restrictions",
+      "url": "https://bitcoinmagazine.com/politics/bitchat-mesh-app-defies-india-cybercrime-notice-after-protesters-use-it-during-network-restrictions",
+      "date": "2026-07-30T14:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2-2.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Republican Senator Cynthia Lummis Slams Democrat Lawmakers For Dragging Their Feet Over Clarity Act",
       "url": "https://bitcoinmagazine.com/news/senator-cynthia-lummis-slams-democrats",
@@ -79,24 +106,6 @@
       "url": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-price-dips-clarity-act",
       "date": "2026-07-28T18:48:20.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Price-Down-Clarity-Act.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "I Scanned the Entire Bitcoin Blockchain for Images. What I Found Will Shock You",
-      "url": "https://bitcoinmagazine.com/guides/i-scanned-the-entire-bitcoin-blockchain-for-images-what-i-found-will-shock-you",
-      "date": "2026-07-28T18:05:14.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2-1.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Quick Maths On STRC Buybacks: The Truth About Net Bitcoin Per Share and Accretion",
-      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/on-strc-buybacks",
-      "date": "2026-07-28T17:40:07.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/aghg.png",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -316,15 +325,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "America: The Next 250 Years",
-      "url": "https://www.a16z.news/p/america-250",
-      "date": "2026-07-03T14:01:45.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/0443baea-40e4-4a72-9298-60c98954e0f9_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Weekly Dose of Optimism #200",
