@@ -1,33 +1,59 @@
 {
-  "lastUpdated": "2026-07-31T14:20:30.715Z",
+  "lastUpdated": "2026-07-31T17:44:32.595Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1718,
+  "taggedCount": 1719,
   "latest": [
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2533 - Diana Pasulka",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1888945098.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1888945098.mp3",
-      "date": "2026-07-30T17:00:00.000Z",
-      "duration": "9836",
-      "image": "https://megaphone.imgix.net/podcasts/3e41b214-8ba4-11f1-9b3e-6700767b4af0/image/3b34418dc009c084df68d2d39c7be423.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Diana Pasulka is a professor of religious studies at the University of North Carolina Wilmington and the author of several books. Her most recent, \"The Others: UFOs, AI, and the Secret Forces Guiding Human Destiny,\" is out now.https://static.macmillan.com/static/smp/the-others-9781250394866/www.youtube.com/@Diana.Walsh.Pasulkahttps://substack.com/@dwpasulkawww.dwpasulka.com\n\n\n\nPerplexity: Download",
-      "guestTags": []
-    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
-      "title": "7/30/26: Iran Claims Fighter Jets Struck, Munitions Shortage, Fauci Pleads Fifth, AI Bubble Watch",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/a062026a-f0ef-4cd4-bac3-b49700fa14d8/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-30-26-iran-claims-fighter-jets-struck-munitions-shortage-fauci-pleads-fifth-ai-bubble-watch",
-      "date": "2026-07-30T15:51:20.000Z",
-      "duration": "4105",
+      "title": "7/31/26: Trump Approval Worse Than J6, DSA vs Dems War, Haley Stevens Crashes Out, GOP Alleged Wife Beater",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/50c61b1a-3193-4235-bd61-b498010ac3bd/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-31-26-trump-approval-worse-than-j6-dsa-vs-dems-war-haley-stevens-crashes-out-gop-alleged-wife-beater",
+      "date": "2026-07-31T17:05:18.000Z",
+      "duration": "5508",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Iran claims US fighter jets struck, Fauci pleads the fifth in Congress, AI bubble watch. Nick Cleveland-Stout: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakin",
+      "desc": "The Friday crew looks at Trump's approval ratings sinking to new historic lows and a new poll showing 1/3 of Democratic voters identify positively with DSA. Then we're joined by Michigan Chronicle reporter Sam Robinson to talk about what he's seeing on the ground in the primary between Haley Stevens and Abdul El Sayed. Finally, we look at the allegations that Rep. Max Miller assaulted his wife and",
       "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2534 - Annie Jacobsen",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8411695309.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8411695309.mp3",
+      "date": "2026-07-31T17:00:00.000Z",
+      "duration": "8434",
+      "image": "https://megaphone.imgix.net/podcasts/0eb8a8e6-8c70-11f1-9c27-1f2ea3655d79/image/1a134f9547d1035107ef9dbb0d94ff32.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and bestselling author. Her latest book, \"Biological War: A Scenario,\" is out now.www.penguinrandomhouse.com/books/783250/biological-war-by-annie-jacobsen/www.anniejacobsen.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\nLearn more about your ad choices. Visit podcastchoices.com/adchoice",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "Dalton Fischer Podcast",
+      "title": "“Giant F*cking Scam!” Exercise Scientist Exposes The Biggest Lies In Health &amp; Nutrition | Dr. Mike Israetel",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19575736-giant-f-cking-scam-exercise-scientist-exposes-the-biggest-lies-in-health-nutrition-dr-mike-israetel.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19575736-giant-f-cking-scam-exercise-scientist-exposes-the-biggest-lies-in-health-nutrition-dr-mike-israetel.mp3",
+      "date": "2026-07-31T16:00:00.000Z",
+      "duration": "8894",
+      "image": "https://storage.buzzsprout.com/3fmvxo7oekq4hc7jrbrene7k3gh7?.jpg",
+      "desc": "Dr. Mike Israetel is an exercise scientist with a PhD in sport physiology and co-founder of Renaissance Periodization. He is also a competitive bodybuilder and Brazilian jiu-jitsu athlete.Show Sponsors:- Don’t sleep on Ultra Pouches! New customers get 15% Off with code DALTON at https://takeultra.com- Go to https://www.stash.com/DALTON to get 15% off a monthly subscription or 30% off an annual sub",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Julian Dorey Podcast",
+      "title": "#456 - “RIGGED Game!” - The Fed, Rothschilds, John Kiriakou &amp; Erika Kirk | Zach Foust",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4820545320.mp3",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4820545320.mp3",
+      "date": "2026-07-31T16:00:00.000Z",
+      "duration": "11176",
+      "image": "https://megaphone.imgix.net/podcasts/4c6ba90a-8c29-11f1-b6cf-3fc08277d400/image/5dc8611901d9d77047d8ce86fa235008.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\n(***TIMESTAMPS in Description Below) ~ Zachary Foust is a real estate executive and viral economics expert on social media.\n\nZACH's LINKS:\nIG: https://www.instagram.com/zachary.loft/?hl=en\nYT: https://www.youtube.com/@ZachFoustShow/videos\nWEBSITE: https://zacha",
+      "guestTags": [
+        "John Kiriakou"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -56,20 +82,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Fauci Sets Fire to His Legacy",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/14ad641a-aa2f-42f4-bbfe-1372fa16dfce.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/14ad641a-aa2f-42f4-bbfe-1372fa16dfce.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-07-30T00:00:00.000Z",
-      "duration": "00:59:36",
-      "image": "https://content.production.cdn.art19.com/images/b7/67/ba/14/b767ba14-3052-4580-bbf3-8e92d31c1e88/f63fe2341882af74685ae78550194563fdc86f6446cd29341b32b4f8faaa355637915429497cc314d8c3fe14f3571b34bd046a1d18f93bdac638332750d6294d.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave discusses Anthony Fauci's senate hearing in which he continuously pleads the fifth amendment, the implications and best moments from this hearing, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEMGoldback - https://www.goldback.com/dave/ Part Of The Problem is availabl",
-      "guestTags": [
-        "Dave Smith"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
       "title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &#038; Lee",
@@ -91,18 +103,6 @@
       "duration": "02:11:20",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Jimmy Carr, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/13/2026\nThis episode is brought to you by:\nKikoff: Build credit fast and get your first month for just a dollar at https://getkikoff.com/killtonytoday. Thanks to Kikoff for spons",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "Staccato CEO: Killing In Combat, War For Profit &amp; Hitting Rock Bottom | Buck Pierson",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19422138-staccato-ceo-killing-in-combat-war-for-profit-hitting-rock-bottom-buck-pierson.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19422138-staccato-ceo-killing-in-combat-war-for-profit-hitting-rock-bottom-buck-pierson.mp3",
-      "date": "2026-06-30T19:00:00.000Z",
-      "duration": "9762",
-      "image": "https://storage.buzzsprout.com/iib4bg0mdntxb5k2muwffkb52wbe?.jpg",
-      "desc": "Buck Pierson spent 16 years as a US Marine and is the co-CEO of Staccato 2011.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Try Rho Nutrition today and experience the difference of Liposomal Technology. Use code DALTON for 20% OFF everything at https://www.rhonutrition.com/discount/dalton- Go to https://www.stash.com/DALTON to get 15% off a monthly",
       "guestTags": []
     },
     {
@@ -132,27 +132,53 @@
   ],
   "archive": [
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2533 - Diana Pasulka",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1888945098.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1888945098.mp3",
-      "date": "2026-07-30T17:00:00.000Z",
-      "duration": "9836",
-      "image": "https://megaphone.imgix.net/podcasts/3e41b214-8ba4-11f1-9b3e-6700767b4af0/image/3b34418dc009c084df68d2d39c7be423.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Diana Pasulka is a professor of religious studies at the University of North Carolina Wilmington and the author of several books. Her most recent, \"The Others: UFOs, AI, and the Secret Forces Guiding Human Destiny,\" is out now.https://static.macmillan.com/static/smp/the-others-9781250394866/www.youtube.com/@Diana.Walsh.Pasulkahttps://substack.com/@dwpasulkawww.dwpasulka.com\n\n\n\nPerplexity: Download",
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "7/31/26: Trump Approval Worse Than J6, DSA vs Dems War, Haley Stevens Crashes Out, GOP Alleged Wife Beater",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/50c61b1a-3193-4235-bd61-b498010ac3bd/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-31-26-trump-approval-worse-than-j6-dsa-vs-dems-war-haley-stevens-crashes-out-gop-alleged-wife-beater",
+      "date": "2026-07-31T17:05:18.000Z",
+      "duration": "5508",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "The Friday crew looks at Trump's approval ratings sinking to new historic lows and a new poll showing 1/3 of Democratic voters identify positively with DSA. Then we're joined by Michigan Chronicle reporter Sam Robinson to talk about what he's seeing on the ground in the primary between Haley Stevens and Abdul El Sayed. Finally, we look at the allegations that Rep. Max Miller assaulted his wife and",
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "7/30/26: Iran Claims Fighter Jets Struck, Munitions Shortage, Fauci Pleads Fifth, AI Bubble Watch",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/a062026a-f0ef-4cd4-bac3-b49700fa14d8/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/7-30-26-iran-claims-fighter-jets-struck-munitions-shortage-fauci-pleads-fifth-ai-bubble-watch",
-      "date": "2026-07-30T15:51:20.000Z",
-      "duration": "4105",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Iran claims US fighter jets struck, Fauci pleads the fifth in Congress, AI bubble watch. Nick Cleveland-Stout: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakin",
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2534 - Annie Jacobsen",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8411695309.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8411695309.mp3",
+      "date": "2026-07-31T17:00:00.000Z",
+      "duration": "8434",
+      "image": "https://megaphone.imgix.net/podcasts/0eb8a8e6-8c70-11f1-9c27-1f2ea3655d79/image/1a134f9547d1035107ef9dbb0d94ff32.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and bestselling author. Her latest book, \"Biological War: A Scenario,\" is out now.www.penguinrandomhouse.com/books/783250/biological-war-by-annie-jacobsen/www.anniejacobsen.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\nLearn more about your ad choices. Visit podcastchoices.com/adchoice",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Julian Dorey Podcast",
+      "title": "#456 - “RIGGED Game!” - The Fed, Rothschilds, John Kiriakou &amp; Erika Kirk | Zach Foust",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4820545320.mp3",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4820545320.mp3",
+      "date": "2026-07-31T16:00:00.000Z",
+      "duration": "11176",
+      "image": "https://megaphone.imgix.net/podcasts/4c6ba90a-8c29-11f1-b6cf-3fc08277d400/image/5dc8611901d9d77047d8ce86fa235008.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\n(***TIMESTAMPS in Description Below) ~ Zachary Foust is a real estate executive and viral economics expert on social media.\n\nZACH's LINKS:\nIG: https://www.instagram.com/zachary.loft/?hl=en\nYT: https://www.youtube.com/@ZachFoustShow/videos\nWEBSITE: https://zacha",
+      "guestTags": [
+        "John Kiriakou"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "Dalton Fischer Podcast",
+      "title": "“Giant F*cking Scam!” Exercise Scientist Exposes The Biggest Lies In Health &amp; Nutrition | Dr. Mike Israetel",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19575736-giant-f-cking-scam-exercise-scientist-exposes-the-biggest-lies-in-health-nutrition-dr-mike-israetel.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19575736-giant-f-cking-scam-exercise-scientist-exposes-the-biggest-lies-in-health-nutrition-dr-mike-israetel.mp3",
+      "date": "2026-07-31T16:00:00.000Z",
+      "duration": "8894",
+      "image": "https://storage.buzzsprout.com/3fmvxo7oekq4hc7jrbrene7k3gh7?.jpg",
+      "desc": "Dr. Mike Israetel is an exercise scientist with a PhD in sport physiology and co-founder of Renaissance Periodization. He is also a competitive bodybuilder and Brazilian jiu-jitsu athlete.Show Sponsors:- Don’t sleep on Ultra Pouches! New customers get 15% Off with code DALTON at https://takeultra.com- Go to https://www.stash.com/DALTON to get 15% off a monthly subscription or 30% off an annual sub",
       "guestTags": []
     },
     {
@@ -182,20 +208,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Fauci Sets Fire to His Legacy",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/14ad641a-aa2f-42f4-bbfe-1372fa16dfce.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/14ad641a-aa2f-42f4-bbfe-1372fa16dfce.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-07-30T00:00:00.000Z",
-      "duration": "00:59:36",
-      "image": "https://content.production.cdn.art19.com/images/b7/67/ba/14/b767ba14-3052-4580-bbf3-8e92d31c1e88/f63fe2341882af74685ae78550194563fdc86f6446cd29341b32b4f8faaa355637915429497cc314d8c3fe14f3571b34bd046a1d18f93bdac638332750d6294d.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave discusses Anthony Fauci's senate hearing in which he continuously pleads the fifth amendment, the implications and best moments from this hearing, and more.Support Our Sponsors:Sheath - https://sheathunderwear.com use promo code PROBLEMGoldback - https://www.goldback.com/dave/ Part Of The Problem is availabl",
-      "guestTags": [
-        "Dave Smith"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
       "title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &#038; Lee",
@@ -217,18 +229,6 @@
       "duration": "02:11:20",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Jimmy Carr, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/13/2026\nThis episode is brought to you by:\nKikoff: Build credit fast and get your first month for just a dollar at https://getkikoff.com/killtonytoday. Thanks to Kikoff for spons",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "Staccato CEO: Killing In Combat, War For Profit &amp; Hitting Rock Bottom | Buck Pierson",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19422138-staccato-ceo-killing-in-combat-war-for-profit-hitting-rock-bottom-buck-pierson.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19422138-staccato-ceo-killing-in-combat-war-for-profit-hitting-rock-bottom-buck-pierson.mp3",
-      "date": "2026-06-30T19:00:00.000Z",
-      "duration": "9762",
-      "image": "https://storage.buzzsprout.com/iib4bg0mdntxb5k2muwffkb52wbe?.jpg",
-      "desc": "Buck Pierson spent 16 years as a US Marine and is the co-CEO of Staccato 2011.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Try Rho Nutrition today and experience the difference of Liposomal Technology. Use code DALTON for 20% OFF everything at https://www.rhonutrition.com/discount/dalton- Go to https://www.stash.com/DALTON to get 15% off a monthly",
       "guestTags": []
     },
     {
@@ -269,11 +269,11 @@
     }
   ],
   "guestIndex": {
+    "John Kiriakou": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Dave Smith": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
   }
 }
