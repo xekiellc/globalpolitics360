@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-31T10:44:26.747Z",
+  "lastUpdated": "2026-07-31T14:20:22.893Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Charts of the Week: Moar Machines",
+      "url": "https://www.a16z.news/p/charts-of-the-week-moar-machines",
+      "date": "2026-07-31T14:01:44.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f4a6fb83-6eee-4660-acc1-51d11fd9f127_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #204",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-204",
+      "date": "2026-07-31T12:47:27.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!2Rhi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F384dc333-20a7-4b63-858b-57faebd4e3c7_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "&#8216;Bitcoin Senator&#8217; Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act",
       "url": "https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity",
@@ -318,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "The Most Human Technology Ever Made",
-      "url": "https://www.a16z.news/p/the-most-human-technology-ever-made",
-      "date": "2026-07-13T16:05:07.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/cda42839-6c9b-4026-9e1f-97d0062774a2_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #201",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-201",
       "date": "2026-07-10T12:56:10.000Z",
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "America's Next 250",
-      "url": "https://www.notboring.co/p/americas-next-250",
-      "date": "2026-07-02T14:06:26.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!lxby!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3f9c5b9-5f98-4b60-ad3e-852e088a304f_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
