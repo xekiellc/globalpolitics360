@@ -1,19 +1,31 @@
 {
-  "lastUpdated": "2026-07-31T06:49:06.048Z",
+  "lastUpdated": "2026-07-31T10:44:33.218Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 28,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "G7eWm7obfzA",
+      "show": "Shawn Ryan Show",
+      "title": "F-18 Pilot's UFO Encounter in Warning Area 72 😳",
+      "url": "https://www.youtube.com/watch?v=G7eWm7obfzA",
+      "date": "2026-07-31T02:00:22.000Z",
+      "image": "https://i4.ytimg.com/vi/G7eWm7obfzA/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "zXmGJfAgjF4",
+      "videoId": "G7eWm7obfzA",
       "show": "Shawn Ryan Show",
-      "title": "They Injected Veterans With Fungus 😳",
-      "url": "https://www.youtube.com/watch?v=zXmGJfAgjF4",
-      "date": "2026-07-30T22:00:33.000Z",
-      "image": "https://i3.ytimg.com/vi/zXmGJfAgjF4/hqdefault.jpg",
+      "title": "F-18 Pilot's UFO Encounter in Warning Area 72 😳",
+      "url": "https://www.youtube.com/watch?v=G7eWm7obfzA",
+      "date": "2026-07-31T02:00:22.000Z",
+      "image": "https://i4.ytimg.com/vi/G7eWm7obfzA/hqdefault.jpg",
       "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
       "guestTags": []
     }
