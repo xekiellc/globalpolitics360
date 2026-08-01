@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-08-01T13:39:10.433Z",
+  "lastUpdated": "2026-08-01T15:04:41.522Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "miKRVrhZvI0",
-      "show": "Theo Von",
-      "title": "Jane Fonda Gave Chelsea Handler a (Light) Intervention",
-      "url": "https://www.youtube.com/watch?v=miKRVrhZvI0",
-      "date": "2026-08-01T13:30:03.000Z",
-      "image": "https://i2.ytimg.com/vi/miKRVrhZvI0/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend #570 | Chelsea Handler\nFull Episode: https://youtu.be/SQyUse4aEzo?si=O_qcz8228ov8OFoe\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweeke",
-      "guestTags": []
+      "videoId": "2j0l5lWSTiA",
+      "show": "All-In Podcast",
+      "title": "Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
+      "url": "https://www.youtube.com/watch?v=2j0l5lWSTiA",
+      "date": "2026-08-01T13:40:53.000Z",
+      "image": "https://i3.ytimg.com/vi/2j0l5lWSTiA/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "miKRVrhZvI0",
-      "show": "Theo Von",
-      "title": "Jane Fonda Gave Chelsea Handler a (Light) Intervention",
-      "url": "https://www.youtube.com/watch?v=miKRVrhZvI0",
-      "date": "2026-08-01T13:30:03.000Z",
-      "image": "https://i2.ytimg.com/vi/miKRVrhZvI0/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend #570 | Chelsea Handler\nFull Episode: https://youtu.be/SQyUse4aEzo?si=O_qcz8228ov8OFoe\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweeke",
-      "guestTags": []
+      "videoId": "2j0l5lWSTiA",
+      "show": "All-In Podcast",
+      "title": "Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
+      "url": "https://www.youtube.com/watch?v=2j0l5lWSTiA",
+      "date": "2026-08-01T13:40:53.000Z",
+      "image": "https://i3.ytimg.com/vi/2j0l5lWSTiA/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
