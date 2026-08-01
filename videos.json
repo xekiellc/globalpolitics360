@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-08-01T06:34:36.899Z",
+  "lastUpdated": "2026-08-01T10:03:34.651Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 1,
+  "taggedCount": 27,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "5K48rGXk3mo",
-      "show": "Jordan Peterson",
-      "title": "Invitation, Not Force",
-      "url": "https://www.youtube.com/watch?v=5K48rGXk3mo",
-      "date": "2026-07-31T17:00:24.000Z",
-      "image": "https://i2.ytimg.com/vi/5K48rGXk3mo/hqdefault.jpg",
-      "desc": "Unlock the ad-free experience of The Jordan B. Peterson Podcast and dive into exclusive bonus content on DailyWire+. Start watching now: http://dwpluspeterson.com/yt\n\nALL LINKS: https://feedlink.io/jordanbpeterson\n\n\n// LINKS //\n\nPeterson Academy https://petersonacademy.com\nARC https://www.arcforum.c",
-      "guestTags": []
+      "videoId": "ucwxs7KLUI4",
+      "show": "All-In Podcast",
+      "title": "David Sacks: The Chip Stock Crash is Based on Momentum, NOT Fundamentals",
+      "url": "https://www.youtube.com/watch?v=ucwxs7KLUI4",
+      "date": "2026-08-01T04:16:11.000Z",
+      "image": "https://i2.ytimg.com/vi/ucwxs7KLUI4/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "5K48rGXk3mo",
-      "show": "Jordan Peterson",
-      "title": "Invitation, Not Force",
-      "url": "https://www.youtube.com/watch?v=5K48rGXk3mo",
-      "date": "2026-07-31T17:00:24.000Z",
-      "image": "https://i2.ytimg.com/vi/5K48rGXk3mo/hqdefault.jpg",
-      "desc": "Unlock the ad-free experience of The Jordan B. Peterson Podcast and dive into exclusive bonus content on DailyWire+. Start watching now: http://dwpluspeterson.com/yt\n\nALL LINKS: https://feedlink.io/jordanbpeterson\n\n\n// LINKS //\n\nPeterson Academy https://petersonacademy.com\nARC https://www.arcforum.c",
-      "guestTags": []
+      "videoId": "ucwxs7KLUI4",
+      "show": "All-In Podcast",
+      "title": "David Sacks: The Chip Stock Crash is Based on Momentum, NOT Fundamentals",
+      "url": "https://www.youtube.com/watch?v=ucwxs7KLUI4",
+      "date": "2026-08-01T04:16:11.000Z",
+      "image": "https://i2.ytimg.com/vi/ucwxs7KLUI4/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
