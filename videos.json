@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T10:03:34.651Z",
+  "lastUpdated": "2026-08-01T13:39:10.433Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ucwxs7KLUI4",
-      "show": "All-In Podcast",
-      "title": "David Sacks: The Chip Stock Crash is Based on Momentum, NOT Fundamentals",
-      "url": "https://www.youtube.com/watch?v=ucwxs7KLUI4",
-      "date": "2026-08-01T04:16:11.000Z",
-      "image": "https://i2.ytimg.com/vi/ucwxs7KLUI4/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "miKRVrhZvI0",
+      "show": "Theo Von",
+      "title": "Jane Fonda Gave Chelsea Handler a (Light) Intervention",
+      "url": "https://www.youtube.com/watch?v=miKRVrhZvI0",
+      "date": "2026-08-01T13:30:03.000Z",
+      "image": "https://i2.ytimg.com/vi/miKRVrhZvI0/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend #570 | Chelsea Handler\nFull Episode: https://youtu.be/SQyUse4aEzo?si=O_qcz8228ov8OFoe\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweeke",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ucwxs7KLUI4",
-      "show": "All-In Podcast",
-      "title": "David Sacks: The Chip Stock Crash is Based on Momentum, NOT Fundamentals",
-      "url": "https://www.youtube.com/watch?v=ucwxs7KLUI4",
-      "date": "2026-08-01T04:16:11.000Z",
-      "image": "https://i2.ytimg.com/vi/ucwxs7KLUI4/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "miKRVrhZvI0",
+      "show": "Theo Von",
+      "title": "Jane Fonda Gave Chelsea Handler a (Light) Intervention",
+      "url": "https://www.youtube.com/watch?v=miKRVrhZvI0",
+      "date": "2026-08-01T13:30:03.000Z",
+      "image": "https://i2.ytimg.com/vi/miKRVrhZvI0/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend #570 | Chelsea Handler\nFull Episode: https://youtu.be/SQyUse4aEzo?si=O_qcz8228ov8OFoe\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweeke",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
