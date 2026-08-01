@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T19:16:55.215Z",
+  "lastUpdated": "2026-08-01T20:59:50.365Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "rbKYkAPGc8c",
-      "show": "TRIGGERnometry",
-      "title": "Critical Drinker: The Real Problem with the Odyssey",
-      "url": "https://www.youtube.com/watch?v=rbKYkAPGc8c",
-      "date": "2026-08-01T18:00:23.000Z",
-      "image": "https://i3.ytimg.com/vi/rbKYkAPGc8c/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- CyberGhost VPN: Our VPN of choice. Grab the offer at https://cyberghost.com/triggernometry\n\nJoin our exclusive TRIGGER",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "rCkZd6icXgE",
+      "show": "Shawn Ryan Show",
+      "title": "This App Stops Your Phone From Spying on You 🤯",
+      "url": "https://www.youtube.com/watch?v=rCkZd6icXgE",
+      "date": "2026-08-01T20:00:18.000Z",
+      "image": "https://i3.ytimg.com/vi/rCkZd6icXgE/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "rbKYkAPGc8c",
-      "show": "TRIGGERnometry",
-      "title": "Critical Drinker: The Real Problem with the Odyssey",
-      "url": "https://www.youtube.com/watch?v=rbKYkAPGc8c",
-      "date": "2026-08-01T18:00:23.000Z",
-      "image": "https://i3.ytimg.com/vi/rbKYkAPGc8c/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- CyberGhost VPN: Our VPN of choice. Grab the offer at https://cyberghost.com/triggernometry\n\nJoin our exclusive TRIGGER",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "rCkZd6icXgE",
+      "show": "Shawn Ryan Show",
+      "title": "This App Stops Your Phone From Spying on You 🤯",
+      "url": "https://www.youtube.com/watch?v=rCkZd6icXgE",
+      "date": "2026-08-01T20:00:18.000Z",
+      "image": "https://i3.ytimg.com/vi/rCkZd6icXgE/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
