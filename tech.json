@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-03T11:31:36.656Z",
+  "lastUpdated": "2026-08-03T14:50:36.236Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
+      "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
+      "date": "2026-08-03T14:05:38.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Theft-Continues.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Drug Discovery Has No Magic Wands",
+      "url": "https://www.a16z.news/p/drug-discovery-has-no-magic-wands",
+      "date": "2026-08-03T14:01:26.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/0bad923f-967f-4cb3-8e30-12ab30c5b44f_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
       "url": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
@@ -97,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin",
       "date": "2026-07-30T19:57:05.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Allocation.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
-      "url": "https://bitcoinmagazine.com/news/scott-bessent-urges-vote-on-clarity-act",
-      "date": "2026-07-30T18:07:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -322,15 +331,6 @@
       "url": "https://www.a16z.news/p/banning-ai-in-law-school-weve-seen",
       "date": "2026-07-15T14:00:41.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/d1cdd1ef-d713-4f4b-bf6c-769562efeab5_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "You Just Hired a Million Bad Employees",
-      "url": "https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops",
-      "date": "2026-07-14T16:33:49.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b5d3f677-adb4-46e5-af51-c649218d6b45_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
