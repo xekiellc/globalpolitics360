@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-08-04T06:31:50.723Z",
+  "lastUpdated": "2026-08-04T10:44:41.277Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 17,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pCNOvCR8sS4",
-      "show": "Kill Tony",
-      "title": "KT #779 - ADAM RAY",
-      "url": "https://www.youtube.com/watch?v=pCNOvCR8sS4",
-      "date": "2026-08-04T01:00:06.000Z",
-      "image": "https://i1.ytimg.com/vi/pCNOvCR8sS4/hqdefault.jpg",
-      "desc": "Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR",
-      "guestTags": []
+      "videoId": "XTrj9izLxMI",
+      "show": "TRIGGERnometry",
+      "title": "The Critical Drinker on The Odyssey",
+      "url": "https://www.youtube.com/watch?v=XTrj9izLxMI",
+      "date": "2026-08-04T10:06:46.000Z",
+      "image": "https://i1.ytimg.com/vi/XTrj9izLxMI/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pCNOvCR8sS4",
-      "show": "Kill Tony",
-      "title": "KT #779 - ADAM RAY",
-      "url": "https://www.youtube.com/watch?v=pCNOvCR8sS4",
-      "date": "2026-08-04T01:00:06.000Z",
-      "image": "https://i1.ytimg.com/vi/pCNOvCR8sS4/hqdefault.jpg",
-      "desc": "Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www.TONYHINCHCLIFFE.COM (TOUR",
-      "guestTags": []
+      "videoId": "XTrj9izLxMI",
+      "show": "TRIGGERnometry",
+      "title": "The Critical Drinker on The Odyssey",
+      "url": "https://www.youtube.com/watch?v=XTrj9izLxMI",
+      "date": "2026-08-04T10:06:46.000Z",
+      "image": "https://i1.ytimg.com/vi/XTrj9izLxMI/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
