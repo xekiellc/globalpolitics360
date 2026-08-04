@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-04T10:44:33.872Z",
+  "lastUpdated": "2026-08-04T14:27:43.794Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Hyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack",
+      "url": "https://bitcoinmagazine.com/news/hyperscale-sells-some-bitcoin",
+      "date": "2026-08-04T13:58:28.000Z",
+      "image": "",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Endeavor Optical Networks",
+      "url": "https://www.a16z.news/p/endeavor-optical-networks",
+      "date": "2026-08-04T12:28:03.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/fbcfea2f-1ce0-4cba-8065-83b0a3d14015_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Volta",
+      "url": "https://www.a16z.news/p/investing-in-volta",
+      "date": "2026-08-04T12:03:25.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/2cce6029-df39-4bce-8c09-b23124eb0681_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "&#8216;We&#8217;ll Get Through This Bear Market,&#8217; Says CEO of Bitcoin Treasury Company Strategy",
       "url": "https://bitcoinmagazine.com/news/strategy-to-get-through-bitcoin-bear-market",
@@ -97,15 +124,6 @@
       "url": "https://bitcoinmagazine.com/news/us-sanctions-iran-companies-using-bitcoin",
       "date": "2026-07-31T16:20:58.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "COLDCARD SECURITY RISK: IMMEDIATE ACTION REQUIRED",
-      "url": "https://bitcoinmagazine.com/news/coldcard-security-risk-immediate-action-required",
-      "date": "2026-07-31T15:22:26.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2024/11/coldcard12-scaled.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -307,24 +325,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Investing in Runta",
-      "url": "https://www.a16z.news/p/investing-in-runta",
-      "date": "2026-07-16T15:15:25.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/efc1ff4a-94a3-4592-b284-9e7bee71f6c5_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Reactors Have a Surprising Amount of Detail",
-      "url": "https://www.a16z.news/p/reactors-have-a-surprising-amount",
-      "date": "2026-07-16T14:01:49.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e9442bc8-729e-4a9e-9467-cd512053d954_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Senra Systems: Harnessing Human Skill",

@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-08-04T10:44:40.551Z",
+  "lastUpdated": "2026-08-04T14:27:49.734Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1724,
+  "taggedCount": 1644,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Aaron Rodgers TORCHES ESPN and Fauci, RFK Jr. Unloads on Dana Bash, with Meghan Daum, PLUS Sophie Cunningham Attacked",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/ed78710d-6c3c-4d8d-8988-c7687aa398c6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=ed78710d-6c3c-4d8d-8988-c7687aa398c6&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-08-04T11:00:00.000Z",
+      "duration": "01:18:41",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/42e50299-5128-44a4-aac5-fc2aa506ff0e/3000x3000/ap_112_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Meghan Daum, author and host of “The Unspeakeasy” Podcast. They begin with Meghan's personal story of losing her home in the 2025 California wildfires before discussing Spencer Pratt, Los Angeles' homelessness crisis, why California's approach to addiction and mental illness continues to fail, and whether public frustration could reshape the state's politics. They also",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -67,18 +81,6 @@
       "duration": "8875",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "My guest is Dr. Matthew (Max) Krummel, PhD, professor at UCSF and one of the world’s leading immunologists. We discuss how your immune system works and how sleep, emotions, and even memories shape immune function. We also explore thymus function, its role in autoimmunity, and its potential role in combating cancer. And we discuss how the type and timing of immunization can impact health. This epis",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E283_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores",
-      "date": "2026-07-31T22:23:00.000Z",
-      "duration": "01:36:34",
-      "image": "https://static.libsyn.com/p/assets/9/3/d/1/93d127ba8f063c6c16c3140a3186d450/1_E283.png",
-      "desc": "(0:00) Bestie intros (1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called (20:20) China's advantage and green shoots for the US economy (34:12) Frontier Labs say \"SLOW DOWN AI\" (1:01:15) Why are frontier labs \"burning books\"? (1:14:45) Socialism Corner: Mamdani's grocery stores and the \"Socialist Spectacle\" (1:24:44) Science Corner: Understanding and mapping the brain App",
       "guestTags": []
     },
     {
@@ -132,6 +134,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Aaron Rodgers TORCHES ESPN and Fauci, RFK Jr. Unloads on Dana Bash, with Meghan Daum, PLUS Sophie Cunningham Attacked",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/ed78710d-6c3c-4d8d-8988-c7687aa398c6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=ed78710d-6c3c-4d8d-8988-c7687aa398c6&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-08-04T11:00:00.000Z",
+      "duration": "01:18:41",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/42e50299-5128-44a4-aac5-fc2aa506ff0e/3000x3000/ap_112_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Meghan Daum, author and host of “The Unspeakeasy” Podcast. They begin with Meghan's personal story of losing her home in the 2025 California wildfires before discussing Spencer Pratt, Los Angeles' homelessness crisis, why California's approach to addiction and mental illness continues to fail, and whether public frustration could reshape the state's politics. They also",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "#779 - ADAM RAY",
@@ -193,18 +209,6 @@
       "duration": "8875",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "My guest is Dr. Matthew (Max) Krummel, PhD, professor at UCSF and one of the world’s leading immunologists. We discuss how your immune system works and how sleep, emotions, and even memories shape immune function. We also explore thymus function, its role in autoimmunity, and its potential role in combating cancer. And we discuss how the type and timing of immunization can impact health. This epis",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E283_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores",
-      "date": "2026-07-31T22:23:00.000Z",
-      "duration": "01:36:34",
-      "image": "https://static.libsyn.com/p/assets/9/3/d/1/93d127ba8f063c6c16c3140a3186d450/1_E283.png",
-      "desc": "(0:00) Bestie intros (1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called (20:20) China's advantage and green shoots for the US economy (34:12) Frontier Labs say \"SLOW DOWN AI\" (1:01:15) Why are frontier labs \"burning books\"? (1:14:45) Socialism Corner: Mamdani's grocery stores and the \"Socialist Spectacle\" (1:24:44) Science Corner: Understanding and mapping the brain App",
       "guestTags": []
     },
     {
@@ -269,6 +273,9 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
