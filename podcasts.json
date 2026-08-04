@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-08-04T14:27:49.734Z",
+  "lastUpdated": "2026-08-04T17:53:01.616Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1644,
+  "taggedCount": 1725,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #183 with Rico Verhoeven",
+      "audioUrl": "https://traffic.megaphone.fm/GLT4292309587.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT4292309587.mp3",
+      "date": "2026-08-04T17:00:00.000Z",
+      "duration": "8562",
+      "image": "https://megaphone.imgix.net/podcasts/a7d26330-8f8d-11f1-b08c-239fa033ae8f/image/68ee083ec390d4185de0bf505046b148.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe sits down with professional boxer, kickboxer, and mixed martial artist Rico Verhoeven.www.youtube.com/@RicoVerhoeven&amp;nbsp;&amp;nbsp;https://ricoverhoeven.com\n\n\n\n\n\n\n\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/4/26: Flock Camera Revolt, China Gives Iran Weapons Amid US Decline",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/484f820a-6bfc-4fb4-b6b5-b49c00fee63a/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-4-26-flock-camera-revolt-china-gives-iran-weapons-amid-us-decline",
+      "date": "2026-08-04T16:01:59.000Z",
+      "duration": "2149",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss the flock camera revolt, China gives Iran key weapons systems. &nbsp; Logan Phillips:&nbsp;https://www.racetothewh.com/Daniel Bessner:&nbsp;https://imperialistrealism.substack.com/?utm_campaign=profile_chipsAmerican Prestige:&nbsp;https://americanprestige.substack.com/?utm_campaign=profile_chips &nbsp; To become a Breaking Points Premium Member and watch/listen to the sh",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -58,30 +82,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/3/26: MAGA Abuser Doubles Down, Spain Migrant Crisis, New York Sues Kalshi",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/48bd1205-dd6b-4559-9eaa-b49b00f7c976/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-3-26-maga-abuser-doubles-down-spain-migrant-crisis-new-york-sues-kalshi",
-      "date": "2026-08-03T15:21:23.000Z",
-      "duration": "2782",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss MAGA abuser doubles down, Spain migrant crisis, New York sues Kalshi. Juan David Rojas: https://juandarojasro.substack.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How Your Immune System Works &amp; How to Improve It | Dr. Max Krummel",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7009523546.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel",
-      "date": "2026-08-03T08:00:00.000Z",
-      "duration": "8875",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "My guest is Dr. Matthew (Max) Krummel, PhD, professor at UCSF and one of the world’s leading immunologists. We discuss how your immune system works and how sleep, emotions, and even memories shape immune function. We also explore thymus function, its role in autoimmunity, and its potential role in combating cancer. And we discuss how the type and timing of immunization can impact health. This epis",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -134,6 +134,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #183 with Rico Verhoeven",
+      "audioUrl": "https://traffic.megaphone.fm/GLT4292309587.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT4292309587.mp3",
+      "date": "2026-08-04T17:00:00.000Z",
+      "duration": "8562",
+      "image": "https://megaphone.imgix.net/podcasts/a7d26330-8f8d-11f1-b08c-239fa033ae8f/image/68ee083ec390d4185de0bf505046b148.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe sits down with professional boxer, kickboxer, and mixed martial artist Rico Verhoeven.www.youtube.com/@RicoVerhoeven&amp;nbsp;&amp;nbsp;https://ricoverhoeven.com\n\n\n\n\n\n\n\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/4/26: Flock Camera Revolt, China Gives Iran Weapons Amid US Decline",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/484f820a-6bfc-4fb4-b6b5-b49c00fee63a/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-4-26-flock-camera-revolt-china-gives-iran-weapons-amid-us-decline",
+      "date": "2026-08-04T16:01:59.000Z",
+      "duration": "2149",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss the flock camera revolt, China gives Iran key weapons systems. &nbsp; Logan Phillips:&nbsp;https://www.racetothewh.com/Daniel Bessner:&nbsp;https://imperialistrealism.substack.com/?utm_campaign=profile_chipsAmerican Prestige:&nbsp;https://americanprestige.substack.com/?utm_campaign=profile_chips &nbsp; To become a Breaking Points Premium Member and watch/listen to the sh",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Aaron Rodgers TORCHES ESPN and Fauci, RFK Jr. Unloads on Dana Bash, with Meghan Daum, PLUS Sophie Cunningham Attacked",
@@ -186,30 +210,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/3/26: MAGA Abuser Doubles Down, Spain Migrant Crisis, New York Sues Kalshi",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/48bd1205-dd6b-4559-9eaa-b49b00f7c976/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-3-26-maga-abuser-doubles-down-spain-migrant-crisis-new-york-sues-kalshi",
-      "date": "2026-08-03T15:21:23.000Z",
-      "duration": "2782",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss MAGA abuser doubles down, Spain migrant crisis, New York sues Kalshi. Juan David Rojas: https://juandarojasro.substack.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How Your Immune System Works &amp; How to Improve It | Dr. Max Krummel",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7009523546.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel",
-      "date": "2026-08-03T08:00:00.000Z",
-      "duration": "8875",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "My guest is Dr. Matthew (Max) Krummel, PhD, professor at UCSF and one of the world’s leading immunologists. We discuss how your immune system works and how sleep, emotions, and even memories shape immune function. We also explore thymus function, its role in autoimmunity, and its potential role in combating cancer. And we discuss how the type and timing of immunization can impact health. This epis",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
