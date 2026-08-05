@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-08-05T17:45:52.769Z",
+  "lastUpdated": "2026-08-05T19:43:06.136Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1726,
+  "taggedCount": 1727,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "Britain Isn't Ready For A Real War - Col. Hamish de Bretton-Gordon OBE",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2883682803.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2883682803.mp3",
+      "date": "2026-08-05T18:00:00.000Z",
+      "duration": "4906",
+      "image": "https://megaphone.imgix.net/podcasts/098c4270-90b6-11f1-b694-938a5914cd6a/image/32f4a4fe336c4582e0b23612518fd221.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Wild Alaskan Company: premium, wild-caught seafood. Go to https://wildalaskan.com/TRIG for $35 off your first box\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.com/TRIG\n\n- MassZymes by BIOptimizers: digestive enzyme formula",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -67,20 +81,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss the newest updates on the war with Iran, Donald Trump's comments about Anthony Fauci's presidential pardon, RFK's Jr's discussion on CNN about the handling of the pandemic, and more.Support Our Sponsors:Quince - Get free shipping on your Quince order and 365-day return",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Special Message from the Office of Approved Opinions Regarding the Ceuta Incident - Konstantin Kisin",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3694893601.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3694893601.mp3",
-      "date": "2026-08-03T18:00:00.000Z",
-      "duration": "313",
-      "image": "https://megaphone.imgix.net/podcasts/fa893990-8f61-11f1-b665-0bb10b80c247/image/27e415c1b11e56e6cdcb82e7d98178cc.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Special Message from the Office of Approved Opinions Regarding the Ceuta Incident - Konstantin Kisin\n\nTriggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\nKonstantin X / Twitter - h",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -134,6 +134,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "Britain Isn't Ready For A Real War - Col. Hamish de Bretton-Gordon OBE",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2883682803.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2883682803.mp3",
+      "date": "2026-08-05T18:00:00.000Z",
+      "duration": "4906",
+      "image": "https://megaphone.imgix.net/podcasts/098c4270-90b6-11f1-b694-938a5914cd6a/image/32f4a4fe336c4582e0b23612518fd221.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Wild Alaskan Company: premium, wild-caught seafood. Go to https://wildalaskan.com/TRIG for $35 off your first box\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.com/TRIG\n\n- MassZymes by BIOptimizers: digestive enzyme formula",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2535 - Andrew Wilson",
@@ -195,20 +209,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss the newest updates on the war with Iran, Donald Trump's comments about Anthony Fauci's presidential pardon, RFK's Jr's discussion on CNN about the handling of the pandemic, and more.Support Our Sponsors:Quince - Get free shipping on your Quince order and 365-day return",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Special Message from the Office of Approved Opinions Regarding the Ceuta Incident - Konstantin Kisin",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3694893601.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3694893601.mp3",
-      "date": "2026-08-03T18:00:00.000Z",
-      "duration": "313",
-      "image": "https://megaphone.imgix.net/podcasts/fa893990-8f61-11f1-b665-0bb10b80c247/image/27e415c1b11e56e6cdcb82e7d98178cc.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Special Message from the Office of Approved Opinions Regarding the Ceuta Incident - Konstantin Kisin\n\nTriggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\nKonstantin X / Twitter - h",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -273,14 +273,14 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ]
   }
 }

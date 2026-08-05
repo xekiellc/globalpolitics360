@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T17:45:55.850Z",
+  "lastUpdated": "2026-08-05T19:43:08.116Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "yOXwdcucbH0",
-      "show": "TRIGGERnometry",
-      "title": "British politics explained in 90 seconds",
-      "url": "https://www.youtube.com/watch?v=yOXwdcucbH0",
-      "date": "2026-08-05T17:12:35.000Z",
-      "image": "https://i2.ytimg.com/vi/yOXwdcucbH0/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "MnkBaU752hw",
+      "show": "Shawn Ryan Show",
+      "title": "China Hacked the United States?! 😳",
+      "url": "https://www.youtube.com/watch?v=MnkBaU752hw",
+      "date": "2026-08-05T18:00:30.000Z",
+      "image": "https://i2.ytimg.com/vi/MnkBaU752hw/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "yOXwdcucbH0",
-      "show": "TRIGGERnometry",
-      "title": "British politics explained in 90 seconds",
-      "url": "https://www.youtube.com/watch?v=yOXwdcucbH0",
-      "date": "2026-08-05T17:12:35.000Z",
-      "image": "https://i2.ytimg.com/vi/yOXwdcucbH0/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "MnkBaU752hw",
+      "show": "Shawn Ryan Show",
+      "title": "China Hacked the United States?! 😳",
+      "url": "https://www.youtube.com/watch?v=MnkBaU752hw",
+      "date": "2026-08-05T18:00:30.000Z",
+      "image": "https://i2.ytimg.com/vi/MnkBaU752hw/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
