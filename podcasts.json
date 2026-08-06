@@ -1,10 +1,38 @@
 {
-  "lastUpdated": "2026-08-06T10:44:27.817Z",
+  "lastUpdated": "2026-08-06T14:24:26.237Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1727,
+  "taggedCount": 1728,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Burritos Shouldn't Cost $20",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/636f2164-666a-4483-802d-d532bd4ab8e9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/636f2164-666a-4483-802d-d532bd4ab8e9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-08-06T12:00:00.000Z",
+      "duration": "01:01:26",
+      "image": "https://content.production.cdn.art19.com/images/c9/e6/b5/d6/c9e6b5d6-7fc0-4a0e-9327-78fed4fb4fd0/6a0970ed0f63bd5eeda5d8df6acc94b15a1775742037ad8310560ec058c234ba6f4bd914a0b059ec866c312220ec1e3b53d7372d626cfbcdcd69b2667e638f4e.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Vivek Ramaswamy being booed at a Young Americans For Liberty Event, the subsequent Twitter discussion about the economy and unaffordability, Stephen A. Smith apologizing to Kyrie Irving, and more.Support Our Sponsors:The Wellness Company - Upgrade your oral care with S",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Fauci the FALL GUY? Perez Hilton&apos;s Breakdown, with Drea de Matteo, and the $20 Burrito Debate",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/1b7590e7-cad3-4201-acd1-8814231e2054/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=1b7590e7-cad3-4201-acd1-8814231e2054&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-08-06T11:00:00.000Z",
+      "duration": "01:24:25",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/ef66a037-17c8-4d40-b748-172c293c4447/3000x3000/ap_113_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Drea de Matteo, Emmy Award-winning actress and host of the “ULTRAFREE” podcast. They begin by discussing Drea’s latest career move in the wake of her outspoken stance on COVID and the growing push to hold Anthony Fauci accountable. Drea explains why she believes Fauci has ultimately become a scapegoat for a much larger system involving powerful institutions. Then Emily",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
@@ -30,18 +58,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage &amp; Swarms of Robot Ships",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships",
-      "date": "2026-08-05T20:19:00.000Z",
-      "duration": "48:19",
-      "image": "https://static.libsyn.com/p/assets/5/4/d/4/54d4595000168b8616c3140a3186d450/1_Pod_Saronic.png",
-      "desc": "(0:00) Saronic founders join the show! (4:56) The Navy's first autonomous rescue in the Strait of Hormuz, and how China out builds America 230-to-1 (13:04) $3B destroyers vs. Marauder (21:25) Killing cost-plus, the new primes, and why only 1% of the budget goes to autonomy (25:55) Could 10,000 Corsairs actually lock down a 20-mile strait? (31:25) China's arming robot dogs: will our AI weapons hurt",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/5/26: Abdul Wins In Michigan, Houthis Hit Saudi Ship, US Bails Out Japan",
@@ -64,20 +80,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026 \nTHIS EPISODE IS SPONSORED BY: ZipRecruiter: Try it FOR FREE at http://ZipRecruiter.com/KILLTONY \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + f",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "RFK Jr. Eviscerates Dana Bash",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/81209751-fa4f-46c9-a1b7-4263440e6fdb.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/81209751-fa4f-46c9-a1b7-4263440e6fdb.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-08-04T00:00:00.000Z",
-      "duration": "01:08:18",
-      "image": "https://content.production.cdn.art19.com/images/44/23/69/53/44236953-40da-41a5-8e7b-b801e0a25bae/ede1a17d18b4b921af81265e338bf98b6c76f133d5a186f9d64ca631dab4cd39ad321e81c3ad5dbd8bd476c24c3b394f17d71f858d2d094aad1debf5bda2eb44.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss the newest updates on the war with Iran, Donald Trump's comments about Anthony Fauci's presidential pardon, RFK's Jr's discussion on CNN about the handling of the pandemic, and more.Support Our Sponsors:Quince - Get free shipping on your Quince order and 365-day return",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -130,6 +132,34 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Burritos Shouldn't Cost $20",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/636f2164-666a-4483-802d-d532bd4ab8e9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/636f2164-666a-4483-802d-d532bd4ab8e9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-08-06T12:00:00.000Z",
+      "duration": "01:01:26",
+      "image": "https://content.production.cdn.art19.com/images/c9/e6/b5/d6/c9e6b5d6-7fc0-4a0e-9327-78fed4fb4fd0/6a0970ed0f63bd5eeda5d8df6acc94b15a1775742037ad8310560ec058c234ba6f4bd914a0b059ec866c312220ec1e3b53d7372d626cfbcdcd69b2667e638f4e.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Vivek Ramaswamy being booed at a Young Americans For Liberty Event, the subsequent Twitter discussion about the economy and unaffordability, Stephen A. Smith apologizing to Kyrie Irving, and more.Support Our Sponsors:The Wellness Company - Upgrade your oral care with S",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Fauci the FALL GUY? Perez Hilton&apos;s Breakdown, with Drea de Matteo, and the $20 Burrito Debate",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/1b7590e7-cad3-4201-acd1-8814231e2054/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=1b7590e7-cad3-4201-acd1-8814231e2054&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-08-06T11:00:00.000Z",
+      "duration": "01:24:25",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/ef66a037-17c8-4d40-b748-172c293c4447/3000x3000/ap_113_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Drea de Matteo, Emmy Award-winning actress and host of the “ULTRAFREE” podcast. They begin by discussing Drea’s latest career move in the wake of her outspoken stance on COVID and the growing push to hold Anthony Fauci accountable. Drea explains why she believes Fauci has ultimately become a scapegoat for a much larger system involving powerful institutions. Then Emily",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#328 Kevin Mandia - The Man Who Exposed China's Military Hackers",
@@ -151,18 +181,6 @@
       "duration": "2077",
       "image": "https://megaphone.imgix.net/podcasts/bc8da5d2-9145-11f1-aca1-2777bebad8e7/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "In this Huberman Lab Essentials episode, I explain how key neuromodulators shape motivation, energy, focus and mood throughout the day. I also describe a toolkit of science-supported behavioral, nutritional and supplement-based strategies to increase baseline levels for each neuromodulator, which can be modified to support your specific health and performance goals. \n\nRead the episode show notes a",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage &amp; Swarms of Robot Ships",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships",
-      "date": "2026-08-05T20:19:00.000Z",
-      "duration": "48:19",
-      "image": "https://static.libsyn.com/p/assets/5/4/d/4/54d4595000168b8616c3140a3186d450/1_Pod_Saronic.png",
-      "desc": "(0:00) Saronic founders join the show! (4:56) The Navy's first autonomous rescue in the Strait of Hormuz, and how China out builds America 230-to-1 (13:04) $3B destroyers vs. Marauder (21:25) Killing cost-plus, the new primes, and why only 1% of the budget goes to autonomy (25:55) Could 10,000 Corsairs actually lock down a 20-mile strait? (31:25) China's arming robot dogs: will our AI weapons hurt",
       "guestTags": []
     },
     {
@@ -188,20 +206,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026 \nTHIS EPISODE IS SPONSORED BY: ZipRecruiter: Try it FOR FREE at http://ZipRecruiter.com/KILLTONY \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + f",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "RFK Jr. Eviscerates Dana Bash",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/81209751-fa4f-46c9-a1b7-4263440e6fdb.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/81209751-fa4f-46c9-a1b7-4263440e6fdb.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-08-04T00:00:00.000Z",
-      "duration": "01:08:18",
-      "image": "https://content.production.cdn.art19.com/images/44/23/69/53/44236953-40da-41a5-8e7b-b801e0a25bae/ede1a17d18b4b921af81265e338bf98b6c76f133d5a186f9d64ca631dab4cd39ad321e81c3ad5dbd8bd476c24c3b394f17d71f858d2d094aad1debf5bda2eb44.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss the newest updates on the war with Iran, Donald Trump's comments about Anthony Fauci's presidential pardon, RFK's Jr's discussion on CNN about the handling of the pandemic, and more.Support Our Sponsors:Quince - Get free shipping on your Quince order and 365-day return",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -267,6 +271,9 @@
   "guestIndex": {
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }
 }

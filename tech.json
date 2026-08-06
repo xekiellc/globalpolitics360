@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-06T10:44:18.672Z",
+  "lastUpdated": "2026-08-06T14:24:20.408Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Circuit, DaLand Give Credit Unions a Direct Path to Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/circuit-daland-give-credit-unions-bitcoin",
+      "date": "2026-08-06T14:19:11.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Circuit-DaLand-Give-Credit-Unions-a-Direct-Path-to-Bitcoin.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+      "url": "https://www.a16z.news/p/knowing-when-to-stop-the-art-of-making",
+      "date": "2026-08-06T14:01:08.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/97ac063b-2387-4c18-b4b5-85558985613a_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "White House Now Reviewing Crypto Clarity Act Ethics Text Ahead of August Deadline: Report",
       "url": "https://bitcoinmagazine.com/news/white-house-reviewing-crypto-clarity-act",
@@ -88,15 +106,6 @@
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/corp-bip-110-soft-fork",
       "date": "2026-08-04T20:41:18.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/83f5a708-906f-4a5f-925a-53b89c1e9055.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "FBI Agent Accused of $1 Million Crypto Theft From &#8216;Adversarial Nation&#8217;",
-      "url": "https://bitcoinmagazine.com/news/fbi-agent-accused-of-1million-crypto-theft",
-      "date": "2026-08-04T18:51:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Accused-of-1-Million-Crypto-Theft-From-Adversarial-Nation.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -304,15 +313,6 @@
       "url": "https://www.a16z.news/p/the-7-hires-a-hardware-startup-needs",
       "date": "2026-07-20T14:03:47.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ac1e6f-0273-4cdf-b52d-5538dcb6e347_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Neo",
-      "url": "https://www.a16z.news/p/investing-in-neo",
-      "date": "2026-07-20T13:31:08.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!JJym!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5c203f1-5acf-472c-b3e6-502a4766ae21_1200x630.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
