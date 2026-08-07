@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-07T09:04:51.170Z",
+  "lastUpdated": "2026-08-07T10:57:15.908Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin&#8217;s BIP110 Moment: Three Possible Scenarios",
+      "url": "https://bitcoinmagazine.com/technical/bitcoins-bip110-moment-three-possible-scenarios",
+      "date": "2026-08-07T10:01:26.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/BIP110-Aaron-Hero.png",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "&#8220;We Need Clarity,&#8221; Says Former New York Governor Andrew Cuomo",
       "url": "https://bitcoinmagazine.com/news/andrew-cuomo-urges-clarity-act-action",
@@ -88,15 +97,6 @@
       "url": "https://bitcoinmagazine.com/business/bitcoin-red-team-finds-85-critical-flaws-across-390-open-source-repos-after-coldcard-exploit",
       "date": "2026-08-05T20:33:06.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn2-1.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place",
-      "url": "https://bitcoinmagazine.com/news/russia-keeps-payment-ban-in-place",
-      "date": "2026-08-05T17:39:39.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Russia-Passes-Law-to-Regulate-Crypto-Exchanges-Keeps-Payment-Ban-in-Place.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
