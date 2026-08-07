@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:23:44.218Z",
+  "lastUpdated": "2026-08-07T09:04:59.892Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ee3B7XJt4Zs",
-      "show": "Shawn Ryan Show",
-      "title": "Your Car Will Be Watching You By 2027 😳",
-      "url": "https://www.youtube.com/watch?v=Ee3B7XJt4Zs",
-      "date": "2026-08-07T02:00:16.000Z",
-      "image": "https://i2.ytimg.com/vi/Ee3B7XJt4Zs/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "W1JnArr5keE",
+      "show": "TRIGGERnometry",
+      "title": "Can You Change Your Biological Sex?",
+      "url": "https://www.youtube.com/watch?v=W1JnArr5keE",
+      "date": "2026-08-07T08:26:40.000Z",
+      "image": "https://i4.ytimg.com/vi/W1JnArr5keE/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Ee3B7XJt4Zs",
-      "show": "Shawn Ryan Show",
-      "title": "Your Car Will Be Watching You By 2027 😳",
-      "url": "https://www.youtube.com/watch?v=Ee3B7XJt4Zs",
-      "date": "2026-08-07T02:00:16.000Z",
-      "image": "https://i2.ytimg.com/vi/Ee3B7XJt4Zs/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "W1JnArr5keE",
+      "show": "TRIGGERnometry",
+      "title": "Can You Change Your Biological Sex?",
+      "url": "https://www.youtube.com/watch?v=W1JnArr5keE",
+      "date": "2026-08-07T08:26:40.000Z",
+      "image": "https://i4.ytimg.com/vi/W1JnArr5keE/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
