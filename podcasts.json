@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-07T16:57:52.001Z",
+  "lastUpdated": "2026-08-07T19:03:50.608Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1728,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2537 - David Sinclair",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1521681560.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1521681560.mp3",
+      "date": "2026-08-07T17:00:00.000Z",
+      "duration": "9037",
+      "image": "https://megaphone.imgix.net/podcasts/16d5d7dc-91ee-11f1-bdcf-df9a64476d59/image/33b2538a59583328a79e1576b99e251e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "David Sinclair, AO, PhD, is a longevity scientist, Professor of Genetics at Harvard Medical School, author of the book \"Lifespan: Why We Age—and Why We Don't Have To,\" and host of the \"Lifespan\" podcast.www.youtube.com/c/davidsinclairpodcast&amp;nbsp;&amp;nbsp;www.simonandschuster.com/books/Lifespan/David-Sinclair/9781501191978&amp;nbsp;&amp;nbsp;https://lifespan.com&amp;nbsp;&amp;nbsp;https://dav",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -39,18 +51,6 @@
       "duration": "00:42:32",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "An exclusive, behind the scene look from KT #779 with guest Adam Ray. \n\nAdam Ray, Pat O'Neill, Dedrick Flynn, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026\n\nExperience MSG from anywhere! Access livestream tickets at https://killtonylive.com/\n\nWatch Kill Tony and other exclusive content, ad",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2536 - Eric Goode &amp; Jeremy McBride",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1902969569.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1902969569.mp3",
-      "date": "2026-08-06T17:00:00.000Z",
-      "duration": "8503",
-      "image": "https://megaphone.imgix.net/podcasts/0d4cb1e8-9123-11f1-be7f-477c38b7e87e/image/26e80912c71ad40dbd609eefcd958855.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Eric Goode and Jeremy McBride are filmmakers whose work includes \"Tiger King,\" \"Chimp Crazy,\" and \"Monsters of God,\" now available on HBO and HBO Max.https://www.hbomax.com/shows/monsters-of-god/d779bf7e-5bfb-47d9-be21-9795ef6d19ce\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nonX Offroad: Try onX Offroad for 50% off- go to https://onXmaps.com/joerogan\n\n\n\n",
       "guestTags": []
     },
     {
@@ -130,6 +130,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2537 - David Sinclair",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1521681560.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1521681560.mp3",
+      "date": "2026-08-07T17:00:00.000Z",
+      "duration": "9037",
+      "image": "https://megaphone.imgix.net/podcasts/16d5d7dc-91ee-11f1-bdcf-df9a64476d59/image/33b2538a59583328a79e1576b99e251e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "David Sinclair, AO, PhD, is a longevity scientist, Professor of Genetics at Harvard Medical School, author of the book \"Lifespan: Why We Age—and Why We Don't Have To,\" and host of the \"Lifespan\" podcast.www.youtube.com/c/davidsinclairpodcast&amp;nbsp;&amp;nbsp;www.simonandschuster.com/books/Lifespan/David-Sinclair/9781501191978&amp;nbsp;&amp;nbsp;https://lifespan.com&amp;nbsp;&amp;nbsp;https://dav",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/7/26: Disaster Jobs Report, Rogue AI Commits Crime Spree, Corporate Dems Declare War On DSA",
@@ -163,18 +175,6 @@
       "duration": "00:42:32",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "An exclusive, behind the scene look from KT #779 with guest Adam Ray. \n\nAdam Ray, Pat O'Neill, Dedrick Flynn, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026\n\nExperience MSG from anywhere! Access livestream tickets at https://killtonylive.com/\n\nWatch Kill Tony and other exclusive content, ad",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2536 - Eric Goode &amp; Jeremy McBride",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1902969569.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1902969569.mp3",
-      "date": "2026-08-06T17:00:00.000Z",
-      "duration": "8503",
-      "image": "https://megaphone.imgix.net/podcasts/0d4cb1e8-9123-11f1-be7f-477c38b7e87e/image/26e80912c71ad40dbd609eefcd958855.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Eric Goode and Jeremy McBride are filmmakers whose work includes \"Tiger King,\" \"Chimp Crazy,\" and \"Monsters of God,\" now available on HBO and HBO Max.https://www.hbomax.com/shows/monsters-of-god/d779bf7e-5bfb-47d9-be21-9795ef6d19ce\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nonX Offroad: Try onX Offroad for 50% off- go to https://onXmaps.com/joerogan\n\n\n\n",
       "guestTags": []
     },
     {
