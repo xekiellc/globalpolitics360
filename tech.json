@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-07T10:57:15.908Z",
+  "lastUpdated": "2026-08-07T13:14:50.401Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Weekly Dose of Optimism #205",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-205",
+      "date": "2026-08-07T12:50:11.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!COa7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3cf561c-8967-418b-a446-a46d97d477db_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin&#8217;s BIP110 Moment: Three Possible Scenarios",
       "url": "https://bitcoinmagazine.com/technical/bitcoins-bip110-moment-three-possible-scenarios",
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 159: Aaron Cannon Is Building the Leading AI Customer Research Platform; It's About to Upend a $140B Industry",
-      "url": "https://blog.joelonsdale.com/p/ep-159-aaron-cannon-is-building-the",
-      "date": "2026-07-02T20:35:54.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
