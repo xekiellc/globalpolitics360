@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-07T00:06:24.486Z",
+  "lastUpdated": "2026-08-07T04:29:02.603Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1728,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind The Tape (Ep: 779 Adam Ray)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/7faea34b-8085-47e2-a6b0-0ffadc61577c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=7faea34b-8085-47e2-a6b0-0ffadc61577c&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-07T01:00:00.000Z",
+      "duration": "00:42:32",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scene look from KT #779 with guest Adam Ray. \n\nAdam Ray, Pat O'Neill, Dedrick Flynn, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026\n\nExperience MSG from anywhere! Access livestream tickets at https://killtonylive.com/\n\nWatch Kill Tony and other exclusive content, ad",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -67,18 +79,6 @@
       "duration": "11874",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Kevin Mandia is CEO of Armadin, where he leads the company's mission to secure some of the world's largest and most complex environments. A globally recognized cybersecurity leader, he is also a General Partner at Ballistic Ventures, mentoring and investing in the next generation of cybersecurity entrepreneurs. Best known as the founder of Mandiant and former CEO of FireEye, Mandia helped redefine",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#779 - ADAM RAY",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/8691e4af-9dc2-4855-8350-1316f669ecc0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=8691e4af-9dc2-4855-8350-1316f669ecc0&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-04T01:00:00.000Z",
-      "duration": "02:24:12",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026 \nTHIS EPISODE IS SPONSORED BY: ZipRecruiter: Try it FOR FREE at http://ZipRecruiter.com/KILLTONY \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + f",
       "guestTags": []
     },
     {
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind The Tape (Ep: 779 Adam Ray)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/7faea34b-8085-47e2-a6b0-0ffadc61577c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=7faea34b-8085-47e2-a6b0-0ffadc61577c&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-07T01:00:00.000Z",
+      "duration": "00:42:32",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scene look from KT #779 with guest Adam Ray. \n\nAdam Ray, Pat O'Neill, Dedrick Flynn, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026\n\nExperience MSG from anywhere! Access livestream tickets at https://killtonylive.com/\n\nWatch Kill Tony and other exclusive content, ad",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2536 - Eric Goode &amp; Jeremy McBride",
@@ -193,18 +205,6 @@
       "duration": "11874",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Kevin Mandia is CEO of Armadin, where he leads the company's mission to secure some of the world's largest and most complex environments. A globally recognized cybersecurity leader, he is also a General Partner at Ballistic Ventures, mentoring and investing in the next generation of cybersecurity entrepreneurs. Best known as the founder of Mandiant and former CEO of FireEye, Mandia helped redefine",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#779 - ADAM RAY",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/8691e4af-9dc2-4855-8350-1316f669ecc0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=8691e4af-9dc2-4855-8350-1316f669ecc0&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-04T01:00:00.000Z",
-      "duration": "02:24:12",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026 \nTHIS EPISODE IS SPONSORED BY: ZipRecruiter: Try it FOR FREE at http://ZipRecruiter.com/KILLTONY \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + f",
       "guestTags": []
     },
     {
