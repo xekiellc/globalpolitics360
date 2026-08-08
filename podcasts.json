@@ -1,22 +1,23 @@
 {
-  "lastUpdated": "2026-08-07T22:41:44.652Z",
+  "lastUpdated": "2026-08-08T01:58:20.020Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1729,
+  "taggedCount": 1730,
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: Why Fauci Was Malicious, $20 Burritos, and the “Influencer” Insult: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/df9ec533-5bba-4161-9dd2-97bfafe135f4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=df9ec533-5bba-4161-9dd2-97bfafe135f4&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-08-07T20:00:00.000Z",
-      "duration": "01:45:08",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky responds to several emails about Anthony Fauci, why he has become a mascot for the corruption and misbehavior of the COVID era, and why she believes his actions went beyond incompetence and became malicious. She also dives into the $20 burrito discourse and what downward mobility can tell us about the frustration of younger Americans. Emily t",
+      "show": "All-In Podcast",
+      "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E284_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai",
+      "date": "2026-08-08T00:32:00.000Z",
+      "duration": "01:15:18",
+      "image": "https://static.libsyn.com/p/assets/9/e/9/6/9e9643601e425587d959afa2a1bf1c87/1_Pod_E284.png",
+      "desc": "(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection? (45:44) All-In Summit Speaker Announcements! (48:01) Airtable sells for a 90% discount: SaaSpocalypse? (1:05:56) Chinese AI labs are buying US training data to catch up Apply for Summit 2026: https://al",
       "guestTags": [
-        "Emily Jashinsky"
+        "Elon Musk",
+        "Chamath"
       ]
     },
     {
@@ -131,16 +132,17 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: Why Fauci Was Malicious, $20 Burritos, and the “Influencer” Insult: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/df9ec533-5bba-4161-9dd2-97bfafe135f4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=df9ec533-5bba-4161-9dd2-97bfafe135f4&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-08-07T20:00:00.000Z",
-      "duration": "01:45:08",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky responds to several emails about Anthony Fauci, why he has become a mascot for the corruption and misbehavior of the COVID era, and why she believes his actions went beyond incompetence and became malicious. She also dives into the $20 burrito discourse and what downward mobility can tell us about the frustration of younger Americans. Emily t",
+      "show": "All-In Podcast",
+      "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E284_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai",
+      "date": "2026-08-08T00:32:00.000Z",
+      "duration": "01:15:18",
+      "image": "https://static.libsyn.com/p/assets/9/e/9/6/9e9643601e425587d959afa2a1bf1c87/1_Pod_E284.png",
+      "desc": "(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection? (45:44) All-In Summit Speaker Announcements! (48:01) Airtable sells for a 90% discount: SaaSpocalypse? (1:05:56) Chinese AI labs are buying US training data to catch up Apply for Summit 2026: https://al",
       "guestTags": [
-        "Emily Jashinsky"
+        "Elon Musk",
+        "Chamath"
       ]
     },
     {
@@ -265,7 +267,10 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
+    "Elon Musk": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Chamath": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }
