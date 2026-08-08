@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T01:58:22.377Z",
+  "lastUpdated": "2026-08-08T03:40:34.540Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "muRIXCDw-k0",
-      "show": "All-In Podcast",
-      "title": "Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI",
-      "url": "https://www.youtube.com/watch?v=muRIXCDw-k0",
-      "date": "2026-08-08T01:33:14.000Z",
-      "image": "https://i2.ytimg.com/vi/muRIXCDw-k0/hqdefault.jpg",
-      "desc": "(0:00) Bestie intros! Brad Gerstner fills in for Chamath\n(2:16) Major shakeups at Google: AI brain drain or better strategy?\n(20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection?\n(45:44) All-In Summit Speaker Announcements!\n(48:01) Airtable sells for a 90% discount: SaaSpocalypse?",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath"
-      ]
+      "videoId": "x9RGOMLGzsQ",
+      "show": "Shawn Ryan Show",
+      "title": "This AI Agent Can Hack a Company in 1 Day 😳",
+      "url": "https://www.youtube.com/watch?v=x9RGOMLGzsQ",
+      "date": "2026-08-08T02:00:38.000Z",
+      "image": "https://i1.ytimg.com/vi/x9RGOMLGzsQ/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "muRIXCDw-k0",
-      "show": "All-In Podcast",
-      "title": "Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI",
-      "url": "https://www.youtube.com/watch?v=muRIXCDw-k0",
-      "date": "2026-08-08T01:33:14.000Z",
-      "image": "https://i2.ytimg.com/vi/muRIXCDw-k0/hqdefault.jpg",
-      "desc": "(0:00) Bestie intros! Brad Gerstner fills in for Chamath\n(2:16) Major shakeups at Google: AI brain drain or better strategy?\n(20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection?\n(45:44) All-In Summit Speaker Announcements!\n(48:01) Airtable sells for a 90% discount: SaaSpocalypse?",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath"
-      ]
+      "videoId": "x9RGOMLGzsQ",
+      "show": "Shawn Ryan Show",
+      "title": "This AI Agent Can Hack a Company in 1 Day 😳",
+      "url": "https://www.youtube.com/watch?v=x9RGOMLGzsQ",
+      "date": "2026-08-08T02:00:38.000Z",
+      "image": "https://i1.ytimg.com/vi/x9RGOMLGzsQ/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
