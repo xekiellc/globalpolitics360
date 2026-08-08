@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-08-08T16:39:40.267Z",
+  "lastUpdated": "2026-08-08T18:45:19.239Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1730,
+  "taggedCount": 1731,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Truth About the Royal Family with Royal Reporter Robert Hardman",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3440260955.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3440260955.mp3",
+      "date": "2026-08-08T18:00:00.000Z",
+      "duration": "4940",
+      "image": "https://megaphone.imgix.net/podcasts/fed7e8c8-9337-11f1-8e2f-bb05f411fde9/image/671317d5a6396cefe05cfb53619c5ef8.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Find your forever cookware @hexclad and get 10% off at https://hexclad.com/TRIG#hexcladpartner\n\n\n- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ conditions. Click https://superpower.com \n\n- Head to https://policygenius.com/TRIG to compare life insurance quotes from top companies and se",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -66,18 +80,6 @@
       "duration": "00:42:32",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "An exclusive, behind the scene look from KT #779 with guest Adam Ray. \n\nAdam Ray, Pat O'Neill, Dedrick Flynn, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026\n\nExperience MSG from anywhere! Access livestream tickets at https://killtonylive.com/\n\nWatch Kill Tony and other exclusive content, ad",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#328 Kevin Mandia - The Man Who Exposed China's Military Hackers",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6287496259.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6287496259.mp3",
-      "date": "2026-08-06T10:00:00.000Z",
-      "duration": "11874",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Kevin Mandia is CEO of Armadin, where he leads the company's mission to secure some of the world's largest and most complex environments. A globally recognized cybersecurity leader, he is also a General Partner at Ballistic Ventures, mentoring and investing in the next generation of cybersecurity entrepreneurs. Best known as the founder of Mandiant and former CEO of FireEye, Mandia helped redefine",
       "guestTags": []
     },
     {
@@ -131,6 +133,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Truth About the Royal Family with Royal Reporter Robert Hardman",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3440260955.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3440260955.mp3",
+      "date": "2026-08-08T18:00:00.000Z",
+      "duration": "4940",
+      "image": "https://megaphone.imgix.net/podcasts/fed7e8c8-9337-11f1-8e2f-bb05f411fde9/image/671317d5a6396cefe05cfb53619c5ef8.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Find your forever cookware @hexclad and get 10% off at https://hexclad.com/TRIG#hexcladpartner\n\n\n- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ conditions. Click https://superpower.com \n\n- Head to https://policygenius.com/TRIG to compare life insurance quotes from top companies and se",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
@@ -191,18 +207,6 @@
       "duration": "00:42:32",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "An exclusive, behind the scene look from KT #779 with guest Adam Ray. \n\nAdam Ray, Pat O'Neill, Dedrick Flynn, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 07/20/2026\n\nExperience MSG from anywhere! Access livestream tickets at https://killtonylive.com/\n\nWatch Kill Tony and other exclusive content, ad",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#328 Kevin Mandia - The Man Who Exposed China's Military Hackers",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6287496259.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6287496259.mp3",
-      "date": "2026-08-06T10:00:00.000Z",
-      "duration": "11874",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Kevin Mandia is CEO of Armadin, where he leads the company's mission to secure some of the world's largest and most complex environments. A globally recognized cybersecurity leader, he is also a General Partner at Ballistic Ventures, mentoring and investing in the next generation of cybersecurity entrepreneurs. Best known as the founder of Mandiant and former CEO of FireEye, Mandia helped redefine",
       "guestTags": []
     },
     {
@@ -267,6 +271,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Elon Musk": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
