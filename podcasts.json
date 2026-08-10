@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-10T09:38:29.308Z",
+  "lastUpdated": "2026-08-10T11:12:35.039Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1732,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#674 - Scott Payne",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER1148103811.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER1148103811.mp3",
+      "date": "2026-08-10T10:34:00.000Z",
+      "duration": "13856",
+      "image": "https://megaphone.imgix.net/podcasts/f983c102-94a5-11f1-b440-af792b32a595/image/c9c3c662b1fb2eba4d7cefe7a35f1ba5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Scott Payne is a retired FBI special agent who spent 28 years in law enforcement, often going undercover with extremist groups. He is the co-author of “Code Name Pale Horse: How I Went Undercover To Expose America’s Nazis”.&amp;nbsp;\n\nScott joins Theo to explore the secretive world of FBI training, the mechanics of online radicalization, and a brush with the occult during a neo-Nazi infiltration.\n",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
@@ -15,18 +27,6 @@
       "duration": "7707",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Why Your Resentment Is a Choice",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV7545982506.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV7545982506.mp3",
-      "date": "2026-08-09T18:00:00.000Z",
-      "duration": "6326",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What does a nervous man on a first date in a crowded restaurant have to do with the darkest impulses a human being can harbor? In this lecture, Jordan Peterson takes a scene so ordinary you have lived it a dozen times and slows it down until something unsettling appears underneath. Every glance across that table, he argues, is already serving a hidden aim, and the direction of that aim quietly dec",
       "guestTags": []
     },
     {
@@ -133,6 +133,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#674 - Scott Payne",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER1148103811.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER1148103811.mp3",
+      "date": "2026-08-10T10:34:00.000Z",
+      "duration": "13856",
+      "image": "https://megaphone.imgix.net/podcasts/f983c102-94a5-11f1-b440-af792b32a595/image/c9c3c662b1fb2eba4d7cefe7a35f1ba5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Scott Payne is a retired FBI special agent who spent 28 years in law enforcement, often going undercover with extremist groups. He is the co-author of “Code Name Pale Horse: How I Went Undercover To Expose America’s Nazis”.&amp;nbsp;\n\nScott joins Theo to explore the secretive world of FBI training, the mechanics of online radicalization, and a brush with the occult during a neo-Nazi infiltration.\n",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
@@ -142,18 +154,6 @@
       "duration": "7707",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Why Your Resentment Is a Choice",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV7545982506.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV7545982506.mp3",
-      "date": "2026-08-09T18:00:00.000Z",
-      "duration": "6326",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What does a nervous man on a first date in a crowded restaurant have to do with the darkest impulses a human being can harbor? In this lecture, Jordan Peterson takes a scene so ordinary you have lived it a dozen times and slows it down until something unsettling appears underneath. Every glance across that table, he argues, is already serving a hidden aim, and the direction of that aim quietly dec",
       "guestTags": []
     },
     {
