@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-10T19:03:30.223Z",
+  "lastUpdated": "2026-08-10T20:49:34.466Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
+      "url": "https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty",
+      "date": "2026-08-10T20:26:55.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/BTCPay-Server-Says-AI-Is-Tilting-the-Field-Toward-Attackers-as-It-Responds-to-Wallet-Theft.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Exchange-Traded Funds See Spike In Inflows Following Huge Hack",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-see-biggest-flows-since-april",
+      "date": "2026-08-10T19:35:34.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Franklin-Templeton-Files-for-Two-ETFs-That-Reinvest-Stock-Dividends-Into-Bitcoin.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall",
       "url": "https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing",
@@ -84,15 +102,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports",
-      "url": "https://bitcoinmagazine.com/news/clarity-act-vote-delayed-trump-bitcoin",
-      "date": "2026-08-07T15:01:20.000Z",
-      "image": "https://www.youtube.com/embed/T9omos50y8k",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Charts of the Week: Bookslop",
       "url": "https://www.a16z.news/p/charts-of-the-week-bookslop",
       "date": "2026-08-07T14:01:58.000Z",
@@ -109,15 +118,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Bitcoin&#8217;s BIP110 Moment: Three Possible Scenarios",
-      "url": "https://bitcoinmagazine.com/technical/bitcoins-bip110-moment-three-possible-scenarios",
-      "date": "2026-08-07T10:01:26.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/BIP110-Aaron-Hero-1.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Knowing When to Stop: The Art of Making a Loop Converge",
