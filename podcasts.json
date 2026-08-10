@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-10T07:50:17.751Z",
+  "lastUpdated": "2026-08-10T09:38:29.308Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1732,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5701398040.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
+      "date": "2026-08-10T08:00:00.000Z",
+      "duration": "7707",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
@@ -45,18 +57,6 @@
         "Elon Musk",
         "Chamath"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2537 - David Sinclair",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1521681560.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1521681560.mp3",
-      "date": "2026-08-07T17:00:00.000Z",
-      "duration": "9037",
-      "image": "https://megaphone.imgix.net/podcasts/16d5d7dc-91ee-11f1-bdcf-df9a64476d59/image/33b2538a59583328a79e1576b99e251e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "David Sinclair, AO, PhD, is a longevity scientist, Professor of Genetics at Harvard Medical School, author of the book \"Lifespan: Why We Age—and Why We Don't Have To,\" and host of the \"Lifespan\" podcast.www.youtube.com/c/davidsinclairpodcast&amp;nbsp;&amp;nbsp;www.simonandschuster.com/books/Lifespan/David-Sinclair/9781501191978&amp;nbsp;&amp;nbsp;https://lifespan.com&amp;nbsp;&amp;nbsp;https://dav",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -133,6 +133,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5701398040.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
+      "date": "2026-08-10T08:00:00.000Z",
+      "duration": "7707",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
       "title": "Why Your Resentment Is a Choice",
@@ -172,18 +184,6 @@
         "Elon Musk",
         "Chamath"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2537 - David Sinclair",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1521681560.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1521681560.mp3",
-      "date": "2026-08-07T17:00:00.000Z",
-      "duration": "9037",
-      "image": "https://megaphone.imgix.net/podcasts/16d5d7dc-91ee-11f1-bdcf-df9a64476d59/image/33b2538a59583328a79e1576b99e251e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "David Sinclair, AO, PhD, is a longevity scientist, Professor of Genetics at Harvard Medical School, author of the book \"Lifespan: Why We Age—and Why We Don't Have To,\" and host of the \"Lifespan\" podcast.www.youtube.com/c/davidsinclairpodcast&amp;nbsp;&amp;nbsp;www.simonandschuster.com/books/Lifespan/David-Sinclair/9781501191978&amp;nbsp;&amp;nbsp;https://lifespan.com&amp;nbsp;&amp;nbsp;https://dav",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
