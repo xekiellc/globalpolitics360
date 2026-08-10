@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-10T13:19:40.666Z",
+  "lastUpdated": "2026-08-10T15:03:33.423Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Can Agents Use a Computer Yet? We've Got the Data",
+      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+      "date": "2026-08-10T14:00:46.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/52d9d1af-7866-420c-b3ef-c8b231806b2e_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Trump Media Pulls Back From Crypto Deals: Report",
       "url": "https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals",
@@ -313,15 +322,6 @@
       "url": "https://www.a16z.news/p/meet-the-a16z-forward-deployed-engineer",
       "date": "2026-07-22T17:11:49.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/9aec7573-5618-4dc6-b511-b58bcd4a59fc_5688x3200.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Making a Billion Intelligent Machines",
-      "url": "https://www.a16z.news/p/making-a-billion-intelligent-machines",
-      "date": "2026-07-21T15:02:32.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/07a2ee11-d0e9-43ed-99d3-43ed92da649a_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
