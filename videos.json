@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T15:03:40.774Z",
+  "lastUpdated": "2026-08-10T16:58:07.692Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "N5AQFYtqx8Q",
-      "show": "Huberman Lab",
-      "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
-      "url": "https://www.youtube.com/watch?v=N5AQFYtqx8Q",
-      "date": "2026-08-10T12:00:30.000Z",
-      "image": "https://i3.ytimg.com/vi/N5AQFYtqx8Q/hqdefault.jpg",
-      "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intellige",
-      "guestTags": []
+      "videoId": "0KY-kln39o4",
+      "show": "All-In Podcast",
+      "title": "GameStop CEO: “Why Does Everyone Want Us to Fail?”",
+      "url": "https://www.youtube.com/watch?v=0KY-kln39o4",
+      "date": "2026-08-10T15:51:40.000Z",
+      "image": "https://i1.ytimg.com/vi/0KY-kln39o4/hqdefault.jpg",
+      "desc": "Most advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in cl",
+      "guestTags": [
+        "Roaring Kitty"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "N5AQFYtqx8Q",
-      "show": "Huberman Lab",
-      "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
-      "url": "https://www.youtube.com/watch?v=N5AQFYtqx8Q",
-      "date": "2026-08-10T12:00:30.000Z",
-      "image": "https://i3.ytimg.com/vi/N5AQFYtqx8Q/hqdefault.jpg",
-      "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intellige",
-      "guestTags": []
+      "videoId": "0KY-kln39o4",
+      "show": "All-In Podcast",
+      "title": "GameStop CEO: “Why Does Everyone Want Us to Fail?”",
+      "url": "https://www.youtube.com/watch?v=0KY-kln39o4",
+      "date": "2026-08-10T15:51:40.000Z",
+      "image": "https://i1.ytimg.com/vi/0KY-kln39o4/hqdefault.jpg",
+      "desc": "Most advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in cl",
+      "guestTags": [
+        "Roaring Kitty"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Roaring Kitty": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

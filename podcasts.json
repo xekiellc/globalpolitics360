@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-10T15:03:39.879Z",
+  "lastUpdated": "2026-08-10T16:58:06.907Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1732,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/10/26: Iran Demands Surrender, Trump Officials Gaslight On Economy, Bibi Spits In Trump's Face",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/fce2e52c-e63d-49cc-a05c-b4a200fa52e8/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-10-26-iran-demands-surrender-trump-officials-gaslight-on-economy-bibi-spits-in-trumps-face",
+      "date": "2026-08-10T15:53:46.000Z",
+      "duration": "3279",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Iran demands total surrender, Trump officials insist economy is great, Bibi spits in Trump's face. Trita Parsi: https://tritaparsi.substack.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnyst",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
@@ -57,18 +69,6 @@
         "Elon Musk",
         "Chamath"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/7/26: Disaster Jobs Report, Rogue AI Commits Crime Spree, Corporate Dems Declare War On DSA",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/e5e780a2-86d5-49ac-94fc-b49f01022f86/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-7-26-disaster-jobs-report-rogue-ai-commits-crime-spree-corporate-dems-declare-war-on-dsa",
-      "date": "2026-08-07T16:49:01.000Z",
-      "duration": "5279",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal, Ryan and Emily discuss the new disaster jobs report for Trump, rogue AI system goes on crime spree, Third Way corporate Dems declare million dollar war on DSA. &nbsp; Garrison Lovely: ​https://www.amazon.com/Obsolete-Power-Profit-Machine-Superintelligence/dp/1682196305 Matt Little: ​https://littleforcongress.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to ",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -133,6 +133,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/10/26: Iran Demands Surrender, Trump Officials Gaslight On Economy, Bibi Spits In Trump's Face",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/fce2e52c-e63d-49cc-a05c-b4a200fa52e8/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-10-26-iran-demands-surrender-trump-officials-gaslight-on-economy-bibi-spits-in-trumps-face",
+      "date": "2026-08-10T15:53:46.000Z",
+      "duration": "3279",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Iran demands total surrender, Trump officials insist economy is great, Bibi spits in Trump's face. Trita Parsi: https://tritaparsi.substack.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnyst",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
       "title": "#674 - Scott Payne",
@@ -184,18 +196,6 @@
         "Elon Musk",
         "Chamath"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/7/26: Disaster Jobs Report, Rogue AI Commits Crime Spree, Corporate Dems Declare War On DSA",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/e5e780a2-86d5-49ac-94fc-b49f01022f86/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-7-26-disaster-jobs-report-rogue-ai-commits-crime-spree-corporate-dems-declare-war-on-dsa",
-      "date": "2026-08-07T16:49:01.000Z",
-      "duration": "5279",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal, Ryan and Emily discuss the new disaster jobs report for Trump, rogue AI system goes on crime spree, Third Way corporate Dems declare million dollar war on DSA. &nbsp; Garrison Lovely: ​https://www.amazon.com/Obsolete-Power-Profit-Machine-Superintelligence/dp/1682196305 Matt Little: ​https://littleforcongress.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to ",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",

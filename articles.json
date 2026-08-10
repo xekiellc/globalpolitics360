@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-10T15:03:31.402Z",
+  "lastUpdated": "2026-08-10T16:57:59.030Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "Livestream 3 PM ET: The Origins of COVID",
+      "url": "https://www.racket.news/p/livestream-3-pm-et-the-origins-of",
+      "date": "2026-08-10T15:58:31.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
     {
       "title": "Arthur Brooks: I Tried to Vacation Like a European. It Was a Disaster.",
       "url": "https://www.thefp.com/p/arthur-brooks-vacation-americans-europeans",
@@ -10,15 +19,6 @@
       "source": "The Free Press (Bari Weiss)",
       "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
       "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "Marco ‘McCarthy’ Rubio: Wrong on Cuba &#038; &#8216;Terrorism&#8217;",
-      "url": "https://consortiumnews.com/2026/08/10/marco-mccarthy-rubio-wrong-on-cuba-terrorism/",
-      "date": "2026-08-10T13:14:33.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
       "title": "A Celebrity-Backed Charity’s Alleged Ties to Terror. Plus. . .",
@@ -84,15 +84,6 @@
       "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
-      "title": "WATCH: TWTW &#8212; &#8216;Avoiding Nuclear Extinction&#8217;",
-      "url": "https://consortiumnews.com/2026/08/08/watch-twtw-avoiding-nuclear-extinction/",
-      "date": "2026-08-08T15:14:06.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
       "title": "Tear Down This Museum! Plus. . .",
       "url": "https://www.thefp.com/p/the-museum-that-radicalized-me-plus",
       "date": "2026-08-08T09:31:20.000Z",
@@ -154,24 +145,6 @@
       "source": "The Free Press (Bari Weiss)",
       "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
       "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "PATRICK LAWRENCE: A Certain Schizophrenia",
-      "url": "https://consortiumnews.com/2026/08/07/patrick-lawrence-a-certain-schizophrenia/",
-      "date": "2026-08-07T18:00:40.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
-      "title": "The Normalcy of US Wars",
-      "url": "https://consortiumnews.com/2026/08/07/the-normalcy-of-us-wars/",
-      "date": "2026-08-07T16:00:12.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
       "title": "A Vicious Double Standard in Publishing. Plus. . .",
@@ -255,33 +228,6 @@
       "id": "aHR0cHM6Ly93d3cubmdvY29t"
     },
     {
-      "title": "HIROSHIMA 81: SCOTT RITTER &#8212; Let It Remind Us",
-      "url": "https://consortiumnews.com/2026/08/06/scott-ritter-let-hiroshima-be-the-reminder/",
-      "date": "2026-08-06T19:56:03.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
-      "title": "HIROSHIMA 81: WATCH &#8212; Apocalyptic Blindness",
-      "url": "https://consortiumnews.com/2026/08/06/hiroshima-81-watch-apocalyptic-blindness/",
-      "date": "2026-08-06T18:00:47.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
-      "title": "HIROSHIMA 81: An Appeal to Pope Leo on Nuclear War",
-      "url": "https://consortiumnews.com/2026/08/06/hiroshima-an-appeal-to-pope-leo-on-nuclear-war/",
-      "date": "2026-08-06T16:00:17.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
       "title": "“Get Lit\" August 6, 2026: The Finale of Dostoevsky's “Demons” (Part 2)",
       "url": "https://www.racket.news/p/get-lit-august-6-2026-the-finale",
       "date": "2026-08-06T14:30:31.000Z",
@@ -298,15 +244,6 @@
       "source": "Matt Taibbi / Racket News",
       "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
       "id": "aHR0cHM6Ly93d3cucmFja2V0"
-    },
-    {
-      "title": "HIROSHIMA 81: The Looming Risk of Nuclear Disaster",
-      "url": "https://consortiumnews.com/2026/08/06/hiroshima-the-looming-risk-of-nuclear-disaster/",
-      "date": "2026-08-06T10:00:11.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
       "title": "Miranda Devine: Don&#8217;t let Abdul El-Sayed fool you — he and his DSA cronies are in prime position to take over the Democratic Party",
@@ -327,15 +264,6 @@
       "id": "aHR0cHM6Ly93d3cubXRyYWNl"
     },
     {
-      "title": "WATCH: Abby Martin on Standing Up to Monsters",
-      "url": "https://consortiumnews.com/2026/08/05/watch-abby-martin-on-standing-up-to-monsters/",
-      "date": "2026-08-05T18:07:44.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
       "title": "Bantering with Steve Hilton, California GOP gubernornatorial candidate",
       "url": "https://www.mtracey.net/p/bantering-with-steve-hilton-california",
       "date": "2026-08-05T16:46:23.000Z",
@@ -343,15 +271,6 @@
       "source": "Michael Tracey",
       "teaser": "Michael Tracey criticizes The Young Turks' commentary and understanding of Epstein case details.",
       "id": "aHR0cHM6Ly93d3cubXRyYWNl"
-    },
-    {
-      "title": "Force-Feeding ICE Detainees",
-      "url": "https://consortiumnews.com/2026/08/05/force-feeding-ice-detainees/",
-      "date": "2026-08-05T16:08:52.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
       "title": "It’s Embarrassing It Took This Chinese Grad Student To Ask Christopher Nolan Hard Questions About “The Odyssey”",
@@ -541,6 +460,87 @@
       "source": "Andy Ngo / Ngo Comment",
       "teaser": "First video footage emerges of members from secretive transgender death cult group.",
       "id": "aHR0cHM6Ly93d3cubmdvY29t"
+    },
+    {
+      "title": "Listen to This Article: History's Most Preventable Terror Attack?",
+      "url": "https://www.racket.news/p/listen-to-this-article-historys-most",
+      "date": "2026-07-29T21:59:08.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "Commentary on Anthony Fauci Hearing With Dr. Matt Bivens",
+      "url": "https://www.racket.news/p/commentary-on-anthony-fauci-hearing",
+      "date": "2026-07-29T14:18:20.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "Live Now: Commentary on Anthony Fauci Hearing With Dr. Matt Bivens",
+      "url": "https://www.racket.news/p/live-now-commentary-on-anthony-fauci",
+      "date": "2026-07-29T13:00:04.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!pxet!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0699296a-e5b6-40a9-a6a0-45c58133f28f_3110x2054.png",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "Live Stream: Live Commentary on Anthony Fauci Hearing With Dr. Matt Bivens",
+      "url": "https://www.racket.news/p/wednesday-830-am-et-live-commentary",
+      "date": "2026-07-28T15:34:00.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!pxet!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0699296a-e5b6-40a9-a6a0-45c58133f28f_3110x2054.png",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "“Get Lit” Livestream: The Comic Climax of Dostoyevsky's \"Demons\"",
+      "url": "https://www.racket.news/p/get-lit-livestream-the-comic-climax",
+      "date": "2026-07-28T14:00:48.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "Listen to This Article: Meet The New Boss, Same as the Old Boss",
+      "url": "https://www.racket.news/p/listen-to-this-article-meet-the-new-9fa",
+      "date": "2026-07-28T13:58:41.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "BREAKING: \"Adult Grooming\" Scandal DESTROYS the International Criminal Court!",
+      "url": "https://www.mtracey.net/p/breaking-adult-grooming-scandal",
+      "date": "2026-07-28T05:52:08.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!PPpP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94d63cd4-56d6-4bfb-bf3d-542823798beb_1672x941.png",
+      "source": "Michael Tracey",
+      "teaser": "Michael Tracey criticizes The Young Turks' commentary and understanding of Epstein case details.",
+      "id": "aHR0cHM6Ly93d3cubXRyYWNl"
+    },
+    {
+      "title": "“Get Lit” Livestream, 4:30 pm ET: The Comic Climax of Dostoyevsky's \"Demons\"",
+      "url": "https://www.racket.news/p/get-lit-livestream-430-pm-et-the",
+      "date": "2026-07-27T19:20:57.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!uu4F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc467c09d-1700-4686-8483-3691e14eb8b4_3000x3000.png",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "Media Warn Of “Far Right” As Left Attacks Journalists And Democracy In Germany",
+      "url": "https://www.public.news/p/media-warn-of-far-right-as-left-attacks",
+      "date": "2026-07-27T05:52:32.000Z",
+      "image": "",
+      "source": "Michael Shellenberger / Public",
+      "teaser": "Shellenberger argues leftist policies and rhetoric are contributing to violent incidents.",
+      "id": "aHR0cHM6Ly93d3cucHVibGlj"
     }
   ]
 }
