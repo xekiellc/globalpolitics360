@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-10T20:49:34.466Z",
+  "lastUpdated": "2026-08-10T22:42:34.242Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease",
+      "url": "https://bitcoinmagazine.com/news/blockstream-debuts-bitcoin-swaps-lightning",
+      "date": "2026-08-10T21:18:27.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Blockstream-Debuts-Swaps-Allowing-Bitcoiners-to-Move-Between-Lightning-and-Main-Network-With-Ease.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
       "url": "https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty",
@@ -88,15 +97,6 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-price-shrugs-off-coldcard-hack",
       "date": "2026-08-07T16:29:44.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Shrugs-off-Coldcard-Hack-and-Clarity-Act-Delays-Price-Chops-Higher.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin ETFs Add Nearly $800 Million in the Wake of Coldcard Exploit",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-800-million-coldcard",
-      "date": "2026-08-07T16:00:50.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-ETFs-Add-Nearly-800-Million-in-the-Wake-of-Coldcard-Exploit.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
