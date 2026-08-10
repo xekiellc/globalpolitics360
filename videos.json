@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-08-10T16:58:07.692Z",
+  "lastUpdated": "2026-08-10T19:03:40.720Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 28,
+  "taggedCount": 27,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "0KY-kln39o4",
-      "show": "All-In Podcast",
-      "title": "GameStop CEO: “Why Does Everyone Want Us to Fail?”",
-      "url": "https://www.youtube.com/watch?v=0KY-kln39o4",
-      "date": "2026-08-10T15:51:40.000Z",
-      "image": "https://i1.ytimg.com/vi/0KY-kln39o4/hqdefault.jpg",
-      "desc": "Most advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in cl",
-      "guestTags": [
-        "Roaring Kitty"
-      ]
+      "videoId": "QKKuATwHB10",
+      "show": "Theo Von",
+      "title": "Jshock on What Kai Cenat's &quot;Streamer University&quot; is Really Like",
+      "url": "https://www.youtube.com/watch?v=QKKuATwHB10",
+      "date": "2026-08-10T18:04:00.000Z",
+      "image": "https://i2.ytimg.com/vi/QKKuATwHB10/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #673\nFull Episode: https://www.youtube.com/watch?v=z2i9Cyx2lTY\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "0KY-kln39o4",
-      "show": "All-In Podcast",
-      "title": "GameStop CEO: “Why Does Everyone Want Us to Fail?”",
-      "url": "https://www.youtube.com/watch?v=0KY-kln39o4",
-      "date": "2026-08-10T15:51:40.000Z",
-      "image": "https://i1.ytimg.com/vi/0KY-kln39o4/hqdefault.jpg",
-      "desc": "Most advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in cl",
-      "guestTags": [
-        "Roaring Kitty"
-      ]
+      "videoId": "QKKuATwHB10",
+      "show": "Theo Von",
+      "title": "Jshock on What Kai Cenat's &quot;Streamer University&quot; is Really Like",
+      "url": "https://www.youtube.com/watch?v=QKKuATwHB10",
+      "date": "2026-08-10T18:04:00.000Z",
+      "image": "https://i2.ytimg.com/vi/QKKuATwHB10/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #673\nFull Episode: https://www.youtube.com/watch?v=z2i9Cyx2lTY\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Roaring Kitty": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
