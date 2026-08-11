@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-11T13:16:47.365Z",
+  "lastUpdated": "2026-08-11T15:02:59.899Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure",
+      "url": "https://bitcoinmagazine.com/news/luke-dashjr-removed-as-bitcoin-bip-editor",
+      "date": "2026-08-11T14:57:26.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2024/11/luke-dashjruasf.png",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Some Simple Economics of Open versus Closed AI",
+      "url": "https://www.a16z.news/p/some-simple-economics-of-open-versus",
+      "date": "2026-08-11T14:02:46.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9cdf861d-0703-4cc5-bc2c-3ce0956929c2_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease",
       "url": "https://bitcoinmagazine.com/news/blockstream-debuts-bitcoin-swaps-lightning",
@@ -88,15 +106,6 @@
       "url": "https://bitcoinmagazine.com/news/coldcard-victims-report-median-loss-1btc",
       "date": "2026-08-07T18:02:38.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Hack-Victims-Report-Median-Loss-of-1-BTC-as-Theft-Tops.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Shrugs off Coldcard Hack and Clarity Act Delays, Price Chops Higher as Investors Buy ETFs",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-price-shrugs-off-coldcard-hack",
-      "date": "2026-08-07T16:29:44.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Shrugs-off-Coldcard-Hack-and-Clarity-Act-Delays-Price-Chops-Higher.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -313,15 +322,6 @@
       "url": "https://www.a16z.news/p/unfinished-business",
       "date": "2026-07-22T18:33:49.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/dbf44693-3f1e-462c-b6b6-e7289ca31b4d_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Meet the a16z Forward Deployed Engineer Fellows",
-      "url": "https://www.a16z.news/p/meet-the-a16z-forward-deployed-engineer",
-      "date": "2026-07-22T17:11:49.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9aec7573-5618-4dc6-b511-b58bcd4a59fc_5688x3200.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
