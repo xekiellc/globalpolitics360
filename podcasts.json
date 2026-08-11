@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-08-11T15:03:07.214Z",
+  "lastUpdated": "2026-08-11T17:04:31.505Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1733,
+  "taggedCount": 1734,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #184 with Aljamain Sterling",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9611837612.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9611837612.mp3",
+      "date": "2026-08-11T17:00:00.000Z",
+      "duration": "10507",
+      "image": "https://megaphone.imgix.net/podcasts/99c85bdc-9523-11f1-8cce-6b6deb9f7357/image/2ae94d7b584e123b8a465fcc5a1f881c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe sits down with professional mixed martial artist Aljamain Sterling, who currently competes in the Ultimate Fighting Championship's Featherweight division. He is the host of the \"Weekly Scraps\" podcast and founder of Funk Harbor Rum.www.youtube.com/@FunkMasterUFCwww.funkharborspirits.comwww.aljamainsterling.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/11/26: China Shuts Down Billionaire, FP Defends Flock, Hidden AI Bailout",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/2ed14134-d53a-4e1c-aa05-b4a300f3ae4d/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-11-26-china-shuts-down-billionaire-fp-defends-flock-hidden-ai-bailout",
+      "date": "2026-08-11T15:24:33.000Z",
+      "duration": "2386",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss China shuts down billionaire wealth funnel, Bari Weiss FP defends Flock cameras, hidden AI bailout on the horizon. David Dayen: https://prospect.org/author/david-dayen/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com",
+      "guestTags": [
+        "Bari Weiss"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -46,18 +72,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/10/26: Iran Demands Surrender, Trump Officials Gaslight On Economy, Bibi Spits In Trump's Face",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/fce2e52c-e63d-49cc-a05c-b4a200fa52e8/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-10-26-iran-demands-surrender-trump-officials-gaslight-on-economy-bibi-spits-in-trumps-face",
-      "date": "2026-08-10T15:53:46.000Z",
-      "duration": "3279",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Iran demands total surrender, Trump officials insist economy is great, Bibi spits in Trump's face. Trita Parsi: https://tritaparsi.substack.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnyst",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
       "title": "#674 - Scott Payne",
@@ -67,18 +81,6 @@
       "duration": "13856",
       "image": "https://megaphone.imgix.net/podcasts/f983c102-94a5-11f1-b440-af792b32a595/image/c9c3c662b1fb2eba4d7cefe7a35f1ba5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Scott Payne is a retired FBI special agent who spent 28 years in law enforcement, often going undercover with extremist groups. He is the co-author of “Code Name Pale Horse: How I Went Undercover To Expose America’s Nazis”.&amp;nbsp;\n\nScott joins Theo to explore the secretive world of FBI training, the mechanics of online radicalization, and a brush with the occult during a neo-Nazi infiltration.\n",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5701398040.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
-      "date": "2026-08-10T08:00:00.000Z",
-      "duration": "7707",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively ",
       "guestTags": []
     },
     {
@@ -132,6 +134,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #184 with Aljamain Sterling",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9611837612.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9611837612.mp3",
+      "date": "2026-08-11T17:00:00.000Z",
+      "duration": "10507",
+      "image": "https://megaphone.imgix.net/podcasts/99c85bdc-9523-11f1-8cce-6b6deb9f7357/image/2ae94d7b584e123b8a465fcc5a1f881c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe sits down with professional mixed martial artist Aljamain Sterling, who currently competes in the Ultimate Fighting Championship's Featherweight division. He is the host of the \"Weekly Scraps\" podcast and founder of Funk Harbor Rum.www.youtube.com/@FunkMasterUFCwww.funkharborspirits.comwww.aljamainsterling.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/11/26: China Shuts Down Billionaire, FP Defends Flock, Hidden AI Bailout",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/2ed14134-d53a-4e1c-aa05-b4a300f3ae4d/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-11-26-china-shuts-down-billionaire-fp-defends-flock-hidden-ai-bailout",
+      "date": "2026-08-11T15:24:33.000Z",
+      "duration": "2386",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss China shuts down billionaire wealth funnel, Bari Weiss FP defends Flock cameras, hidden AI bailout on the horizon. David Dayen: https://prospect.org/author/david-dayen/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com",
+      "guestTags": [
+        "Bari Weiss"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "AOC Admits Woke 1 Was CRAZY, Zuckerberg&apos;s AI Manifesto, Spider-Man’s $1B Surge, w/ Spencer Klavan, &amp; Dangerous WNBA",
@@ -172,18 +200,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/10/26: Iran Demands Surrender, Trump Officials Gaslight On Economy, Bibi Spits In Trump's Face",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/fce2e52c-e63d-49cc-a05c-b4a200fa52e8/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-10-26-iran-demands-surrender-trump-officials-gaslight-on-economy-bibi-spits-in-trumps-face",
-      "date": "2026-08-10T15:53:46.000Z",
-      "duration": "3279",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Iran demands total surrender, Trump officials insist economy is great, Bibi spits in Trump's face. Trita Parsi: https://tritaparsi.substack.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnyst",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
       "title": "#674 - Scott Payne",
@@ -193,18 +209,6 @@
       "duration": "13856",
       "image": "https://megaphone.imgix.net/podcasts/f983c102-94a5-11f1-b440-af792b32a595/image/c9c3c662b1fb2eba4d7cefe7a35f1ba5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Scott Payne is a retired FBI special agent who spent 28 years in law enforcement, often going undercover with extremist groups. He is the co-author of “Code Name Pale Horse: How I Went Undercover To Expose America’s Nazis”.&amp;nbsp;\n\nScott joins Theo to explore the secretive world of FBI training, the mechanics of online radicalization, and a brush with the occult during a neo-Nazi infiltration.\n",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5701398040.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
-      "date": "2026-08-10T08:00:00.000Z",
-      "duration": "7707",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively ",
       "guestTags": []
     },
     {
@@ -269,6 +273,9 @@
     }
   ],
   "guestIndex": {
+    "Bari Weiss": [
+      "aHR0cHM6Ly9wb2R0cmFjLmNv"
+    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
