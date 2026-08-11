@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-08-11T02:05:04.089Z",
+  "lastUpdated": "2026-08-11T05:14:02.912Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 26,
+  "taggedCount": 0,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pTWRjXX6pc4",
-      "show": "Kill Tony",
-      "title": "KT #780 - FLUFFY - HARLAND WILLIAMS - ADAM RAY (INTUIT DOME, LOS ANGELES CA)",
-      "url": "https://www.youtube.com/watch?v=pTWRjXX6pc4",
-      "date": "2026-08-11T01:00:06.000Z",
-      "image": "https://i1.ytimg.com/vi/pTWRjXX6pc4/hqdefault.jpg",
-      "desc": "Fluffy, Harland Williams, Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/07/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www",
+      "videoId": "N5AQFYtqx8Q",
+      "show": "Huberman Lab",
+      "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
+      "url": "https://www.youtube.com/watch?v=N5AQFYtqx8Q",
+      "date": "2026-08-10T12:00:30.000Z",
+      "image": "https://i3.ytimg.com/vi/N5AQFYtqx8Q/hqdefault.jpg",
+      "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intellige",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pTWRjXX6pc4",
-      "show": "Kill Tony",
-      "title": "KT #780 - FLUFFY - HARLAND WILLIAMS - ADAM RAY (INTUIT DOME, LOS ANGELES CA)",
-      "url": "https://www.youtube.com/watch?v=pTWRjXX6pc4",
-      "date": "2026-08-11T01:00:06.000Z",
-      "image": "https://i1.ytimg.com/vi/pTWRjXX6pc4/hqdefault.jpg",
-      "desc": "Fluffy, Harland Williams, Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/07/2026\n\nTONY HINCHCLIFFE \n@TONYHINCHCLIFE\nhttps://www",
+      "videoId": "N5AQFYtqx8Q",
+      "show": "Huberman Lab",
+      "title": "Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li",
+      "url": "https://www.youtube.com/watch?v=N5AQFYtqx8Q",
+      "date": "2026-08-10T12:00:30.000Z",
+      "image": "https://i3.ytimg.com/vi/N5AQFYtqx8Q/hqdefault.jpg",
+      "desc": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intellige",
       "guestTags": []
     }
   ],
