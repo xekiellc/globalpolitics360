@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-12T15:02:19.463Z",
+  "lastUpdated": "2026-08-12T17:01:02.360Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin Yawns As Fed&#8217;s Favorite Inflation Gauge Eases",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases",
+      "date": "2026-08-12T15:20:07.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Yawns-As-Feds-Favorite-Inflation-Gauge-Eases-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "What It Takes to Get Paid",
       "url": "https://www.a16z.news/p/what-it-takes-to-get-paid",
@@ -106,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/blockstream-debuts-bitcoin-swaps-lightning",
       "date": "2026-08-10T21:18:27.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Blockstream-Debuts-Swaps-Allowing-Bitcoiners-to-Move-Between-Lightning-and-Main-Network-With-Ease.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
-      "url": "https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty",
-      "date": "2026-08-10T20:26:55.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/BTCPay-Server-Says-AI-Is-Tilting-the-Field-Toward-Attackers-as-It-Responds-to-Wallet-Theft.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
