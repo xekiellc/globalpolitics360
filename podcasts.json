@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-08-12T17:01:09.317Z",
+  "lastUpdated": "2026-08-12T19:07:39.737Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1735,
+  "taggedCount": 1736,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Rise and Fall of Western Civilisation- Professor James Hankins",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9441144917.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9441144917.mp3",
+      "date": "2026-08-12T18:00:00.000Z",
+      "duration": "5424",
+      "image": "https://megaphone.imgix.net/podcasts/9a515ad0-965a-11f1-bbd6-cb692dda7ab1/image/6a63355fe7ac5fc8826b16cb11c673db.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Earn a yield on gold https://monetary-metals.com/triggernometry/\n\n- SHEATH: go to https://Sheath.com. Use code TRIGGERNOMETRY ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -79,18 +93,6 @@
       "duration": "02:41:46",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Fluffy, Harland Williams, Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/07/2026\nTHIS EPISODE IS SPONSORED BY: \nShopify: Own your customer relationships. Own your revenue. Start with a free trial at https://shopify.com/killtony",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#674 - Scott Payne",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER1148103811.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER1148103811.mp3",
-      "date": "2026-08-10T10:34:00.000Z",
-      "duration": "13856",
-      "image": "https://megaphone.imgix.net/podcasts/f983c102-94a5-11f1-b440-af792b32a595/image/c9c3c662b1fb2eba4d7cefe7a35f1ba5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Scott Payne is a retired FBI special agent who spent 28 years in law enforcement, often going undercover with extremist groups. He is the co-author of “Code Name Pale Horse: How I Went Undercover To Expose America’s Nazis”.&amp;nbsp;\n\nScott joins Theo to explore the secretive world of FBI training, the mechanics of online radicalization, and a brush with the occult during a neo-Nazi infiltration.\n",
       "guestTags": []
     },
     {
@@ -132,6 +134,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Rise and Fall of Western Civilisation- Professor James Hankins",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9441144917.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9441144917.mp3",
+      "date": "2026-08-12T18:00:00.000Z",
+      "duration": "5424",
+      "image": "https://megaphone.imgix.net/podcasts/9a515ad0-965a-11f1-bbd6-cb692dda7ab1/image/6a63355fe7ac5fc8826b16cb11c673db.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Earn a yield on gold https://monetary-metals.com/triggernometry/\n\n- SHEATH: go to https://Sheath.com. Use code TRIGGERNOMETRY ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2538 - Joe DeRosa",
@@ -205,18 +221,6 @@
       "duration": "02:41:46",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Fluffy, Harland Williams, Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/07/2026\nTHIS EPISODE IS SPONSORED BY: \nShopify: Own your customer relationships. Own your revenue. Start with a free trial at https://shopify.com/killtony",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#674 - Scott Payne",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER1148103811.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER1148103811.mp3",
-      "date": "2026-08-10T10:34:00.000Z",
-      "duration": "13856",
-      "image": "https://megaphone.imgix.net/podcasts/f983c102-94a5-11f1-b440-af792b32a595/image/c9c3c662b1fb2eba4d7cefe7a35f1ba5.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Scott Payne is a retired FBI special agent who spent 28 years in law enforcement, often going undercover with extremist groups. He is the co-author of “Code Name Pale Horse: How I Went Undercover To Expose America’s Nazis”.&amp;nbsp;\n\nScott joins Theo to explore the secretive world of FBI training, the mechanics of online radicalization, and a brush with the occult during a neo-Nazi infiltration.\n",
       "guestTags": []
     },
     {
@@ -269,6 +273,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Elon Musk": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],

@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-12T17:01:02.360Z",
+  "lastUpdated": "2026-08-12T19:07:33.867Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "OCC Says It&#8217;s &#8216;Open for Business&#8217; as Crypto Firms Line Up for Bank Charters",
+      "url": "https://bitcoinmagazine.com/news/occ-ready-to-approve-banking-charters",
+      "date": "2026-08-12T17:05:06.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/OCC-Says-Its-Open-for-Business-as-Crypto-Firms-Line-Up-for-Bank-Charters.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Bitcoin Yawns As Fed&#8217;s Favorite Inflation Gauge Eases",
       "url": "https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases",
@@ -109,15 +118,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease",
-      "url": "https://bitcoinmagazine.com/news/blockstream-debuts-bitcoin-swaps-lightning",
-      "date": "2026-08-10T21:18:27.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Blockstream-Debuts-Swaps-Allowing-Bitcoiners-to-Move-Between-Lightning-and-Main-Network-With-Ease.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Can Agents Use a Computer Yet? We've Got the Data",
