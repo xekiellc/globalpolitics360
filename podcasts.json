@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-08-11T22:49:56.264Z",
+  "lastUpdated": "2026-08-12T02:22:36.577Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1734,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "A Response to Hasan Piker",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/bea96454-18b4-4a36-9d52-fb92337ce108.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/bea96454-18b4-4a36-9d52-fb92337ce108.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-08-12T00:00:00.000Z",
+      "duration": "01:18:16",
+      "image": "https://content.production.cdn.art19.com/images/c2/7c/af/c7/c27cafc7-e6ec-4406-bbe3-8da1faf0d253/5aafea46bdc12095372409608e9eda99590e9ea78da51f6623fa2b85dbf542a0781cbd7b61cf5ca24e752eb6e604a9361ba8cbf50ee1b1c43e8c0d1e038af31b.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave discusses his appearance on Piers Morgan in which they discussed Hasan Piker and his comments about Mao Zedong, Hasan's response, and more.Support Our Sponsors:Cowboy Colostrum - Get 25% Off Cowboy Colostrum with code DAVE at https://www.cowboycolostrum.com/DAVESuperpower - Head to Superpower.com and use cod",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -56,20 +70,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Fluffy, Harland Williams, Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/07/2026\nTHIS EPISODE IS SPONSORED BY: \nShopify: Own your customer relationships. Own your revenue. Start with a free trial at https://shopify.com/killtony",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "You Don’t Hate Neocons Enough",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/db511dc3-1248-44e1-83fe-b439e776847c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/db511dc3-1248-44e1-83fe-b439e776847c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-08-11T00:00:00.000Z",
-      "duration": "01:06:32",
-      "image": "https://content.production.cdn.art19.com/images/8e/1b/fa/e8/8e1bfae8-690d-4e11-9fea-aad06dd73a1e/28bf3b3c710e6a041212736b20ff93fa2d2265d268f2114505c5f12a47f85b42fa8bcb538443acd228c4bef92c9ddb797f2debad1941b9a586bce6e16191a589.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Dave's reflections from his recent Piers Morgan appearance, Mark Levin's latest attempt to convince Americans to be in favor of the Iran war, Bill O'Reilly's interview with Ben Shapiro, and more.Support Our Sponsors:The Wellness Company - Upgrade your oral care with SM",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -134,6 +134,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "A Response to Hasan Piker",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/bea96454-18b4-4a36-9d52-fb92337ce108.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/bea96454-18b4-4a36-9d52-fb92337ce108.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-08-12T00:00:00.000Z",
+      "duration": "01:18:16",
+      "image": "https://content.production.cdn.art19.com/images/c2/7c/af/c7/c27cafc7-e6ec-4406-bbe3-8da1faf0d253/5aafea46bdc12095372409608e9eda99590e9ea78da51f6623fa2b85dbf542a0781cbd7b61cf5ca24e752eb6e604a9361ba8cbf50ee1b1c43e8c0d1e038af31b.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave discusses his appearance on Piers Morgan in which they discussed Hasan Piker and his comments about Mao Zedong, Hasan's response, and more.Support Our Sponsors:Cowboy Colostrum - Get 25% Off Cowboy Colostrum with code DAVE at https://www.cowboycolostrum.com/DAVESuperpower - Head to Superpower.com and use cod",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "JRE MMA Show #184 with Aljamain Sterling",
@@ -184,20 +198,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Fluffy, Harland Williams, Adam Ray, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED– 05/07/2026\nTHIS EPISODE IS SPONSORED BY: \nShopify: Own your customer relationships. Own your revenue. Start with a free trial at https://shopify.com/killtony",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "You Don’t Hate Neocons Enough",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/db511dc3-1248-44e1-83fe-b439e776847c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/db511dc3-1248-44e1-83fe-b439e776847c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-08-11T00:00:00.000Z",
-      "duration": "01:06:32",
-      "image": "https://content.production.cdn.art19.com/images/8e/1b/fa/e8/8e1bfae8-690d-4e11-9fea-aad06dd73a1e/28bf3b3c710e6a041212736b20ff93fa2d2265d268f2114505c5f12a47f85b42fa8bcb538443acd228c4bef92c9ddb797f2debad1941b9a586bce6e16191a589.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Dave's reflections from his recent Piers Morgan appearance, Mark Levin's latest attempt to convince Americans to be in favor of the Iran war, Bill O'Reilly's interview with Ben Shapiro, and more.Support Our Sponsors:The Wellness Company - Upgrade your oral care with SM",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -273,14 +273,14 @@
     }
   ],
   "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Bari Weiss": [
       "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Dave Smith": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
   }
 }
