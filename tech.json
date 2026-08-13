@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-13T13:22:37.147Z",
+  "lastUpdated": "2026-08-13T15:02:31.955Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Nakamoto Posts First Positive Adjusted Operating Income, Despite $133M GAAP Net Loss",
+      "url": "https://bitcoinmagazine.com/news/nakamoto-posts-quarterly-results",
+      "date": "2026-08-13T14:57:04.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Nakamoto-Inc.-NAKA-Strengthens-Balance-With-600-Bitcoin-Sale-Refinancing-and-Buyback-Authorization.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "This Essay is 10% AI Generated",
+      "url": "https://www.a16z.news/p/this-essay-is-10-ai-generated",
+      "date": "2026-08-13T14:01:31.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/63bc21c4-6c60-419a-85da-fe7dd4122294_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in Vals",
+      "url": "https://www.a16z.news/p/investing-in-vals",
+      "date": "2026-08-13T13:30:38.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/59a34bbf-d335-4ca3-b4ac-d149b1883880_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Bitcoin Price May Be Battered, but Structural Adoption Story Still Intact: Grayscale",
       "url": "https://bitcoinmagazine.com/news/bitcoin-price-down-but-adoption-to-grow",
@@ -97,15 +124,6 @@
       "url": "https://bitcoinmagazine.com/news/cftc-charges-goliath-in-bitcoin-fraud",
       "date": "2026-08-11T20:14:24.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/CFTC-Cracks-Open-U.S.-Market-for-Bitcoin-and-Crypto-Perpetual-Futures.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Casa CEO Nick Neuman: 233k BTC Moved To Safety After Coldcard Exploit Proves Self-Custody Resilience",
-      "url": "https://bitcoinmagazine.com/news/casa-ceo-nick-neuman-233k-btc-moved-to-safety-after-coldcard-exploit-proves-self-custody-resilience",
-      "date": "2026-08-11T19:10:11.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn.webp",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -313,24 +331,6 @@
       "url": "https://www.a16z.news/p/how-to-win-the-largest-market-in",
       "date": "2026-07-23T15:34:26.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/5dba7502-f1e0-4718-9b4c-bbbf08c13982_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Renting is stressful. Millions of renter conversations tell us why.",
-      "url": "https://www.a16z.news/p/renting-is-stressful-millions-of",
-      "date": "2026-07-23T14:01:13.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/0bef684f-9ecb-49eb-a003-9cdb6bd3e119_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Travis is Back",
-      "url": "https://www.a16z.news/p/travis-is-back",
-      "date": "2026-07-22T18:35:19.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/bb6ce301-5f83-497e-95ee-3b689a038b8d_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
