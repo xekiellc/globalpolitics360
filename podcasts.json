@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-13T17:00:36.167Z",
+  "lastUpdated": "2026-08-13T19:08:38.641Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1737,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2539 - Protect Our Parks 17",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2831972716.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2831972716.mp3",
+      "date": "2026-08-13T17:00:00.000Z",
+      "duration": "16440",
+      "image": "https://megaphone.imgix.net/podcasts/a3aee712-96bb-11f1-807f-c72272cb9884/image/0bc2fc36526436e42d74dee9a06ad1e3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Shane Gillis, Mark Normand, and Ari Shaffir are comedians, writers, and podcasters.Shane Gillis is the co-host of \"Matt and Shane's Secret Podcast,\" creator and star of Netflix's comedy series \"Tires,\" and one half of the sketch comedy duo Gilly and Keeves. Season three of \"Tires\" is streaming now.www.netflix.com/title/81758875www.youtube.com/@MSsecretpodwww.youtube.com/@GillyandKeeveswww.mssecret",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -41,18 +53,6 @@
       "duration": "8361",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Craig Koniver is a physician who rebuilt his entire practice after a near-fatal portal vein thrombosis at age 46 exposed the failures of conventional medicine. A former Old World Archaeology and Art major, he pairs ancient healing traditions with modern precision medicine and with over 50,000 peptide treatments administered, he has more direct clinical experience in biological optimization tha",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5131677929.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried",
-      "date": "2026-08-13T08:00:00.000Z",
-      "duration": "2284",
-      "image": "https://megaphone.imgix.net/podcasts/d5bc4646-96ca-11f1-aaf8-2bcc5308b57c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the ris",
       "guestTags": []
     },
     {
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2539 - Protect Our Parks 17",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2831972716.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2831972716.mp3",
+      "date": "2026-08-13T17:00:00.000Z",
+      "duration": "16440",
+      "image": "https://megaphone.imgix.net/podcasts/a3aee712-96bb-11f1-807f-c72272cb9884/image/0bc2fc36526436e42d74dee9a06ad1e3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Shane Gillis, Mark Normand, and Ari Shaffir are comedians, writers, and podcasters.Shane Gillis is the co-host of \"Matt and Shane's Secret Podcast,\" creator and star of Netflix's comedy series \"Tires,\" and one half of the sketch comedy duo Gilly and Keeves. Season three of \"Tires\" is streaming now.www.netflix.com/title/81758875www.youtube.com/@MSsecretpodwww.youtube.com/@GillyandKeeveswww.mssecret",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/13/26: Dem Talarico Leads Texas, Ecuador Fishermen Hunted, Kushner Buys Lakers",
@@ -167,18 +179,6 @@
       "duration": "8361",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Craig Koniver is a physician who rebuilt his entire practice after a near-fatal portal vein thrombosis at age 46 exposed the failures of conventional medicine. A former Old World Archaeology and Art major, he pairs ancient healing traditions with modern precision medicine and with over 50,000 peptide treatments administered, he has more direct clinical experience in biological optimization tha",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5131677929.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried",
-      "date": "2026-08-13T08:00:00.000Z",
-      "duration": "2284",
-      "image": "https://megaphone.imgix.net/podcasts/d5bc4646-96ca-11f1-aaf8-2bcc5308b57c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the ris",
       "guestTags": []
     },
     {
