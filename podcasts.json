@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-13T20:49:22.751Z",
+  "lastUpdated": "2026-08-13T22:49:20.096Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1737,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#675 - Professor Jiang",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8750916289.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8750916289.mp3",
+      "date": "2026-08-13T21:09:00.000Z",
+      "duration": "6553",
+      "image": "https://megaphone.imgix.net/podcasts/1a1c7660-9759-11f1-8897-e7d5e54438ca/image/46e0c557a81ad6f03ddce404e29e6348.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Professor Xueqin Jiang is a teacher and geo-politics expert known for his popular YouTube channel “Predictive History”.\n\nProfessor Jiang joins Theo to talk about his method for predicting world events, what he thinks is really motivating the war in the Middle East, and how secret societies wield power behind the scenes.&amp;nbsp;\n\nProfessor Jiang: https://www.instagram.com/predictivehistory_&amp;n",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -42,18 +54,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#330 Dr. Craig Koniver - The Godfather of Peptides",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9229914299.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9229914299.mp3",
-      "date": "2026-08-13T10:00:00.000Z",
-      "duration": "8361",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Craig Koniver is a physician who rebuilt his entire practice after a near-fatal portal vein thrombosis at age 46 exposed the failures of conventional medicine. A former Old World Archaeology and Art major, he pairs ancient healing traditions with modern precision medicine and with over 50,000 peptide treatments administered, he has more direct clinical experience in biological optimization tha",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#675 - Professor Jiang",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8750916289.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8750916289.mp3",
+      "date": "2026-08-13T21:09:00.000Z",
+      "duration": "6553",
+      "image": "https://megaphone.imgix.net/podcasts/1a1c7660-9759-11f1-8897-e7d5e54438ca/image/46e0c557a81ad6f03ddce404e29e6348.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Professor Xueqin Jiang is a teacher and geo-politics expert known for his popular YouTube channel “Predictive History”.\n\nProfessor Jiang joins Theo to talk about his method for predicting world events, what he thinks is really motivating the war in the Middle East, and how secret societies wield power behind the scenes.&amp;nbsp;\n\nProfessor Jiang: https://www.instagram.com/predictivehistory_&amp;n",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2539 - Protect Our Parks 17",
@@ -168,18 +180,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#330 Dr. Craig Koniver - The Godfather of Peptides",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9229914299.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9229914299.mp3",
-      "date": "2026-08-13T10:00:00.000Z",
-      "duration": "8361",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Craig Koniver is a physician who rebuilt his entire practice after a near-fatal portal vein thrombosis at age 46 exposed the failures of conventional medicine. A former Old World Archaeology and Art major, he pairs ancient healing traditions with modern precision medicine and with over 50,000 peptide treatments administered, he has more direct clinical experience in biological optimization tha",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
