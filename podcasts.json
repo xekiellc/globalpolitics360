@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-13T07:41:36.460Z",
+  "lastUpdated": "2026-08-13T09:17:47.627Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1736,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5131677929.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried",
+      "date": "2026-08-13T08:00:00.000Z",
+      "duration": "2284",
+      "image": "https://megaphone.imgix.net/podcasts/d5bc4646-96ca-11f1-aaf8-2bcc5308b57c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the ris",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -44,18 +56,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2538 - Joe DeRosa",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1242550719.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1242550719.mp3",
-      "date": "2026-08-12T17:00:00.000Z",
-      "duration": "9777",
-      "image": "https://megaphone.imgix.net/podcasts/22233586-966b-11f1-8f2f-03112136bec0/image/46c5a7c092e94e1f6f989ff752de3211.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe DeRosa is a comedian, actor, musician, restaurateur, and host of the \"Vile and Horrendous\" podcast. His latest special, \"I Never Promised You a Rose Garden,\" is now streaming on Netflix.\n\nwww.youtube.com/@joederosacomedywww.joederosa.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free welcome kit with your first subscription of AG1 at https://",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5131677929.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried",
+      "date": "2026-08-13T08:00:00.000Z",
+      "duration": "2284",
+      "image": "https://megaphone.imgix.net/podcasts/d5bc4646-96ca-11f1-aaf8-2bcc5308b57c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the ris",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration &amp; DSA vs Democrats",
@@ -170,18 +182,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2538 - Joe DeRosa",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1242550719.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1242550719.mp3",
-      "date": "2026-08-12T17:00:00.000Z",
-      "duration": "9777",
-      "image": "https://megaphone.imgix.net/podcasts/22233586-966b-11f1-8f2f-03112136bec0/image/46c5a7c092e94e1f6f989ff752de3211.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe DeRosa is a comedian, actor, musician, restaurateur, and host of the \"Vile and Horrendous\" podcast. His latest special, \"I Never Promised You a Rose Garden,\" is now streaming on Netflix.\n\nwww.youtube.com/@joederosacomedywww.joederosa.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free welcome kit with your first subscription of AG1 at https://",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
