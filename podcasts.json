@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-14T11:00:42.602Z",
+  "lastUpdated": "2026-08-14T13:17:32.433Z",
   "showCount": 22,
-  "episodeCount": 9,
+  "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1703,
+  "taggedCount": 1737,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -68,6 +68,18 @@
       "guestTags": [
         "Dave Smith"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &#038; Football",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3",
+      "listenUrl": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=khabib-nurmagomedov",
+      "date": "2026-08-12T13:11:45.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to make it enjoyable to listen to, by carefully dub",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
