@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-14T16:58:38.815Z",
+  "lastUpdated": "2026-08-14T19:00:22.445Z",
   "showCount": 22,
-  "episodeCount": 10,
+  "episodeCount": 9,
   "archiveCount": 11,
-  "taggedCount": 1737,
+  "taggedCount": 1703,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2540 - Travis Barker",
+      "audioUrl": "https://traffic.megaphone.fm/GLT5593509812.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT5593509812.mp3",
+      "date": "2026-08-14T17:00:00.000Z",
+      "duration": "9351",
+      "image": "https://megaphone.imgix.net/podcasts/b5568610-9764-11f1-8761-4370c8a2da8b/image/8e8868a3d2a847122f1f4b341c224283.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Travis Barker is a musician, songwriter, producer, entrepreneur, and drummer for Blink-182. He is the subject of the documentary \"Travis Barker: Louder Than Fear,\" which premieres August 13 on Hulu and Hulu on Disney+.www.hulu.com/movie/travis-barker-louder-than-fear-fd373a84-b79f-4dc3-93e3-29a6d6d5ec95www.barkerwellness.comwww.dtarecords.comwww.famousstarsandstraps.comwww.blink182.comwww.travisba",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -27,18 +39,6 @@
       "duration": "6553",
       "image": "https://megaphone.imgix.net/podcasts/1a1c7660-9759-11f1-8897-e7d5e54438ca/image/46e0c557a81ad6f03ddce404e29e6348.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Professor Xueqin Jiang is a teacher and geo-politics expert known for his popular YouTube channel “Predictive History”.\n\nProfessor Jiang joins Theo to talk about his method for predicting world events, what he thinks is really motivating the war in the Middle East, and how secret societies wield power behind the scenes.&amp;nbsp;\n\nProfessor Jiang: https://www.instagram.com/predictivehistory_&amp;n",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2539 - Protect Our Parks 17",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2831972716.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2831972716.mp3",
-      "date": "2026-08-13T17:00:00.000Z",
-      "duration": "16440",
-      "image": "https://megaphone.imgix.net/podcasts/a3aee712-96bb-11f1-807f-c72272cb9884/image/0bc2fc36526436e42d74dee9a06ad1e3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Shane Gillis, Mark Normand, and Ari Shaffir are comedians, writers, and podcasters.Shane Gillis is the co-host of \"Matt and Shane's Secret Podcast,\" creator and star of Netflix's comedy series \"Tires,\" and one half of the sketch comedy duo Gilly and Keeves. Season three of \"Tires\" is streaming now.www.netflix.com/title/81758875www.youtube.com/@MSsecretpodwww.youtube.com/@GillyandKeeveswww.mssecret",
       "guestTags": []
     },
     {
@@ -68,18 +68,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &#038; Football",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3",
-      "listenUrl": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=khabib-nurmagomedov",
-      "date": "2026-08-12T13:11:45.000Z",
-      "duration": "",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to make it enjoyable to listen to, by carefully dub",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -132,6 +120,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2540 - Travis Barker",
+      "audioUrl": "https://traffic.megaphone.fm/GLT5593509812.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT5593509812.mp3",
+      "date": "2026-08-14T17:00:00.000Z",
+      "duration": "9351",
+      "image": "https://megaphone.imgix.net/podcasts/b5568610-9764-11f1-8761-4370c8a2da8b/image/8e8868a3d2a847122f1f4b341c224283.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Travis Barker is a musician, songwriter, producer, entrepreneur, and drummer for Blink-182. He is the subject of the documentary \"Travis Barker: Louder Than Fear,\" which premieres August 13 on Hulu and Hulu on Disney+.www.hulu.com/movie/travis-barker-louder-than-fear-fd373a84-b79f-4dc3-93e3-29a6d6d5ec95www.barkerwellness.comwww.dtarecords.comwww.famousstarsandstraps.comwww.blink182.comwww.travisba",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/14/26: Karoline Leavitt Quits After Decoy Plane Fiasco, Scott Jennings Meltdown, AI Math Breakthroughs, American Doctor Doc",
@@ -153,18 +153,6 @@
       "duration": "6553",
       "image": "https://megaphone.imgix.net/podcasts/1a1c7660-9759-11f1-8897-e7d5e54438ca/image/46e0c557a81ad6f03ddce404e29e6348.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Professor Xueqin Jiang is a teacher and geo-politics expert known for his popular YouTube channel “Predictive History”.\n\nProfessor Jiang joins Theo to talk about his method for predicting world events, what he thinks is really motivating the war in the Middle East, and how secret societies wield power behind the scenes.&amp;nbsp;\n\nProfessor Jiang: https://www.instagram.com/predictivehistory_&amp;n",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2539 - Protect Our Parks 17",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2831972716.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2831972716.mp3",
-      "date": "2026-08-13T17:00:00.000Z",
-      "duration": "16440",
-      "image": "https://megaphone.imgix.net/podcasts/a3aee712-96bb-11f1-807f-c72272cb9884/image/0bc2fc36526436e42d74dee9a06ad1e3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Shane Gillis, Mark Normand, and Ari Shaffir are comedians, writers, and podcasters.Shane Gillis is the co-host of \"Matt and Shane's Secret Podcast,\" creator and star of Netflix's comedy series \"Tires,\" and one half of the sketch comedy duo Gilly and Keeves. Season three of \"Tires\" is streaming now.www.netflix.com/title/81758875www.youtube.com/@MSsecretpodwww.youtube.com/@GillyandKeeveswww.mssecret",
       "guestTags": []
     },
     {

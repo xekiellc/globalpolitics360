@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-14T16:58:30.808Z",
+  "lastUpdated": "2026-08-14T19:00:13.306Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
+      "url": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
+      "date": "2026-08-14T17:24:58.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital",
       "url": "https://bitcoinmagazine.com/news/israel-bank-leumi-to-debut-bitcoin-trading",
@@ -127,15 +136,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Bitcoin Price May Be Battered, but Structural Adoption Story Still Intact: Grayscale",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-price-down-but-adoption-to-grow",
-      "date": "2026-08-12T21:31:30.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-May-Be-Battered-but-Analysts-See-Structural-Adoption-Story-Still-Intact.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "What It Takes to Get Paid",
