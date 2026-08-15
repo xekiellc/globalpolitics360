@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-08-15T16:30:14.016Z",
+  "lastUpdated": "2026-08-15T18:36:05.262Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 26,
+  "taggedCount": 27,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "SDVRyr_C6Bo",
-      "show": "Theo Von",
-      "title": "Jshock Talks About His Syndrome and Medical Journey",
-      "url": "https://www.youtube.com/watch?v=SDVRyr_C6Bo",
-      "date": "2026-08-15T15:00:14.000Z",
-      "image": "https://i4.ytimg.com/vi/SDVRyr_C6Bo/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #673\nFull Episode: https://www.youtube.com/watch?v=z2i9Cyx2lTY\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter",
-      "guestTags": []
+      "videoId": "7dTUQGCv38w",
+      "show": "TRIGGERnometry",
+      "title": "How Britain Built the Greatest Empire In History - Dan Snow",
+      "url": "https://www.youtube.com/watch?v=7dTUQGCv38w",
+      "date": "2026-08-15T18:00:19.000Z",
+      "image": "https://i4.ytimg.com/vi/7dTUQGCv38w/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "SDVRyr_C6Bo",
-      "show": "Theo Von",
-      "title": "Jshock Talks About His Syndrome and Medical Journey",
-      "url": "https://www.youtube.com/watch?v=SDVRyr_C6Bo",
-      "date": "2026-08-15T15:00:14.000Z",
-      "image": "https://i4.ytimg.com/vi/SDVRyr_C6Bo/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #673\nFull Episode: https://www.youtube.com/watch?v=z2i9Cyx2lTY\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweekend \nTwitter",
-      "guestTags": []
+      "videoId": "7dTUQGCv38w",
+      "show": "TRIGGERnometry",
+      "title": "How Britain Built the Greatest Empire In History - Dan Snow",
+      "url": "https://www.youtube.com/watch?v=7dTUQGCv38w",
+      "date": "2026-08-15T18:00:19.000Z",
+      "image": "https://i4.ytimg.com/vi/7dTUQGCv38w/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at h",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

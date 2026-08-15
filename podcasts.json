@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-08-15T16:30:13.391Z",
+  "lastUpdated": "2026-08-15T18:36:04.988Z",
   "showCount": 22,
-  "episodeCount": 9,
+  "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1705,
+  "taggedCount": 1740,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "How Britain Built the Greatest Empire In History - Dan Snow",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347258993.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347258993.mp3",
+      "date": "2026-08-15T18:00:00.000Z",
+      "duration": "6539",
+      "image": "https://megaphone.imgix.net/podcasts/97f31f20-9809-11f1-a6aa-3fdc913a1354/image/2a1af48ad93b3650de6209b1d107e848.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at https://venice.ai and get 20% off your first month with code triggernomery \n\n\n- MassZymes by BIOptim",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "Dalton Fischer Podcast",
+      "title": "Exercise Scientist: Shocking New Ozempic Data, Peptide Lies &amp; The Dark Side of Steroids | Dr. Mike Israetel",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19650517-exercise-scientist-shocking-new-ozempic-data-peptide-lies-the-dark-side-of-steroids-dr-mike-israetel.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19650517-exercise-scientist-shocking-new-ozempic-data-peptide-lies-the-dark-side-of-steroids-dr-mike-israetel.mp3",
+      "date": "2026-08-15T17:00:00.000Z",
+      "duration": "8894",
+      "image": "https://storage.buzzsprout.com/oftfjxe3tekosnzngh45xzl3fra9?.jpg",
+      "desc": "Dr. Mike Israetel is an exercise scientist with a PhD in sport physiology and co-founder of Renaissance Periodization. He is also a competitive bodybuilder and Brazilian jiu-jitsu athlete.Show Sponsors:- Don’t sleep on Ultra Pouches! New customers get 15% Off with code DALTON at https://takeultra.com- Go to https://www.stash.com/DALTON to get 15% off a monthly subscription or 30% off an annual sub",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -69,27 +95,15 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#675 - Professor Jiang",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8750916289.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8750916289.mp3",
-      "date": "2026-08-13T21:09:00.000Z",
-      "duration": "6553",
-      "image": "https://megaphone.imgix.net/podcasts/1a1c7660-9759-11f1-8897-e7d5e54438ca/image/46e0c557a81ad6f03ddce404e29e6348.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Professor Xueqin Jiang is a teacher and geo-politics expert known for his popular YouTube channel “Predictive History”.\n\nProfessor Jiang joins Theo to talk about his method for predicting world events, what he thinks is really motivating the war in the Middle East, and how secret societies wield power behind the scenes.&amp;nbsp;\n\nProfessor Jiang: https://www.instagram.com/predictivehistory_&amp;n",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "“Giant F*cking Scam!” Exercise Scientist Exposes The Biggest Lies In Health &amp; Nutrition | Dr. Mike Israetel",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19575736-giant-f-cking-scam-exercise-scientist-exposes-the-biggest-lies-in-health-nutrition-dr-mike-israetel.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19575736-giant-f-cking-scam-exercise-scientist-exposes-the-biggest-lies-in-health-nutrition-dr-mike-israetel.mp3",
-      "date": "2026-07-31T16:00:00.000Z",
-      "duration": "8894",
-      "image": "https://storage.buzzsprout.com/3fmvxo7oekq4hc7jrbrene7k3gh7?.jpg",
-      "desc": "Dr. Mike Israetel is an exercise scientist with a PhD in sport physiology and co-founder of Renaissance Periodization. He is also a competitive bodybuilder and Brazilian jiu-jitsu athlete.Show Sponsors:- Don’t sleep on Ultra Pouches! New customers get 15% Off with code DALTON at https://takeultra.com- Go to https://www.stash.com/DALTON to get 15% off a monthly subscription or 30% off an annual sub",
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &#038; Football",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3",
+      "listenUrl": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=khabib-nurmagomedov",
+      "date": "2026-08-12T13:11:45.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to make it enjoyable to listen to, by carefully dub",
       "guestTags": []
     },
     {
@@ -119,6 +133,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "How Britain Built the Greatest Empire In History - Dan Snow",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347258993.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347258993.mp3",
+      "date": "2026-08-15T18:00:00.000Z",
+      "duration": "6539",
+      "image": "https://megaphone.imgix.net/podcasts/97f31f20-9809-11f1-a6aa-3fdc913a1354/image/2a1af48ad93b3650de6209b1d107e848.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at https://venice.ai and get 20% off your first month with code triggernomery \n\n\n- MassZymes by BIOptim",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
+      "show": "Dalton Fischer Podcast",
+      "title": "Exercise Scientist: Shocking New Ozempic Data, Peptide Lies &amp; The Dark Side of Steroids | Dr. Mike Israetel",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19650517-exercise-scientist-shocking-new-ozempic-data-peptide-lies-the-dark-side-of-steroids-dr-mike-israetel.mp3",
+      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19650517-exercise-scientist-shocking-new-ozempic-data-peptide-lies-the-dark-side-of-steroids-dr-mike-israetel.mp3",
+      "date": "2026-08-15T17:00:00.000Z",
+      "duration": "8894",
+      "image": "https://storage.buzzsprout.com/oftfjxe3tekosnzngh45xzl3fra9?.jpg",
+      "desc": "Dr. Mike Israetel is an exercise scientist with a PhD in sport physiology and co-founder of Renaissance Periodization. He is also a competitive bodybuilder and Brazilian jiu-jitsu athlete.Show Sponsors:- Don’t sleep on Ultra Pouches! New customers get 15% Off with code DALTON at https://takeultra.com- Go to https://www.stash.com/DALTON to get 15% off a monthly subscription or 30% off an annual sub",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KT Behind the Tape: MSG Night 1",
@@ -182,18 +222,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#675 - Professor Jiang",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8750916289.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8750916289.mp3",
-      "date": "2026-08-13T21:09:00.000Z",
-      "duration": "6553",
-      "image": "https://megaphone.imgix.net/podcasts/1a1c7660-9759-11f1-8897-e7d5e54438ca/image/46e0c557a81ad6f03ddce404e29e6348.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Professor Xueqin Jiang is a teacher and geo-politics expert known for his popular YouTube channel “Predictive History”.\n\nProfessor Jiang joins Theo to talk about his method for predicting world events, what he thinks is really motivating the war in the Middle East, and how secret societies wield power behind the scenes.&amp;nbsp;\n\nProfessor Jiang: https://www.instagram.com/predictivehistory_&amp;n",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
       "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &#038; Football",
@@ -203,18 +231,6 @@
       "duration": "",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to make it enjoyable to listen to, by carefully dub",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
-      "show": "Dalton Fischer Podcast",
-      "title": "“Giant F*cking Scam!” Exercise Scientist Exposes The Biggest Lies In Health &amp; Nutrition | Dr. Mike Israetel",
-      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19575736-giant-f-cking-scam-exercise-scientist-exposes-the-biggest-lies-in-health-nutrition-dr-mike-israetel.mp3",
-      "listenUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2373344/episodes/19575736-giant-f-cking-scam-exercise-scientist-exposes-the-biggest-lies-in-health-nutrition-dr-mike-israetel.mp3",
-      "date": "2026-07-31T16:00:00.000Z",
-      "duration": "8894",
-      "image": "https://storage.buzzsprout.com/3fmvxo7oekq4hc7jrbrene7k3gh7?.jpg",
-      "desc": "Dr. Mike Israetel is an exercise scientist with a PhD in sport physiology and co-founder of Renaissance Periodization. He is also a competitive bodybuilder and Brazilian jiu-jitsu athlete.Show Sponsors:- Don’t sleep on Ultra Pouches! New customers get 15% Off with code DALTON at https://takeultra.com- Go to https://www.stash.com/DALTON to get 15% off a monthly subscription or 30% off an annual sub",
       "guestTags": []
     },
     {
@@ -255,6 +271,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Elon Musk": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
