@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T18:36:05.262Z",
+  "lastUpdated": "2026-08-15T20:28:15.282Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "7dTUQGCv38w",
-      "show": "TRIGGERnometry",
-      "title": "How Britain Built the Greatest Empire In History - Dan Snow",
-      "url": "https://www.youtube.com/watch?v=7dTUQGCv38w",
-      "date": "2026-08-15T18:00:19.000Z",
-      "image": "https://i4.ytimg.com/vi/7dTUQGCv38w/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "WsIOBbSMZcE",
+      "show": "Shawn Ryan Show",
+      "title": "Is Ivermectin an Anti-Cancer Drug?!",
+      "url": "https://www.youtube.com/watch?v=WsIOBbSMZcE",
+      "date": "2026-08-15T20:00:19.000Z",
+      "image": "https://i4.ytimg.com/vi/WsIOBbSMZcE/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "7dTUQGCv38w",
-      "show": "TRIGGERnometry",
-      "title": "How Britain Built the Greatest Empire In History - Dan Snow",
-      "url": "https://www.youtube.com/watch?v=7dTUQGCv38w",
-      "date": "2026-08-15T18:00:19.000Z",
-      "image": "https://i4.ytimg.com/vi/7dTUQGCv38w/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at h",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "WsIOBbSMZcE",
+      "show": "Shawn Ryan Show",
+      "title": "Is Ivermectin an Anti-Cancer Drug?!",
+      "url": "https://www.youtube.com/watch?v=WsIOBbSMZcE",
+      "date": "2026-08-15T20:00:19.000Z",
+      "image": "https://i4.ytimg.com/vi/WsIOBbSMZcE/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
