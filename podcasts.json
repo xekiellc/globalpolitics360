@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-16T16:30:52.692Z",
+  "lastUpdated": "2026-08-16T18:35:38.963Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1660,
+  "taggedCount": 1741,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "The Jordan B. Peterson Podcast",
+      "title": "Why Being Nice Is Destroying Your Family",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV4580178310.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV4580178310.mp3",
+      "date": "2026-08-16T17:00:00.000Z",
+      "duration": "6259",
+      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "What does a punk rock concert full of sneering nihilists have to do with the oldest question about how to live? In this lecture, the final numbers of a long tour, Jordan Peterson begins somewhere unexpected: a Ramones show decades ago, where a room full of people who claimed life was meaningless could not stop moving to the music. That contradiction becomes a thread he pulls until something enormo",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -17,20 +29,6 @@
       "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJULIAN YT CHANNELS\n- SUBSCRIBE to Julian Dorey Clips YT: https://www.youtube.co",
       "guestTags": [
         "Julian Dorey"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "How Britain Built the Greatest Empire In History - Dan Snow",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347258993.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347258993.mp3",
-      "date": "2026-08-15T18:00:00.000Z",
-      "duration": "6539",
-      "image": "https://megaphone.imgix.net/podcasts/97f31f20-9809-11f1-a6aa-3fdc913a1354/image/2a1af48ad93b3650de6209b1d107e848.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at https://venice.ai and get 20% off your first month with code triggernomery \n\n\n- MassZymes by BIOptim",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -135,6 +133,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "The Jordan B. Peterson Podcast",
+      "title": "Why Being Nice Is Destroying Your Family",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV4580178310.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV4580178310.mp3",
+      "date": "2026-08-16T17:00:00.000Z",
+      "duration": "6259",
+      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "What does a punk rock concert full of sneering nihilists have to do with the oldest question about how to live? In this lecture, the final numbers of a long tour, Jordan Peterson begins somewhere unexpected: a Ramones show decades ago, where a room full of people who claimed life was meaningless could not stop moving to the music. That contradiction becomes a thread he pulls until something enormo",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "Anthropic SCANDAL, Luigi REACTION &amp; Flock Contacted ME | Julian Dorey • 463",
@@ -146,20 +156,6 @@
       "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJULIAN YT CHANNELS\n- SUBSCRIBE to Julian Dorey Clips YT: https://www.youtube.co",
       "guestTags": [
         "Julian Dorey"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "How Britain Built the Greatest Empire In History - Dan Snow",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347258993.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7347258993.mp3",
-      "date": "2026-08-15T18:00:00.000Z",
-      "duration": "6539",
-      "image": "https://megaphone.imgix.net/podcasts/97f31f20-9809-11f1-a6aa-3fdc913a1354/image/2a1af48ad93b3650de6209b1d107e848.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at https://venice.ai and get 20% off your first month with code triggernomery \n\n\n- MassZymes by BIOptim",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -277,9 +273,6 @@
   "guestIndex": {
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
     "Elon Musk": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
