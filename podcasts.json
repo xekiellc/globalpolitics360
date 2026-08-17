@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-17T07:04:51.329Z",
+  "lastUpdated": "2026-08-17T08:49:40.038Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1741,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Neuroscience of Emotions &amp; Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
+      "date": "2026-08-17T08:00:00.000Z",
+      "duration": "7770",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Get tickets to Huberman Lab live events: https://www.hubermanlab.com/events\n\nPre-order Andrew's book Protocols: https://protocolsbook.com\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nFunction: https://functionhealth.com/huberman\n\nHelix Sleep: https://helixsleep.com/huberman\n\nLMNT: https://drinklmnt.com/huberman\n\nRorra: https://rorra.com/huberman\n\nTimestamps\n\n(00:00:00) Ralph Ado",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
@@ -69,18 +81,6 @@
         "Elon Musk",
         "Jensen Huang"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2540 - Travis Barker",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5593509812.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5593509812.mp3",
-      "date": "2026-08-14T17:00:00.000Z",
-      "duration": "9351",
-      "image": "https://megaphone.imgix.net/podcasts/b5568610-9764-11f1-8761-4370c8a2da8b/image/8e8868a3d2a847122f1f4b341c224283.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Travis Barker is a musician, songwriter, producer, entrepreneur, and drummer for Blink-182. He is the subject of the documentary \"Travis Barker: Louder Than Fear,\" which premieres August 13 on Hulu and Hulu on Disney+.www.hulu.com/movie/travis-barker-louder-than-fear-fd373a84-b79f-4dc3-93e3-29a6d6d5ec95www.barkerwellness.comwww.dtarecords.comwww.famousstarsandstraps.comwww.blink182.comwww.travisba",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -133,6 +133,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Neuroscience of Emotions &amp; Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
+      "date": "2026-08-17T08:00:00.000Z",
+      "duration": "7770",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Get tickets to Huberman Lab live events: https://www.hubermanlab.com/events\n\nPre-order Andrew's book Protocols: https://protocolsbook.com\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nFunction: https://functionhealth.com/huberman\n\nHelix Sleep: https://helixsleep.com/huberman\n\nLMNT: https://drinklmnt.com/huberman\n\nRorra: https://rorra.com/huberman\n\nTimestamps\n\n(00:00:00) Ralph Ado",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
       "title": "Why Being Nice Is Destroying Your Family",
@@ -196,18 +208,6 @@
         "Elon Musk",
         "Jensen Huang"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2540 - Travis Barker",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5593509812.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5593509812.mp3",
-      "date": "2026-08-14T17:00:00.000Z",
-      "duration": "9351",
-      "image": "https://megaphone.imgix.net/podcasts/b5568610-9764-11f1-8761-4370c8a2da8b/image/8e8868a3d2a847122f1f4b341c224283.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Travis Barker is a musician, songwriter, producer, entrepreneur, and drummer for Blink-182. He is the subject of the documentary \"Travis Barker: Louder Than Fear,\" which premieres August 13 on Hulu and Hulu on Disney+.www.hulu.com/movie/travis-barker-louder-than-fear-fd373a84-b79f-4dc3-93e3-29a6d6d5ec95www.barkerwellness.comwww.dtarecords.comwww.famousstarsandstraps.comwww.blink182.comwww.travisba",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
