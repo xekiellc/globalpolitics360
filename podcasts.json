@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-17T10:36:40.770Z",
+  "lastUpdated": "2026-08-17T12:53:17.652Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1741,
+  "taggedCount": 1742,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -16,6 +16,20 @@
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Scott Payne is a retired FBI Special Agent who spent twenty-eight years in law enforcement investigating drug trafficking organizations, human traffickers, outlaw motorcycle clubs, gangs, public corruption, and domestic terrorists.\n\nHe served as the primary undercover agent on dozens of operations, including infiltrations of the Outlaws Motorcycle Club and The Base, a violent neo-Nazi acceleration",
       "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Look Past the Candidate",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124315126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F0e6150f8-a6b5-e1e5-fb14-d82e44d73a53.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Look-Past-the-Candidate-e3nga1m",
+      "date": "2026-08-17T10:00:00.000Z",
+      "duration": "00:24:11",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1786929642643-027b166c04784.jpg",
+      "desc": "Most voters know what a candidate promises. But how many know who is standing behind them?In this episode of The Watch Floor, Sarah Adams looks beyond the campaign slogans to examine the political coalitions forming around candidates in the 2026 elections. What starts with very real concerns about rent, housing, healthcare, wages, and affordability leads to a larger question: who else sees an oppo",
+      "guestTags": [
+        "Sarah Adams"
+      ]
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -104,18 +118,6 @@
       "duration": "",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to make it enjoyable to listen to, by carefully dub",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Back to Benghazi | Episode 4: The Libyans Who Came for Us",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/123246926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2F428517297-44100-2-c887358c1eb9d.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Back-to-Benghazi--Episode-4-The-Libyans-Who-Came-for-Us-e3mfmse",
-      "date": "2026-06-26T17:12:00.000Z",
-      "duration": "00:34:17",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/54817cf139e7299c.png",
-      "desc": "In today's episode of our series, Back to Benghazi, we'll be discussing the Libyans who came for us.\n\nMars Men: For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars Men at\nhttps://Mengotomars.com.\n\nGlacier: Join the waitlist http://theglacierapp.com/waitlist Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "guestTags": []
     },
     {
@@ -145,6 +147,20 @@
       "guestTags": []
     },
     {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Look Past the Candidate",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124315126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F0e6150f8-a6b5-e1e5-fb14-d82e44d73a53.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Look-Past-the-Candidate-e3nga1m",
+      "date": "2026-08-17T10:00:00.000Z",
+      "duration": "00:24:11",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1786929642643-027b166c04784.jpg",
+      "desc": "Most voters know what a candidate promises. But how many know who is standing behind them?In this episode of The Watch Floor, Sarah Adams looks beyond the campaign slogans to examine the political coalitions forming around candidates in the 2026 elections. What starts with very real concerns about rent, housing, healthcare, wages, and affordability leads to a larger question: who else sees an oppo",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "Neuroscience of Emotions &amp; Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
@@ -234,18 +250,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Back to Benghazi | Episode 4: The Libyans Who Came for Us",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/123246926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2F428517297-44100-2-c887358c1eb9d.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Back-to-Benghazi--Episode-4-The-Libyans-Who-Came-for-Us-e3mfmse",
-      "date": "2026-06-26T17:12:00.000Z",
-      "duration": "00:34:17",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/54817cf139e7299c.png",
-      "desc": "In today's episode of our series, Back to Benghazi, we'll be discussing the Libyans who came for us.\n\nMars Men: For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars Men at\nhttps://Mengotomars.com.\n\nGlacier: Join the waitlist http://theglacierapp.com/waitlist Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9yc3Yuc2ltcGxl",
       "show": "Kill Tony",
       "title": "KILL TONY #770",
@@ -271,6 +275,9 @@
     }
   ],
   "guestIndex": {
+    "Sarah Adams": [
+      "aHR0cHM6Ly9hbmNob3IuZm0v"
+    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
