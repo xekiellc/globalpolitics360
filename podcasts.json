@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-18T16:36:43.673Z",
+  "lastUpdated": "2026-08-18T18:44:34.792Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1744,
+  "taggedCount": 1672,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2541 - Thomas Campbell",
+      "audioUrl": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+      "date": "2026-08-18T17:00:00.000Z",
+      "duration": "10112",
+      "image": "https://megaphone.imgix.net/podcasts/792ba37c-9a99-11f1-802d-6faff96a5ef8/image/28569fa50040498b8dc3ec71e0962139.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Thomas Campbell is a physicist, consciousness researcher,&amp;nbsp;and&amp;nbsp;author of the&amp;nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through m",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -83,18 +95,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Neuroscience of Emotions &amp; Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
-      "date": "2026-08-17T08:00:00.000Z",
-      "duration": "7785",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Ralph Adolphs, PhD, is a Professor of Psychology, Neuroscience, and Biology at Caltech and a leading expert on the science of human emotions. We discuss how emotions shape our attention and decision-making, whether emotions are truly “stored” in the body, and whether facial expressions are truly reliable signals of emotion. We also cover tools for improving emotional regulation, including cogn",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -135,6 +135,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2541 - Thomas Campbell",
+      "audioUrl": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+      "date": "2026-08-18T17:00:00.000Z",
+      "duration": "10112",
+      "image": "https://megaphone.imgix.net/podcasts/792ba37c-9a99-11f1-802d-6faff96a5ef8/image/28569fa50040498b8dc3ec71e0962139.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Thomas Campbell is a physicist, consciousness researcher,&amp;nbsp;and&amp;nbsp;author of the&amp;nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through m",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/18/26: Tariff Refunds Boost Corporations, MAGA Sheriffs Revolt On Border Wall, Screens Ruining Education",
@@ -212,18 +224,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Neuroscience of Emotions &amp; Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
-      "date": "2026-08-17T08:00:00.000Z",
-      "duration": "7785",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Ralph Adolphs, PhD, is a Professor of Psychology, Neuroscience, and Biology at Caltech and a leading expert on the science of human emotions. We discuss how emotions shape our attention and decision-making, whether emotions are truly “stored” in the body, and whether facial expressions are truly reliable signals of emotion. We also cover tools for improving emotional regulation, including cogn",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
