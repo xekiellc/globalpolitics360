@@ -1,10 +1,50 @@
 {
-  "lastUpdated": "2026-08-17T22:29:16.933Z",
+  "lastUpdated": "2026-08-18T01:34:39.436Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1742,
+  "taggedCount": 1743,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "#781 - JEFF ARCURI",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c1c8c8b7-dcff-468e-a1bb-f9f926522c9f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c1c8c8b7-dcff-468e-a1bb-f9f926522c9f&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-18T01:00:00.000Z",
+      "duration": "02:24:12",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Jeff Arcuri, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 08/03/2026\nTHIS EPISODE IS SPONSORED BY: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.sup",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Flock_CEO_INT_AUDIO_V88.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety",
+      "date": "2026-08-18T00:47:00.000Z",
+      "duration": "55:58",
+      "image": "https://static.libsyn.com/p/assets/3/e/5/4/3e54b0bf0f3e5cf6d959afa2a1bf1c87/flock_in_cover_lybson.jpg",
+      "desc": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show! (7:23) License plate data retention: 7 days solves 90% of crimes (13:00) Camera vandalism, felony charges, and privacy concerns (18:15) Dirty cops exposed: Flock's audit tool got 9 Georgia officers fired (28:25) AI, drones, facial recognition, and avoiding predictive policing (39:43) Safety is a privilege and who",
+      "guestTags": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Candace Won",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/85ab92ae-2604-4d74-8d8e-eb6462dfdb5e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/85ab92ae-2604-4d74-8d8e-eb6462dfdb5e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-08-18T00:00:00.000Z",
+      "duration": "01:12:52",
+      "image": "https://content.production.cdn.art19.com/images/1b/b4/42/60/1bb44260-e245-424d-b4e1-f9d76a56ae13/0979e4f8b3b75bb3ddd74e9a3dfe55b85712c07d8cf59ef8860f45c14fd3670a9a7da1f6cb9a1dcc5eb081a88636db23ff3e1ca6f3ecb35b74741ad26dffa934.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Candace Owens' debate with Andrew Wilson, how each of them performed, what the impact is, and more.Support Our Sponsors:CrowdHealth - https://www.joincrowdhealth.com/promos/potpGoldback - https://www.goldback.com/dave/ Ridge - https://ridge.com/potp10Prolon - https://p",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -56,20 +96,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Anthropic SCANDAL, Luigi REACTION &amp; Flock Contacted ME | Julian Dorey • 463",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8831226189.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8831226189.mp3",
-      "date": "2026-08-15T19:00:00.000Z",
-      "duration": "6111",
-      "image": "https://megaphone.imgix.net/podcasts/afdf8e3e-9854-11f1-83c5-7bc87a2c9936/image/f86a01d66b4e26565c6dfe627b84db67.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJULIAN YT CHANNELS\n- SUBSCRIBE to Julian Dorey Clips YT: https://www.youtube.co",
-      "guestTags": [
-        "Julian Dorey"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "Dalton Fischer Podcast",
       "title": "Exercise Scientist: Shocking New Ozempic Data, Peptide Lies &amp; The Dark Side of Steroids | Dr. Mike Israetel",
@@ -80,33 +106,6 @@
       "image": "https://storage.buzzsprout.com/oftfjxe3tekosnzngh45xzl3fra9?.jpg",
       "desc": "Dr. Mike Israetel is an exercise scientist with a PhD in sport physiology and co-founder of Renaissance Periodization. He is also a competitive bodybuilder and Brazilian jiu-jitsu athlete.Show Sponsors:- Don’t sleep on Ultra Pouches! New customers get 15% Off with code DALTON at https://takeultra.com- Go to https://www.stash.com/DALTON to get 15% off a monthly subscription or 30% off an annual sub",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT Behind the Tape: MSG Night 1",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ec83093d-4d7a-445a-bf71-1c7af5c74ec3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ec83093d-4d7a-445a-bf71-1c7af5c74ec3&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-15T01:00:00.000Z",
-      "duration": "01:10:45",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from 2026 KT MSG Night One with guests Adam Ray and Jim Norton \n\nAdam Ray, Jim Norton, Pat O'Neill, Ari Matti, David Lucas, Dedrick Flynn, Mike Finoia, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED – 08/07/2026\n\nWatch Kill Tony and other exclusive content, ad free!",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback",
-      "date": "2026-08-14T20:11:00.000Z",
-      "duration": "01:39:30",
-      "image": "https://static.libsyn.com/p/assets/d/0/5/8/d05879b603142d78d959afa2a1bf1c87/1_Pod_E285.png",
-      "desc": "(0:00) Gavin Baker joins the show! (2:36) Anthropic IPO report: $2T valuation, $100B+ run rate, October listing (27:32) Zuck's AI manifesto: What it means for Meta and frontier AI (56:41) All-In Summit Speaker Announcements! (58:13) Nvidia's $500B financing plan, how the AI market could fall apart (1:14:29) NJ and Mamdani take on Amazon over subcontracted drivers (1:27:32) Grok 4.6 launch: SpaceX'",
-      "guestTags": [
-        "Elon Musk",
-        "Jensen Huang"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -135,6 +134,46 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "#781 - JEFF ARCURI",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c1c8c8b7-dcff-468e-a1bb-f9f926522c9f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c1c8c8b7-dcff-468e-a1bb-f9f926522c9f&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-18T01:00:00.000Z",
+      "duration": "02:24:12",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Jeff Arcuri, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 08/03/2026\nTHIS EPISODE IS SPONSORED BY: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.sup",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Flock_CEO_INT_AUDIO_V88.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety",
+      "date": "2026-08-18T00:47:00.000Z",
+      "duration": "55:58",
+      "image": "https://static.libsyn.com/p/assets/3/e/5/4/3e54b0bf0f3e5cf6d959afa2a1bf1c87/flock_in_cover_lybson.jpg",
+      "desc": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show! (7:23) License plate data retention: 7 days solves 90% of crimes (13:00) Camera vandalism, felony charges, and privacy concerns (18:15) Dirty cops exposed: Flock's audit tool got 9 Georgia officers fired (28:25) AI, drones, facial recognition, and avoiding predictive policing (39:43) Safety is a privilege and who",
+      "guestTags": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Candace Won",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/85ab92ae-2604-4d74-8d8e-eb6462dfdb5e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/85ab92ae-2604-4d74-8d8e-eb6462dfdb5e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-08-18T00:00:00.000Z",
+      "duration": "01:12:52",
+      "image": "https://content.production.cdn.art19.com/images/1b/b4/42/60/1bb44260-e245-424d-b4e1-f9d76a56ae13/0979e4f8b3b75bb3ddd74e9a3dfe55b85712c07d8cf59ef8860f45c14fd3670a9a7da1f6cb9a1dcc5eb081a88636db23ff3e1ca6f3ecb35b74741ad26dffa934.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Candace Owens' debate with Andrew Wilson, how each of them performed, what the impact is, and more.Support Our Sponsors:CrowdHealth - https://www.joincrowdhealth.com/promos/potpGoldback - https://www.goldback.com/dave/ Ridge - https://ridge.com/potp10Prolon - https://p",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/17/26: Outrage Over USS Lincoln, Navy Retreats After Bases Destroyed, Trump Unapologetic On Gas Prices",
@@ -185,20 +224,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Anthropic SCANDAL, Luigi REACTION &amp; Flock Contacted ME | Julian Dorey • 463",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8831226189.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8831226189.mp3",
-      "date": "2026-08-15T19:00:00.000Z",
-      "duration": "6111",
-      "image": "https://megaphone.imgix.net/podcasts/afdf8e3e-9854-11f1-83c5-7bc87a2c9936/image/f86a01d66b4e26565c6dfe627b84db67.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJULIAN YT CHANNELS\n- SUBSCRIBE to Julian Dorey Clips YT: https://www.youtube.co",
-      "guestTags": [
-        "Julian Dorey"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "Dalton Fischer Podcast",
       "title": "Exercise Scientist: Shocking New Ozempic Data, Peptide Lies &amp; The Dark Side of Steroids | Dr. Mike Israetel",
@@ -209,33 +234,6 @@
       "image": "https://storage.buzzsprout.com/oftfjxe3tekosnzngh45xzl3fra9?.jpg",
       "desc": "Dr. Mike Israetel is an exercise scientist with a PhD in sport physiology and co-founder of Renaissance Periodization. He is also a competitive bodybuilder and Brazilian jiu-jitsu athlete.Show Sponsors:- Don’t sleep on Ultra Pouches! New customers get 15% Off with code DALTON at https://takeultra.com- Go to https://www.stash.com/DALTON to get 15% off a monthly subscription or 30% off an annual sub",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT Behind the Tape: MSG Night 1",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ec83093d-4d7a-445a-bf71-1c7af5c74ec3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ec83093d-4d7a-445a-bf71-1c7af5c74ec3&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-15T01:00:00.000Z",
-      "duration": "01:10:45",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from 2026 KT MSG Night One with guests Adam Ray and Jim Norton \n\nAdam Ray, Jim Norton, Pat O'Neill, Ari Matti, David Lucas, Dedrick Flynn, Mike Finoia, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED – 08/07/2026\n\nWatch Kill Tony and other exclusive content, ad free!",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback",
-      "date": "2026-08-14T20:11:00.000Z",
-      "duration": "01:39:30",
-      "image": "https://static.libsyn.com/p/assets/d/0/5/8/d05879b603142d78d959afa2a1bf1c87/1_Pod_E285.png",
-      "desc": "(0:00) Gavin Baker joins the show! (2:36) Anthropic IPO report: $2T valuation, $100B+ run rate, October listing (27:32) Zuck's AI manifesto: What it means for Meta and frontier AI (56:41) All-In Summit Speaker Announcements! (58:13) Nvidia's $500B financing plan, how the AI market could fall apart (1:14:29) NJ and Mamdani take on Amazon over subcontracted drivers (1:27:32) Grok 4.6 launch: SpaceX'",
-      "guestTags": [
-        "Elon Musk",
-        "Jensen Huang"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -275,17 +273,14 @@
     }
   ],
   "guestIndex": {
-    "Sarah Adams": [
-      "aHR0cHM6Ly9hbmNob3IuZm0v"
-    ],
-    "Julian Dorey": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
     "Elon Musk": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
-    "Jensen Huang": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
+    "Sarah Adams": [
+      "aHR0cHM6Ly9hbmNob3IuZm0v"
     ]
   }
 }
