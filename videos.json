@@ -1,22 +1,10 @@
 {
-  "lastUpdated": "2026-08-18T02:59:30.168Z",
+  "lastUpdated": "2026-08-18T04:40:05.281Z",
   "channelCount": 12,
-  "videoCount": 1,
+  "videoCount": 0,
   "archiveCount": 1,
-  "taggedCount": 1,
-  "latest": [
-    {
-      "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "B6S0A76QxZY",
-      "show": "Danny Jones Podcast",
-      "title": "Mossad Spy: How To Commit Fraud (And Not Get Caught)",
-      "url": "https://www.youtube.com/watch?v=B6S0A76QxZY",
-      "date": "2026-08-17T17:58:46.000Z",
-      "image": "https://i3.ytimg.com/vi/B6S0A76QxZY/hqdefault.jpg",
-      "desc": "Full Episode\nhttps://www.youtube.com/watch?v=zxGGGtMQxY4&amp;t",
-      "guestTags": []
-    }
-  ],
+  "taggedCount": 0,
+  "latest": [],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
