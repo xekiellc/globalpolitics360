@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-08-19T10:33:43.782Z",
+  "lastUpdated": "2026-08-19T12:55:56.176Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1744,
+  "taggedCount": 1745,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "70,000 People Crossed Into Spain. Here’s What Happened.",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124412944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F30bc2f52-90b6-0fd5-27b1-5d2f0ae852ec.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/70-000-People-Crossed-Into-Spain--Heres-What-Happened-e3nj9ig",
+      "date": "2026-08-19T10:00:00.000Z",
+      "duration": "00:23:26",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1787097155448-c6c00f9ff86ef.jpg",
+      "desc": "More than 70,000 people reportedly surged toward the tiny Spanish city of Ceuta in a matter of hours, overwhelming a city with a population of roughly 85,000.So what happened?In this episode of The Watch Floor, Sarah Adams breaks down the extraordinary events in Ceuta: the Spanish court ruling that was distorted online, the role of Facebook, WhatsApp, TikTok, and Instagram in accelerating the move",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -81,20 +95,6 @@
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Scott Payne is a retired FBI Special Agent who spent twenty-eight years in law enforcement investigating drug trafficking organizations, human traffickers, outlaw motorcycle clubs, gangs, public corruption, and domestic terrorists.\n\nHe served as the primary undercover agent on dozens of operations, including infiltrations of the Outlaws Motorcycle Club and The Base, a violent neo-Nazi acceleration",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Look Past the Candidate",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124315126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F0e6150f8-a6b5-e1e5-fb14-d82e44d73a53.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Look-Past-the-Candidate-e3nga1m",
-      "date": "2026-08-17T10:00:00.000Z",
-      "duration": "00:24:11",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1786929642643-027b166c04784.jpg",
-      "desc": "Most voters know what a candidate promises. But how many know who is standing behind them?In this episode of The Watch Floor, Sarah Adams looks beyond the campaign slogans to examine the political coalitions forming around candidates in the 2026 elections. What starts with very real concerns about rent, housing, healthcare, wages, and affordability leads to a larger question: who else sees an oppo",
-      "guestTags": [
-        "Sarah Adams"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -135,6 +135,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "70,000 People Crossed Into Spain. Here’s What Happened.",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124412944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F30bc2f52-90b6-0fd5-27b1-5d2f0ae852ec.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/70-000-People-Crossed-Into-Spain--Heres-What-Happened-e3nj9ig",
+      "date": "2026-08-19T10:00:00.000Z",
+      "duration": "00:23:26",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1787097155448-c6c00f9ff86ef.jpg",
+      "desc": "More than 70,000 people reportedly surged toward the tiny Spanish city of Ceuta in a matter of hours, overwhelming a city with a population of roughly 85,000.So what happened?In this episode of The Watch Floor, Sarah Adams breaks down the extraordinary events in Ceuta: the Spanish court ruling that was distorted online, the role of Facebook, WhatsApp, TikTok, and Instagram in accelerating the move",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Candace Owens",
@@ -210,20 +224,6 @@
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Scott Payne is a retired FBI Special Agent who spent twenty-eight years in law enforcement investigating drug trafficking organizations, human traffickers, outlaw motorcycle clubs, gangs, public corruption, and domestic terrorists.\n\nHe served as the primary undercover agent on dozens of operations, including infiltrations of the Outlaws Motorcycle Club and The Base, a violent neo-Nazi acceleration",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Look Past the Candidate",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124315126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F0e6150f8-a6b5-e1e5-fb14-d82e44d73a53.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Look-Past-the-Candidate-e3nga1m",
-      "date": "2026-08-17T10:00:00.000Z",
-      "duration": "00:24:11",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1786929642643-027b166c04784.jpg",
-      "desc": "Most voters know what a candidate promises. But how many know who is standing behind them?In this episode of The Watch Floor, Sarah Adams looks beyond the campaign slogans to examine the political coalitions forming around candidates in the 2026 elections. What starts with very real concerns about rent, housing, healthcare, wages, and affordability leads to a larger question: who else sees an oppo",
-      "guestTags": [
-        "Sarah Adams"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -275,6 +275,9 @@
     }
   ],
   "guestIndex": {
+    "Sarah Adams": [
+      "aHR0cHM6Ly9hbmNob3IuZm0v"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
@@ -283,9 +286,6 @@
     ],
     "Jim Bovard": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Sarah Adams": [
-      "aHR0cHM6Ly9hbmNob3IuZm0v"
     ]
   }
 }
