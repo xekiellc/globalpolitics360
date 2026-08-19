@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-08-19T16:36:25.618Z",
+  "lastUpdated": "2026-08-19T18:41:19.102Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1746,
+  "taggedCount": 1747,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Warning Signs Britain Ignored - Colin Brazier",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2274498120.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2274498120.mp3",
+      "date": "2026-08-19T18:00:00.000Z",
+      "duration": "4529",
+      "image": "https://megaphone.imgix.net/podcasts/4e996820-9bc9-11f1-b7da-5b11d2747bb7/image/f8ea7a8d2689ba426d37c88a5fac9f7d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects yo",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2542 - Steve Hilton",
+      "audioUrl": "https://traffic.megaphone.fm/GLT6487899018.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT6487899018.mp3",
+      "date": "2026-08-19T17:00:00.000Z",
+      "duration": "10862",
+      "image": "https://megaphone.imgix.net/podcasts/d0eed536-9b6e-11f1-91e1-87ba07d621a5/image/fdd7aa7699d5f97339dd75917ef489f0.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Steve Hilton is a businessman, political commentator, author, and Republican candidate for governor of California.\n\nwww.youtube.com/@stevehiltonxwww.stevehiltonforgovernor.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nUse code ROGAN at https://BlueChew.com to get 10% OFF + Free Overnight Shipping on your first order.\n\n\n\nSwitch today at&amp;nbsp;https:/",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -46,18 +72,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2541 - Thomas Campbell",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7603949559.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7603949559.mp3",
-      "date": "2026-08-18T17:00:00.000Z",
-      "duration": "10112",
-      "image": "https://megaphone.imgix.net/podcasts/792ba37c-9a99-11f1-802d-6faff96a5ef8/image/28569fa50040498b8dc3ec71e0962139.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Thomas Campbell is a physicist, consciousness researcher,&amp;nbsp;and&amp;nbsp;author of the&amp;nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through m",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Who Failed Jason Arday? The Fertility LIE, w/ Inez and Rachel, PLUS Hayden Panettiere’s Tragic Story",
@@ -82,18 +96,6 @@
       "duration": "02:24:12",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Jeff Arcuri, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 08/03/2026\nTHIS EPISODE IS SPONSORED BY: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.sup",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#331 Scott Payne - FBI Undercover Agent Reveals the Most Disturbing Cases of His Career",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1945856661.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1945856661.mp3",
-      "date": "2026-08-17T10:00:00.000Z",
-      "duration": "18257",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Scott Payne is a retired FBI Special Agent who spent twenty-eight years in law enforcement investigating drug trafficking organizations, human traffickers, outlaw motorcycle clubs, gangs, public corruption, and domestic terrorists.\n\nHe served as the primary undercover agent on dozens of operations, including infiltrations of the Outlaws Motorcycle Club and The Base, a violent neo-Nazi acceleration",
       "guestTags": []
     },
     {
@@ -135,6 +137,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Warning Signs Britain Ignored - Colin Brazier",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2274498120.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2274498120.mp3",
+      "date": "2026-08-19T18:00:00.000Z",
+      "duration": "4529",
+      "image": "https://megaphone.imgix.net/podcasts/4e996820-9bc9-11f1-b7da-5b11d2747bb7/image/f8ea7a8d2689ba426d37c88a5fac9f7d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects yo",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2542 - Steve Hilton",
+      "audioUrl": "https://traffic.megaphone.fm/GLT6487899018.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT6487899018.mp3",
+      "date": "2026-08-19T17:00:00.000Z",
+      "duration": "10862",
+      "image": "https://megaphone.imgix.net/podcasts/d0eed536-9b6e-11f1-91e1-87ba07d621a5/image/fdd7aa7699d5f97339dd75917ef489f0.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Steve Hilton is a businessman, political commentator, author, and Republican candidate for governor of California.\n\nwww.youtube.com/@stevehiltonxwww.stevehiltonforgovernor.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nUse code ROGAN at https://BlueChew.com to get 10% OFF + Free Overnight Shipping on your first order.\n\n\n\nSwitch today at&amp;nbsp;https:/",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/19/26: Trump Panics As Bond Markets Crumble, Trump Crypto Firm To Become Bank, Kushner Bends Knee To Bibi",
@@ -175,18 +203,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2541 - Thomas Campbell",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7603949559.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7603949559.mp3",
-      "date": "2026-08-18T17:00:00.000Z",
-      "duration": "10112",
-      "image": "https://megaphone.imgix.net/podcasts/792ba37c-9a99-11f1-802d-6faff96a5ef8/image/28569fa50040498b8dc3ec71e0962139.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Thomas Campbell is a physicist, consciousness researcher,&amp;nbsp;and&amp;nbsp;author of the&amp;nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through m",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Who Failed Jason Arday? The Fertility LIE, w/ Inez and Rachel, PLUS Hayden Panettiere’s Tragic Story",
@@ -211,18 +227,6 @@
       "duration": "02:24:12",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Jeff Arcuri, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 08/03/2026\nTHIS EPISODE IS SPONSORED BY: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.sup",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#331 Scott Payne - FBI Undercover Agent Reveals the Most Disturbing Cases of His Career",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1945856661.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1945856661.mp3",
-      "date": "2026-08-17T10:00:00.000Z",
-      "duration": "18257",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Scott Payne is a retired FBI Special Agent who spent twenty-eight years in law enforcement investigating drug trafficking organizations, human traffickers, outlaw motorcycle clubs, gangs, public corruption, and domestic terrorists.\n\nHe served as the primary undercover agent on dozens of operations, including infiltrations of the Outlaws Motorcycle Club and The Base, a violent neo-Nazi acceleration",
       "guestTags": []
     },
     {
@@ -275,6 +279,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
