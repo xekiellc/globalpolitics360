@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-08-19T01:36:21.121Z",
+  "lastUpdated": "2026-08-19T03:02:19.815Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 28,
+  "taggedCount": 10,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "vqLHMyhq4rc",
-      "show": "Shawn Ryan Show",
-      "title": "Needing Help Does NOT Mean You're Weak.",
-      "url": "https://www.youtube.com/watch?v=vqLHMyhq4rc",
-      "date": "2026-08-19T01:00:39.000Z",
-      "image": "https://i3.ytimg.com/vi/vqLHMyhq4rc/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "5BWuvjGLMik",
+      "show": "All-In Podcast",
+      "title": "Mass Surveillance, Police Misuse, and Who Controls Your Flock Cameras with Flock CEO, Garret Langley",
+      "url": "https://www.youtube.com/watch?v=5BWuvjGLMik",
+      "date": "2026-08-18T01:06:43.000Z",
+      "image": "https://i2.ytimg.com/vi/5BWuvjGLMik/hqdefault.jpg",
+      "desc": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show!\n(7:23) License plate data retention: 7 days solves 90% of crimes\n(13:00) Camera vandalism, felony charges, and privacy concerns\n(18:15) Dirty cops exposed: Flock's audit tool got 9 Georgia officers fired\n(28:25) AI",
+      "guestTags": [
+        "Elon Musk",
+        "Edward Snowden"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "vqLHMyhq4rc",
-      "show": "Shawn Ryan Show",
-      "title": "Needing Help Does NOT Mean You're Weak.",
-      "url": "https://www.youtube.com/watch?v=vqLHMyhq4rc",
-      "date": "2026-08-19T01:00:39.000Z",
-      "image": "https://i3.ytimg.com/vi/vqLHMyhq4rc/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "5BWuvjGLMik",
+      "show": "All-In Podcast",
+      "title": "Mass Surveillance, Police Misuse, and Who Controls Your Flock Cameras with Flock CEO, Garret Langley",
+      "url": "https://www.youtube.com/watch?v=5BWuvjGLMik",
+      "date": "2026-08-18T01:06:43.000Z",
+      "image": "https://i2.ytimg.com/vi/5BWuvjGLMik/hqdefault.jpg",
+      "desc": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show!\n(7:23) License plate data retention: 7 days solves 90% of crimes\n(13:00) Camera vandalism, felony charges, and privacy concerns\n(18:15) Dirty cops exposed: Flock's audit tool got 9 Georgia officers fired\n(28:25) AI",
+      "guestTags": [
+        "Elon Musk",
+        "Edward Snowden"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "Edward Snowden": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
