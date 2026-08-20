@@ -1,28 +1,34 @@
 {
-  "lastUpdated": "2026-08-20T06:54:09.057Z",
+  "lastUpdated": "2026-08-20T08:45:04.609Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 29,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "pkZCYxk6tSQ",
+      "show": "Shawn Ryan Show",
+      "title": "What Being Blown Up 50+ Times Does to the Brain 😳",
+      "url": "https://www.youtube.com/watch?v=pkZCYxk6tSQ",
+      "date": "2026-08-20T01:00:11.000Z",
+      "image": "https://i1.ytimg.com/vi/pkZCYxk6tSQ/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "VNLZvV2_UjE",
-      "show": "TRIGGERnometry",
-      "title": "The Warning Signs Britain Ignored - Colin Brazier",
-      "url": "https://www.youtube.com/watch?v=VNLZvV2_UjE",
-      "date": "2026-08-19T18:00:11.000Z",
-      "image": "https://i3.ytimg.com/vi/VNLZvV2_UjE/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Venice is private, unrestr",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "pkZCYxk6tSQ",
+      "show": "Shawn Ryan Show",
+      "title": "What Being Blown Up 50+ Times Does to the Brain 😳",
+      "url": "https://www.youtube.com/watch?v=pkZCYxk6tSQ",
+      "date": "2026-08-20T01:00:11.000Z",
+      "image": "https://i1.ytimg.com/vi/pkZCYxk6tSQ/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

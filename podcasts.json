@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-20T06:54:06.683Z",
+  "lastUpdated": "2026-08-20T08:45:03.835Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1747,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
+      "date": "2026-08-20T08:00:00.000Z",
+      "duration": "2156",
+      "image": "https://megaphone.imgix.net/podcasts/5565a244-9c51-11f1-b8ea-e308145cac46/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
@@ -18,18 +30,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2542 - Steve Hilton",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6487899018.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6487899018.mp3",
-      "date": "2026-08-19T17:00:00.000Z",
-      "duration": "11102",
-      "image": "https://megaphone.imgix.net/podcasts/d0eed536-9b6e-11f1-91e1-87ba07d621a5/image/fdd7aa7699d5f97339dd75917ef489f0.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Steve Hilton is a businessman, political commentator, author, and Republican candidate for governor of California.\n\nwww.youtube.com/@stevehiltonxwww.stevehiltonforgovernor.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nUse code ROGAN at https://BlueChew.com to get 10% OFF + Free Overnight Shipping on your first order.\n\n\n\nSwitch today at&amp;nbsp;https:/",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -137,6 +137,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
+      "date": "2026-08-20T08:00:00.000Z",
+      "duration": "2156",
+      "image": "https://megaphone.imgix.net/podcasts/5565a244-9c51-11f1-b8ea-e308145cac46/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
       "title": "The Warning Signs Britain Ignored - Colin Brazier",
@@ -149,18 +161,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2542 - Steve Hilton",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6487899018.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6487899018.mp3",
-      "date": "2026-08-19T17:00:00.000Z",
-      "duration": "11102",
-      "image": "https://megaphone.imgix.net/podcasts/d0eed536-9b6e-11f1-91e1-87ba07d621a5/image/fdd7aa7699d5f97339dd75917ef489f0.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Steve Hilton is a businessman, political commentator, author, and Republican candidate for governor of California.\n\nwww.youtube.com/@stevehiltonxwww.stevehiltonforgovernor.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nUse code ROGAN at https://BlueChew.com to get 10% OFF + Free Overnight Shipping on your first order.\n\n\n\nSwitch today at&amp;nbsp;https:/",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
