@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-08-20T03:01:33.006Z",
+  "lastUpdated": "2026-08-20T04:41:49.267Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 11,
+  "taggedCount": 15,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "trQ9EvXIBBY",
-      "show": "All-In Podcast",
-      "title": "Saronic CTO: The Massive Advantage of Unmanned Warships",
-      "url": "https://www.youtube.com/watch?v=trQ9EvXIBBY",
-      "date": "2026-08-19T12:42:21.000Z",
-      "image": "https://i1.ytimg.com/vi/trQ9EvXIBBY/hqdefault.jpg",
-      "desc": "Thanks to our partners for making this possible!\n\nAs wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. \nhttps://ad.doubleclick.net/ddm/trackclk/N2598215.3565",
-      "guestTags": []
+      "videoId": "VNLZvV2_UjE",
+      "show": "TRIGGERnometry",
+      "title": "The Warning Signs Britain Ignored - Colin Brazier",
+      "url": "https://www.youtube.com/watch?v=VNLZvV2_UjE",
+      "date": "2026-08-19T18:00:11.000Z",
+      "image": "https://i3.ytimg.com/vi/VNLZvV2_UjE/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Venice is private, unrestr",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "trQ9EvXIBBY",
-      "show": "All-In Podcast",
-      "title": "Saronic CTO: The Massive Advantage of Unmanned Warships",
-      "url": "https://www.youtube.com/watch?v=trQ9EvXIBBY",
-      "date": "2026-08-19T12:42:21.000Z",
-      "image": "https://i1.ytimg.com/vi/trQ9EvXIBBY/hqdefault.jpg",
-      "desc": "Thanks to our partners for making this possible!\n\nAs wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. \nhttps://ad.doubleclick.net/ddm/trackclk/N2598215.3565",
-      "guestTags": []
+      "videoId": "VNLZvV2_UjE",
+      "show": "TRIGGERnometry",
+      "title": "The Warning Signs Britain Ignored - Colin Brazier",
+      "url": "https://www.youtube.com/watch?v=VNLZvV2_UjE",
+      "date": "2026-08-19T18:00:11.000Z",
+      "image": "https://i3.ytimg.com/vi/VNLZvV2_UjE/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Venice is private, unrestr",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
