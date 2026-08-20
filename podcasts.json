@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-20T16:40:04.548Z",
+  "lastUpdated": "2026-08-20T18:47:12.282Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1749,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2543 - MrBallen",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9789891628.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9789891628.mp3",
+      "date": "2026-08-20T17:00:00.000Z",
+      "duration": "10907",
+      "image": "https://megaphone.imgix.net/podcasts/bd78a8a0-9c28-11f1-b11e-ef9789715e8e/image/d49830348c14609fff882d168231df27.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "John B. Allen (\"MrBallen\") is a former U.S. Navy SEAL, founder of Ballen Studios, and creator and host of the popular podcast \"MrBallen Podcast: Strange, Dark &amp; Mysterious Stories.\" His latest graphic novel, \"MrBallen Presents: The Terror Within,\" is available for preorder now and will be released on October 6.www.youtube.com/@MrBallenhttps://book.ballenstudios.comhttps://mrballen.foundation\n\n",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -45,18 +57,6 @@
         "Michael Shellenberger",
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
-      "date": "2026-08-20T08:00:00.000Z",
-      "duration": "2156",
-      "image": "https://megaphone.imgix.net/podcasts/5565a244-9c51-11f1-b8ea-e308145cac46/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -137,6 +137,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2543 - MrBallen",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9789891628.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9789891628.mp3",
+      "date": "2026-08-20T17:00:00.000Z",
+      "duration": "10907",
+      "image": "https://megaphone.imgix.net/podcasts/bd78a8a0-9c28-11f1-b11e-ef9789715e8e/image/d49830348c14609fff882d168231df27.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "John B. Allen (\"MrBallen\") is a former U.S. Navy SEAL, founder of Ballen Studios, and creator and host of the popular podcast \"MrBallen Podcast: Strange, Dark &amp; Mysterious Stories.\" His latest graphic novel, \"MrBallen Presents: The Terror Within,\" is available for preorder now and will be released on October 6.www.youtube.com/@MrBallenhttps://book.ballenstudios.comhttps://mrballen.foundation\n\n",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/20/26: Hegseth Hid Damage To Bases, Fox News Data Center Propaganda, Palestinian American Begs US For Help From Settlers",
@@ -176,18 +188,6 @@
         "Michael Shellenberger",
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
-      "date": "2026-08-20T08:00:00.000Z",
-      "duration": "2156",
-      "image": "https://megaphone.imgix.net/podcasts/5565a244-9c51-11f1-b8ea-e308145cac46/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
