@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-21T12:56:47.450Z",
+  "lastUpdated": "2026-08-21T14:39:59.090Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1749,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up",
+      "date": "2026-08-21T14:14:00.000Z",
+      "duration": "01:30:53",
+      "image": "https://static.libsyn.com/p/assets/f/9/8/7/f9872058ce451cf0d959afa2a1bf1c87/signal-2026-08-21-10-19-27-715.png",
+      "desc": "(00:00) Besties are back! (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming? Harnesses, FDI, jobs, and recursive self-improvement (56:33) a16z under DOJ investigation over \"interlocking directorates\" (1:01:15) Midterms: broken polls, the s",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -42,21 +54,6 @@
       "image": "https://megaphone.imgix.net/podcasts/91549126-9c28-11f1-ad44-d3074c360769/image/3a7bc58736df436fb98bc898be2e52e6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Billy Strings is a Grammy award-winning musician and songwriter from Muir, Michigan. His latest album “So Much For Goodbyes” is out August 28th.&amp;nbsp;\n\nBilly returns to talk to Theo about how being a dad has transformed him, breaking his leg in a freak skateboarding accident during a show, and how he’s honoring his mom’s unique spirit through music.&amp;nbsp;\n\nBilly Strings: https://www.instag",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "The Reverse MEGXIT, Vindman’s $16M Humiliation, Fauci Adviser Pleads GUILTY, &amp; How the FBI Helped Biden, w/ Michael Shellenberger",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/7e71cc13-f31d-41f7-af69-c2a93986d0dc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=7e71cc13-f31d-41f7-af69-c2a93986d0dc&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-08-20T11:00:00.000Z",
-      "duration": "01:32:47",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/bf29e067-f052-4ffc-ae02-b60c8a08ecf0/3000x3000/ap_117_pip.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky opens the show by reacting to Prince Harry and Meghan Markle’s stunning return to Britain and what it says about their failed, increasingly undignified attempt to reinvent themselves as American celebrities. Then Emily is joined by Michael Shellenberger, founder of Public.News, to discuss Alexander Vindman’s crushing loss to a DSA candidate and what it signals about the changing De",
-      "guestTags": [
-        "Michael Shellenberger",
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -137,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up",
+      "date": "2026-08-21T14:14:00.000Z",
+      "duration": "01:30:53",
+      "image": "https://static.libsyn.com/p/assets/f/9/8/7/f9872058ce451cf0d959afa2a1bf1c87/signal-2026-08-21-10-19-27-715.png",
+      "desc": "(00:00) Besties are back! (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming? Harnesses, FDI, jobs, and recursive self-improvement (56:33) a16z under DOJ investigation over \"interlocking directorates\" (1:01:15) Midterms: broken polls, the s",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2543 - MrBallen",
@@ -173,21 +182,6 @@
       "image": "https://megaphone.imgix.net/podcasts/91549126-9c28-11f1-ad44-d3074c360769/image/3a7bc58736df436fb98bc898be2e52e6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Billy Strings is a Grammy award-winning musician and songwriter from Muir, Michigan. His latest album “So Much For Goodbyes” is out August 28th.&amp;nbsp;\n\nBilly returns to talk to Theo about how being a dad has transformed him, breaking his leg in a freak skateboarding accident during a show, and how he’s honoring his mom’s unique spirit through music.&amp;nbsp;\n\nBilly Strings: https://www.instag",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "The Reverse MEGXIT, Vindman’s $16M Humiliation, Fauci Adviser Pleads GUILTY, &amp; How the FBI Helped Biden, w/ Michael Shellenberger",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/7e71cc13-f31d-41f7-af69-c2a93986d0dc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=7e71cc13-f31d-41f7-af69-c2a93986d0dc&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-08-20T11:00:00.000Z",
-      "duration": "01:32:47",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/bf29e067-f052-4ffc-ae02-b60c8a08ecf0/3000x3000/ap_117_pip.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky opens the show by reacting to Prince Harry and Meghan Markle’s stunning return to Britain and what it says about their failed, increasingly undignified attempt to reinvent themselves as American celebrities. Then Emily is joined by Michael Shellenberger, founder of Public.News, to discuss Alexander Vindman’s crushing loss to a DSA candidate and what it signals about the changing De",
-      "guestTags": [
-        "Michael Shellenberger",
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -281,12 +275,6 @@
   "guestIndex": {
     "Edward Snowden": [
       "aHR0cHM6Ly9wb2R0cmFjLmNv"
-    ],
-    "Michael Shellenberger": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
