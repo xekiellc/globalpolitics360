@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-22T02:58:54.357Z",
+  "lastUpdated": "2026-08-22T04:38:04.255Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1751,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 781 Jeff Arcuri)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c1c80def-c30d-48fe-9775-24a50ef0be3c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c1c80def-c30d-48fe-9775-24a50ef0be3c&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-22T03:30:00.000Z",
+      "duration": "00:56:29",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 781 KT guest Jeff Arcuri.\nJeff Arcuri, Pat O'Neill, Ari Matti, David Lucas, Dedrick Flynn, Mike Finoia, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED – 08/03/2026\nWatch Kill Tony and other exclusive content, ad free! Plus tons of perks. Get Kill Ton",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -82,18 +94,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#781 - JEFF ARCURI",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c1c8c8b7-dcff-468e-a1bb-f9f926522c9f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c1c8c8b7-dcff-468e-a1bb-f9f926522c9f&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-18T01:00:00.000Z",
-      "duration": "02:24:12",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Jeff Arcuri, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 08/03/2026\nTHIS EPISODE IS SPONSORED BY: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.sup",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -134,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 781 Jeff Arcuri)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c1c80def-c30d-48fe-9775-24a50ef0be3c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c1c80def-c30d-48fe-9775-24a50ef0be3c&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-22T03:30:00.000Z",
+      "duration": "00:56:29",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 781 KT guest Jeff Arcuri.\nJeff Arcuri, Pat O'Neill, Ari Matti, David Lucas, Dedrick Flynn, Mike Finoia, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED – 08/03/2026\nWatch Kill Tony and other exclusive content, ad free! Plus tons of perks. Get Kill Ton",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "&quot;Happy Hour&quot;: AOC’s Inauthenticity Problem, Why Emily Hates “Ted Lasso,” and the Debate Over Gaza: Emily Answers YOUR Questions",
@@ -210,18 +222,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#781 - JEFF ARCURI",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c1c8c8b7-dcff-468e-a1bb-f9f926522c9f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c1c8c8b7-dcff-468e-a1bb-f9f926522c9f&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-18T01:00:00.000Z",
-      "duration": "02:24:12",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Jeff Arcuri, Timmy No Brakes, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 08/03/2026\nTHIS EPISODE IS SPONSORED BY: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.sup",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
