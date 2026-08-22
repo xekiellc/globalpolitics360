@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T16:30:13.489Z",
+  "lastUpdated": "2026-08-22T18:37:03.918Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,41 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "SjKep-ui_FI",
-      "show": "The Free Press",
-      "title": "look it up",
-      "url": "https://www.youtube.com/watch?v=SjKep-ui_FI",
-      "date": "2026-08-22T14:30:18.000Z",
-      "image": "https://i4.ytimg.com/vi/SjKep-ui_FI/hqdefault.jpg",
-      "desc": "#shorts #theovon #trevorwallace",
-      "guestTags": []
+      "videoId": "JXnLFsOg-vk",
+      "show": "All-In Podcast",
+      "title": "Jason Calacanis on America’s AI Backlash: “They’re Sharpening the Guillotines”",
+      "url": "https://www.youtube.com/watch?v=JXnLFsOg-vk",
+      "date": "2026-08-22T18:26:32.000Z",
+      "image": "https://i3.ytimg.com/vi/JXnLFsOg-vk/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "SjKep-ui_FI",
-      "show": "The Free Press",
-      "title": "look it up",
-      "url": "https://www.youtube.com/watch?v=SjKep-ui_FI",
-      "date": "2026-08-22T14:30:18.000Z",
-      "image": "https://i4.ytimg.com/vi/SjKep-ui_FI/hqdefault.jpg",
-      "desc": "#shorts #theovon #trevorwallace",
-      "guestTags": []
+      "videoId": "JXnLFsOg-vk",
+      "show": "All-In Podcast",
+      "title": "Jason Calacanis on America’s AI Backlash: “They’re Sharpening the Guillotines”",
+      "url": "https://www.youtube.com/watch?v=JXnLFsOg-vk",
+      "date": "2026-08-22T18:26:32.000Z",
+      "image": "https://i3.ytimg.com/vi/JXnLFsOg-vk/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

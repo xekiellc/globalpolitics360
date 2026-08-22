@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-08-22T16:30:12.211Z",
+  "lastUpdated": "2026-08-22T18:37:01.854Z",
   "showCount": 22,
-  "episodeCount": 9,
+  "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1717,
+  "taggedCount": 1752,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "True History of the Middle East with Simon Sebag Montefiore",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2928579572.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2928579572.mp3",
+      "date": "2026-08-22T18:00:00.000Z",
+      "duration": "8295",
+      "image": "https://megaphone.imgix.net/podcasts/6fa86cae-9d73-11f1-9540-dbc0760be108/image/b93882211ad9174a3fc96c7e785a2c25.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Dose for your Liver: Get 35% off your first subscription: https://dosedaily.co/TRIG\nOr use code TRIG at checkout.\n\n- Expat Money: download the report to understand offshore banking, second passports, asset protection and international business\nhttps://expatmoney.com/trigger\n\n- SHEATH: go to https://She",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -42,20 +56,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Emily, Griffin, and Mac break down Treasury Sec Scott Bessent's latest comments about Oil prices and bleak job numbers, a bizarre letter to Trump penned by his unusually close aide Natalie Harp, Van Jones teaming up with Noah Tishby for Israeli propaganda, and finally we speak to FL candidate Aaron Baker who came in third place running against Randy Fine. We ask him why Randy won and what he think",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Woke is Back and It's Worse Than Before",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT4976445781.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT4976445781.mp3",
-      "date": "2026-08-21T18:00:00.000Z",
-      "duration": "4318",
-      "image": "https://megaphone.imgix.net/podcasts/56f77e5c-9d7d-11f1-9210-c7bb12ce578e/image/948306984049ce40117fc1e0f7d48e7a.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. \n\nWinston Marshall - https://www.youtube.com/@winston_marshall\nWinston Marshall X - https://x.com/MrWinMarshall\nTom Slater - Spiked - https://www.youtube.com/@spiked\nTom Slater X - https://x.com/Tom_Slater_\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rv",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -108,6 +108,18 @@
       "guestTags": []
     },
     {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &#038; Football",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3",
+      "listenUrl": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=khabib-nurmagomedov",
+      "date": "2026-08-12T13:11:45.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to make it enjoyable to listen to, by carefully dub",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
       "show": "Danny Jones Podcast",
       "title": "Ep.14 - #1 Whisky of 2022 Part 2 of 2",
@@ -121,6 +133,20 @@
     }
   ],
   "archive": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "True History of the Middle East with Simon Sebag Montefiore",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2928579572.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2928579572.mp3",
+      "date": "2026-08-22T18:00:00.000Z",
+      "duration": "8295",
+      "image": "https://megaphone.imgix.net/podcasts/6fa86cae-9d73-11f1-9540-dbc0760be108/image/b93882211ad9174a3fc96c7e785a2c25.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Dose for your Liver: Get 35% off your first subscription: https://dosedaily.co/TRIG\nOr use code TRIG at checkout.\n\n- Expat Money: download the report to understand offshore banking, second passports, asset protection and international business\nhttps://expatmoney.com/trigger\n\n- SHEATH: go to https://She",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -158,20 +184,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Emily, Griffin, and Mac break down Treasury Sec Scott Bessent's latest comments about Oil prices and bleak job numbers, a bizarre letter to Trump penned by his unusually close aide Natalie Harp, Van Jones teaming up with Noah Tishby for Israeli propaganda, and finally we speak to FL candidate Aaron Baker who came in third place running against Randy Fine. We ask him why Randy won and what he think",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Woke is Back and It's Worse Than Before",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT4976445781.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT4976445781.mp3",
-      "date": "2026-08-21T18:00:00.000Z",
-      "duration": "4318",
-      "image": "https://megaphone.imgix.net/podcasts/56f77e5c-9d7d-11f1-9210-c7bb12ce578e/image/948306984049ce40117fc1e0f7d48e7a.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. \n\nWinston Marshall - https://www.youtube.com/@winston_marshall\nWinston Marshall X - https://x.com/MrWinMarshall\nTom Slater - Spiked - https://www.youtube.com/@spiked\nTom Slater X - https://x.com/Tom_Slater_\n\nJoin our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rv",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -261,11 +273,11 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
