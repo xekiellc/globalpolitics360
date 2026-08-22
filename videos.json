@@ -1,22 +1,10 @@
 {
-  "lastUpdated": "2026-08-22T04:38:06.238Z",
+  "lastUpdated": "2026-08-22T06:48:30.854Z",
   "channelCount": 12,
-  "videoCount": 1,
+  "videoCount": 0,
   "archiveCount": 1,
-  "taggedCount": 1,
-  "latest": [
-    {
-      "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "cIVI4pyYiKg",
-      "show": "The Free Press",
-      "title": "I can see it",
-      "url": "https://www.youtube.com/watch?v=cIVI4pyYiKg",
-      "date": "2026-08-21T16:59:50.000Z",
-      "image": "https://i4.ytimg.com/vi/cIVI4pyYiKg/hqdefault.jpg",
-      "desc": "#Shorts #TheoVon #BillyStrings",
-      "guestTags": []
-    }
-  ],
+  "taggedCount": 0,
+  "latest": [],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
