@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T14:47:59.776Z",
+  "lastUpdated": "2026-08-24T16:43:27.878Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pjPAQgiknho",
-      "show": "TRIGGERnometry",
-      "title": "&quot;They knew all along, and they let it happen anyway.&quot; - Tom Slater",
-      "url": "https://www.youtube.com/watch?v=pjPAQgiknho",
-      "date": "2026-08-24T14:16:30.000Z",
-      "image": "https://i1.ytimg.com/vi/pjPAQgiknho/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "V6ztF7yG0oQ",
+      "show": "The Free Press",
+      "title": "local legend",
+      "url": "https://www.youtube.com/watch?v=V6ztF7yG0oQ",
+      "date": "2026-08-24T15:15:09.000Z",
+      "image": "https://i3.ytimg.com/vi/V6ztF7yG0oQ/hqdefault.jpg",
+      "desc": "#shorts #theovon #billystrings",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "pjPAQgiknho",
-      "show": "TRIGGERnometry",
-      "title": "&quot;They knew all along, and they let it happen anyway.&quot; - Tom Slater",
-      "url": "https://www.youtube.com/watch?v=pjPAQgiknho",
-      "date": "2026-08-24T14:16:30.000Z",
-      "image": "https://i1.ytimg.com/vi/pjPAQgiknho/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "V6ztF7yG0oQ",
+      "show": "The Free Press",
+      "title": "local legend",
+      "url": "https://www.youtube.com/watch?v=V6ztF7yG0oQ",
+      "date": "2026-08-24T15:15:09.000Z",
+      "image": "https://i3.ytimg.com/vi/V6ztF7yG0oQ/hqdefault.jpg",
+      "desc": "#shorts #theovon #billystrings",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-24T14:47:53.034Z",
+  "lastUpdated": "2026-08-24T16:43:21.475Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Ep 161: Generalist CEO Pete Florence on the Robot Revolution & Bringing General Intelligence to the Physical World",
+      "url": "https://blog.joelonsdale.com/p/ep-161-generalist-ceo-pete-florence",
+      "date": "2026-08-24T16:40:31.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "Bitcoin Rally Accelerates, With $80,000 in Sight After ETFs Have Stellar Week",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-nears-80000-after-etf-action",
+      "date": "2026-08-24T16:18:56.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve",
+      "url": "https://bitcoinmagazine.com/news/strategy-establishes-new-usd-cash-reserve",
+      "date": "2026-08-24T14:48:17.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "The Oracle Problem: an invisible bottleneck to AI and medicine",
       "url": "https://www.a16z.news/p/the-oracle-problem-an-invisible-bottleneck",
@@ -97,24 +124,6 @@
       "url": "https://bitcoinmagazine.com/news/iran-hackers-hit-with-criminal-charges",
       "date": "2026-08-20T20:27:54.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Iranian-Hacking-Crew-Charged-in-Sprawling-Theft-Case-—-Including-6M-Bitcoin-Ransom.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin ETFs Add Over $1B as Investor Sentiment Turns Bullish",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-receive-over-1-billion",
-      "date": "2026-08-20T17:19:30.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-ETFs-Add-Over-1B-as-Investor-Sentiment-Turns-Bullish.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Says Bitcoin Will Likely Hit $400,000 By 2030",
-      "url": "https://bitcoinmagazine.com/news/coinbase-ceo-says-bitcoin-will-hit-300000",
-      "date": "2026-08-20T15:39:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-Generic-Pic.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-203",
       "date": "2026-07-24T13:07:04.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!xnqD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f9e6151-ef76-473b-8b8f-54b2909741f1_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Weekly Dose of Optimism #202",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-202",
-      "date": "2026-07-17T11:43:07.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!aZgr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0387a0e-c952-451f-9b71-1c3a047735be_1200x600.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
