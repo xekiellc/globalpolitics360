@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-24T12:59:25.259Z",
+  "lastUpdated": "2026-08-24T14:47:53.034Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "The Oracle Problem: an invisible bottleneck to AI and medicine",
+      "url": "https://www.a16z.news/p/the-oracle-problem-an-invisible-bottleneck",
+      "date": "2026-08-24T14:02:46.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/caa5006f-bf47-4796-b739-2c94f2673e94_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
       "url": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
@@ -295,15 +304,6 @@
       "url": "https://www.a16z.news/p/marc-andreessen-and-chris-dixon-why",
       "date": "2026-08-03T16:01:02.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/313c33e5-cf35-4a27-b00a-3ae00d095804_2560x1440.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Drug Discovery Has No Magic Wands",
-      "url": "https://www.a16z.news/p/drug-discovery-has-no-magic-wands",
-      "date": "2026-08-03T14:01:26.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/0bad923f-967f-4cb3-8e30-12ab30c5b44f_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
