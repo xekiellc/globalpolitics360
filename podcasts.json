@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-24T07:07:40.363Z",
+  "lastUpdated": "2026-08-24T08:53:55.608Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1753,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How to Improve Motivation &amp; Overcome Procrastination | Dr. Masud Husain",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM3386045656.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain",
+      "date": "2026-08-24T08:00:00.000Z",
+      "duration": "8421",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical t",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
@@ -67,18 +79,6 @@
       "duration": "4987",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Emily, Griffin, and Mac break down Treasury Sec Scott Bessent's latest comments about Oil prices and bleak job numbers, a bizarre letter to Trump penned by his unusually close aide Natalie Harp, Van Jones teaming up with Noah Tishby for Israeli propaganda, and finally we speak to FL candidate Aaron Baker who came in third place running against Randy Fine. We ask him why Randy won and what he think",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2544 - Chris Williamson",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2614437585.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2614437585.mp3",
-      "date": "2026-08-21T17:00:00.000Z",
-      "duration": "10805",
-      "image": "https://megaphone.imgix.net/podcasts/53c84ccc-9d0d-11f1-8f63-4b10cab2daaa/image/c84377bc4aec898aee2c14d018330288.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Chris Williamson is the host of the \"Modern Wisdom\" podcast. See him live on select dates throughout the United Kingdom.&amp;nbsp;\n\n\n\nhttps://chriswillx.com/modernwisdom\n\nhttps://www.youtube.com/@ChrisWillx\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up usin",
       "guestTags": []
     },
     {
@@ -134,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How to Improve Motivation &amp; Overcome Procrastination | Dr. Masud Husain",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM3386045656.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain",
+      "date": "2026-08-24T08:00:00.000Z",
+      "duration": "8421",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical t",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
       "title": "What Happens When Good Men Say Nothing",
@@ -195,18 +207,6 @@
       "duration": "4987",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Emily, Griffin, and Mac break down Treasury Sec Scott Bessent's latest comments about Oil prices and bleak job numbers, a bizarre letter to Trump penned by his unusually close aide Natalie Harp, Van Jones teaming up with Noah Tishby for Israeli propaganda, and finally we speak to FL candidate Aaron Baker who came in third place running against Randy Fine. We ask him why Randy won and what he think",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2544 - Chris Williamson",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2614437585.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2614437585.mp3",
-      "date": "2026-08-21T17:00:00.000Z",
-      "duration": "10805",
-      "image": "https://megaphone.imgix.net/podcasts/53c84ccc-9d0d-11f1-8f63-4b10cab2daaa/image/c84377bc4aec898aee2c14d018330288.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Chris Williamson is the host of the \"Modern Wisdom\" podcast. See him live on select dates throughout the United Kingdom.&amp;nbsp;\n\n\n\nhttps://chriswillx.com/modernwisdom\n\nhttps://www.youtube.com/@ChrisWillx\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up usin",
       "guestTags": []
     },
     {
