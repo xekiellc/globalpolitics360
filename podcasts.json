@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-08-25T10:37:44.305Z",
+  "lastUpdated": "2026-08-25T12:55:48.311Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1754,
+  "taggedCount": 1755,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Trump’s Economic “D-DAY,” Mark Cuban Goes GOP?! El-Sayed’s Fox Disaster, w/ Ryan Girdusky, &amp; WNBA Trans Fight ERUPTS",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/2a51c031-393c-43a8-93c4-28f4f2ba6a9b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=2a51c031-393c-43a8-93c4-28f4f2ba6a9b&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-08-25T11:00:00.000Z",
+      "duration": "01:25:44",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Ryan Girdusky, founder of the 1776 Project PAC and host of “It's A Numbers Game with Ryan Girdusky,” to react to the Trump administration declaring “economic D-Day” against Iran and examine what the president’s latest polling could mean for Republicans in the midterms. They also break down Mark Cuban’s claim that he would run for president as a Republican, the growing ",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
@@ -42,18 +56,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI &amp; China",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
-      "date": "2026-08-24T23:19:00.000Z",
-      "duration": "55:59",
-      "image": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg",
-      "desc": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain  (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?  (22:24) Big bold bets: Genesis Mission, quantum by 2028, fusion by 2035, boots",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -134,6 +136,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Trump’s Economic “D-DAY,” Mark Cuban Goes GOP?! El-Sayed’s Fox Disaster, w/ Ryan Girdusky, &amp; WNBA Trans Fight ERUPTS",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/2a51c031-393c-43a8-93c4-28f4f2ba6a9b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=2a51c031-393c-43a8-93c4-28f4f2ba6a9b&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-08-25T11:00:00.000Z",
+      "duration": "01:25:44",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Ryan Girdusky, founder of the 1776 Project PAC and host of “It's A Numbers Game with Ryan Girdusky,” to react to the Trump administration declaring “economic D-Day” against Iran and examine what the president’s latest polling could mean for Republicans in the midterms. They also break down Mark Cuban’s claim that he would run for president as a Republican, the growing ",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Theo Von - This Past Weekend",
       "title": "#677 - Gurudev Sri Sri Ravi Shankar",
@@ -170,18 +186,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI &amp; China",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
-      "date": "2026-08-24T23:19:00.000Z",
-      "duration": "55:59",
-      "image": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg",
-      "desc": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain  (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?  (22:24) Big bold bets: Genesis Mission, quantum by 2028, fusion by 2035, boots",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -273,6 +277,9 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
