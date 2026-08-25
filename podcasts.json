@@ -1,10 +1,48 @@
 {
-  "lastUpdated": "2026-08-24T22:31:17.239Z",
+  "lastUpdated": "2026-08-25T01:35:59.357Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1754,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "#782 - RON WHITE + JERRON HORTON",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1be7b689-baa0-4aa9-8716-9bd9e5102c0a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1be7b689-baa0-4aa9-8716-9bd9e5102c0a&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-25T01:00:00.000Z",
+      "duration": "02:10:34",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Ron White, Jerron Horton, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban\nTHIS EPISODE IS SPONSORED BY: \nSuperCast: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.supercast.com/ \nPr",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Peace Or Socialism",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/28fa0f6b-013c-4bcd-b24b-23c69b9dd7c9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/28fa0f6b-013c-4bcd-b24b-23c69b9dd7c9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-08-25T00:00:00.000Z",
+      "duration": "01:04:42",
+      "image": "https://content.production.cdn.art19.com/images/a6/5f/8a/cc/a65f8acc-3d02-49b8-a97f-a5a256f1c493/2d648cdd3465403c0957214a624549d61fa7b2e3c0192756d1a5526a439d72f5ddd4fc00d5a9230715e457ffb4785610b1630f45245fb14f8da5df976162d27c.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss talks of the approach of the end of the war with Iran, a discussion had on Bill Maher's show about the encroaching socialism on the democratic party, and more.Support Our Sponsors:Prize Picks - Visit https://prizepicks.onelink.me/LME0/POTP and use code POTP and get $15",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI &amp; China",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
+      "date": "2026-08-24T23:19:00.000Z",
+      "duration": "55:59",
+      "image": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg",
+      "desc": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain  (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?  (22:24) Big bold bets: Genesis Mission, quantum by 2028, fusion by 2035, boots",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -42,46 +80,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical t",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Kushner DARK Money, Trump BANK, Chris Hansen NDA &amp; Pablo Pledgescobar | Julian Dorey • 466",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1115317057.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1115317057.mp3",
-      "date": "2026-08-22T19:00:00.000Z",
-      "duration": "6065",
-      "image": "https://megaphone.imgix.net/podcasts/6f0f1a3e-9e42-11f1-b3d7-17543a642099/image/c4f64259aecd433f91c5bd8e66a6eb56.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nHENRY ABBOTT KUSHNER LAKERS STORY: https://www.truehoop.com/p/whos-actually-buying-the-lakers\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.",
-      "guestTags": [
-        "Julian Dorey"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 781 Jeff Arcuri)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c1c80def-c30d-48fe-9775-24a50ef0be3c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c1c80def-c30d-48fe-9775-24a50ef0be3c&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-22T03:30:00.000Z",
-      "duration": "00:56:29",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from KT Episode 781 KT guest Jeff Arcuri.\nJeff Arcuri, Pat O'Neill, Ari Matti, David Lucas, Dedrick Flynn, Mike Finoia, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED – 08/03/2026\nWatch Kill Tony and other exclusive content, ad free! Plus tons of perks. Get Kill Ton",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: AOC’s Inauthenticity Problem, Why Emily Hates “Ted Lasso,” and the Debate Over Gaza: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/2f88cd67-ac76-4a82-8639-7468abb8da25/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=2f88cd67-ac76-4a82-8639-7468abb8da25&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-08-21T20:00:00.000Z",
-      "duration": "01:14:21",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky reflects on what we’ve learned from COVID school closures and mask mandates, the lasting effects on children, why she believes the country still hasn’t had a real reckoning with what went wrong, and what she sees as Democrats’ continuing blind spot on COVID and Anthony Fauci. She discusses the leftward shift of workplaces and the dynamics of ",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -136,6 +134,44 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "#782 - RON WHITE + JERRON HORTON",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1be7b689-baa0-4aa9-8716-9bd9e5102c0a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1be7b689-baa0-4aa9-8716-9bd9e5102c0a&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-25T01:00:00.000Z",
+      "duration": "02:10:34",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Ron White, Jerron Horton, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban\nTHIS EPISODE IS SPONSORED BY: \nSuperCast: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.supercast.com/ \nPr",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Peace Or Socialism",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/28fa0f6b-013c-4bcd-b24b-23c69b9dd7c9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/28fa0f6b-013c-4bcd-b24b-23c69b9dd7c9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-08-25T00:00:00.000Z",
+      "duration": "01:04:42",
+      "image": "https://content.production.cdn.art19.com/images/a6/5f/8a/cc/a65f8acc-3d02-49b8-a97f-a5a256f1c493/2d648cdd3465403c0957214a624549d61fa7b2e3c0192756d1a5526a439d72f5ddd4fc00d5a9230715e457ffb4785610b1630f45245fb14f8da5df976162d27c.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss talks of the approach of the end of the war with Iran, a discussion had on Bill Maher's show about the encroaching socialism on the democratic party, and more.Support Our Sponsors:Prize Picks - Visit https://prizepicks.onelink.me/LME0/POTP and use code POTP and get $15",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI &amp; China",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
+      "date": "2026-08-24T23:19:00.000Z",
+      "duration": "55:59",
+      "image": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg",
+      "desc": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain  (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?  (22:24) Big bold bets: Genesis Mission, quantum by 2028, fusion by 2035, boots",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "8/24/26: Insane MAGA Linked Plot In Bolivia, Silicon Valley Panics Over Wealth Tax",
@@ -172,46 +208,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical t",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Kushner DARK Money, Trump BANK, Chris Hansen NDA &amp; Pablo Pledgescobar | Julian Dorey • 466",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1115317057.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1115317057.mp3",
-      "date": "2026-08-22T19:00:00.000Z",
-      "duration": "6065",
-      "image": "https://megaphone.imgix.net/podcasts/6f0f1a3e-9e42-11f1-b3d7-17543a642099/image/c4f64259aecd433f91c5bd8e66a6eb56.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nHENRY ABBOTT KUSHNER LAKERS STORY: https://www.truehoop.com/p/whos-actually-buying-the-lakers\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.",
-      "guestTags": [
-        "Julian Dorey"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 781 Jeff Arcuri)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c1c80def-c30d-48fe-9775-24a50ef0be3c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c1c80def-c30d-48fe-9775-24a50ef0be3c&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-22T03:30:00.000Z",
-      "duration": "00:56:29",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from KT Episode 781 KT guest Jeff Arcuri.\nJeff Arcuri, Pat O'Neill, Ari Matti, David Lucas, Dedrick Flynn, Mike Finoia, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Tony Hinchcliffe, Brian Redban - RECORDED – 08/03/2026\nWatch Kill Tony and other exclusive content, ad free! Plus tons of perks. Get Kill Ton",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: AOC’s Inauthenticity Problem, Why Emily Hates “Ted Lasso,” and the Debate Over Gaza: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/2f88cd67-ac76-4a82-8639-7468abb8da25/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=2f88cd67-ac76-4a82-8639-7468abb8da25&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-08-21T20:00:00.000Z",
-      "duration": "01:14:21",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky reflects on what we’ve learned from COVID school closures and mask mandates, the lasting effects on children, why she believes the country still hasn’t had a real reckoning with what went wrong, and what she sees as Democrats’ continuing blind spot on COVID and Anthony Fauci. She discusses the leftward shift of workplaces and the dynamics of ",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -277,14 +273,11 @@
     }
   ],
   "guestIndex": {
-    "Edward Snowden": [
-      "aHR0cHM6Ly9wb2R0cmFjLmNv"
-    ],
-    "Julian Dorey": [
+    "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    "Edward Snowden": [
+      "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
