@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-08-25T16:42:27.287Z",
+  "lastUpdated": "2026-08-25T18:45:44.972Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1755,
   "latest": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2545 - Jesse Michels",
+      "audioUrl": "https://traffic.megaphone.fm/GLT5434878204.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT5434878204.mp3",
+      "date": "2026-08-25T17:00:00.000Z",
+      "duration": "11319",
+      "image": "https://megaphone.imgix.net/podcasts/fc78372e-a00f-11f1-b4a6-67ef23d80453/image/e29f688a4586d2fb4d868993a074e1fe.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jesse Michels is the creator and host of \"American Alchemy,\" a YouTube series exploring controversial topics in science and culture through longform interviews.www.youtube.com/@JesseMichelswww.patreon.com/JesseMichelshttps://americanalchemymagazine.substack.comwww.jessemichelsmedia.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
-      "title": "8/25/26: Bessent Threatens Blowing Up Global Finance, Canada Trade War Begins, SCOTUS Mail In Decision",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/5f6bdc0f-ab3c-4e7a-b9bc-b4b100fb90ec/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-25-26-bessent-threatens-blowing-up-global-finance-canada-trade-war-begins-scotus-mail-in-decision",
-      "date": "2026-08-25T16:04:41.000Z",
-      "duration": "3216",
+      "title": "8/25/26: Abdul Unleashes On Jesse Watters, Hasan Piker Controversy, Darline Graham Flailing, Jamie Belsito MA Candidate",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8ff6755b-0906-4123-b0e7-b4b101053d4e/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-25-26-abdul-unleashes-on-jesse-watters-hasan-piker-controversy-darline-graham-flailing-jamie-belsito-ma-candidate",
+      "date": "2026-08-25T17:00:00.000Z",
+      "duration": "3233",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Bessent unveiling Operation Economic Outcast on Iran, Canada raging at Trump's new trade war, and SCOTUS making a huge decision on mail in voting as a gift to Trump. To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: https://breakingpoints.supercast.com/ Merch Store: https://shop.breakingpoints.com/See omnystudio.co",
+      "desc": "In the second half of the show Ryan and Emily look at Abdul El-Sayed going off on Jesse Watters in a Fox News interview about trans sports, a deceptive clip of Hasan Piker causes Abdul campaign to panic, Trump goes all in on Lindsey Graham's sister Darline as she fails to answer questions on foreign policy, and MA Candidate Jamie Belsito tells Ryan how AIPAC has been pressuring her in the race wit",
       "guestTags": []
     },
     {
@@ -65,18 +77,6 @@
       "duration": "02:10:34",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Ron White, Jerron Horton, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban\nTHIS EPISODE IS SPONSORED BY: \nSuperCast: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.supercast.com/ \nPr",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How to Improve Motivation &amp; Overcome Procrastination | Dr. Masud Husain",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM3386045656.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain",
-      "date": "2026-08-24T08:00:00.000Z",
-      "duration": "8421",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical t",
       "guestTags": []
     },
     {
@@ -134,13 +134,25 @@
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
-      "title": "8/25/26: Bessent Threatens Blowing Up Global Finance, Canada Trade War Begins, SCOTUS Mail In Decision",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/5f6bdc0f-ab3c-4e7a-b9bc-b4b100fb90ec/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-25-26-bessent-threatens-blowing-up-global-finance-canada-trade-war-begins-scotus-mail-in-decision",
-      "date": "2026-08-25T16:04:41.000Z",
-      "duration": "3216",
+      "title": "8/25/26: Abdul Unleashes On Jesse Watters, Hasan Piker Controversy, Darline Graham Flailing, Jamie Belsito MA Candidate",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8ff6755b-0906-4123-b0e7-b4b101053d4e/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-25-26-abdul-unleashes-on-jesse-watters-hasan-piker-controversy-darline-graham-flailing-jamie-belsito-ma-candidate",
+      "date": "2026-08-25T17:00:00.000Z",
+      "duration": "3233",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Bessent unveiling Operation Economic Outcast on Iran, Canada raging at Trump's new trade war, and SCOTUS making a huge decision on mail in voting as a gift to Trump. To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: https://breakingpoints.supercast.com/ Merch Store: https://shop.breakingpoints.com/See omnystudio.co",
+      "desc": "In the second half of the show Ryan and Emily look at Abdul El-Sayed going off on Jesse Watters in a Fox News interview about trans sports, a deceptive clip of Hasan Piker causes Abdul campaign to panic, Trump goes all in on Lindsey Graham's sister Darline as she fails to answer questions on foreign policy, and MA Candidate Jamie Belsito tells Ryan how AIPAC has been pressuring her in the race wit",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2545 - Jesse Michels",
+      "audioUrl": "https://traffic.megaphone.fm/GLT5434878204.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT5434878204.mp3",
+      "date": "2026-08-25T17:00:00.000Z",
+      "duration": "11319",
+      "image": "https://megaphone.imgix.net/podcasts/fc78372e-a00f-11f1-b4a6-67ef23d80453/image/e29f688a4586d2fb4d868993a074e1fe.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jesse Michels is the creator and host of \"American Alchemy,\" a YouTube series exploring controversial topics in science and culture through longform interviews.www.youtube.com/@JesseMichelswww.patreon.com/JesseMichelshttps://americanalchemymagazine.substack.comwww.jessemichelsmedia.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the",
       "guestTags": []
     },
     {
@@ -191,18 +203,6 @@
       "duration": "02:10:34",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Ron White, Jerron Horton, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban\nTHIS EPISODE IS SPONSORED BY: \nSuperCast: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.supercast.com/ \nPr",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "How to Improve Motivation &amp; Overcome Procrastination | Dr. Masud Husain",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM3386045656.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain",
-      "date": "2026-08-24T08:00:00.000Z",
-      "duration": "8421",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical t",
       "guestTags": []
     },
     {

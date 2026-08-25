@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-08-25T16:42:28.742Z",
+  "lastUpdated": "2026-08-25T18:45:45.577Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "O2IMJlcBXhQ",
-      "show": "The Free Press",
-      "title": "got it done",
-      "url": "https://www.youtube.com/watch?v=O2IMJlcBXhQ",
-      "date": "2026-08-25T16:12:59.000Z",
-      "image": "https://i4.ytimg.com/vi/O2IMJlcBXhQ/hqdefault.jpg",
-      "desc": "https://bit.ly/theo-von",
-      "guestTags": []
+      "videoId": "IcQbgWbXqWM",
+      "show": "TRIGGERnometry",
+      "title": "Why the Media Ignores the Reality of Integration",
+      "url": "https://www.youtube.com/watch?v=IcQbgWbXqWM",
+      "date": "2026-08-25T18:24:21.000Z",
+      "image": "https://i2.ytimg.com/vi/IcQbgWbXqWM/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "O2IMJlcBXhQ",
-      "show": "The Free Press",
-      "title": "got it done",
-      "url": "https://www.youtube.com/watch?v=O2IMJlcBXhQ",
-      "date": "2026-08-25T16:12:59.000Z",
-      "image": "https://i4.ytimg.com/vi/O2IMJlcBXhQ/hqdefault.jpg",
-      "desc": "https://bit.ly/theo-von",
-      "guestTags": []
+      "videoId": "IcQbgWbXqWM",
+      "show": "TRIGGERnometry",
+      "title": "Why the Media Ignores the Reality of Integration",
+      "url": "https://www.youtube.com/watch?v=IcQbgWbXqWM",
+      "date": "2026-08-25T18:24:21.000Z",
+      "image": "https://i2.ytimg.com/vi/IcQbgWbXqWM/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
