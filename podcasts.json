@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-25T06:56:03.579Z",
+  "lastUpdated": "2026-08-25T08:49:26.439Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1754,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#677 - Gurudev Sri Sri Ravi Shankar",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
+      "date": "2026-08-25T07:17:00.000Z",
+      "duration": "5860",
+      "image": "https://megaphone.imgix.net/podcasts/9f115dec-a053-11f1-b1ab-e32e141bb6a5/image/a74c9245cc0211bad497b918aa0a366f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Gurudev Sri Sri Ravi Shankar is a global humanitarian, peacemaker and spiritual leader known for founding “The Art of Living”.&amp;nbsp;\n\nGurudev joins Theo to talk about gaining a reputation as a child prodigy, how he helped end a war in Columbia, and real ways meditation can improve our lives.\n\nGurudev Sri Sri Ravi Shankar: https://www.instagram.com/gurudev/&amp;nbsp;\n\n--------------------------",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -56,18 +68,6 @@
       "guestTags": [
         "Edward Snowden"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#333 George Christie - Surviving 40 Years in the Hells Angels",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6345917975.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6345917975.mp3",
-      "date": "2026-08-24T10:00:00.000Z",
-      "duration": "13596",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "George Christie is the former longtime president of the Hells Angels Motorcycle Club's Ventura, California chapter, where he spent decades leading one of the country's most well-known outlaw motorcycle clubs. After leaving the club, he became an author, speaker, and commentator, sharing insights on leadership, loyalty, the justice system, and personal accountability. His memoir, Exile on Front Str",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -134,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#677 - Gurudev Sri Sri Ravi Shankar",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
+      "date": "2026-08-25T07:17:00.000Z",
+      "duration": "5860",
+      "image": "https://megaphone.imgix.net/podcasts/9f115dec-a053-11f1-b1ab-e32e141bb6a5/image/a74c9245cc0211bad497b918aa0a366f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Gurudev Sri Sri Ravi Shankar is a global humanitarian, peacemaker and spiritual leader known for founding “The Art of Living”.&amp;nbsp;\n\nGurudev joins Theo to talk about gaining a reputation as a child prodigy, how he helped end a war in Columbia, and real ways meditation can improve our lives.\n\nGurudev Sri Sri Ravi Shankar: https://www.instagram.com/gurudev/&amp;nbsp;\n\n--------------------------",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "#782 - RON WHITE + JERRON HORTON",
@@ -184,18 +196,6 @@
       "guestTags": [
         "Edward Snowden"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#333 George Christie - Surviving 40 Years in the Hells Angels",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6345917975.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6345917975.mp3",
-      "date": "2026-08-24T10:00:00.000Z",
-      "duration": "13596",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "George Christie is the former longtime president of the Hells Angels Motorcycle Club's Ventura, California chapter, where he spent decades leading one of the country's most well-known outlaw motorcycle clubs. After leaving the club, he became an author, speaker, and commentator, sharing insights on leadership, loyalty, the justice system, and personal accountability. His memoir, Exile on Front Str",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
