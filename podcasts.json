@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-26T14:49:35.437Z",
+  "lastUpdated": "2026-08-26T16:50:57.437Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1756,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/26/26: Iran and Oman Defy Trump, Lake America, China Says Screw You",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/acef7aa2-37c3-4212-a1c6-b4b200ff7076/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-26-26-iran-and-oman-defy-trump-lake-america-china-says-screw-you",
+      "date": "2026-08-26T16:16:59.000Z",
+      "duration": "3266",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Saagar and Ryan discuss Iran and Oman making a deal for full control of the Strait, Trump lashing out at Canada with his Lake America imagery, and China refusing to comply with Economic D Day.See omnystudio.com/listener for privacy information.",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
       "show": "The Watch Floor (Sarah Adams)",
@@ -43,18 +55,6 @@
       "duration": "11319",
       "image": "https://megaphone.imgix.net/podcasts/fc78372e-a00f-11f1-b4a6-67ef23d80453/image/e29f688a4586d2fb4d868993a074e1fe.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Jesse Michels is the creator and host of \"American Alchemy,\" a YouTube series exploring controversial topics in science and culture through longform interviews.www.youtube.com/@JesseMichelswww.patreon.com/JesseMichelshttps://americanalchemymagazine.substack.comwww.jessemichelsmedia.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/25/26: Abdul Unleashes On Jesse Watters, Hasan Piker Controversy, Darline Graham Flailing, Jamie Belsito MA Candidate",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8ff6755b-0906-4123-b0e7-b4b101053d4e/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-25-26-abdul-unleashes-on-jesse-watters-hasan-piker-controversy-darline-graham-flailing-jamie-belsito-ma-candidate",
-      "date": "2026-08-25T17:00:00.000Z",
-      "duration": "3233",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "In the second half of the show Ryan and Emily look at Abdul El-Sayed going off on Jesse Watters in a Fox News interview about trans sports, a deceptive clip of Hasan Piker causes Abdul campaign to panic, Trump goes all in on Lindsey Graham's sister Darline as she fails to answer questions on foreign policy, and MA Candidate Jamie Belsito tells Ryan how AIPAC has been pressuring her in the race wit",
       "guestTags": []
     },
     {
@@ -134,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/26/26: Iran and Oman Defy Trump, Lake America, China Says Screw You",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/acef7aa2-37c3-4212-a1c6-b4b200ff7076/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-26-26-iran-and-oman-defy-trump-lake-america-china-says-screw-you",
+      "date": "2026-08-26T16:16:59.000Z",
+      "duration": "3266",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Saagar and Ryan discuss Iran and Oman making a deal for full control of the Strait, Trump lashing out at Canada with his Lake America imagery, and China refusing to comply with Economic D Day.See omnystudio.com/listener for privacy information.",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
       "show": "The Watch Floor (Sarah Adams)",
       "title": "The Untold Story of the Abbey Gate Plot",
@@ -160,18 +172,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/25/26: Abdul Unleashes On Jesse Watters, Hasan Piker Controversy, Darline Graham Flailing, Jamie Belsito MA Candidate",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8ff6755b-0906-4123-b0e7-b4b101053d4e/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-25-26-abdul-unleashes-on-jesse-watters-hasan-piker-controversy-darline-graham-flailing-jamie-belsito-ma-candidate",
-      "date": "2026-08-25T17:00:00.000Z",
-      "duration": "3233",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "In the second half of the show Ryan and Emily look at Abdul El-Sayed going off on Jesse Watters in a Fox News interview about trans sports, a deceptive clip of Hasan Piker causes Abdul campaign to panic, Trump goes all in on Lindsey Graham's sister Darline as she fails to answer questions on foreign policy, and MA Candidate Jamie Belsito tells Ryan how AIPAC has been pressuring her in the race wit",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",

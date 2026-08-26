@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-26T14:49:26.478Z",
+  "lastUpdated": "2026-08-26T16:50:51.162Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "SEC Sends Proposal to White House To Modernize Crypto Custody",
+      "url": "https://bitcoinmagazine.com/news/sec-sends-crypto-custody-proposal",
+      "date": "2026-08-26T15:29:13.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Faking a brand is easy. Making it stop is hard.",
       "url": "https://www.a16z.news/p/faking-a-brand-is-easy",
@@ -118,15 +127,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Bitcoin Rally Accelerates, With $80,000 in Sight After ETFs Have Stellar Week",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-nears-80000-after-etf-action",
-      "date": "2026-08-24T16:18:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "The Oracle Problem: an invisible bottleneck to AI and medicine",
