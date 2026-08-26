@@ -1,10 +1,25 @@
 {
-  "lastUpdated": "2026-08-26T04:45:01.951Z",
+  "lastUpdated": "2026-08-26T06:56:47.116Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 13,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "2GTgVP81G2M",
+      "show": "All-In Podcast",
+      "title": "&quot;Fauci hurt science than anyone in modern history.&quot;",
+      "url": "https://www.youtube.com/watch?v=2GTgVP81G2M",
+      "date": "2026-08-25T20:11:54.000Z",
+      "image": "https://i3.ytimg.com/vi/2GTgVP81G2M/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
