@@ -1,20 +1,46 @@
 {
-  "lastUpdated": "2026-08-26T16:50:57.437Z",
+  "lastUpdated": "2026-08-26T19:52:12.043Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1756,
+  "taggedCount": 1757,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Controversial Race Scientist Who Exposed Jason Arday - Nathan Cofnas",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6800255787.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6800255787.mp3",
+      "date": "2026-08-26T18:00:00.000Z",
+      "duration": "6997",
+      "image": "https://megaphone.imgix.net/podcasts/ab88299c-a167-11f1-ae0c-7fb3112ca845/image/0e5b7fa0e4dbc58355140af8386627fc.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- Take Hillsdale College’s onli",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2546 - Michael Button",
+      "audioUrl": "https://traffic.megaphone.fm/GLT5185167681.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT5185167681.mp3",
+      "date": "2026-08-26T17:00:00.000Z",
+      "duration": "9438",
+      "image": "https://megaphone.imgix.net/podcasts/7c0a5244-a0db-11f1-bbe3-13e22537d5bb/image/ef3a034ce674226f82feecd9b537aa83.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Michael Button is a YouTuber who explores ancient mysteries, lost history, and societal collapse.https://michaelbutton.substack.comhttps://www.youtube.com/@MichaelButton1\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan&amp;nbsp;for 30% OFF, or find Ketone-IQ at Target nationwide.\n\n\n\nUse code ROGAN at https://BlueChew.com  to ge",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
-      "title": "8/26/26: Iran and Oman Defy Trump, Lake America, China Says Screw You",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/acef7aa2-37c3-4212-a1c6-b4b200ff7076/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-26-26-iran-and-oman-defy-trump-lake-america-china-says-screw-you",
-      "date": "2026-08-26T16:16:59.000Z",
-      "duration": "3266",
+      "title": "8/26/26: Professor Pape Ridicules Bessent's D-Day, MAGA Influencer Caught Working for Pentagon, Beef Controversy w/ Dan Osborn",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/be9a7422-e879-44e1-bd11-b4b20100528f/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-26-26-professor-pape-ridicules-bessents-d-day-maga-influencer-caught-working-for-pentagon-beef-controversy-w-dan-osborn",
+      "date": "2026-08-26T17:00:00.000Z",
+      "duration": "3408",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Saagar and Ryan discuss Iran and Oman making a deal for full control of the Strait, Trump lashing out at Canada with his Lake America imagery, and China refusing to comply with Economic D Day.See omnystudio.com/listener for privacy information.",
+      "desc": "Professor Pape returns to talk South Korea and sanctions failing, then a MAGA influencer caught working for the Pentagon. After we speak to Nebraska Senate candidate Dan Osborn about U.S. ranchers upset over Trump's Beef import deal, and finally Ryan gives a touching tribute to the music legend Dolly Parton. Professor Pape:&nbsp;https://substack.com/@professorrobertpape&nbsp; Dan Osborn:&nbsp;http",
       "guestTags": []
     },
     {
@@ -46,18 +72,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2545 - Jesse Michels",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5434878204.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5434878204.mp3",
-      "date": "2026-08-25T17:00:00.000Z",
-      "duration": "11319",
-      "image": "https://megaphone.imgix.net/podcasts/fc78372e-a00f-11f1-b4a6-67ef23d80453/image/e29f688a4586d2fb4d868993a074e1fe.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Jesse Michels is the creator and host of \"American Alchemy,\" a YouTube series exploring controversial topics in science and culture through longform interviews.www.youtube.com/@JesseMichelswww.patreon.com/JesseMichelshttps://americanalchemymagazine.substack.comwww.jessemichelsmedia.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Trump’s Economic “D-DAY,” Mark Cuban Goes GOP?! El-Sayed’s Fox Disaster, w/ Ryan Girdusky, &amp; WNBA Trans Fight ERUPTS",
@@ -70,18 +84,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#677 - Gurudev Sri Sri Ravi Shankar",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
-      "date": "2026-08-25T07:17:00.000Z",
-      "duration": "5860",
-      "image": "https://megaphone.imgix.net/podcasts/9f115dec-a053-11f1-b1ab-e32e141bb6a5/image/a74c9245cc0211bad497b918aa0a366f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Gurudev Sri Sri Ravi Shankar is a global humanitarian, peacemaker and spiritual leader known for founding “The Art of Living”.&amp;nbsp;\n\nGurudev joins Theo to talk about gaining a reputation as a child prodigy, how he helped end a war in Columbia, and real ways meditation can improve our lives.\n\nGurudev Sri Sri Ravi Shankar: https://www.instagram.com/gurudev/&amp;nbsp;\n\n--------------------------",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -134,15 +136,41 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Controversial Race Scientist Who Exposed Jason Arday - Nathan Cofnas",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6800255787.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6800255787.mp3",
+      "date": "2026-08-26T18:00:00.000Z",
+      "duration": "6997",
+      "image": "https://megaphone.imgix.net/podcasts/ab88299c-a167-11f1-ae0c-7fb3112ca845/image/0e5b7fa0e4dbc58355140af8386627fc.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- Take Hillsdale College’s onli",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
-      "title": "8/26/26: Iran and Oman Defy Trump, Lake America, China Says Screw You",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/acef7aa2-37c3-4212-a1c6-b4b200ff7076/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-26-26-iran-and-oman-defy-trump-lake-america-china-says-screw-you",
-      "date": "2026-08-26T16:16:59.000Z",
-      "duration": "3266",
+      "title": "8/26/26: Professor Pape Ridicules Bessent's D-Day, MAGA Influencer Caught Working for Pentagon, Beef Controversy w/ Dan Osborn",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/be9a7422-e879-44e1-bd11-b4b20100528f/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-26-26-professor-pape-ridicules-bessents-d-day-maga-influencer-caught-working-for-pentagon-beef-controversy-w-dan-osborn",
+      "date": "2026-08-26T17:00:00.000Z",
+      "duration": "3408",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Saagar and Ryan discuss Iran and Oman making a deal for full control of the Strait, Trump lashing out at Canada with his Lake America imagery, and China refusing to comply with Economic D Day.See omnystudio.com/listener for privacy information.",
+      "desc": "Professor Pape returns to talk South Korea and sanctions failing, then a MAGA influencer caught working for the Pentagon. After we speak to Nebraska Senate candidate Dan Osborn about U.S. ranchers upset over Trump's Beef import deal, and finally Ryan gives a touching tribute to the music legend Dolly Parton. Professor Pape:&nbsp;https://substack.com/@professorrobertpape&nbsp; Dan Osborn:&nbsp;http",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2546 - Michael Button",
+      "audioUrl": "https://traffic.megaphone.fm/GLT5185167681.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT5185167681.mp3",
+      "date": "2026-08-26T17:00:00.000Z",
+      "duration": "9438",
+      "image": "https://megaphone.imgix.net/podcasts/7c0a5244-a0db-11f1-bbe3-13e22537d5bb/image/ef3a034ce674226f82feecd9b537aa83.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Michael Button is a YouTuber who explores ancient mysteries, lost history, and societal collapse.https://michaelbutton.substack.comhttps://www.youtube.com/@MichaelButton1\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan&amp;nbsp;for 30% OFF, or find Ketone-IQ at Target nationwide.\n\n\n\nUse code ROGAN at https://BlueChew.com  to ge",
       "guestTags": []
     },
     {
@@ -174,18 +202,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2545 - Jesse Michels",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5434878204.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5434878204.mp3",
-      "date": "2026-08-25T17:00:00.000Z",
-      "duration": "11319",
-      "image": "https://megaphone.imgix.net/podcasts/fc78372e-a00f-11f1-b4a6-67ef23d80453/image/e29f688a4586d2fb4d868993a074e1fe.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Jesse Michels is the creator and host of \"American Alchemy,\" a YouTube series exploring controversial topics in science and culture through longform interviews.www.youtube.com/@JesseMichelswww.patreon.com/JesseMichelshttps://americanalchemymagazine.substack.comwww.jessemichelsmedia.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Trump’s Economic “D-DAY,” Mark Cuban Goes GOP?! El-Sayed’s Fox Disaster, w/ Ryan Girdusky, &amp; WNBA Trans Fight ERUPTS",
@@ -198,18 +214,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#677 - Gurudev Sri Sri Ravi Shankar",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
-      "date": "2026-08-25T07:17:00.000Z",
-      "duration": "5860",
-      "image": "https://megaphone.imgix.net/podcasts/9f115dec-a053-11f1-b1ab-e32e141bb6a5/image/a74c9245cc0211bad497b918aa0a366f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Gurudev Sri Sri Ravi Shankar is a global humanitarian, peacemaker and spiritual leader known for founding “The Art of Living”.&amp;nbsp;\n\nGurudev joins Theo to talk about gaining a reputation as a child prodigy, how he helped end a war in Columbia, and real ways meditation can improve our lives.\n\nGurudev Sri Sri Ravi Shankar: https://www.instagram.com/gurudev/&amp;nbsp;\n\n--------------------------",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -273,6 +277,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
     ],

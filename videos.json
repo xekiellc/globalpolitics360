@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T16:50:58.684Z",
+  "lastUpdated": "2026-08-26T19:52:12.978Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "hTLXWbfVi8w",
-      "show": "All-In Podcast",
-      "title": "Gavin Baker: If you're a patriot, you should be pro-open source AI",
-      "url": "https://www.youtube.com/watch?v=hTLXWbfVi8w",
-      "date": "2026-08-26T15:00:24.000Z",
-      "image": "https://i1.ytimg.com/vi/hTLXWbfVi8w/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "VFxyV5RyMTU",
+      "show": "The Free Press",
+      "title": "3 keys to a successful relationship, according to Gurudev",
+      "url": "https://www.youtube.com/watch?v=VFxyV5RyMTU",
+      "date": "2026-08-26T19:28:09.000Z",
+      "image": "https://i3.ytimg.com/vi/VFxyV5RyMTU/hqdefault.jpg",
+      "desc": "#shorts #theovon #gurudev",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "hTLXWbfVi8w",
-      "show": "All-In Podcast",
-      "title": "Gavin Baker: If you're a patriot, you should be pro-open source AI",
-      "url": "https://www.youtube.com/watch?v=hTLXWbfVi8w",
-      "date": "2026-08-26T15:00:24.000Z",
-      "image": "https://i1.ytimg.com/vi/hTLXWbfVi8w/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "VFxyV5RyMTU",
+      "show": "The Free Press",
+      "title": "3 keys to a successful relationship, according to Gurudev",
+      "url": "https://www.youtube.com/watch?v=VFxyV5RyMTU",
+      "date": "2026-08-26T19:28:09.000Z",
+      "image": "https://i3.ytimg.com/vi/VFxyV5RyMTU/hqdefault.jpg",
+      "desc": "#shorts #theovon #gurudev",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
