@@ -1,47 +1,34 @@
 {
-  "lastUpdated": "2026-08-26T06:56:47.116Z",
+  "lastUpdated": "2026-08-26T08:50:41.234Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 13,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "2GTgVP81G2M",
-      "show": "All-In Podcast",
-      "title": "&quot;Fauci hurt science than anyone in modern history.&quot;",
-      "url": "https://www.youtube.com/watch?v=2GTgVP81G2M",
-      "date": "2026-08-25T20:11:54.000Z",
-      "image": "https://i3.ytimg.com/vi/2GTgVP81G2M/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "ShbW4ImdqQ4",
+      "show": "Shawn Ryan Show",
+      "title": "Cops Let Hells Angels Handle a Bike Thief All Weekend 😳",
+      "url": "https://www.youtube.com/watch?v=ShbW4ImdqQ4",
+      "date": "2026-08-26T01:00:16.000Z",
+      "image": "https://i4.ytimg.com/vi/ShbW4ImdqQ4/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "2GTgVP81G2M",
-      "show": "All-In Podcast",
-      "title": "&quot;Fauci hurt science than anyone in modern history.&quot;",
-      "url": "https://www.youtube.com/watch?v=2GTgVP81G2M",
-      "date": "2026-08-25T20:11:54.000Z",
-      "image": "https://i3.ytimg.com/vi/2GTgVP81G2M/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "ShbW4ImdqQ4",
+      "show": "Shawn Ryan Show",
+      "title": "Cops Let Hells Angels Handle a Bike Thief All Weekend 😳",
+      "url": "https://www.youtube.com/watch?v=ShbW4ImdqQ4",
+      "date": "2026-08-26T01:00:16.000Z",
+      "image": "https://i4.ytimg.com/vi/ShbW4ImdqQ4/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
