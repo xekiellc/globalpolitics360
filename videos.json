@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T13:01:50.398Z",
+  "lastUpdated": "2026-08-26T14:49:36.413Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "5mxTrDfzQ0c",
-      "show": "TRIGGERnometry",
-      "title": "What Hitler Said to the Grand Mufti in 1941",
-      "url": "https://www.youtube.com/watch?v=5mxTrDfzQ0c",
-      "date": "2026-08-26T12:14:42.000Z",
-      "image": "https://i2.ytimg.com/vi/5mxTrDfzQ0c/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "pHpEcXHh7rI",
+      "show": "The Free Press",
+      "title": "no judgment 🙏",
+      "url": "https://www.youtube.com/watch?v=pHpEcXHh7rI",
+      "date": "2026-08-26T14:15:30.000Z",
+      "image": "https://i1.ytimg.com/vi/pHpEcXHh7rI/hqdefault.jpg",
+      "desc": "#shorts #theovon #kevingates",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "5mxTrDfzQ0c",
-      "show": "TRIGGERnometry",
-      "title": "What Hitler Said to the Grand Mufti in 1941",
-      "url": "https://www.youtube.com/watch?v=5mxTrDfzQ0c",
-      "date": "2026-08-26T12:14:42.000Z",
-      "image": "https://i2.ytimg.com/vi/5mxTrDfzQ0c/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "pHpEcXHh7rI",
+      "show": "The Free Press",
+      "title": "no judgment 🙏",
+      "url": "https://www.youtube.com/watch?v=pHpEcXHh7rI",
+      "date": "2026-08-26T14:15:30.000Z",
+      "image": "https://i1.ytimg.com/vi/pHpEcXHh7rI/hqdefault.jpg",
+      "desc": "#shorts #theovon #kevingates",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
