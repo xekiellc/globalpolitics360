@@ -1,33 +1,59 @@
 {
-  "lastUpdated": "2026-08-27T08:35:26.789Z",
+  "lastUpdated": "2026-08-27T20:14:35.515Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1757,
+  "taggedCount": 1758,
   "latest": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#678 - Psych Med Withdrawal Expert Laura Delano",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER9451090434.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER9451090434.mp3",
+      "date": "2026-08-27T18:44:00.000Z",
+      "duration": "9006",
+      "image": "https://megaphone.imgix.net/podcasts/02afc47a-a247-11f1-9ebf-ab411a102f28/image/debeb26141cb1175d0cd42f926c723da.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Laura Delano is the founder of the Inner Compass Initiative and author of “Unshrunk: A Story of Psychiatric Treatment Resistance.”\n\nLaura joins Theo to talk about how her own journey with psychiatric treatment led her to investigate big pharma, what the process of safely tapering off medication looks like, and the deeper social issues that could be fueling a mental health crisis. \n\nLaura Delano: h",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Diet &amp; Nutrition for Mental Health | Dr. Chris Palmer",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
-      "date": "2026-08-27T08:00:00.000Z",
-      "duration": "2298",
-      "image": "https://megaphone.imgix.net/podcasts/fc952864-a1b5-11f1-b8de-73cba0073142/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Chris Palmer, MD, a board-certified psychiatrist and Assistant Professor of Psychiatry at Harvard Medical School. We explain how nutrition and metabolism directly affect mental health, including the biological mechanisms underlying these effects. We also discuss how carbohydrate restriction, ketogenic diets and fasting can improve mood, ener",
+      "show": "The Joe Rogan Experience",
+      "title": "#2547 - Daniel Everett",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8609844651.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8609844651.mp3",
+      "date": "2026-08-27T17:00:00.000Z",
+      "duration": "9828",
+      "image": "https://megaphone.imgix.net/podcasts/9e1fb742-a1b8-11f1-9e55-d7d5779b3db3/image/e3460a17d2b2421865c0453441ab5b1f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Daniel Everett, PhD, is a linguist and college professor. He is the author of several books, including “Don’t Sleep, There Are Snakes: Life and Language in the Amazonian Jungle” and “How Language Began: The Story of Humanity’s Greatest Invention.”https://daneverettbooks.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free welcome kit with your firs",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/27/26: Putin Escalates War In Ukraine, CIA Secret Cartel War in Mexico, Recovered UFOs?",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/82ec7fe1-902d-4c31-899f-b4b30105bb98/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-27-26-putin-escalates-war-in-ukraine-cia-secret-cartel-war-in-mexico-recovered-ufos",
+      "date": "2026-08-27T17:00:00.000Z",
+      "duration": "1963",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "In the second half of the show, Saagar and Ryan look at Putin escalating the war in Ukraine after talks go nowhere; then we're joined by returning friend of the show Juan David Rojas to talk about a potential secret CIA Cartel War in Mexico, and finally Ben Schreckinger joins to talk about the latest in UAP mysteries. Juan David Rojas:&nbsp;https://juandarojasro.substack.com/Ben Schreckinger:&nbsp",
       "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Eric_Weinstein_Int_AUDIO_v99.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps",
-      "date": "2026-08-26T23:00:00.000Z",
-      "duration": "01:30:20",
-      "image": "https://static.libsyn.com/p/assets/9/8/0/b/980bb274c7d1a71ed959afa2a1bf1c87/signal-2026-08-26-16-28-33-642.jpg",
-      "desc": "(0:00) Eric Weinstein joins the show! (03:09) Has American science stalled? Cowboy science, Fauci, and the scientific precariat (21:31) Weinstein's fix: Blow a hole in the Civil Rights Act, kill peer review, fund people not ideas (41:36) Ed Witten drove physics off a cliff, and is Renaissance Technologies a secret Los Alamos? (52:49) Boom, Vroom, Zoom: Did stagnant physics save the human species? ",
-      "guestTags": []
+      "show": "After Party with Emily Jashinsky",
+      "title": "Dolly Parton’s REMARKABLE Life, Harry’s Visa &amp; Meghan Divorce Rumors, &amp; Blake’s $8M Reality Check, with Maureen Callahan",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/c8148c79-e18c-41da-9ad2-154a99bd677c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=c8148c79-e18c-41da-9ad2-154a99bd677c&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-08-27T11:00:00.000Z",
+      "duration": "01:17:45",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/0c5fdeb9-b169-4324-ae41-614c1dab447a/3000x3000/ap_119_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Maureen Callahan, host of “The Nerve with Maureen Callahan,” to reflect on the death and extraordinary legacy of Dolly Parton. Emily and Maureen discuss how Parton’s privacy, stoicism, generosity, and refusal to be dragged into partisan politics made her increasingly rare in modern celebrity culture. They revisit Parton’s infamous interview with Barbara Walters and exp",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -39,32 +65,6 @@
       "duration": "5:21:57",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridma",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "The Controversial Race Scientist Who Exposed Jason Arday - Nathan Cofnas",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6800255787.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6800255787.mp3",
-      "date": "2026-08-26T18:00:00.000Z",
-      "duration": "6997",
-      "image": "https://megaphone.imgix.net/podcasts/ab88299c-a167-11f1-ae0c-7fb3112ca845/image/0e5b7fa0e4dbc58355140af8386627fc.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- Take Hillsdale College’s onli",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/26/26: Professor Pape Ridicules Bessent's D-Day, MAGA Influencer Caught Working for Pentagon, Beef Controversy w/ Dan Osborn",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/be9a7422-e879-44e1-bd11-b4b20100528f/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-26-26-professor-pape-ridicules-bessents-d-day-maga-influencer-caught-working-for-pentagon-beef-controversy-w-dan-osborn",
-      "date": "2026-08-26T17:00:00.000Z",
-      "duration": "3408",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Professor Pape returns to talk South Korea and sanctions failing, then a MAGA influencer caught working for the Pentagon. After we speak to Nebraska Senate candidate Dan Osborn about U.S. ranchers upset over Trump's Beef import deal, and finally Ryan gives a touching tribute to the music legend Dolly Parton. Professor Pape:&nbsp;https://substack.com/@professorrobertpape&nbsp; Dan Osborn:&nbsp;http",
       "guestTags": []
     },
     {
@@ -134,28 +134,54 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#678 - Psych Med Withdrawal Expert Laura Delano",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER9451090434.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER9451090434.mp3",
+      "date": "2026-08-27T18:44:00.000Z",
+      "duration": "9006",
+      "image": "https://megaphone.imgix.net/podcasts/02afc47a-a247-11f1-9ebf-ab411a102f28/image/debeb26141cb1175d0cd42f926c723da.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Laura Delano is the founder of the Inner Compass Initiative and author of “Unshrunk: A Story of Psychiatric Treatment Resistance.”\n\nLaura joins Theo to talk about how her own journey with psychiatric treatment led her to investigate big pharma, what the process of safely tapering off medication looks like, and the deeper social issues that could be fueling a mental health crisis. \n\nLaura Delano: h",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Diet &amp; Nutrition for Mental Health | Dr. Chris Palmer",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
-      "date": "2026-08-27T08:00:00.000Z",
-      "duration": "2298",
-      "image": "https://megaphone.imgix.net/podcasts/fc952864-a1b5-11f1-b8de-73cba0073142/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Chris Palmer, MD, a board-certified psychiatrist and Assistant Professor of Psychiatry at Harvard Medical School. We explain how nutrition and metabolism directly affect mental health, including the biological mechanisms underlying these effects. We also discuss how carbohydrate restriction, ketogenic diets and fasting can improve mood, ener",
+      "show": "The Joe Rogan Experience",
+      "title": "#2547 - Daniel Everett",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8609844651.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8609844651.mp3",
+      "date": "2026-08-27T17:00:00.000Z",
+      "duration": "9828",
+      "image": "https://megaphone.imgix.net/podcasts/9e1fb742-a1b8-11f1-9e55-d7d5779b3db3/image/e3460a17d2b2421865c0453441ab5b1f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Daniel Everett, PhD, is a linguist and college professor. He is the author of several books, including “Don’t Sleep, There Are Snakes: Life and Language in the Amazonian Jungle” and “How Language Began: The Story of Humanity’s Greatest Invention.”https://daneverettbooks.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free welcome kit with your firs",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "8/27/26: Putin Escalates War In Ukraine, CIA Secret Cartel War in Mexico, Recovered UFOs?",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/82ec7fe1-902d-4c31-899f-b4b30105bb98/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-27-26-putin-escalates-war-in-ukraine-cia-secret-cartel-war-in-mexico-recovered-ufos",
+      "date": "2026-08-27T17:00:00.000Z",
+      "duration": "1963",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "In the second half of the show, Saagar and Ryan look at Putin escalating the war in Ukraine after talks go nowhere; then we're joined by returning friend of the show Juan David Rojas to talk about a potential secret CIA Cartel War in Mexico, and finally Ben Schreckinger joins to talk about the latest in UAP mysteries. Juan David Rojas:&nbsp;https://juandarojasro.substack.com/Ben Schreckinger:&nbsp",
       "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Eric_Weinstein_Int_AUDIO_v99.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps",
-      "date": "2026-08-26T23:00:00.000Z",
-      "duration": "01:30:20",
-      "image": "https://static.libsyn.com/p/assets/9/8/0/b/980bb274c7d1a71ed959afa2a1bf1c87/signal-2026-08-26-16-28-33-642.jpg",
-      "desc": "(0:00) Eric Weinstein joins the show! (03:09) Has American science stalled? Cowboy science, Fauci, and the scientific precariat (21:31) Weinstein's fix: Blow a hole in the Civil Rights Act, kill peer review, fund people not ideas (41:36) Ed Witten drove physics off a cliff, and is Renaissance Technologies a secret Los Alamos? (52:49) Boom, Vroom, Zoom: Did stagnant physics save the human species? ",
-      "guestTags": []
+      "show": "After Party with Emily Jashinsky",
+      "title": "Dolly Parton’s REMARKABLE Life, Harry’s Visa &amp; Meghan Divorce Rumors, &amp; Blake’s $8M Reality Check, with Maureen Callahan",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/c8148c79-e18c-41da-9ad2-154a99bd677c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=c8148c79-e18c-41da-9ad2-154a99bd677c&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-08-27T11:00:00.000Z",
+      "duration": "01:17:45",
+      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/0c5fdeb9-b169-4324-ae41-614c1dab447a/3000x3000/ap_119_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Maureen Callahan, host of “The Nerve with Maureen Callahan,” to reflect on the death and extraordinary legacy of Dolly Parton. Emily and Maureen discuss how Parton’s privacy, stoicism, generosity, and refusal to be dragged into partisan politics made her increasingly rare in modern celebrity culture. They revisit Parton’s infamous interview with Barbara Walters and exp",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -167,32 +193,6 @@
       "duration": "5:21:57",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridma",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "The Controversial Race Scientist Who Exposed Jason Arday - Nathan Cofnas",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6800255787.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6800255787.mp3",
-      "date": "2026-08-26T18:00:00.000Z",
-      "duration": "6997",
-      "image": "https://megaphone.imgix.net/podcasts/ab88299c-a167-11f1-ae0c-7fb3112ca845/image/0e5b7fa0e4dbc58355140af8386627fc.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unrestricted AI. No conversation logs sitting on someone else’s server, no pre-approved list of subjects you’re permitted to think about, no refusals dressed up as safety.\n*Try it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- Take Hillsdale College’s onli",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "8/26/26: Professor Pape Ridicules Bessent's D-Day, MAGA Influencer Caught Working for Pentagon, Beef Controversy w/ Dan Osborn",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/be9a7422-e879-44e1-bd11-b4b20100528f/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/8-26-26-professor-pape-ridicules-bessents-d-day-maga-influencer-caught-working-for-pentagon-beef-controversy-w-dan-osborn",
-      "date": "2026-08-26T17:00:00.000Z",
-      "duration": "3408",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Professor Pape returns to talk South Korea and sanctions failing, then a MAGA influencer caught working for the Pentagon. After we speak to Nebraska Senate candidate Dan Osborn about U.S. ranchers upset over Trump's Beef import deal, and finally Ryan gives a touching tribute to the music legend Dolly Parton. Professor Pape:&nbsp;https://substack.com/@professorrobertpape&nbsp; Dan Osborn:&nbsp;http",
       "guestTags": []
     },
     {
@@ -273,8 +273,8 @@
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
