@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-26T23:10:08.577Z",
+  "lastUpdated": "2026-08-27T08:35:18.465Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Coinkite’s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline",
+      "url": "https://bitcoinmagazine.com/business/coinkites-coldcard-bug-exposed-single-sig-risk-multi-vendor-multisig-is-the-new-bitcoin-custody-baseline",
+      "date": "2026-08-26T23:39:32.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-4.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Billions Pour Into Bitcoin ETFs as Rally Rolls On",
       "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-receive-billions-in-new-cash",
@@ -88,15 +97,6 @@
       "url": "https://bitcoinmagazine.com/news/human-rights-foundation-issues-more-grants",
       "date": "2026-08-25T16:00:00.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/05/Human-Rights-Foundation-Donates-800-Million-Satoshis-To-22-Worldwide-Bitcoin-And-Freedom-Projects.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Tops $81,000 — Is the Debasement Trade Back?",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-surges-is-debasement-trade-back",
-      "date": "2026-08-25T15:14:28.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-1.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"

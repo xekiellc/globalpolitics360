@@ -1,14 +1,26 @@
 {
-  "lastUpdated": "2026-08-26T23:10:14.144Z",
+  "lastUpdated": "2026-08-27T08:35:26.789Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1757,
   "latest": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Diet &amp; Nutrition for Mental Health | Dr. Chris Palmer",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
+      "date": "2026-08-27T08:00:00.000Z",
+      "duration": "2298",
+      "image": "https://megaphone.imgix.net/podcasts/fc952864-a1b5-11f1-b8de-73cba0073142/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Chris Palmer, MD, a board-certified psychiatrist and Assistant Professor of Psychiatry at Harvard Medical School. We explain how nutrition and metabolism directly affect mental health, including the biological mechanisms underlying these effects. We also discuss how carbohydrate restriction, ketogenic diets and fasting can improve mood, ener",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
-      "title": "Eric Weinstein: The Scientific Precariat, China's Brain Drain, Physics Stagnation, String Theory's Collapse &amp; UAPs",
+      "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Eric_Weinstein_Int_AUDIO_v99.mp3?dest-id=1928300",
       "listenUrl": "https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps",
       "date": "2026-08-26T23:00:00.000Z",
@@ -42,18 +54,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2546 - Michael Button",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5185167681.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5185167681.mp3",
-      "date": "2026-08-26T17:00:00.000Z",
-      "duration": "9438",
-      "image": "https://megaphone.imgix.net/podcasts/7c0a5244-a0db-11f1-bbe3-13e22537d5bb/image/ef3a034ce674226f82feecd9b537aa83.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Michael Button is a YouTuber who explores ancient mysteries, lost history, and societal collapse.https://michaelbutton.substack.comhttps://www.youtube.com/@MichaelButton1\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan&amp;nbsp;for 30% OFF, or find Ketone-IQ at Target nationwide.\n\n\n\nUse code ROGAN at https://BlueChew.com  to ge",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -134,9 +134,21 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Diet &amp; Nutrition for Mental Health | Dr. Chris Palmer",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
+      "date": "2026-08-27T08:00:00.000Z",
+      "duration": "2298",
+      "image": "https://megaphone.imgix.net/podcasts/fc952864-a1b5-11f1-b8de-73cba0073142/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Chris Palmer, MD, a board-certified psychiatrist and Assistant Professor of Psychiatry at Harvard Medical School. We explain how nutrition and metabolism directly affect mental health, including the biological mechanisms underlying these effects. We also discuss how carbohydrate restriction, ketogenic diets and fasting can improve mood, ener",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
-      "title": "Eric Weinstein: The Scientific Precariat, China's Brain Drain, Physics Stagnation, String Theory's Collapse &amp; UAPs",
+      "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Eric_Weinstein_Int_AUDIO_v99.mp3?dest-id=1928300",
       "listenUrl": "https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps",
       "date": "2026-08-26T23:00:00.000Z",
@@ -181,18 +193,6 @@
       "duration": "3408",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Professor Pape returns to talk South Korea and sanctions failing, then a MAGA influencer caught working for the Pentagon. After we speak to Nebraska Senate candidate Dan Osborn about U.S. ranchers upset over Trump's Beef import deal, and finally Ryan gives a touching tribute to the music legend Dolly Parton. Professor Pape:&nbsp;https://substack.com/@professorrobertpape&nbsp; Dan Osborn:&nbsp;http",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2546 - Michael Button",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5185167681.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5185167681.mp3",
-      "date": "2026-08-26T17:00:00.000Z",
-      "duration": "9438",
-      "image": "https://megaphone.imgix.net/podcasts/7c0a5244-a0db-11f1-bbe3-13e22537d5bb/image/ef3a034ce674226f82feecd9b537aa83.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Michael Button is a YouTuber who explores ancient mysteries, lost history, and societal collapse.https://michaelbutton.substack.comhttps://www.youtube.com/@MichaelButton1\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan&amp;nbsp;for 30% OFF, or find Ketone-IQ at Target nationwide.\n\n\n\nUse code ROGAN at https://BlueChew.com  to ge",
       "guestTags": []
     },
     {
