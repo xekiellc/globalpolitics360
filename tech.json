@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-08-28T06:02:00.094Z",
+  "lastUpdated": "2026-08-28T20:06:39.821Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Capital B Raises €21M From Adam Back and TOBAM To Buy More BTC",
+      "url": "https://bitcoinmagazine.com/news/capital-b-raises-money-for-bitcoin",
+      "date": "2026-08-28T18:10:42.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Capital-B-Raises-E21M-From-Adam-Back-and-TOBAM-To-Buy-More-BTC.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Drops Before Shrugging Off Fed Chair&#8217;s Inflation Comments",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments",
+      "date": "2026-08-28T15:49:18.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-4.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "The Machine Age Fund",
+      "url": "https://www.a16z.news/p/the-machine-age-fund",
+      "date": "2026-08-28T13:07:25.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8aabd556-23f5-4152-8cc3-fe26f8119360_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #208",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-208",
+      "date": "2026-08-28T12:14:36.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!UPLM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed7240b8-aec6-4222-b4df-a4420061b2f9_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Pakistan Built Its Crypto Regulatory Regime Using Just 8% of Its Budget, Minister Bilal Bin Saqib Reveals at Bitcoin Asia",
+      "url": "https://bitcoinmagazine.com/markets/pakistan-built-its-crypto-regulatory-regime-using-just-8-of-its-budget-minister-bilal-bin-saqib-reveals-at-bitcoin-asia",
+      "date": "2026-08-28T09:22:08.000Z",
+      "image": "https://www.youtube.com/embed/yRzt65QxW0E",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings",
       "url": "https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings",
@@ -70,33 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-receive-billions-in-new-cash",
       "date": "2026-08-26T20:56:47.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-3.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Forget the Trump Bump — Bitcoin Would Be Fine Under Democrats, Says VanEck",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-would-be-fine-under-democrats",
-      "date": "2026-08-26T19:39:19.000Z",
-      "image": "https://www.youtube.com/embed/q4ukdmilXQU",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages",
-      "url": "https://bitcoinmagazine.com/news/coinbase-better-announce-bitcoin-mortgages",
-      "date": "2026-08-26T17:24:53.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coinbase-Better.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "SEC Sends Proposal to White House To Modernize Crypto Custody",
-      "url": "https://bitcoinmagazine.com/news/sec-sends-crypto-custody-proposal",
-      "date": "2026-08-26T15:29:13.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -318,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Base Power & the Future of Electricity",
-      "url": "https://www.a16z.news/p/base-power-and-the-future-of-electricity",
-      "date": "2026-08-04T16:30:45.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6e7ca38b-9f19-4088-9cd0-4a5ab60cf50f_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #204",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-204",
       "date": "2026-07-31T12:47:27.000Z",
@@ -352,15 +361,6 @@
       "source": "Balaji Srinivasan",
       "teaser": "",
       "id": "aHR0cHM6Ly9iYWxhamlzLmNv"
-    },
-    {
-      "title": "AI is Oil, Not God",
-      "url": "https://www.notboring.co/p/ai-is-oil-not-god",
-      "date": "2026-07-25T17:25:07.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!rMD1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5deb492f-93c9-4c1c-8bf4-05d7795a4b8b_1200x675.webp",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }

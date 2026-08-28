@@ -1,7 +1,88 @@
 {
-  "lastUpdated": "2026-08-28T06:01:55.719Z",
+  "lastUpdated": "2026-08-28T20:06:36.095Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "I’m Proud to Be a Sports Dad",
+      "url": "https://www.thefp.com/p/im-proud-to-be-a-sports-dad",
+      "date": "2026-08-28T19:00:47.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/3895c69e-15d1-4f4c-9171-48ddb5a74683_6493x4329.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "Ancient Wisdom: I Was the King of the Celebrity Cover Story",
+      "url": "https://www.thefp.com/p/ancient-wisdom-i-was-the-king-of",
+      "date": "2026-08-28T18:01:35.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!EO9z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a7303a-7403-458c-b8ca-97eed6f5ac4a_1024x670.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "Listen to This Article: Karen Attiah and the Right to Suck",
+      "url": "https://www.racket.news/p/listen-to-this-article-karen-attiah",
+      "date": "2026-08-28T17:55:46.000Z",
+      "image": "",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
+    {
+      "title": "Chris Hedges: How the Media Sells Genocide",
+      "url": "https://consortiumnews.com/2026/08/28/chris-hedges-how-the-media-sells-genocide/",
+      "date": "2026-08-28T16:00:18.000Z",
+      "image": "",
+      "source": "Consortium News",
+      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
+      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
+    },
+    {
+      "title": "What the Measles War Gets Wrong. Plus. . .",
+      "url": "https://www.thefp.com/p/measles-hysteria-is-bad-for-public-health",
+      "date": "2026-08-28T15:00:24.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9d815afb-5d57-408d-a598-decdab8811d8_1024x683.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "VIPS MEMO: Dangerous Talk of Putin’s &#8216;Loss&#8217; in Ukraine",
+      "url": "https://consortiumnews.com/2026/08/28/vips-memo-dangerous-talk-of-putins-loss-in-ukraine/",
+      "date": "2026-08-28T13:49:35.000Z",
+      "image": "",
+      "source": "Consortium News",
+      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
+      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
+    },
+    {
+      "title": "TGIF: Have Y’all Never Heard of Noblesse Oblige?",
+      "url": "https://www.thefp.com/p/tgif-have-yall-never-heard-of-noblesse",
+      "date": "2026-08-28T10:02:14.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!AXTm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb604cc72-69a9-4be4-96c5-992cabec059f_1024x767.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "Lifestyles of the Rich and Famous: A Summer Special",
+      "url": "https://www.thefp.com/p/lifestyles-of-the-rich-and-famous",
+      "date": "2026-08-28T09:02:11.000Z",
+      "image": "https://substack-video.s3.amazonaws.com/video_upload/post/212915960/451dda35-7f3d-4e8f-9f97-134ebf92ab89/transcoded-1787786275.png",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "Our Foreign Policy Divide Began with the Korean War",
+      "url": "https://www.thefp.com/p/school-of-war-korean-war-foreign-policy",
+      "date": "2026-08-28T09:01:50.000Z",
+      "image": "",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
     {
       "title": "US &#8216;Terror&#8217; Label on Palestine Action Threatens Speech",
       "url": "https://consortiumnews.com/2026/08/28/us-terror-label-on-palestine-action-threatens-free-speech/",
@@ -255,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cucHVibGlj"
     },
     {
-      "title": "Dolly Parton, Pure Product of America. Plus. . .",
-      "url": "https://www.thefp.com/p/dolly-parton-pure-product-of-america",
-      "date": "2026-08-26T10:02:10.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!w8vs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eab7c89-67bf-475a-b054-21b76d724704_1024x690.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
       "title": "PATRICK LAWRENCE: Canada &#038; Creeping US Isolation",
       "url": "https://consortiumnews.com/2026/08/26/patrick-lawrence-canada-creeping-us-isolation/",
       "date": "2026-08-26T06:00:00.000Z",
@@ -273,33 +345,6 @@
       "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
-      "title": "The Hidden Virtues of Dolly Parton",
-      "url": "https://www.thefp.com/p/the-hidden-virtues-of-dolly-parton",
-      "date": "2026-08-26T02:51:18.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!ZQSE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43ea6a0b-a34a-4032-9ab3-5a7f17a9c87f_1024x690.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "Caitlin Flanagan: Dolly Parton, Pure Product of America",
-      "url": "https://www.thefp.com/p/caitlin-flanagan-dolly-parton-pure",
-      "date": "2026-08-26T02:39:53.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!u3EW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f1f1f98-96ba-4e1b-89f0-5a277ce4d39b_1024x679.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "The Tantric War",
-      "url": "https://www.thefp.com/p/the-tantric-war",
-      "date": "2026-08-25T22:11:35.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/1e3fe3ea-04bb-428f-b47c-da062a2f4c57_1024x683.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
       "title": "Maryland Felony Cases Against Zizian Trans Death Cult Members Abruptly Suspended",
       "url": "https://www.ngocomment.com/p/maryland-felony-cases-against-zizian",
       "date": "2026-08-25T21:56:46.000Z",
@@ -307,24 +352,6 @@
       "source": "Andy Ngo / Ngo Comment",
       "teaser": "First video footage emerges of members from secretive transgender death cult group.",
       "id": "aHR0cHM6Ly93d3cubmdvY29t"
-    },
-    {
-      "title": "Peter Savodnik: Want to Read a Great Book with Us?",
-      "url": "https://www.thefp.com/p/peter-savodnik-want-to-read-a-great",
-      "date": "2026-08-25T21:15:02.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b5dfa54d-40bb-480a-beb9-e1a36efb13c3_1920x1080.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
-      "title": "What College Is Really For",
-      "url": "https://www.thefp.com/p/what-college-is-really-for",
-      "date": "2026-08-25T20:00:56.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!bQ81!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe08b9cb-f0fb-4228-96b7-3862bf8e71a9_1024x740.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
       "title": "“Get Lit” Livestream, 4:30 pm ET: On Stephen Crane's \"The Open Boat\"",
@@ -363,15 +390,6 @@
       "id": "aHR0cHM6Ly93d3cucHVibGlj"
     },
     {
-      "title": "A Nuclear-Sanity Appeal to Pope Leo XIV",
-      "url": "https://consortiumnews.com/2026/08/25/a-nuclear-sanity-appeal-to-pope-leo-xiv/",
-      "date": "2026-08-25T14:34:56.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
-    },
-    {
       "title": "Talking to women about Lindsay Clancy",
       "url": "https://www.mtracey.net/p/talking-to-women-about-lindsay-clancy",
       "date": "2026-08-25T12:32:17.000Z",
@@ -379,15 +397,6 @@
       "source": "Michael Tracey",
       "teaser": "Michael Tracey criticizes The Young Turks' commentary and understanding of Epstein case details.",
       "id": "aHR0cHM6Ly93d3cubXRyYWNl"
-    },
-    {
-      "title": "Israel’s Global Counter-Offensive",
-      "url": "https://consortiumnews.com/2026/08/25/israels-global-counter-offensive/",
-      "date": "2026-08-25T06:00:06.000Z",
-      "image": "",
-      "source": "Consortium News",
-      "teaser": "Analysis questions whether United States or Israel holds dominant position in bilateral relationship.",
-      "id": "aHR0cHM6Ly9jb25zb3J0aXVt"
     },
     {
       "title": "Cowardly Editors Allowed Themselves To Be Bullied Into Requiring Inaccurate Pronouns",
@@ -529,15 +538,6 @@
       "url": "https://www.racket.news/p/note-to-readers-13b",
       "date": "2026-08-17T16:07:26.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!v9UM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83d72afb-c22e-49b8-995a-7b6fa0481e10_3138x2008.png",
-      "source": "Matt Taibbi / Racket News",
-      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
-      "id": "aHR0cHM6Ly93d3cucmFja2V0"
-    },
-    {
-      "title": "No, Jason Arday Wasn't the Media's Fault",
-      "url": "https://www.racket.news/p/no-jason-arday-wasnt-the-medias-fault",
-      "date": "2026-08-17T15:54:41.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!rzrw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b89d1df-7626-41ab-a017-ce4a5491b380_1946x1128.png",
       "source": "Matt Taibbi / Racket News",
       "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
       "id": "aHR0cHM6Ly93d3cucmFja2V0"
