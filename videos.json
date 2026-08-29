@@ -1,22 +1,10 @@
 {
-  "lastUpdated": "2026-08-28T20:06:46.096Z",
+  "lastUpdated": "2026-08-29T03:35:18.296Z",
   "channelCount": 12,
-  "videoCount": 1,
+  "videoCount": 0,
   "archiveCount": 1,
-  "taggedCount": 27,
-  "latest": [
-    {
-      "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "rtfitVCFuLo",
-      "show": "Danny Jones Podcast",
-      "title": "Why We CAN'T Go To Mars.",
-      "url": "https://www.youtube.com/watch?v=rtfitVCFuLo",
-      "date": "2026-08-28T19:00:35.000Z",
-      "image": "https://i3.ytimg.com/vi/rtfitVCFuLo/hqdefault.jpg",
-      "desc": "Full Episode:\nhttps://youtu.be/B65mFXwqJYA?si=AFpPErpotlT8ybof",
-      "guestTags": []
-    }
-  ],
+  "taggedCount": 0,
+  "latest": [],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",

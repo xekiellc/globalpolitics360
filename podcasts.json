@@ -1,23 +1,34 @@
 {
-  "lastUpdated": "2026-08-28T20:06:45.676Z",
+  "lastUpdated": "2026-08-29T03:35:17.464Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1760,
+  "taggedCount": 1762,
   "latest": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 782 Ron White + Jerron Horton)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ec6fa3b5-4dc2-40fa-a5cd-9c10e0d8d998/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ec6fa3b5-4dc2-40fa-a5cd-9c10e0d8d998&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-29T03:02:59.000Z",
+      "duration": "00:55:41",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 782 KT guest Ron White + Jerron Horton\nRon White, Jerron Horton, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 08/17/2026\nWatch Kill Tony and oth",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: How the Deep State Uses the Media, the “Black-Pilled” Right, and a Seattle Storm Employee Shares Her Story: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/39bdd31b-2c61-4a2a-b2b4-af396de0f7bf/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=39bdd31b-2c61-4a2a-b2b4-af396de0f7bf&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-08-28T20:00:00.000Z",
-      "duration": "01:31:23",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky reflects on her experience covering Russiagate, how it changed her understanding of the relationship between the media and the “Deep State,” and why she appreciates Michael Shellenberger’s ability to approach the story with a fresh, big-picture perspective. She also raises concerns about the federal government’s use of informants and explains",
+      "show": "All-In Podcast",
+      "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E287_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine",
+      "date": "2026-08-29T01:19:00.000Z",
+      "duration": "01:36:41",
+      "image": "https://static.libsyn.com/p/assets/b/e/5/b/be5bed7d61845f3116c3140a3186d450/1_Pod_E287.png",
+      "desc": "(0:00) Bestie intros: Recapping recent interviews and the state of American science (3:31) China's Robot Olympics, Optimus update, Grok Bot (9:05) Nvidia and Salesforce rip after big earnings: AI Capex Bubble and SaaSpocalypse narratives get reversed (33:32) Bessent gets called out by Druckenmiller for bond market interference (1:01:33) AI writing controversy: Druck used AI to write his WSJ Op-ed ",
       "guestTags": [
-        "Michael Shellenberger",
-        "Emily Jashinsky"
+        "Jensen Huang"
       ]
     },
     {
@@ -59,6 +70,20 @@
       "guestTags": []
     },
     {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Secret Chinese Police Stations: How Beijing Polices Beyond Its Borders",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124839250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2Fc7bbc8ef-4014-f653-2cfd-83b1cad26aa2.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Secret-Chinese-Police-Stations-How-Beijing-Polices-Beyond-Its-Borders-e3o09si",
+      "date": "2026-08-28T10:00:00.000Z",
+      "duration": "00:21:44",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1787878313841-ea30254589f08.jpg",
+      "desc": "Secret Chinese police stations have been uncovered in the United States, France, Italy, Britain, and dozens of other countries. But the buildings are only part of the story.In this episode of The Watch Floor, Sarah Adams looks at how Beijing extends its reach beyond China’s borders to monitor dissidents, collect information, pressure critics, and in some cases push people to return to China.From t",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2547 - Daniel Everett",
@@ -80,32 +105,6 @@
       "duration": "5:21:57",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridma",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The Untold Story of the Abbey Gate Plot",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124739375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F0efa0c51-46c2-b9b0-5ef1-376b5f03fa2b.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-Untold-Story-of-the-Abbey-Gate-Plot-e3nt8bf",
-      "date": "2026-08-26T10:00:00.000Z",
-      "duration": "00:45:58",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1787705406786-431da79498cfb.jpg",
-      "desc": "Five years after the Abbey Gate bombing, we know the name of the suicide bomber. But that is only part of the story.In this episode of The Watch Floor, Sarah Adams reconstructs the twelve days leading to the August 26, 2021 attack at Abbey Gate, tracing how the plot moved from authorization to execution and identifying the Taliban, Haqqani Network, al-Qaeda, and ISKP figures her investigation foun",
-      "guestTags": [
-        "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#782 - RON WHITE + JERRON HORTON",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1be7b689-baa0-4aa9-8716-9bd9e5102c0a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1be7b689-baa0-4aa9-8716-9bd9e5102c0a&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-25T01:00:00.000Z",
-      "duration": "02:10:34",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Ron White, Jerron Horton, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban\nTHIS EPISODE IS SPONSORED BY: \nSuperCast: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.supercast.com/ \nPr",
       "guestTags": []
     },
     {
@@ -135,18 +134,29 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 782 Ron White + Jerron Horton)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ec6fa3b5-4dc2-40fa-a5cd-9c10e0d8d998/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ec6fa3b5-4dc2-40fa-a5cd-9c10e0d8d998&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-08-29T03:02:59.000Z",
+      "duration": "00:55:41",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 782 KT guest Ron White + Jerron Horton\nRon White, Jerron Horton, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 08/17/2026\nWatch Kill Tony and oth",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: How the Deep State Uses the Media, the “Black-Pilled” Right, and a Seattle Storm Employee Shares Her Story: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/39bdd31b-2c61-4a2a-b2b4-af396de0f7bf/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=39bdd31b-2c61-4a2a-b2b4-af396de0f7bf&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-08-28T20:00:00.000Z",
-      "duration": "01:31:23",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky reflects on her experience covering Russiagate, how it changed her understanding of the relationship between the media and the “Deep State,” and why she appreciates Michael Shellenberger’s ability to approach the story with a fresh, big-picture perspective. She also raises concerns about the federal government’s use of informants and explains",
+      "show": "All-In Podcast",
+      "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E287_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine",
+      "date": "2026-08-29T01:19:00.000Z",
+      "duration": "01:36:41",
+      "image": "https://static.libsyn.com/p/assets/b/e/5/b/be5bed7d61845f3116c3140a3186d450/1_Pod_E287.png",
+      "desc": "(0:00) Bestie intros: Recapping recent interviews and the state of American science (3:31) China's Robot Olympics, Optimus update, Grok Bot (9:05) Nvidia and Salesforce rip after big earnings: AI Capex Bubble and SaaSpocalypse narratives get reversed (33:32) Bessent gets called out by Druckenmiller for bond market interference (1:01:33) AI writing controversy: Druck used AI to write his WSJ Op-ed ",
       "guestTags": [
-        "Michael Shellenberger",
-        "Emily Jashinsky"
+        "Jensen Huang"
       ]
     },
     {
@@ -188,6 +198,20 @@
       "guestTags": []
     },
     {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Secret Chinese Police Stations: How Beijing Polices Beyond Its Borders",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124839250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2Fc7bbc8ef-4014-f653-2cfd-83b1cad26aa2.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Secret-Chinese-Police-Stations-How-Beijing-Polices-Beyond-Its-Borders-e3o09si",
+      "date": "2026-08-28T10:00:00.000Z",
+      "duration": "00:21:44",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1787878313841-ea30254589f08.jpg",
+      "desc": "Secret Chinese police stations have been uncovered in the United States, France, Italy, Britain, and dozens of other countries. But the buildings are only part of the story.In this episode of The Watch Floor, Sarah Adams looks at how Beijing extends its reach beyond China’s borders to monitor dissidents, collect information, pressure critics, and in some cases push people to return to China.From t",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2547 - Daniel Everett",
@@ -209,32 +233,6 @@
       "duration": "5:21:57",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
       "desc": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridma",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The Untold Story of the Abbey Gate Plot",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/124739375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F0efa0c51-46c2-b9b0-5ef1-376b5f03fa2b.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-Untold-Story-of-the-Abbey-Gate-Plot-e3nt8bf",
-      "date": "2026-08-26T10:00:00.000Z",
-      "duration": "00:45:58",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1787705406786-431da79498cfb.jpg",
-      "desc": "Five years after the Abbey Gate bombing, we know the name of the suicide bomber. But that is only part of the story.In this episode of The Watch Floor, Sarah Adams reconstructs the twelve days leading to the August 26, 2021 attack at Abbey Gate, tracing how the plot moved from authorization to execution and identifying the Taliban, Haqqani Network, al-Qaeda, and ISKP figures her investigation foun",
-      "guestTags": [
-        "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#782 - RON WHITE + JERRON HORTON",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1be7b689-baa0-4aa9-8716-9bd9e5102c0a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1be7b689-baa0-4aa9-8716-9bd9e5102c0a&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-08-25T01:00:00.000Z",
-      "duration": "02:10:34",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Ron White, Jerron Horton, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban\nTHIS EPISODE IS SPONSORED BY: \nSuperCast: Watch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.supercast.com/ \nPr",
       "guestTags": []
     },
     {
@@ -275,10 +273,7 @@
     }
   ],
   "guestIndex": {
-    "Michael Shellenberger": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Emily Jashinsky": [
+    "Jensen Huang": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Konstantin Kisin": [
