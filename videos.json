@@ -1,20 +1,21 @@
 {
-  "lastUpdated": "2026-08-30T16:26:14.231Z",
+  "lastUpdated": "2026-08-30T20:50:17.962Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "m-HbN9IHF-A",
+      "videoId": "Fg24nRvNoS4",
       "show": "All-In Podcast",
-      "title": "David Friedberg: Government Spending Ruins Everything it Touches",
-      "url": "https://www.youtube.com/watch?v=m-HbN9IHF-A",
-      "date": "2026-08-30T15:30:05.000Z",
-      "image": "https://i2.ytimg.com/vi/m-HbN9IHF-A/hqdefault.jpg",
+      "title": "Jason Calacanis: “Elon's Optimus will be the best-selling product of all time.”",
+      "url": "https://www.youtube.com/watch?v=Fg24nRvNoS4",
+      "date": "2026-08-30T19:00:15.000Z",
+      "image": "https://i3.ytimg.com/vi/Fg24nRvNoS4/hqdefault.jpg",
       "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
       "guestTags": [
+        "Elon Musk",
         "Chamath",
         "David Sacks"
       ]
@@ -23,20 +24,24 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "m-HbN9IHF-A",
+      "videoId": "Fg24nRvNoS4",
       "show": "All-In Podcast",
-      "title": "David Friedberg: Government Spending Ruins Everything it Touches",
-      "url": "https://www.youtube.com/watch?v=m-HbN9IHF-A",
-      "date": "2026-08-30T15:30:05.000Z",
-      "image": "https://i2.ytimg.com/vi/m-HbN9IHF-A/hqdefault.jpg",
+      "title": "Jason Calacanis: “Elon's Optimus will be the best-selling product of all time.”",
+      "url": "https://www.youtube.com/watch?v=Fg24nRvNoS4",
+      "date": "2026-08-30T19:00:15.000Z",
+      "image": "https://i3.ytimg.com/vi/Fg24nRvNoS4/hqdefault.jpg",
       "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
       "guestTags": [
+        "Elon Musk",
         "Chamath",
         "David Sacks"
       ]
     }
   ],
   "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
     "Chamath": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ],
