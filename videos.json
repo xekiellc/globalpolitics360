@@ -1,52 +1,34 @@
 {
-  "lastUpdated": "2026-08-31T08:27:33.791Z",
+  "lastUpdated": "2026-08-31T17:28:57.343Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 28,
+  "taggedCount": 29,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Fg24nRvNoS4",
-      "show": "All-In Podcast",
-      "title": "Jason Calacanis: “Elon's Optimus will be the best-selling product of all time.”",
-      "url": "https://www.youtube.com/watch?v=Fg24nRvNoS4",
-      "date": "2026-08-30T19:00:15.000Z",
-      "image": "https://i3.ytimg.com/vi/Fg24nRvNoS4/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "0SW6vtFmxEg",
+      "show": "Danny Jones Podcast",
+      "title": "&quot;I Infilitrate Secret Societies&quot; Epstein, Bohemian Grove &amp; Bilderberg Group | Jon Ronson",
+      "url": "https://www.youtube.com/watch?v=0SW6vtFmxEg",
+      "date": "2026-08-31T17:01:04.000Z",
+      "image": "https://i1.ytimg.com/vi/0SW6vtFmxEg/hqdefault.jpg",
+      "desc": "Watch every episode ad-free &amp; uncensored on Patreon: https://patreon.com/dannyjones\nJon Ronson is a gonzo journalist, author, and filmmaker who famously infiltrated Bohemian Grove &amp; the Bilderberg group. He is best known for works such as Them: Adventures with Extremists, The Men Who Stare a",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Fg24nRvNoS4",
-      "show": "All-In Podcast",
-      "title": "Jason Calacanis: “Elon's Optimus will be the best-selling product of all time.”",
-      "url": "https://www.youtube.com/watch?v=Fg24nRvNoS4",
-      "date": "2026-08-30T19:00:15.000Z",
-      "image": "https://i3.ytimg.com/vi/Fg24nRvNoS4/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Elon Musk",
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "0SW6vtFmxEg",
+      "show": "Danny Jones Podcast",
+      "title": "&quot;I Infilitrate Secret Societies&quot; Epstein, Bohemian Grove &amp; Bilderberg Group | Jon Ronson",
+      "url": "https://www.youtube.com/watch?v=0SW6vtFmxEg",
+      "date": "2026-08-31T17:01:04.000Z",
+      "image": "https://i1.ytimg.com/vi/0SW6vtFmxEg/hqdefault.jpg",
+      "desc": "Watch every episode ad-free &amp; uncensored on Patreon: https://patreon.com/dannyjones\nJon Ronson is a gonzo journalist, author, and filmmaker who famously infiltrated Bohemian Grove &amp; the Bilderberg group. He is best known for works such as Them: Adventures with Extremists, The Men Who Stare a",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
