@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-31T00:19:23.064Z",
+  "lastUpdated": "2026-08-31T08:27:32.835Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1764,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How to Accelerate Learning &amp; Improve Education | Joe Liemandt",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7393383815.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-to-accelerate-learning-and-improve-education-joe-liemandt",
+      "date": "2026-08-31T08:00:00.000Z",
+      "duration": "9237",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "My guest is Joe Liemandt, technology entrepreneur and principal of Alpha School, a K-12 model that uses AI and individualized learning to help students master academics in just two hours a day, freeing the rest of their time to build businesses, conduct experiments, engage with their communities, and develop practical life skills. We discuss Alpha’s promising results, tools parents and educators c",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
@@ -82,18 +94,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2547 - Daniel Everett",
-      "audioUrl": "https://traffic.megaphone.fm/GLT8609844651.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT8609844651.mp3",
-      "date": "2026-08-27T17:00:00.000Z",
-      "duration": "9828",
-      "image": "https://megaphone.imgix.net/podcasts/9e1fb742-a1b8-11f1-9e55-d7d5779b3db3/image/e3460a17d2b2421865c0453441ab5b1f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Daniel Everett, PhD, is a linguist and college professor. He is the author of several books, including “Don’t Sleep, There Are Snakes: Life and Language in the Amazonian Jungle” and “How Language Began: The Story of Humanity’s Greatest Invention.”https://daneverettbooks.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free welcome kit with your firs",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -134,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How to Accelerate Learning &amp; Improve Education | Joe Liemandt",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7393383815.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-to-accelerate-learning-and-improve-education-joe-liemandt",
+      "date": "2026-08-31T08:00:00.000Z",
+      "duration": "9237",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "My guest is Joe Liemandt, technology entrepreneur and principal of Alpha School, a K-12 model that uses AI and individualized learning to help students master academics in just two hours a day, freeing the rest of their time to build businesses, conduct experiments, engage with their communities, and develop practical life skills. We discuss Alpha’s promising results, tools parents and educators c",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
       "title": "How To Become Someone People Rely On",
@@ -210,18 +222,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2547 - Daniel Everett",
-      "audioUrl": "https://traffic.megaphone.fm/GLT8609844651.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT8609844651.mp3",
-      "date": "2026-08-27T17:00:00.000Z",
-      "duration": "9828",
-      "image": "https://megaphone.imgix.net/podcasts/9e1fb742-a1b8-11f1-9e55-d7d5779b3db3/image/e3460a17d2b2421865c0453441ab5b1f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Daniel Everett, PhD, is a linguist and college professor. He is the author of several books, including “Don’t Sleep, There Are Snakes: Life and Language in the Amazonian Jungle” and “How Language Began: The Story of Humanity’s Greatest Invention.”https://daneverettbooks.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nGet a free welcome kit with your firs",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
