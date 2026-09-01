@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-01T20:51:29.838Z",
+  "lastUpdated": "2026-09-01T23:53:56.791Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1766,
+  "taggedCount": 1754,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#680 - Ultramarathoner Mark Dowdle",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER3314757203.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER3314757203.mp3",
+      "date": "2026-09-01T22:22:00.000Z",
+      "duration": "9009",
+      "image": "https://megaphone.imgix.net/podcasts/b9872600-a645-11f1-9beb-bf0f1220ae69/image/07ae10449dd99259278b8a617b90a30f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Mark Dowdle is an ultra endurance athlete who just won the Last Soul Ultra in Germany, running 395 miles in just under 4 days.&amp;nbsp;\n\nMark joins Theo to talk about the mindset that helped him win one of the toughest competitions on earth and the self discovery that comes from pushing yourself to the limit.\n\nMark Dowdle: https://www.instagram.com/mark.dowdle/&amp;nbsp;\n\n------------------------",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -56,18 +68,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#679 - Luke Bryan",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6273920638.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6273920638.mp3",
-      "date": "2026-09-01T10:39:00.000Z",
-      "duration": "7513",
-      "image": "https://megaphone.imgix.net/podcasts/38836e50-a5f1-11f1-ae82-1fec21900c06/image/2dbf18434c6d79c03a9d4846075bb4c7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Luke Bryan is a multi-platinum country singer, songwriter and host. His new album “Signs” is out September 18th.\n\nLuke joins Theo to talk about watching his son’s journey in football, experimenting with new meats in the future, and the reaction to his viral song “Fish Hunt Golf Drink.”&amp;nbsp;\n\nLuke Bryan: https://www.instagram.com/lukebryan&amp;nbsp;\n\n-------------------------------------------",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#680 - Ultramarathoner Mark Dowdle",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER3314757203.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER3314757203.mp3",
+      "date": "2026-09-01T22:22:00.000Z",
+      "duration": "9009",
+      "image": "https://megaphone.imgix.net/podcasts/b9872600-a645-11f1-9beb-bf0f1220ae69/image/07ae10449dd99259278b8a617b90a30f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Mark Dowdle is an ultra endurance athlete who just won the Last Soul Ultra in Germany, running 395 miles in just under 4 days.&amp;nbsp;\n\nMark joins Theo to talk about the mindset that helped him win one of the toughest competitions on earth and the self discovery that comes from pushing yourself to the limit.\n\nMark Dowdle: https://www.instagram.com/mark.dowdle/&amp;nbsp;\n\n------------------------",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2548 - Brian Simpson",
@@ -182,18 +194,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#679 - Luke Bryan",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6273920638.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6273920638.mp3",
-      "date": "2026-09-01T10:39:00.000Z",
-      "duration": "7513",
-      "image": "https://megaphone.imgix.net/podcasts/38836e50-a5f1-11f1-ae82-1fec21900c06/image/2dbf18434c6d79c03a9d4846075bb4c7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Luke Bryan is a multi-platinum country singer, songwriter and host. His new album “Signs” is out September 18th.\n\nLuke joins Theo to talk about watching his son’s journey in football, experimenting with new meats in the future, and the reaction to his viral song “Fish Hunt Golf Drink.”&amp;nbsp;\n\nLuke Bryan: https://www.instagram.com/lukebryan&amp;nbsp;\n\n-------------------------------------------",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
