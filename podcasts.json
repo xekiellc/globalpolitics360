@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-09-03T14:17:02.851Z",
+  "lastUpdated": "2026-09-03T19:12:52.074Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1771,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2549 - Jared Diamond",
+      "audioUrl": "https://traffic.megaphone.fm/GLT3310404935.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT3310404935.mp3",
+      "date": "2026-09-03T17:00:00.000Z",
+      "duration": "9254",
+      "image": "https://megaphone.imgix.net/podcasts/97b946a8-a725-11f1-b1c6-fb57637e3c16/image/8e1807c0317248abb2a18138102353db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jared Diamond, PhD, is a professor, scientist, historian, and author of several books, including “Guns, Germs, and Steel,” “Collapse,” and “Why Is Sex Fun?” His latest book, “Profits, Prophets, Coaches, and Kings,” is available now.www.harpercollins.com/products/profits-prophets-coaches-and-kings-jared-diamondwww.jareddiamond.org\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https:",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "9/3/26: Nightmare GOP Midterm Projection, OpenAI Doomsday Scenario, Tucker Carlson Endorses Abdul &amp; MORE!",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/f078ea37-16f4-468a-82a6-b4ba01036974/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-3-26-nightmare-gop-midterm-projection-openai-doomsday-scenario-tucker-carlson-endorses-abdul-more",
+      "date": "2026-09-03T16:07:19.000Z",
+      "duration": "3096",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss nightmare scenario for GOP in midterms, OpenAI exec admits hiding doomsday scenario, Tucker &amp; Saagar on Abdul in Michigan. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for pr",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -35,18 +59,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Dr. Gina Poe",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7156610982.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe",
-      "date": "2026-09-03T08:00:00.000Z",
-      "duration": "2036",
-      "image": "https://megaphone.imgix.net/podcasts/5e716144-a74a-11f1-9b49-9bef3cb4a30a/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Gina Poe, PhD, a Professor of Integrative Biology and Physiology at the University of California, Los Angeles (UCLA). We discuss the architecture of sleep and how each stage supports distinct functions, including memory consolidation, creativity, brain restoration, and emotional processing. We also explain science-supported tools to improve ",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Epstein Files 2 w/ Thomas Massie",
@@ -58,20 +70,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave is joined by Congressman Thomas Massie! They discuss Massie's proposal of a new Epstein files transparency act, his feelings about being unseated in Congress, the war in Syria compared to Iran, and more.Find Lauren Smith's book \"Healthy Hibernation\" here: https://a.co/d/0g2UnnikSupport Our Sponsors:BodyBrain",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "9/2/26: Massie Exposes Epstein Co-Conspirators, Ben Gvir Psycho AI Concentration Camp Post, Elon Predicts Robot Takeover",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/59cc2717-17d2-4d68-9bdc-b4b901121d95/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-2-26-massie-exposes-epstein-co-conspirators-ben-gvir-psycho-ai-concentration-camp-post-elon-predicts-robot-takeover",
-      "date": "2026-09-02T16:44:45.000Z",
-      "duration": "1619",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Massie exposes Epstein co-conspirators, Ben-Gvir psycho AI concentration camp post, Elon predicts robot takeover. &nbsp; Karishma Manzur: https://www.karishmaforsenate.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com",
-      "guestTags": [
-        "Elon Musk"
       ]
     },
     {
@@ -139,6 +137,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2549 - Jared Diamond",
+      "audioUrl": "https://traffic.megaphone.fm/GLT3310404935.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT3310404935.mp3",
+      "date": "2026-09-03T17:00:00.000Z",
+      "duration": "9254",
+      "image": "https://megaphone.imgix.net/podcasts/97b946a8-a725-11f1-b1c6-fb57637e3c16/image/8e1807c0317248abb2a18138102353db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jared Diamond, PhD, is a professor, scientist, historian, and author of several books, including “Guns, Germs, and Steel,” “Collapse,” and “Why Is Sex Fun?” His latest book, “Profits, Prophets, Coaches, and Kings,” is available now.www.harpercollins.com/products/profits-prophets-coaches-and-kings-jared-diamondwww.jareddiamond.org\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https:",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "9/3/26: Nightmare GOP Midterm Projection, OpenAI Doomsday Scenario, Tucker Carlson Endorses Abdul &amp; MORE!",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/f078ea37-16f4-468a-82a6-b4ba01036974/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-3-26-nightmare-gop-midterm-projection-openai-doomsday-scenario-tucker-carlson-endorses-abdul-more",
+      "date": "2026-09-03T16:07:19.000Z",
+      "duration": "3096",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss nightmare scenario for GOP in midterms, OpenAI exec admits hiding doomsday scenario, Tucker &amp; Saagar on Abdul in Michigan. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for pr",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "SICK Murder Reaction, Kmele SCHOOLS Jemele, Mamdani’s Influencer Scheme, &amp; Tyler Robinson’s Defense",
@@ -168,18 +190,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Dr. Gina Poe",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7156610982.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe",
-      "date": "2026-09-03T08:00:00.000Z",
-      "duration": "2036",
-      "image": "https://megaphone.imgix.net/podcasts/5e716144-a74a-11f1-9b49-9bef3cb4a30a/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Gina Poe, PhD, a Professor of Integrative Biology and Physiology at the University of California, Los Angeles (UCLA). We discuss the architecture of sleep and how each stage supports distinct functions, including memory consolidation, creativity, brain restoration, and emotional processing. We also explain science-supported tools to improve ",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Epstein Files 2 w/ Thomas Massie",
@@ -191,20 +201,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave is joined by Congressman Thomas Massie! They discuss Massie's proposal of a new Epstein files transparency act, his feelings about being unseated in Congress, the war in Syria compared to Iran, and more.Find Lauren Smith's book \"Healthy Hibernation\" here: https://a.co/d/0g2UnnikSupport Our Sponsors:BodyBrain",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "9/2/26: Massie Exposes Epstein Co-Conspirators, Ben Gvir Psycho AI Concentration Camp Post, Elon Predicts Robot Takeover",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/59cc2717-17d2-4d68-9bdc-b4b901121d95/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-2-26-massie-exposes-epstein-co-conspirators-ben-gvir-psycho-ai-concentration-camp-post-elon-predicts-robot-takeover",
-      "date": "2026-09-02T16:44:45.000Z",
-      "duration": "1619",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Massie exposes Epstein co-conspirators, Ben-Gvir psycho AI concentration camp post, Elon predicts robot takeover. &nbsp; Karishma Manzur: https://www.karishmaforsenate.com/&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com",
-      "guestTags": [
-        "Elon Musk"
       ]
     },
     {
@@ -294,9 +290,6 @@
     ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Elon Musk": [
-      "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
