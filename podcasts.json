@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-03T03:53:02.203Z",
+  "lastUpdated": "2026-09-03T08:48:05.584Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1769,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Dr. Gina Poe",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7156610982.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe",
+      "date": "2026-09-03T08:00:00.000Z",
+      "duration": "2036",
+      "image": "https://megaphone.imgix.net/podcasts/5e716144-a74a-11f1-9b49-9bef3cb4a30a/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Gina Poe, PhD, a Professor of Integrative Biology and Physiology at the University of California, Los Angeles (UCLA). We discuss the architecture of sleep and how each stage supports distinct functions, including memory consolidation, creativity, brain restoration, and emotional processing. We also explain science-supported tools to improve ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -32,18 +44,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #185 with Ethyn Ewing",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6785965754.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6785965754.mp3",
-      "date": "2026-09-02T17:00:00.000Z",
-      "duration": "9756",
-      "image": "https://megaphone.imgix.net/podcasts/2f848f20-a658-11f1-ae00-9f0126f17601/image/5ed2ccde32aea065fcc54c64955c9954.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe sits down with Ethyn Ewing, a professional mixed martial artist competing in the UFC’s bantamweight division.www.professorfinessermma.com\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -138,6 +138,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Dr. Gina Poe",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7156610982.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe",
+      "date": "2026-09-03T08:00:00.000Z",
+      "duration": "2036",
+      "image": "https://megaphone.imgix.net/podcasts/5e716144-a74a-11f1-9b49-9bef3cb4a30a/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Gina Poe, PhD, a Professor of Integrative Biology and Physiology at the University of California, Los Angeles (UCLA). We discuss the architecture of sleep and how each stage supports distinct functions, including memory consolidation, creativity, brain restoration, and emotional processing. We also explain science-supported tools to improve ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Epstein Files 2 w/ Thomas Massie",
@@ -164,18 +176,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #185 with Ethyn Ewing",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6785965754.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6785965754.mp3",
-      "date": "2026-09-02T17:00:00.000Z",
-      "duration": "9756",
-      "image": "https://megaphone.imgix.net/podcasts/2f848f20-a658-11f1-ae00-9f0126f17601/image/5ed2ccde32aea065fcc54c64955c9954.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe sits down with Ethyn Ewing, a professional mixed martial artist competing in the UFC’s bantamweight division.www.professorfinessermma.com\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
