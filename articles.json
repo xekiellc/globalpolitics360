@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-09-03T19:12:33.829Z",
+  "lastUpdated": "2026-09-03T22:26:35.348Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "Tyler Cowen: Is College Still Worth It?",
+      "url": "https://www.thefp.com/p/tyler-cowen-college-still-worth-friendship-loneliness-family-happiness",
+      "date": "2026-09-03T22:10:20.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!aVJd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb71e63f5-aaaa-4907-809e-0bc951018f94_1024x677.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
     {
       "title": "The US Bombed a Wedding in Iran. It’s Not the First Time",
       "url": "https://consortiumnews.com/2026/09/03/the-u-s-bombed-a-wedding-in-iran-its-not-the-first-time/",
@@ -327,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
-      "title": "Caitlin Flanagan: The Lindsay Clancy Fan Club",
-      "url": "https://www.thefp.com/p/caitlin-flanagan-lindsay-clancy-mental-illness",
-      "date": "2026-08-31T19:11:50.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!3OqM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8197244-3150-4f10-842b-8817420945a2_2100x1182.jpeg",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
       "title": "Road to International Chaos",
       "url": "https://consortiumnews.com/2026/08/31/on-the-road-to-international-anarchy/",
       "date": "2026-08-31T18:00:34.000Z",
@@ -390,7 +390,7 @@
       "id": "aHR0cHM6Ly93d3cubXRyYWNl"
     },
     {
-      "title": "\"Get Lit\" August 27, 2026: On Stephen Crane's “The Bride Comes to Yellow Sky,” and “The Blue Hotel”",
+      "title": "\"Get Lit\" August 27, 2026: On Stephen Crane's “The Bride Comes to Yellow Sky,�� and “The Blue Hotel”",
       "url": "https://www.racket.news/p/get-lit-august-27-2026-on-stephen",
       "date": "2026-08-27T18:19:01.000Z",
       "image": "",
