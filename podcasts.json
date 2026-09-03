@@ -1,10 +1,39 @@
 {
-  "lastUpdated": "2026-09-03T08:48:05.584Z",
+  "lastUpdated": "2026-09-03T14:17:02.851Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1769,
+  "taggedCount": 1771,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "SICK Murder Reaction, Kmele SCHOOLS Jemele, Mamdani’s Influencer Scheme, &amp; Tyler Robinson’s Defense",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/e0e19891-ca5a-410c-add8-989498669bb5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=e0e19891-ca5a-410c-add8-989498669bb5&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-09-03T11:00:00.000Z",
+      "duration": "01:14:41",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky reacts to the murder of 32-year-old Bank of America vice president and new mother Erin Piacenti, who police say was randomly stabbed in Times Square shortly after returning from maternity leave. Emily examines the disturbing online reaction from people celebrating or mocking Piacenti’s death simply because she worked for Bank of America and what it reveals about Americans becoming ",
+      "guestTags": [
+        "Emily Jashinsky",
+        "Kmele Foster"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#336 Byron Boots - He Turned a Polaris RZR Into a Self-Driving Military Vehicle",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2522137210.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2522137210.mp3",
+      "date": "2026-09-03T10:00:00.000Z",
+      "duration": "7947",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Professor Byron Boots is the co-founder and CEO of Overland AI and a leading expert in machine learning, robotics, and autonomous systems. A full professor at the University of Washington with a PhD from Carnegie Mellon, he previously held research roles at NVIDIA and Google and led the University of Washington's DARPA RACER team to victory. Through Overland AI, Byron is developing autonomous grou",
+      "guestTags": [
+        "Jensen Huang"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
@@ -29,20 +58,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave is joined by Congressman Thomas Massie! They discuss Massie's proposal of a new Epstein files transparency act, his feelings about being unseated in Congress, the war in Syria compared to Iran, and more.Find Lauren Smith's book \"Healthy Hibernation\" here: https://a.co/d/0g2UnnikSupport Our Sponsors:BodyBrain",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Police Whistleblower: \"I Quit to Share the Truth\"",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3040616772.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3040616772.mp3",
-      "date": "2026-09-02T18:00:00.000Z",
-      "duration": "5371",
-      "image": "https://megaphone.imgix.net/podcasts/65191f9a-a6bf-11f1-b0d7-3b3ecca7b898/image/4c77de0cacdb9a2fa43ebf6020e22e35.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/tri",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -71,20 +86,6 @@
       "desc": "Oil is back at the center of geopolitics, but the biggest story may not be where everyone is looking.In this episode of The Watch Floor, I look at what is happening around the Strait of Hormuz, why that narrow stretch of water still matters so much to the global economy, and how the pressure on energy markets connects to a very different development much closer to home: Venezuela and its enormous ",
       "guestTags": [
         "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Trump’s Voter DISCONNECT, Lindsay Clancy’s Sick Fandom, &amp; Jane Fonda Tries to Rewrite Dolly, with Sean Davis",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/032093d1-e6ac-43f6-ab26-50433b62dee9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=032093d1-e6ac-43f6-ab26-50433b62dee9&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-01T11:00:00.000Z",
-      "duration": "01:15:52",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/c462e454-dbdf-42cf-9dbb-a40b50c1e213/3000x3000/cropped_1788234200135.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky is joined by Sean Davis, CEO and Co-Founder of “The Federalist,” to discuss the growing affordability crisis as renewed fighting with Iran drives up oil prices, mortgage rates climb, and Americans continue to struggle with inflation. Emily and Sean react to President Trump’s criticism of communities resisting AI data centers and examine whether the administration is doing enough to",
-      "guestTags": [
-        "Emily Jashinsky"
       ]
     },
     {
@@ -138,6 +139,35 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "SICK Murder Reaction, Kmele SCHOOLS Jemele, Mamdani’s Influencer Scheme, &amp; Tyler Robinson’s Defense",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/e0e19891-ca5a-410c-add8-989498669bb5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=e0e19891-ca5a-410c-add8-989498669bb5&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-09-03T11:00:00.000Z",
+      "duration": "01:14:41",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky reacts to the murder of 32-year-old Bank of America vice president and new mother Erin Piacenti, who police say was randomly stabbed in Times Square shortly after returning from maternity leave. Emily examines the disturbing online reaction from people celebrating or mocking Piacenti’s death simply because she worked for Bank of America and what it reveals about Americans becoming ",
+      "guestTags": [
+        "Emily Jashinsky",
+        "Kmele Foster"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#336 Byron Boots - He Turned a Polaris RZR Into a Self-Driving Military Vehicle",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2522137210.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2522137210.mp3",
+      "date": "2026-09-03T10:00:00.000Z",
+      "duration": "7947",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Professor Byron Boots is the co-founder and CEO of Overland AI and a leading expert in machine learning, robotics, and autonomous systems. A full professor at the University of Washington with a PhD from Carnegie Mellon, he previously held research roles at NVIDIA and Google and led the University of Washington's DARPA RACER team to victory. Through Overland AI, Byron is developing autonomous grou",
+      "guestTags": [
+        "Jensen Huang"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "Essentials: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Dr. Gina Poe",
@@ -161,20 +191,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave is joined by Congressman Thomas Massie! They discuss Massie's proposal of a new Epstein files transparency act, his feelings about being unseated in Congress, the war in Syria compared to Iran, and more.Find Lauren Smith's book \"Healthy Hibernation\" here: https://a.co/d/0g2UnnikSupport Our Sponsors:BodyBrain",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Police Whistleblower: \"I Quit to Share the Truth\"",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3040616772.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3040616772.mp3",
-      "date": "2026-09-02T18:00:00.000Z",
-      "duration": "5371",
-      "image": "https://megaphone.imgix.net/podcasts/65191f9a-a6bf-11f1-b0d7-3b3ecca7b898/image/4c77de0cacdb9a2fa43ebf6020e22e35.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/tri",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -203,20 +219,6 @@
       "desc": "Oil is back at the center of geopolitics, but the biggest story may not be where everyone is looking.In this episode of The Watch Floor, I look at what is happening around the Strait of Hormuz, why that narrow stretch of water still matters so much to the global economy, and how the pressure on energy markets connects to a very different development much closer to home: Venezuela and its enormous ",
       "guestTags": [
         "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Trump’s Voter DISCONNECT, Lindsay Clancy’s Sick Fandom, &amp; Jane Fonda Tries to Rewrite Dolly, with Sean Davis",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/032093d1-e6ac-43f6-ab26-50433b62dee9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=032093d1-e6ac-43f6-ab26-50433b62dee9&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-01T11:00:00.000Z",
-      "duration": "01:15:52",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/c462e454-dbdf-42cf-9dbb-a40b50c1e213/3000x3000/cropped_1788234200135.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky is joined by Sean Davis, CEO and Co-Founder of “The Federalist,” to discuss the growing affordability crisis as renewed fighting with Iran drives up oil prices, mortgage rates climb, and Americans continue to struggle with inflation. Emily and Sean react to President Trump’s criticism of communities resisting AI data centers and examine whether the administration is doing enough to",
-      "guestTags": [
-        "Emily Jashinsky"
       ]
     },
     {
@@ -281,20 +283,23 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Kmele Foster": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Jensen Huang": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
     "Elon Musk": [
       "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
-    ],
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }
 }
