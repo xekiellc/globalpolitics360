@@ -1,19 +1,31 @@
 {
-  "lastUpdated": "2026-09-04T03:55:02.534Z",
+  "lastUpdated": "2026-09-04T08:43:49.611Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 28,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "OKMfacSURIQ",
+      "show": "Shawn Ryan Show",
+      "title": "This War Robot Can Be Controlled From 5,000 Miles Away 🤯",
+      "url": "https://www.youtube.com/watch?v=OKMfacSURIQ",
+      "date": "2026-09-04T02:00:11.000Z",
+      "image": "https://i4.ytimg.com/vi/OKMfacSURIQ/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "sl7BjvKaao8",
+      "videoId": "OKMfacSURIQ",
       "show": "Shawn Ryan Show",
-      "title": "The 3 Best Militaries on Earth Right Now?!",
-      "url": "https://www.youtube.com/watch?v=sl7BjvKaao8",
-      "date": "2026-09-03T22:00:02.000Z",
-      "image": "https://i4.ytimg.com/vi/sl7BjvKaao8/hqdefault.jpg",
+      "title": "This War Robot Can Be Controlled From 5,000 Miles Away 🤯",
+      "url": "https://www.youtube.com/watch?v=OKMfacSURIQ",
+      "date": "2026-09-04T02:00:11.000Z",
+      "image": "https://i4.ytimg.com/vi/OKMfacSURIQ/hqdefault.jpg",
       "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
       "guestTags": []
     }
