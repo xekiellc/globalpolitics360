@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-04T08:43:41.449Z",
+  "lastUpdated": "2026-09-04T14:06:32.528Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Chart of the Week: Experience > Skills",
+      "url": "https://www.a16z.news/p/chart-of-the-week-experience-skills",
+      "date": "2026-09-04T14:01:05.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/572860fe-b7e9-4f6b-9aff-edc664c1af7c_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #209",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-209",
+      "date": "2026-09-04T12:36:19.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!aMjq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f82558e-b7d0-43c3-bba6-f523da3e2983_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
       "url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
@@ -318,15 +336,6 @@
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     },
     {
-      "title": "Some Simple Economics of Open versus Closed AI",
-      "url": "https://www.a16z.news/p/some-simple-economics-of-open-versus",
-      "date": "2026-08-11T14:02:46.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9cdf861d-0703-4cc5-bc2c-3ce0956929c2_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #205",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-205",
       "date": "2026-08-07T12:50:11.000Z",
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Why did Stu Woo of the Wall Street Journal Follow Me to Singapore?",
-      "url": "https://balajis.com/p/why-did-wsj-stu-woo-follow-me-to-singapore",
-      "date": "2026-07-28T14:27:44.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!zYwz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09727b9e-d9d9-4412-ba88-06a83ddf8601_3840x2160.png",
-      "source": "Balaji Srinivasan",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iYWxhamlzLmNv"
     }
   ]
 }
