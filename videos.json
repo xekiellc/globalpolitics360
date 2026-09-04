@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T14:06:40.077Z",
+  "lastUpdated": "2026-09-04T18:55:02.082Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "OKMfacSURIQ",
-      "show": "Shawn Ryan Show",
-      "title": "This War Robot Can Be Controlled From 5,000 Miles Away 🤯",
-      "url": "https://www.youtube.com/watch?v=OKMfacSURIQ",
-      "date": "2026-09-04T02:00:11.000Z",
-      "image": "https://i4.ytimg.com/vi/OKMfacSURIQ/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "itN6ALToTgA",
+      "show": "TRIGGERnometry",
+      "title": "Reform Donations Scandal and War with Argentina? - Off the Fence",
+      "url": "https://www.youtube.com/watch?v=itN6ALToTgA",
+      "date": "2026-09-04T18:00:22.000Z",
+      "image": "https://i2.ytimg.com/vi/itN6ALToTgA/hqdefault.jpg",
+      "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at venice.ai/lp/triggernometry and get 20% off your first month \n\nWinston Marshal",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "OKMfacSURIQ",
-      "show": "Shawn Ryan Show",
-      "title": "This War Robot Can Be Controlled From 5,000 Miles Away 🤯",
-      "url": "https://www.youtube.com/watch?v=OKMfacSURIQ",
-      "date": "2026-09-04T02:00:11.000Z",
-      "image": "https://i4.ytimg.com/vi/OKMfacSURIQ/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "itN6ALToTgA",
+      "show": "TRIGGERnometry",
+      "title": "Reform Donations Scandal and War with Argentina? - Off the Fence",
+      "url": "https://www.youtube.com/watch?v=itN6ALToTgA",
+      "date": "2026-09-04T18:00:22.000Z",
+      "image": "https://i2.ytimg.com/vi/itN6ALToTgA/hqdefault.jpg",
+      "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at venice.ai/lp/triggernometry and get 20% off your first month \n\nWinston Marshal",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
