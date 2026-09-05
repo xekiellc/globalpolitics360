@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T20:09:38.753Z",
+  "lastUpdated": "2026-09-05T23:41:09.226Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "j-OufnSXHLk",
+      "videoId": "Vf8IKuS1ZyQ",
       "show": "Shawn Ryan Show",
-      "title": "The Zodiac is Actually a Cataclysm Clock?! 😳",
-      "url": "https://www.youtube.com/watch?v=j-OufnSXHLk",
-      "date": "2026-09-05T20:00:18.000Z",
-      "image": "https://i3.ytimg.com/vi/j-OufnSXHLk/hqdefault.jpg",
+      "title": "What Does Palantir Do?",
+      "url": "https://www.youtube.com/watch?v=Vf8IKuS1ZyQ",
+      "date": "2026-09-05T22:00:03.000Z",
+      "image": "https://i3.ytimg.com/vi/Vf8IKuS1ZyQ/hqdefault.jpg",
       "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "guestTags": [
+        "Alex Karp"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "j-OufnSXHLk",
+      "videoId": "Vf8IKuS1ZyQ",
       "show": "Shawn Ryan Show",
-      "title": "The Zodiac is Actually a Cataclysm Clock?! 😳",
-      "url": "https://www.youtube.com/watch?v=j-OufnSXHLk",
-      "date": "2026-09-05T20:00:18.000Z",
-      "image": "https://i3.ytimg.com/vi/j-OufnSXHLk/hqdefault.jpg",
+      "title": "What Does Palantir Do?",
+      "url": "https://www.youtube.com/watch?v=Vf8IKuS1ZyQ",
+      "date": "2026-09-05T22:00:03.000Z",
+      "image": "https://i3.ytimg.com/vi/Vf8IKuS1ZyQ/hqdefault.jpg",
       "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "guestTags": [
+        "Alex Karp"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Alex Karp": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
