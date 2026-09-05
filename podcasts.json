@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-05T03:52:20.329Z",
+  "lastUpdated": "2026-09-05T08:14:16.805Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1774,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT+: Behind the Tape (Ep: 783 Gary Owen + Brian Simpson)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1b586ba3-a3d7-46f5-8e01-99c7eacf44f1/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1b586ba3-a3d7-46f5-8e01-99c7eacf44f1&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-09-05T04:30:00.000Z",
+      "duration": "00:53:15",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 783 KT guest Gary Owen + Brian SimpsonGary Owen, Brian Simpson, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 08/24/2026Watch Kill Tony and other",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -82,18 +94,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#783 - GARY OWEN + BRIAN SIMPSON",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/8227d99e-3f45-4005-8844-263ae8ea79e0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=8227d99e-3f45-4005-8844-263ae8ea79e0&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-09-01T01:00:00.000Z",
-      "duration": "02:12:44",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Gary Owen, Brian Simpson, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 08/24/2026\nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.supercast.com/\nTHIS EPISODE IS SPONSO",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -134,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT+: Behind the Tape (Ep: 783 Gary Owen + Brian Simpson)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1b586ba3-a3d7-46f5-8e01-99c7eacf44f1/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1b586ba3-a3d7-46f5-8e01-99c7eacf44f1&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-09-05T04:30:00.000Z",
+      "duration": "00:53:15",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 783 KT guest Gary Owen + Brian SimpsonGary Owen, Brian Simpson, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 08/24/2026Watch Kill Tony and other",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools &amp; Venezuela Oil Deal",
@@ -210,18 +222,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#783 - GARY OWEN + BRIAN SIMPSON",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/8227d99e-3f45-4005-8844-263ae8ea79e0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=8227d99e-3f45-4005-8844-263ae8ea79e0&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-09-01T01:00:00.000Z",
-      "duration": "02:12:44",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Gary Owen, Brian Simpson, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 08/24/2026\nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://killtony.supercast.com/\nTHIS EPISODE IS SPONSO",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
