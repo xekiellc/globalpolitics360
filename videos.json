@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T16:47:49.521Z",
+  "lastUpdated": "2026-09-06T20:14:21.876Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Vf8IKuS1ZyQ",
-      "show": "Shawn Ryan Show",
-      "title": "What Does Palantir Do?",
-      "url": "https://www.youtube.com/watch?v=Vf8IKuS1ZyQ",
-      "date": "2026-09-05T22:00:03.000Z",
-      "image": "https://i3.ytimg.com/vi/Vf8IKuS1ZyQ/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": [
-        "Alex Karp"
-      ]
+      "videoId": "htwtyU81IdU",
+      "show": "Danny Jones Podcast",
+      "title": "CIA's Invisible Soldiers (Project JEDI)",
+      "url": "https://www.youtube.com/watch?v=htwtyU81IdU",
+      "date": "2026-09-06T19:00:04.000Z",
+      "image": "https://i1.ytimg.com/vi/htwtyU81IdU/hqdefault.jpg",
+      "desc": "Full episode:\nhttps://youtu.be/0SW6vtFmxEg?si=MWZ589H36IpX4aiS",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "Vf8IKuS1ZyQ",
-      "show": "Shawn Ryan Show",
-      "title": "What Does Palantir Do?",
-      "url": "https://www.youtube.com/watch?v=Vf8IKuS1ZyQ",
-      "date": "2026-09-05T22:00:03.000Z",
-      "image": "https://i3.ytimg.com/vi/Vf8IKuS1ZyQ/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": [
-        "Alex Karp"
-      ]
+      "videoId": "htwtyU81IdU",
+      "show": "Danny Jones Podcast",
+      "title": "CIA's Invisible Soldiers (Project JEDI)",
+      "url": "https://www.youtube.com/watch?v=htwtyU81IdU",
+      "date": "2026-09-06T19:00:04.000Z",
+      "image": "https://i1.ytimg.com/vi/htwtyU81IdU/hqdefault.jpg",
+      "desc": "Full episode:\nhttps://youtu.be/0SW6vtFmxEg?si=MWZ589H36IpX4aiS",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Alex Karp": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
