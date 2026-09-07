@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-07T03:56:43.979Z",
+  "lastUpdated": "2026-09-07T09:14:26.177Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1777,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5888935664.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-mitochondria-control-your-metabolism-jared-rutter",
+      "date": "2026-09-07T08:00:00.000Z",
+      "duration": "7426",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Jared Rutter, PhD, Professor of Biochemistry at the University of Utah and Howard Hughes Medical Institute Investigator, is a leading expert on mitochondria and metabolism. He explains how mitochondria produce the energy for your cells to work but also how they regulate cell growth and replication and thereby contribute to health and disease. We also discuss how mitochondria are linked to agin",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
@@ -67,18 +79,6 @@
       "duration": "5946",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan and Emily discuss diesel prices hit all time high, Jeff Sachs gives dire warning on tech bubble and US collapse, OpenAI hack covered up, JD sounds off on Tucker praising Abdul, Fox fires Maria Bartiromo. &nbsp; Garrison Lovely:&nbsp;https://www.amazon.com/dp/1682196305 &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.bre",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2549 - Jared Diamond",
-      "audioUrl": "https://traffic.megaphone.fm/GLT3310404935.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT3310404935.mp3",
-      "date": "2026-09-03T17:00:00.000Z",
-      "duration": "9254",
-      "image": "https://megaphone.imgix.net/podcasts/97b946a8-a725-11f1-b1c6-fb57637e3c16/image/8e1807c0317248abb2a18138102353db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Jared Diamond, PhD, is a professor, scientist, historian, and author of several books, including “Guns, Germs, and Steel,” “Collapse,” and “Why Is Sex Fun?” His latest book, “Profits, Prophets, Coaches, and Kings,” is available now.www.harpercollins.com/products/profits-prophets-coaches-and-kings-jared-diamondwww.jareddiamond.org\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https:",
       "guestTags": []
     },
     {
@@ -134,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5888935664.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/how-mitochondria-control-your-metabolism-jared-rutter",
+      "date": "2026-09-07T08:00:00.000Z",
+      "duration": "7426",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Jared Rutter, PhD, Professor of Biochemistry at the University of Utah and Howard Hughes Medical Institute Investigator, is a leading expert on mitochondria and metabolism. He explains how mitochondria produce the energy for your cells to work but also how they regulate cell growth and replication and thereby contribute to health and disease. We also discuss how mitochondria are linked to agin",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
       "title": "What The Story Of Jacob And Esau Teaches About Sibling Rivalry",
@@ -195,18 +207,6 @@
       "duration": "5946",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan and Emily discuss diesel prices hit all time high, Jeff Sachs gives dire warning on tech bubble and US collapse, OpenAI hack covered up, JD sounds off on Tucker praising Abdul, Fox fires Maria Bartiromo. &nbsp; Garrison Lovely:&nbsp;https://www.amazon.com/dp/1682196305 &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.bre",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2549 - Jared Diamond",
-      "audioUrl": "https://traffic.megaphone.fm/GLT3310404935.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT3310404935.mp3",
-      "date": "2026-09-03T17:00:00.000Z",
-      "duration": "9254",
-      "image": "https://megaphone.imgix.net/podcasts/97b946a8-a725-11f1-b1c6-fb57637e3c16/image/8e1807c0317248abb2a18138102353db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Jared Diamond, PhD, is a professor, scientist, historian, and author of several books, including “Guns, Germs, and Steel,” “Collapse,” and “Why Is Sex Fun?” His latest book, “Profits, Prophets, Coaches, and Kings,” is available now.www.harpercollins.com/products/profits-prophets-coaches-and-kings-jared-diamondwww.jareddiamond.org\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https:",
       "guestTags": []
     },
     {
