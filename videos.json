@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-09-06T23:39:50.268Z",
+  "lastUpdated": "2026-09-07T03:56:44.589Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 28,
+  "taggedCount": 29,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "htwtyU81IdU",
-      "show": "Danny Jones Podcast",
-      "title": "CIA's Invisible Soldiers (Project JEDI)",
-      "url": "https://www.youtube.com/watch?v=htwtyU81IdU",
-      "date": "2026-09-06T19:00:04.000Z",
-      "image": "https://i1.ytimg.com/vi/htwtyU81IdU/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/0SW6vtFmxEg?si=MWZ589H36IpX4aiS",
-      "guestTags": []
+      "videoId": "OLP4oVOZ9EM",
+      "show": "All-In Podcast",
+      "title": "David Sacks: Trump’s Instincts on AI and Data Centers Are Right",
+      "url": "https://www.youtube.com/watch?v=OLP4oVOZ9EM",
+      "date": "2026-09-07T02:57:39.000Z",
+      "image": "https://i4.ytimg.com/vi/OLP4oVOZ9EM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "htwtyU81IdU",
-      "show": "Danny Jones Podcast",
-      "title": "CIA's Invisible Soldiers (Project JEDI)",
-      "url": "https://www.youtube.com/watch?v=htwtyU81IdU",
-      "date": "2026-09-06T19:00:04.000Z",
-      "image": "https://i1.ytimg.com/vi/htwtyU81IdU/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/0SW6vtFmxEg?si=MWZ589H36IpX4aiS",
-      "guestTags": []
+      "videoId": "OLP4oVOZ9EM",
+      "show": "All-In Podcast",
+      "title": "David Sacks: Trump’s Instincts on AI and Data Centers Are Right",
+      "url": "https://www.youtube.com/watch?v=OLP4oVOZ9EM",
+      "date": "2026-09-07T02:57:39.000Z",
+      "image": "https://i4.ytimg.com/vi/OLP4oVOZ9EM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
