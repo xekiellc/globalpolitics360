@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-09-07T22:41:05.510Z",
+  "lastUpdated": "2026-09-08T03:59:02.772Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 13,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "DL8fsqNp0Cg",
-      "show": "Shawn Ryan Show",
-      "title": "Army Secretary Says U.S. Defense Is Rotting From Within ⚠️",
-      "url": "https://www.youtube.com/watch?v=DL8fsqNp0Cg",
-      "date": "2026-09-07T22:00:13.000Z",
-      "image": "https://i1.ytimg.com/vi/DL8fsqNp0Cg/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "OLP4oVOZ9EM",
+      "show": "All-In Podcast",
+      "title": "David Sacks: Trump’s Instincts on AI and Data Centers Are Right",
+      "url": "https://www.youtube.com/watch?v=OLP4oVOZ9EM",
+      "date": "2026-09-07T02:57:39.000Z",
+      "image": "https://i4.ytimg.com/vi/OLP4oVOZ9EM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "DL8fsqNp0Cg",
-      "show": "Shawn Ryan Show",
-      "title": "Army Secretary Says U.S. Defense Is Rotting From Within ⚠️",
-      "url": "https://www.youtube.com/watch?v=DL8fsqNp0Cg",
-      "date": "2026-09-07T22:00:13.000Z",
-      "image": "https://i1.ytimg.com/vi/DL8fsqNp0Cg/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "OLP4oVOZ9EM",
+      "show": "All-In Podcast",
+      "title": "David Sacks: Trump’s Instincts on AI and Data Centers Are Right",
+      "url": "https://www.youtube.com/watch?v=OLP4oVOZ9EM",
+      "date": "2026-09-07T02:57:39.000Z",
+      "image": "https://i4.ytimg.com/vi/OLP4oVOZ9EM/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
