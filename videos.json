@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T08:48:49.427Z",
+  "lastUpdated": "2026-09-08T14:17:03.722Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "610YYw1LHL0",
-      "show": "Shawn Ryan Show",
-      "title": "Why Did Jesus Have to Die on the Cross?",
-      "url": "https://www.youtube.com/watch?v=610YYw1LHL0",
-      "date": "2026-09-08T02:00:34.000Z",
-      "image": "https://i3.ytimg.com/vi/610YYw1LHL0/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "LYTUXTGaVq0",
+      "show": "TRIGGERnometry",
+      "title": "How Mao’s Great Leap Forward Starved Millions",
+      "url": "https://www.youtube.com/watch?v=LYTUXTGaVq0",
+      "date": "2026-09-08T09:46:26.000Z",
+      "image": "https://i1.ytimg.com/vi/LYTUXTGaVq0/hqdefault.jpg",
+      "desc": "Historian Frank Dikötter exposes the horrific truth behind Mao's Great Leap Forward.\n\nIt wasn't just a famine. Food was tied to work points, if you were sick, pregnant, or elderly, you were cut off from the canteens and left to starve.\n\nJoin our exclusive TRIGGERnometry community on Substack! https:",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "610YYw1LHL0",
-      "show": "Shawn Ryan Show",
-      "title": "Why Did Jesus Have to Die on the Cross?",
-      "url": "https://www.youtube.com/watch?v=610YYw1LHL0",
-      "date": "2026-09-08T02:00:34.000Z",
-      "image": "https://i3.ytimg.com/vi/610YYw1LHL0/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "LYTUXTGaVq0",
+      "show": "TRIGGERnometry",
+      "title": "How Mao’s Great Leap Forward Starved Millions",
+      "url": "https://www.youtube.com/watch?v=LYTUXTGaVq0",
+      "date": "2026-09-08T09:46:26.000Z",
+      "image": "https://i1.ytimg.com/vi/LYTUXTGaVq0/hqdefault.jpg",
+      "desc": "Historian Frank Dikötter exposes the horrific truth behind Mao's Great Leap Forward.\n\nIt wasn't just a famine. Food was tied to work points, if you were sick, pregnant, or elderly, you were cut off from the canteens and left to starve.\n\nJoin our exclusive TRIGGERnometry community on Substack! https:",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }

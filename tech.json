@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-08T08:48:43.153Z",
+  "lastUpdated": "2026-09-08T14:16:52.076Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Everyone is Reading Lonesome Dove",
+      "url": "https://www.notboring.co/p/everyone-is-reading-lonesome-dove",
+      "date": "2026-09-08T12:53:13.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!86hi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79081071-8f11-4b76-b737-56f396c33c16_1200x684.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "How One Executive Recruitment Firm Is Using M&#038;A to Turn Earnings Into Bitcoin",
+      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/how-one-executive-recruitment-firm-is-using-ma-to-turn-earnings-into-bitcoin",
+      "date": "2026-09-08T12:15:40.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/bitcoin-merger-bfc.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC",
       "url": "https://bitcoinmagazine.com/news/liquid-gets-3400-btc-back-after-on-chain-talks-white-hats-keep-598-5-btc",
@@ -115,15 +133,6 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars",
       "date": "2026-09-03T21:31:34.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-5.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "French Hill Eyes Bipartisan Path for Clarity Act Ahead of September Vote",
-      "url": "https://bitcoinmagazine.com/news/hill-eyes-bipartisan-work-on-clarity-act",
-      "date": "2026-09-03T20:41:30.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-4.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-205",
       "date": "2026-08-07T12:50:11.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!COa7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3cf561c-8967-418b-a446-a46d97d477db_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Weekly Dose of Optimism #204",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-204",
-      "date": "2026-07-31T12:47:27.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!2Rhi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F384dc333-20a7-4b63-858b-57faebd4e3c7_1200x600.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
