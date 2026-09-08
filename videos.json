@@ -1,41 +1,46 @@
 {
-  "lastUpdated": "2026-09-08T14:17:03.722Z",
+  "lastUpdated": "2026-09-08T19:21:01.442Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "LYTUXTGaVq0",
-      "show": "TRIGGERnometry",
-      "title": "How Mao’s Great Leap Forward Starved Millions",
-      "url": "https://www.youtube.com/watch?v=LYTUXTGaVq0",
-      "date": "2026-09-08T09:46:26.000Z",
-      "image": "https://i1.ytimg.com/vi/LYTUXTGaVq0/hqdefault.jpg",
-      "desc": "Historian Frank Dikötter exposes the horrific truth behind Mao's Great Leap Forward.\n\nIt wasn't just a famine. Food was tied to work points, if you were sick, pregnant, or elderly, you were cut off from the canteens and left to starve.\n\nJoin our exclusive TRIGGERnometry community on Substack! https:",
+      "videoId": "ojVOeGL-Snc",
+      "show": "All-In Podcast",
+      "title": "Jason Calacanis: OpenAI's “Sentient AI” Hype Is Really an IPO Sales Pitch",
+      "url": "https://www.youtube.com/watch?v=ojVOeGL-Snc",
+      "date": "2026-09-08T18:18:28.000Z",
+      "image": "https://i4.ytimg.com/vi/ojVOeGL-Snc/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "LYTUXTGaVq0",
-      "show": "TRIGGERnometry",
-      "title": "How Mao’s Great Leap Forward Starved Millions",
-      "url": "https://www.youtube.com/watch?v=LYTUXTGaVq0",
-      "date": "2026-09-08T09:46:26.000Z",
-      "image": "https://i1.ytimg.com/vi/LYTUXTGaVq0/hqdefault.jpg",
-      "desc": "Historian Frank Dikötter exposes the horrific truth behind Mao's Great Leap Forward.\n\nIt wasn't just a famine. Food was tied to work points, if you were sick, pregnant, or elderly, you were cut off from the canteens and left to starve.\n\nJoin our exclusive TRIGGERnometry community on Substack! https:",
+      "videoId": "ojVOeGL-Snc",
+      "show": "All-In Podcast",
+      "title": "Jason Calacanis: OpenAI's “Sentient AI” Hype Is Really an IPO Sales Pitch",
+      "url": "https://www.youtube.com/watch?v=ojVOeGL-Snc",
+      "date": "2026-09-08T18:18:28.000Z",
+      "image": "https://i4.ytimg.com/vi/ojVOeGL-Snc/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }
