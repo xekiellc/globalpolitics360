@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:21:01.442Z",
+  "lastUpdated": "2026-09-08T22:29:21.084Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ojVOeGL-Snc",
-      "show": "All-In Podcast",
-      "title": "Jason Calacanis: OpenAI's “Sentient AI” Hype Is Really an IPO Sales Pitch",
-      "url": "https://www.youtube.com/watch?v=ojVOeGL-Snc",
-      "date": "2026-09-08T18:18:28.000Z",
-      "image": "https://i4.ytimg.com/vi/ojVOeGL-Snc/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "z01oRM_5ujo",
+      "show": "Shawn Ryan Show",
+      "title": "He Got Shot in the Helmet and Saw His Own Body 😳",
+      "url": "https://www.youtube.com/watch?v=z01oRM_5ujo",
+      "date": "2026-09-08T22:00:05.000Z",
+      "image": "https://i3.ytimg.com/vi/z01oRM_5ujo/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "ojVOeGL-Snc",
-      "show": "All-In Podcast",
-      "title": "Jason Calacanis: OpenAI's “Sentient AI” Hype Is Really an IPO Sales Pitch",
-      "url": "https://www.youtube.com/watch?v=ojVOeGL-Snc",
-      "date": "2026-09-08T18:18:28.000Z",
-      "image": "https://i4.ytimg.com/vi/ojVOeGL-Snc/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "z01oRM_5ujo",
+      "show": "Shawn Ryan Show",
+      "title": "He Got Shot in the Helmet and Saw His Own Body 😳",
+      "url": "https://www.youtube.com/watch?v=z01oRM_5ujo",
+      "date": "2026-09-08T22:00:05.000Z",
+      "image": "https://i3.ytimg.com/vi/z01oRM_5ujo/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
