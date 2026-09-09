@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-09-09T11:03:00.769Z",
+  "lastUpdated": "2026-09-09T16:18:32.302Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Investing in Lightfield",
+      "url": "https://www.a16z.news/p/investing-in-lightfield",
+      "date": "2026-09-09T16:01:00.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/2f3ab497-f39d-4cb9-a8fa-7536dd5faea8_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
+      "url": "https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx",
+      "date": "2026-09-09T14:36:50.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-3.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Introducing Covenant",
+      "url": "https://www.a16z.news/p/introducing-covenant",
+      "date": "2026-09-09T14:01:39.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/4ebfe9b8-809d-4aba-b795-18e2c98542d6_2842x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed",
       "url": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
@@ -97,15 +124,6 @@
       "url": "https://bitcoinmagazine.com/news/hargreaves-lansdown-to-allow-bitcoin-etns",
       "date": "2026-09-04T21:16:39.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-8.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
-      "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
-      "date": "2026-09-04T20:30:14.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -325,24 +343,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "This Essay is 10% AI Generated",
-      "url": "https://www.a16z.news/p/this-essay-is-10-ai-generated",
-      "date": "2026-08-13T14:01:31.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/63bc21c4-6c60-419a-85da-fe7dd4122294_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in Vals",
-      "url": "https://www.a16z.news/p/investing-in-vals",
-      "date": "2026-08-13T13:30:38.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/59a34bbf-d335-4ca3-b4ac-d149b1883880_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Base Power Company: Chapter 3",
