@@ -1,19 +1,31 @@
 {
-  "lastUpdated": "2026-09-09T04:04:58.942Z",
+  "lastUpdated": "2026-09-09T11:03:10.730Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 28,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "-msDOA7ju8E",
+      "show": "Shawn Ryan Show",
+      "title": "One BUD/S Instructor Kick Ended a Career 😳",
+      "url": "https://www.youtube.com/watch?v=-msDOA7ju8E",
+      "date": "2026-09-09T01:00:05.000Z",
+      "image": "https://i2.ytimg.com/vi/-msDOA7ju8E/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "z01oRM_5ujo",
+      "videoId": "-msDOA7ju8E",
       "show": "Shawn Ryan Show",
-      "title": "He Got Shot in the Helmet and Saw His Own Body 😳",
-      "url": "https://www.youtube.com/watch?v=z01oRM_5ujo",
-      "date": "2026-09-08T22:00:05.000Z",
-      "image": "https://i3.ytimg.com/vi/z01oRM_5ujo/hqdefault.jpg",
+      "title": "One BUD/S Instructor Kick Ended a Career 😳",
+      "url": "https://www.youtube.com/watch?v=-msDOA7ju8E",
+      "date": "2026-09-09T01:00:05.000Z",
+      "image": "https://i2.ytimg.com/vi/-msDOA7ju8E/hqdefault.jpg",
       "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
       "guestTags": []
     }
