@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-09-09T16:18:32.302Z",
+  "lastUpdated": "2026-09-09T20:45:48.982Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter",
+      "url": "https://bitcoinmagazine.com/news/block-applies-for-banking-charter",
+      "date": "2026-09-09T20:35:41.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Maxi-Jack-Dorsey-Unveils-Chat-App.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Investing in Cognition",
+      "url": "https://www.a16z.news/p/investing-in-cognition",
+      "date": "2026-09-09T19:00:24.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/4c2c4a01-e764-4b0a-b219-c37bb325e0db_2842x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Steak &#8216;n Shake Says Sales Grew Double Digits Since Bitcoin Adoption",
+      "url": "https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew",
+      "date": "2026-09-09T18:37:31.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-14.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
+      "url": "https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy",
+      "date": "2026-09-09T18:23:22.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Investing in Lightfield",
       "url": "https://www.a16z.news/p/investing-in-lightfield",
@@ -93,24 +129,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC",
-      "url": "https://bitcoinmagazine.com/news/liquid-gets-3400-btc-back-after-on-chain-talks-white-hats-keep-598-5-btc",
-      "date": "2026-09-07T22:02:19.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn-2.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves",
-      "url": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
-      "date": "2026-09-06T22:16:53.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Texas Should Shut Down the Education Cartel",
       "url": "https://blog.joelonsdale.com/p/texas-should-shut-down-the-education",
       "date": "2026-09-05T11:05:07.000Z",
@@ -118,15 +136,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
-      "url": "https://bitcoinmagazine.com/news/hargreaves-lansdown-to-allow-bitcoin-etns",
-      "date": "2026-09-04T21:16:39.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-8.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Investing in Gimlet",
@@ -322,15 +331,6 @@
       "url": "https://www.a16z.news/p/charts-of-the-week-head-in-the-neoclouds",
       "date": "2026-08-14T14:11:51.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/938a3719-02e5-4eb5-b956-a37f3873ad40_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Cursor + SpaceXAI: the fastest iterating team wins",
-      "url": "https://www.a16z.news/p/cursor-spacexai-fastest-iterating-team",
-      "date": "2026-08-14T14:07:04.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f2e80fba-dac9-4205-8621-0cbfc1b56288_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
