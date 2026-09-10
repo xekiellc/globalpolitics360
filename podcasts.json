@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-09-10T04:24:58.846Z",
+  "lastUpdated": "2026-09-10T10:59:32.165Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1782,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#338 Cardinal Burke - The New Testament",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
+      "date": "2026-09-10T10:00:00.000Z",
+      "duration": "9827",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the S",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Genes &amp; the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM1624813352.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi",
+      "date": "2026-09-10T08:00:00.000Z",
+      "duration": "2138",
+      "image": "https://megaphone.imgix.net/podcasts/a8e086bc-acd4-11f1-9687-3bc4959b6315/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits. We discuss how DNA, RNA and epigenetic mechanisms determine what information can pass between generations, and why acquired traits are generally not thought to be inherited. We also explain research in C. elegans showing",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -18,32 +42,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Comedian DESTROYS Every Triggernometry Guest - Tony Lapidus",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3103220360.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3103220360.mp3",
-      "date": "2026-09-09T18:00:00.000Z",
-      "duration": "6524",
-      "image": "https://megaphone.imgix.net/podcasts/11b0f5b0-ac57-11f1-9c11-7b8a0dcf0161/image/835f28a4143628d612716dfd86e4aa35.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.com/TRIG\n\n- Shopify! Sign up for a $1 per month trial at https://www.shopify.co.uk/trigger/ \n\n\n- Go to https://Dupe.com today and find similar products for less. It's 100% free to ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2551 - Daniel Kokotajlo",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7087453482.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7087453482.mp3",
-      "date": "2026-09-09T17:00:00.000Z",
-      "duration": "8405",
-      "image": "https://megaphone.imgix.net/podcasts/4a7504f8-abd6-11f1-922a-8727e0ad3325/image/d71f5070ed18919a32f495bfeba3376d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Daniel&amp;nbsp;Kokotajlo&amp;nbsp;is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com\n\nhttps://ai-2040.comhttps://ai-2027.comwww.aifutures.org\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Dow",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -136,6 +134,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#338 Cardinal Burke - The New Testament",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
+      "date": "2026-09-10T10:00:00.000Z",
+      "duration": "9827",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the S",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Genes &amp; the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM1624813352.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi",
+      "date": "2026-09-10T08:00:00.000Z",
+      "duration": "2138",
+      "image": "https://megaphone.imgix.net/podcasts/a8e086bc-acd4-11f1-9687-3bc4959b6315/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits. We discuss how DNA, RNA and epigenetic mechanisms determine what information can pass between generations, and why acquired traits are generally not thought to be inherited. We also explain research in C. elegans showing",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Netanyahu Knew",
@@ -148,32 +170,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Comedian DESTROYS Every Triggernometry Guest - Tony Lapidus",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3103220360.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT3103220360.mp3",
-      "date": "2026-09-09T18:00:00.000Z",
-      "duration": "6524",
-      "image": "https://megaphone.imgix.net/podcasts/11b0f5b0-ac57-11f1-9c11-7b8a0dcf0161/image/835f28a4143628d612716dfd86e4aa35.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.com/TRIG\n\n- Shopify! Sign up for a $1 per month trial at https://www.shopify.co.uk/trigger/ \n\n\n- Go to https://Dupe.com today and find similar products for less. It's 100% free to ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2551 - Daniel Kokotajlo",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7087453482.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7087453482.mp3",
-      "date": "2026-09-09T17:00:00.000Z",
-      "duration": "8405",
-      "image": "https://megaphone.imgix.net/podcasts/4a7504f8-abd6-11f1-922a-8727e0ad3325/image/d71f5070ed18919a32f495bfeba3376d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Daniel&amp;nbsp;Kokotajlo&amp;nbsp;is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com\n\nhttps://ai-2040.comhttps://ai-2027.comwww.aifutures.org\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Dow",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -279,9 +275,6 @@
   "guestIndex": {
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"

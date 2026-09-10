@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-09-10T04:24:59.658Z",
+  "lastUpdated": "2026-09-10T10:59:32.769Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 27,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "oBPEKzb98mY",
+      "show": "Shawn Ryan Show",
+      "title": "The FBI Lost the Most Wanted Because They Didn't Pay Their Bill 😳",
+      "url": "https://www.youtube.com/watch?v=oBPEKzb98mY",
+      "date": "2026-09-10T01:00:22.000Z",
+      "image": "https://i4.ytimg.com/vi/oBPEKzb98mY/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "UrTzyBiaIwE",
+      "videoId": "oBPEKzb98mY",
       "show": "Shawn Ryan Show",
-      "title": "Did Jesus Really Resurrect From the Dead? | Official Preview",
-      "url": "https://www.youtube.com/watch?v=UrTzyBiaIwE",
-      "date": "2026-09-09T22:00:30.000Z",
-      "image": "https://i2.ytimg.com/vi/UrTzyBiaIwE/hqdefault.jpg",
-      "desc": "“A lot of people are scared of the end times. Should they be?&quot;\n\n&quot;No. If one is living, striving to live a good and just life, there’s nothing about which to be afraid. Our Lord comes to save all that is good and to save the just. People are oftentimes wanting to predict when the world will",
+      "title": "The FBI Lost the Most Wanted Because They Didn't Pay Their Bill 😳",
+      "url": "https://www.youtube.com/watch?v=oBPEKzb98mY",
+      "date": "2026-09-10T01:00:22.000Z",
+      "image": "https://i4.ytimg.com/vi/oBPEKzb98mY/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
       "guestTags": []
     }
   ],
