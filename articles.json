@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-10T16:09:38.381Z",
+  "lastUpdated": "2026-09-10T20:41:02.179Z",
   "articleCount": 60,
   "articles": [
+    {
+      "title": "Douglas Murray: Who’s Afraid of the ‘Far Right’?",
+      "url": "https://www.thefp.com/p/douglas-murray-afd-election-far-right-immigration-merkel",
+      "date": "2026-09-10T19:12:36.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b1c7852e-f1a7-415c-84ae-ce3144e6ab2b_1024x683.jpeg",
+      "source": "The Free Press (Bari Weiss)",
+      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
+      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
+    },
+    {
+      "title": "On Escaping This Horrible Era",
+      "url": "https://www.racket.news/p/on-escaping-this-horrible-era",
+      "date": "2026-09-10T17:34:27.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!jlJL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F117c220d-63e5-4509-9bb3-8741b9c381c7_3176x2098.png",
+      "source": "Matt Taibbi / Racket News",
+      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
+      "id": "aHR0cHM6Ly93d3cucmFja2V0"
+    },
     {
       "title": "Niall Ferguson: 9/11 Did Not Doom the American Empire",
       "url": "https://www.thefp.com/p/niall-ferguson-911-american-empire-trump-china-iran",
@@ -300,15 +318,6 @@
       "id": "aHR0cHM6Ly93d3cudGhlZnAu"
     },
     {
-      "title": "Ten-Minute Warning: The Hypersonic Threat",
-      "url": "https://www.thefp.com/p/ten-minute-warning-hypersonic-planes-missiles-testing-military",
-      "date": "2026-09-08T09:02:43.000Z",
-      "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214600380/29567288-17e7-4709-b371-f218b534f532/transcoded-1788804337.png",
-      "source": "The Free Press (Bari Weiss)",
-      "teaser": "Former British Prime Minister examines why Western governments struggle to combat rising antisemitism effectively.",
-      "id": "aHR0cHM6Ly93d3cudGhlZnAu"
-    },
-    {
       "title": "Jonathan Cook: BBC &#038; the &#8216;Summer of ’26’",
       "url": "https://consortiumnews.com/2026/09/08/jonathan-cook-bbc-the-summer-of-26/",
       "date": "2026-09-08T06:00:37.000Z",
@@ -532,15 +541,6 @@
       "source": "Michael Tracey",
       "teaser": "Michael Tracey criticizes The Young Turks' commentary and understanding of Epstein case details.",
       "id": "aHR0cHM6Ly93d3cubXRyYWNl"
-    },
-    {
-      "title": "\"Get Lit\" August 27, 2026: On Stephen Crane's “The Bride Comes to Yellow Sky,” and “The Blue Hotel”",
-      "url": "https://www.racket.news/p/get-lit-august-27-2026-on-stephen",
-      "date": "2026-08-27T18:19:01.000Z",
-      "image": "",
-      "source": "Matt Taibbi / Racket News",
-      "teaser": "Live news discussion and analysis covering the day's top political and cultural developments.",
-      "id": "aHR0cHM6Ly93d3cucmFja2V0"
     }
   ]
 }
