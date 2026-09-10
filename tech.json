@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-09-10T10:59:24.939Z",
+  "lastUpdated": "2026-09-10T16:09:40.991Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Investing in Highstock",
+      "url": "https://www.a16z.news/p/investing-in-highstock",
+      "date": "2026-09-10T14:05:25.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/533c24d3-dc7d-4208-bac3-83543dabcc13_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "The Quantum Issue: WTF Is Quantum Computing?",
+      "url": "https://bitcoinmagazine.com/print/the-quantum-issue-wtf-is-quantum-computing",
+      "date": "2026-09-10T13:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-WTF-is-Quantum-Computing.png",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "An Ode to Counter-Positioning",
+      "url": "https://www.notboring.co/p/an-ode-to-counter-positioning",
+      "date": "2026-09-10T12:45:19.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!teS9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c42d77-14b8-4cd3-95ca-59060780dfcd_1200x634.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "US Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act",
       "url": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
@@ -106,15 +133,6 @@
       "url": "https://bitcoinmagazine.com/news/castle-opens-savings-stack-individuals",
       "date": "2026-09-08T15:38:33.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-9.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Strategy Halted Its Bitcoin Buys Again Last Week",
-      "url": "https://bitcoinmagazine.com/news/strategy-halted-bitcoin-buys-last-week",
-      "date": "2026-09-08T15:38:26.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-Breaks-13-Week-Bitcoin-Buying-Streak-Holdings-Hold-at-762099-BTC.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -327,15 +345,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Charts of the Week: Head In The Neoclouds",
-      "url": "https://www.a16z.news/p/charts-of-the-week-head-in-the-neoclouds",
-      "date": "2026-08-14T14:11:51.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/938a3719-02e5-4eb5-b956-a37f3873ad40_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #206",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-206",
       "date": "2026-08-14T13:10:36.000Z",
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/base-power-company-chapter-3",
       "date": "2026-08-12T13:53:37.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!OnPt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d9329d8-9ba0-4fc3-b41b-01bb2239f875_1200x666.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Weekly Dose of Optimism #205",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-205",
-      "date": "2026-08-07T12:50:11.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!COa7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3cf561c-8967-418b-a446-a46d97d477db_1200x600.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
