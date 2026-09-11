@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T19:04:16.218Z",
+  "lastUpdated": "2026-09-11T22:22:35.696Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "gSQfcZByGlg",
-      "show": "TRIGGERnometry",
-      "title": "9/11: The Full Story, 25 Years On with Richard Miniter",
-      "url": "https://www.youtube.com/watch?v=gSQfcZByGlg",
-      "date": "2026-09-11T18:00:04.000Z",
-      "image": "https://i4.ytimg.com/vi/gSQfcZByGlg/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "_CIYzyyFmd8",
+      "show": "Shawn Ryan Show",
+      "title": "The Biggest Interview of the Shawn Ryan Show?!",
+      "url": "https://www.youtube.com/watch?v=_CIYzyyFmd8",
+      "date": "2026-09-11T22:00:34.000Z",
+      "image": "https://i4.ytimg.com/vi/_CIYzyyFmd8/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "gSQfcZByGlg",
-      "show": "TRIGGERnometry",
-      "title": "9/11: The Full Story, 25 Years On with Richard Miniter",
-      "url": "https://www.youtube.com/watch?v=gSQfcZByGlg",
-      "date": "2026-09-11T18:00:04.000Z",
-      "image": "https://i4.ytimg.com/vi/gSQfcZByGlg/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- ",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "_CIYzyyFmd8",
+      "show": "Shawn Ryan Show",
+      "title": "The Biggest Interview of the Shawn Ryan Show?!",
+      "url": "https://www.youtube.com/watch?v=_CIYzyyFmd8",
+      "date": "2026-09-11T22:00:34.000Z",
+      "image": "https://i4.ytimg.com/vi/_CIYzyyFmd8/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

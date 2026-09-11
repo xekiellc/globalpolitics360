@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-11T19:04:04.367Z",
+  "lastUpdated": "2026-09-11T22:22:29.412Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin&#8217;s &#8216;Unusual Mix&#8217;: Bearish Inflation Print, Bullish Buyback Failure",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares",
+      "date": "2026-09-11T21:22:59.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-7.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
+      "url": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
+      "date": "2026-09-11T21:13:48.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-19.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Italy&#8217;s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report",
       "url": "https://bitcoinmagazine.com/news/unicredit-working-on-crypto-custody",
@@ -22,7 +40,7 @@
     },
     {
       "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-price-spikes-on-hot-inflation-data",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
       "date": "2026-09-11T15:46:05.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg",
       "source": "Bitcoin Magazine",
@@ -102,15 +120,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Coinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-bottom-is-in-says-brian-armstrong",
-      "date": "2026-09-10T16:24:43.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image6_1920x1080.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Investing in Highstock",
       "url": "https://www.a16z.news/p/investing-in-highstock",
       "date": "2026-09-10T14:05:25.000Z",
@@ -118,15 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "The Quantum Issue: WTF Is Quantum Computing?",
-      "url": "https://bitcoinmagazine.com/print/the-quantum-issue-wtf-is-quantum-computing",
-      "date": "2026-09-10T13:00:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-WTF-is-Quantum-Computing.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "An Ode to Counter-Positioning",
