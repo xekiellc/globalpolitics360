@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-11T08:51:57.437Z",
+  "lastUpdated": "2026-09-11T14:09:41.237Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Catching the (Venture) Bus",
+      "url": "https://www.a16z.news/p/catching-the-venture-bus",
+      "date": "2026-09-11T14:01:15.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/01316393-5da8-40b4-932e-161a9b341336_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Weekly Dose of Optimism #210",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-210",
+      "date": "2026-09-11T12:46:09.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!vmFX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7db2f16-cc20-4e2e-8248-fedc0928e399_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Ringleader of $245M Crypto Theft Pleads Guilty",
       "url": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
@@ -336,28 +354,10 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "OpenRouter & Stripe: The Intelligence Network",
-      "url": "https://www.a16z.news/p/openrouter-and-stripe-the-intelligence",
-      "date": "2026-08-19T17:57:00.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5c99c499-327c-48d1-a2f5-eee25987e473_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #206",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-206",
       "date": "2026-08-14T13:10:36.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!3818!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6f84f07-fa51-4bfd-aa20-dc27a9b61f80_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Base Power Company: Chapter 3",
-      "url": "https://www.notboring.co/p/base-power-company-chapter-3",
-      "date": "2026-08-12T13:53:37.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!OnPt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d9329d8-9ba0-4fc3-b41b-01bb2239f875_1200x666.png",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
