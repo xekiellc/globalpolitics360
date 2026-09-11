@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T14:09:48.361Z",
+  "lastUpdated": "2026-09-11T19:04:16.218Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "xjQhal_IVtc",
-      "show": "Theo Von",
-      "title": "Ex-Counterfeiter Reveals His Process, And How He Made $10M in Fake Cash",
-      "url": "https://www.youtube.com/watch?v=xjQhal_IVtc",
-      "date": "2026-09-11T10:45:16.000Z",
-      "image": "https://i1.ytimg.com/vi/xjQhal_IVtc/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #681 | Ex-Counterfeiter Arthur Williams Jr. \nFull Episode: https://www.youtube.com/watch?v=ba1eYteEDAM\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://face",
-      "guestTags": []
+      "videoId": "gSQfcZByGlg",
+      "show": "TRIGGERnometry",
+      "title": "9/11: The Full Story, 25 Years On with Richard Miniter",
+      "url": "https://www.youtube.com/watch?v=gSQfcZByGlg",
+      "date": "2026-09-11T18:00:04.000Z",
+      "image": "https://i4.ytimg.com/vi/gSQfcZByGlg/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "xjQhal_IVtc",
-      "show": "Theo Von",
-      "title": "Ex-Counterfeiter Reveals His Process, And How He Made $10M in Fake Cash",
-      "url": "https://www.youtube.com/watch?v=xjQhal_IVtc",
-      "date": "2026-09-11T10:45:16.000Z",
-      "image": "https://i1.ytimg.com/vi/xjQhal_IVtc/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #681 | Ex-Counterfeiter Arthur Williams Jr. \nFull Episode: https://www.youtube.com/watch?v=ba1eYteEDAM\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://face",
-      "guestTags": []
+      "videoId": "gSQfcZByGlg",
+      "show": "TRIGGERnometry",
+      "title": "9/11: The Full Story, 25 Years On with Richard Miniter",
+      "url": "https://www.youtube.com/watch?v=gSQfcZByGlg",
+      "date": "2026-09-11T18:00:04.000Z",
+      "image": "https://i4.ytimg.com/vi/gSQfcZByGlg/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/lp/triggernometry and get 20% off your first month\n\n- ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
