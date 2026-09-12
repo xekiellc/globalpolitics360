@@ -1,22 +1,42 @@
 {
-  "lastUpdated": "2026-09-12T04:02:15.002Z",
+  "lastUpdated": "2026-09-12T10:25:35.292Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 27,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "oJlGkcHipSQ",
+      "show": "TRIGGERnometry",
+      "title": "Peter Hitchens Answers the Question Everyone’s Been Waiting to Hear",
+      "url": "https://www.youtube.com/watch?v=oJlGkcHipSQ",
+      "date": "2026-09-12T08:19:11.000Z",
+      "image": "https://i4.ytimg.com/vi/oJlGkcHipSQ/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "_CIYzyyFmd8",
-      "show": "Shawn Ryan Show",
-      "title": "The Biggest Interview of the Shawn Ryan Show?!",
-      "url": "https://www.youtube.com/watch?v=_CIYzyyFmd8",
-      "date": "2026-09-11T22:00:34.000Z",
-      "image": "https://i4.ytimg.com/vi/_CIYzyyFmd8/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection. \nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigilance",
-      "guestTags": []
+      "videoId": "oJlGkcHipSQ",
+      "show": "TRIGGERnometry",
+      "title": "Peter Hitchens Answers the Question Everyone’s Been Waiting to Hear",
+      "url": "https://www.youtube.com/watch?v=oJlGkcHipSQ",
+      "date": "2026-09-12T08:19:11.000Z",
+      "image": "https://i4.ytimg.com/vi/oJlGkcHipSQ/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
