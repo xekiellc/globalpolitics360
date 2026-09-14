@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-14T19:08:32.438Z",
+  "lastUpdated": "2026-09-14T23:01:26.219Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Swiss Bitcoin Pay Shuts Down Servers After Data Breach",
+      "url": "https://bitcoinmagazine.com/news/swiss-bitcoin-pay-data-breach",
+      "date": "2026-09-14T20:55:25.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-20.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Mallers: Bitcoin and AI Could Give Humans Back Their Time",
+      "url": "https://bitcoinmagazine.com/news/jack-mallers-says-bitcoin-rewards-work",
+      "date": "2026-09-14T20:30:46.000Z",
+      "image": "https://www.youtube.com/embed/0FZBdtoiYf8",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote",
       "url": "https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act",
@@ -84,24 +102,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Government Defeated as Lords Back UK Digital Assets Strategy",
-      "url": "https://bitcoinmagazine.com/news/house-of-lords-backs-uk-crypto-bill",
-      "date": "2026-09-11T17:28:32.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-18.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
-      "date": "2026-09-11T15:46:05.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Catching the (Venture) Bus",
       "url": "https://www.a16z.news/p/catching-the-venture-bus",
       "date": "2026-09-11T14:01:15.000Z",
@@ -120,10 +120,10 @@
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     },
     {
-      "title": "The Great Health Plan Replacement",
+      "title": "Employers Are Shopping for a New Health Plan",
       "url": "https://www.a16z.news/p/the-great-health-plan-replacement",
       "date": "2026-09-10T20:00:38.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/dc38667b-bcb6-46d1-9065-5a3ef13ac62e_2844x1600.png",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/71c3772e-2e82-4afb-ae08-976d2fdf64a9_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"

@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-09-14T19:08:39.245Z",
+  "lastUpdated": "2026-09-14T23:01:32.144Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1787,
+  "taggedCount": 1788,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump",
+      "date": "2026-09-14T21:24:00.000Z",
+      "duration": "46:47",
+      "image": "https://static.libsyn.com/p/assets/4/c/d/e/4cde7643ca820c8816c3140a3186d450/Podcast_Thumbnail_-_AIS_26.png",
+      "desc": "(0:00) Jensen Huang joins The Besties! (1:39) Thoughts on Dario's blog, Frontier Labs calling to slow down AI, and Doomer psychology (9:58) Sensible AI regulation and RSI (16:05) Hugging Face acquisition, future of Open Source, and the race with China (22:58) President Trump calls in live to discuss the Doomer Hoax (31:29) The AI boom and Nvidia's capital allocation strategy (40:21) Nvidia's Open ",
+      "guestTags": [
+        "Jensen Huang"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -78,20 +92,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "An exclusive, behind the scenes look from KT Episode 784 KT guest Yakov Smirnoff + Ari MattiYakov Smirnoff, Ari Matti, Brian Simpson, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 08/31/2026Watch Kill Tony ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E289_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse",
-      "date": "2026-09-11T23:32:00.000Z",
-      "duration": "01:35:57",
-      "image": "https://static.libsyn.com/p/assets/8/f/a/c/8fac2890418f76eed959afa2a1bf1c87/1_Pod_E289.png",
-      "desc": "(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the impact on Anthropic's IPO (58:45) OpenAI says it cracked a 200 year old math problem, but did it front-run users with their own data? (1:19:55) Nike removed from S&P 100 after stock tanks 80%: What went wrong? Follow the besties: https://x.com/chamath https://x.com/Jason http",
-      "guestTags": [
-        "Chamath"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -132,6 +132,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump",
+      "date": "2026-09-14T21:24:00.000Z",
+      "duration": "46:47",
+      "image": "https://static.libsyn.com/p/assets/4/c/d/e/4cde7643ca820c8816c3140a3186d450/Podcast_Thumbnail_-_AIS_26.png",
+      "desc": "(0:00) Jensen Huang joins The Besties! (1:39) Thoughts on Dario's blog, Frontier Labs calling to slow down AI, and Doomer psychology (9:58) Sensible AI regulation and RSI (16:05) Hugging Face acquisition, future of Open Source, and the race with China (22:58) President Trump calls in live to discuss the Doomer Hoax (31:29) The AI boom and Nvidia's capital allocation strategy (40:21) Nvidia's Open ",
+      "guestTags": [
+        "Jensen Huang"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2553 - Andrew Huberman",
@@ -204,20 +218,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "An exclusive, behind the scenes look from KT Episode 784 KT guest Yakov Smirnoff + Ari MattiYakov Smirnoff, Ari Matti, Brian Simpson, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 08/31/2026Watch Kill Tony ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E289_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse",
-      "date": "2026-09-11T23:32:00.000Z",
-      "duration": "01:35:57",
-      "image": "https://static.libsyn.com/p/assets/8/f/a/c/8fac2890418f76eed959afa2a1bf1c87/1_Pod_E289.png",
-      "desc": "(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the impact on Anthropic's IPO (58:45) OpenAI says it cracked a 200 year old math problem, but did it front-run users with their own data? (1:19:55) Nike removed from S&P 100 after stock tanks 80%: What went wrong? Follow the besties: https://x.com/chamath https://x.com/Jason http",
-      "guestTags": [
-        "Chamath"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -269,11 +269,11 @@
     }
   ],
   "guestIndex": {
+    "Jensen Huang": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }
 }
