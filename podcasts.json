@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-09-14T04:19:56.297Z",
+  "lastUpdated": "2026-09-14T12:21:15.149Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1715,
+  "taggedCount": 1787,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "What Moses Reveals About Your Life",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9332651739.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9332651739.mp3",
-      "date": "2026-09-13T16:43:00.000Z",
-      "duration": "6597",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What if the reason you feel stuck has nothing to do with your circumstances and everything to do with a story you don't know you're telling? In this lecture, Jordan Peterson sets out to answer a single question, what is and should be the story of your life, and arrives somewhere most people never look: the ancient account of a people escaping slavery, and a shepherd who becomes a leader only once ",
+      "show": "Shawn Ryan Show",
+      "title": "#339 Christian Craighead - The Uncensored Story of the Nairobi DusitD2 Attack",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1676087570.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1676087570.mp3",
+      "date": "2026-09-14T10:00:00.000Z",
+      "duration": "19208",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Christian Craighead is a former British SAS operator who served with the Parachute Regiment, Pathfinder Platoon, and 22 SAS during a career focused on counterterrorism and high-risk operations. In 2019, while in Kenya, he responded to the al-Shabaab attack at Nairobi’s DusitD2 complex, helping rescue civilians and engage the attackers, actions that later earned him the Conspicuous Gallantry Cross.",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "The Art of True Happiness | Dr. Arthur Brooks",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2290485637.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks",
+      "date": "2026-09-14T08:00:00.000Z",
+      "duration": "10213",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Arthur Brooks, PhD, professor at Vanderbilt University and senior fellow at Harvard Business School, is an expert on the science of happiness. He shares the three “macronutrients” of true happiness and tools for you to understand what specifically is in the way of you accessing more happiness and a sense of purpose. Dr. Brooks’ work goes beyond stories and observations by offering potent self-",
       "guestTags": []
     },
     {
@@ -67,18 +79,6 @@
       "duration": "7028",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "The Friday crew discusses the shocking Houthi takeover of the Red Sea, Trump at the midterm convention asking voters to pledge to cheat and vote even if they are unregistered, and AOC courting MAHA voters for a potential 2028 run. In the AMA, Ryan and Griffin explain the dense political themes of the anime Attack On Titan, and finally Emily speaks to Joseph Lawler about how Wall Street destroyed o",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2552 - Ehsan Ahmad &amp; Deric Poston",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5341784284.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5341784284.mp3",
-      "date": "2026-09-10T17:00:00.000Z",
-      "duration": "11204",
-      "image": "https://megaphone.imgix.net/podcasts/41147402-acd5-11f1-ae8e-bb792e6b1e3d/image/55d2414fafdf9d2618a8cc90bc0074ae.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ehsan Ahmad is a comedian and co-host of \"The Solid Show\" with Deric Poston. His new comedy special, \"Ehsan Ahmad: Too Soon,\" is streaming on YouTube.&amp;nbsp;https://youtu.be/m6weMUz0lqA?si=mLbn1S0fCogIg0mjwww.youtube.com/@TheSolidShow2024www.ehsancomedy.com\n\n\n\nDeric Poston is a standup comic and host, along with Ehsan Ahmad, of \"The Solid Show.\"&amp;nbsp;\n\nwww.youtube.com/@TheSolidShow2024www.d",
       "guestTags": []
     },
     {
@@ -135,14 +135,26 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "What Moses Reveals About Your Life",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9332651739.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9332651739.mp3",
-      "date": "2026-09-13T16:43:00.000Z",
-      "duration": "6597",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What if the reason you feel stuck has nothing to do with your circumstances and everything to do with a story you don't know you're telling? In this lecture, Jordan Peterson sets out to answer a single question, what is and should be the story of your life, and arrives somewhere most people never look: the ancient account of a people escaping slavery, and a shepherd who becomes a leader only once ",
+      "show": "Shawn Ryan Show",
+      "title": "#339 Christian Craighead - The Uncensored Story of the Nairobi DusitD2 Attack",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1676087570.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1676087570.mp3",
+      "date": "2026-09-14T10:00:00.000Z",
+      "duration": "19208",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Christian Craighead is a former British SAS operator who served with the Parachute Regiment, Pathfinder Platoon, and 22 SAS during a career focused on counterterrorism and high-risk operations. In 2019, while in Kenya, he responded to the al-Shabaab attack at Nairobi’s DusitD2 complex, helping rescue civilians and engage the attackers, actions that later earned him the Conspicuous Gallantry Cross.",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "The Art of True Happiness | Dr. Arthur Brooks",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2290485637.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks",
+      "date": "2026-09-14T08:00:00.000Z",
+      "duration": "10213",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Arthur Brooks, PhD, professor at Vanderbilt University and senior fellow at Harvard Business School, is an expert on the science of happiness. He shares the three “macronutrients” of true happiness and tools for you to understand what specifically is in the way of you accessing more happiness and a sense of purpose. Dr. Brooks’ work goes beyond stories and observations by offering potent self-",
       "guestTags": []
     },
     {
@@ -195,18 +207,6 @@
       "duration": "7028",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "The Friday crew discusses the shocking Houthi takeover of the Red Sea, Trump at the midterm convention asking voters to pledge to cheat and vote even if they are unregistered, and AOC courting MAHA voters for a potential 2028 run. In the AMA, Ryan and Griffin explain the dense political themes of the anime Attack On Titan, and finally Emily speaks to Joseph Lawler about how Wall Street destroyed o",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2552 - Ehsan Ahmad &amp; Deric Poston",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5341784284.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5341784284.mp3",
-      "date": "2026-09-10T17:00:00.000Z",
-      "duration": "11204",
-      "image": "https://megaphone.imgix.net/podcasts/41147402-acd5-11f1-ae8e-bb792e6b1e3d/image/55d2414fafdf9d2618a8cc90bc0074ae.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ehsan Ahmad is a comedian and co-host of \"The Solid Show\" with Deric Poston. His new comedy special, \"Ehsan Ahmad: Too Soon,\" is streaming on YouTube.&amp;nbsp;https://youtu.be/m6weMUz0lqA?si=mLbn1S0fCogIg0mjwww.youtube.com/@TheSolidShow2024www.ehsancomedy.com\n\n\n\nDeric Poston is a standup comic and host, along with Ehsan Ahmad, of \"The Solid Show.\"&amp;nbsp;\n\nwww.youtube.com/@TheSolidShow2024www.d",
       "guestTags": []
     },
     {
