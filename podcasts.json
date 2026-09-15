@@ -1,22 +1,48 @@
 {
-  "lastUpdated": "2026-09-14T23:01:32.144Z",
+  "lastUpdated": "2026-09-15T04:20:20.260Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1788,
+  "taggedCount": 1789,
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
-      "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump",
-      "date": "2026-09-14T21:24:00.000Z",
-      "duration": "46:47",
-      "image": "https://static.libsyn.com/p/assets/4/c/d/e/4cde7643ca820c8816c3140a3186d450/Podcast_Thumbnail_-_AIS_26.png",
-      "desc": "(0:00) Jensen Huang joins The Besties! (1:39) Thoughts on Dario's blog, Frontier Labs calling to slow down AI, and Doomer psychology (9:58) Sensible AI regulation and RSI (16:05) Hugging Face acquisition, future of Open Source, and the race with China (22:58) President Trump calls in live to discuss the Doomer Hoax (31:29) The AI boom and Nvidia's capital allocation strategy (40:21) Nvidia's Open ",
+      "title": "Elon Musk &amp; Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Gwynne_Elon_AIS26_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacextesla-merger",
+      "date": "2026-09-15T03:42:00.000Z",
+      "duration": "01:04:25",
+      "image": "https://static.libsyn.com/p/assets/2/3/5/1/2351a1c565fdf125e55e3c100dce7605/1_Pod_ElonGwynne.png",
+      "desc": "(0:00) SpaceX's Gwynne Shotwell joins The Besties! (1:45) Gwynne's SpaceX story, selling rockets, and working for Elon (6:45) Running modern day SpaceX: AI, Starlink, Rockets, and X (13:43) Direct to cell with Starlink, retiring rockets, competition (18:34) Data centers in space (22:00) Management at SpaceX (27:37) Elon Musk joins: AI's real risk, model peer review, what he meant by \"Dario is righ",
       "guestTags": [
-        "Jensen Huang"
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #785",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/2c0cfef9-368c-495e-9b79-8bbab0954bee/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=2c0cfef9-368c-495e-9b79-8bbab0954bee&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-09-15T01:00:00.000Z",
+      "duration": "02:14:10",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Duncan Trussell, Kurt Metzger, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/07/2026&nbsp;This episode is sponsored by:PrizePicks: Visit https://prizepicks.onelink.me/LME0/TONYand use code TONY and get $150 if you win your firs",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "The Legacy of 9/11",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/f686186e-9e7b-4834-9f07-57e94814d1b7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/f686186e-9e7b-4834-9f07-57e94814d1b7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-09-15T00:00:00.000Z",
+      "duration": "01:07:06",
+      "image": "https://content.production.cdn.art19.com/images/61/76/2d/0e/61762d0e-0ba0-442c-867e-563437bed161/7066d9636d7596dac25d639c666afffbb81c09d76689ae4e4da5660432378602c2baaf700ac71cad802c13d4eb90ef7a9b442e41222b2646e1806dcf11342bdd.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss their reflections on 9/11 25 years later, the takes by Bill Maher and Jeremy Boreing saying that the subsequent wars were justified, and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for 20% off your first order.Cowboy Colostrum - Get",
+      "guestTags": [
+        "Dave Smith"
       ]
     },
     {
@@ -26,7 +52,7 @@
       "audioUrl": "https://traffic.megaphone.fm/GLT4909015971.mp3",
       "listenUrl": "https://traffic.megaphone.fm/GLT4909015971.mp3",
       "date": "2026-09-14T17:00:00.000Z",
-      "duration": "9718",
+      "duration": "9958",
       "image": "https://megaphone.imgix.net/podcasts/019e9130-afb5-11f1-ba2a-77da5f707852/image/e96ac952ee0bbbd2060e7ba9d4f8a932.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Andrew Huberman, PhD, is a neuroscientist, author, and host of the \"Huberman Lab\" podcast. His latest book, \"Protocols: An Operating Manual for the Human Body,\" will be available on September 22.www.simonandschuster.com/books/Protocols/Andrew-D-Huberman/9781668032145www.youtube.com/@hubermanlabhttps://hubermanlab.substack.comwww.hubermanlab.com\n\n\n\nPerplexity: Download the app or ask Perplexity any",
       "guestTags": []
@@ -65,32 +91,6 @@
       "duration": "00:23:54",
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1789350822830-bc0c3d39d6f34.jpg",
       "desc": "Hamza bin Laden is alive. On September 10, on the eve of the 25th anniversary of 9/11, al-Qaeda released A Quarter Century After the September 11 Raids, Part One, featuring Hamza in three separate scenes.But the footage was not new. Hamza recorded it on August 13, 2021, in Kandahar, as Afghanistan was falling to the Taliban. Al-Qaeda held that footage for more than five years.In this episode of Th",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Julian Dorey UNLOADS on Clancy Backlash, CBS Coverup &amp; 9/11",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7596622257.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7596622257.mp3",
-      "date": "2026-09-12T19:00:00.000Z",
-      "duration": "6268",
-      "image": "https://megaphone.imgix.net/podcasts/e30f3b40-aec2-11f1-875a-e313dd9bc785/image/3fbfd33341cc62bc8d04f24a79d6049b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\n\n\nNEWSLETTER: https://juliandoreypodcast.beehiiv.com/get-julians-top-10-books\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\n",
-      "guestTags": [
-        "Julian Dorey"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 784 Yakov Smirnoff + Ari Matti)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/3eb0cca5-1d57-4afd-9a6b-f52912956e0c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=3eb0cca5-1d57-4afd-9a6b-f52912956e0c&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-09-12T01:00:00.000Z",
-      "duration": "00:49:48",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from KT Episode 784 KT guest Yakov Smirnoff + Ari MattiYakov Smirnoff, Ari Matti, Brian Simpson, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 08/31/2026Watch Kill Tony ",
       "guestTags": []
     },
     {
@@ -134,15 +134,41 @@
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
-      "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump",
-      "date": "2026-09-14T21:24:00.000Z",
-      "duration": "46:47",
-      "image": "https://static.libsyn.com/p/assets/4/c/d/e/4cde7643ca820c8816c3140a3186d450/Podcast_Thumbnail_-_AIS_26.png",
-      "desc": "(0:00) Jensen Huang joins The Besties! (1:39) Thoughts on Dario's blog, Frontier Labs calling to slow down AI, and Doomer psychology (9:58) Sensible AI regulation and RSI (16:05) Hugging Face acquisition, future of Open Source, and the race with China (22:58) President Trump calls in live to discuss the Doomer Hoax (31:29) The AI boom and Nvidia's capital allocation strategy (40:21) Nvidia's Open ",
+      "title": "Elon Musk &amp; Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Gwynne_Elon_AIS26_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacextesla-merger",
+      "date": "2026-09-15T03:42:00.000Z",
+      "duration": "01:04:25",
+      "image": "https://static.libsyn.com/p/assets/2/3/5/1/2351a1c565fdf125e55e3c100dce7605/1_Pod_ElonGwynne.png",
+      "desc": "(0:00) SpaceX's Gwynne Shotwell joins The Besties! (1:45) Gwynne's SpaceX story, selling rockets, and working for Elon (6:45) Running modern day SpaceX: AI, Starlink, Rockets, and X (13:43) Direct to cell with Starlink, retiring rockets, competition (18:34) Data centers in space (22:00) Management at SpaceX (27:37) Elon Musk joins: AI's real risk, model peer review, what he meant by \"Dario is righ",
       "guestTags": [
-        "Jensen Huang"
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #785",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/2c0cfef9-368c-495e-9b79-8bbab0954bee/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=2c0cfef9-368c-495e-9b79-8bbab0954bee&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-09-15T01:00:00.000Z",
+      "duration": "02:14:10",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Duncan Trussell, Kurt Metzger, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/07/2026&nbsp;This episode is sponsored by:PrizePicks: Visit https://prizepicks.onelink.me/LME0/TONYand use code TONY and get $150 if you win your firs",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "The Legacy of 9/11",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/f686186e-9e7b-4834-9f07-57e94814d1b7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/f686186e-9e7b-4834-9f07-57e94814d1b7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-09-15T00:00:00.000Z",
+      "duration": "01:07:06",
+      "image": "https://content.production.cdn.art19.com/images/61/76/2d/0e/61762d0e-0ba0-442c-867e-563437bed161/7066d9636d7596dac25d639c666afffbb81c09d76689ae4e4da5660432378602c2baaf700ac71cad802c13d4eb90ef7a9b442e41222b2646e1806dcf11342bdd.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss their reflections on 9/11 25 years later, the takes by Bill Maher and Jeremy Boreing saying that the subsequent wars were justified, and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for 20% off your first order.Cowboy Colostrum - Get",
+      "guestTags": [
+        "Dave Smith"
       ]
     },
     {
@@ -152,7 +178,7 @@
       "audioUrl": "https://traffic.megaphone.fm/GLT4909015971.mp3",
       "listenUrl": "https://traffic.megaphone.fm/GLT4909015971.mp3",
       "date": "2026-09-14T17:00:00.000Z",
-      "duration": "9718",
+      "duration": "9958",
       "image": "https://megaphone.imgix.net/podcasts/019e9130-afb5-11f1-ba2a-77da5f707852/image/e96ac952ee0bbbd2060e7ba9d4f8a932.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Andrew Huberman, PhD, is a neuroscientist, author, and host of the \"Huberman Lab\" podcast. His latest book, \"Protocols: An Operating Manual for the Human Body,\" will be available on September 22.www.simonandschuster.com/books/Protocols/Andrew-D-Huberman/9781668032145www.youtube.com/@hubermanlabhttps://hubermanlab.substack.comwww.hubermanlab.com\n\n\n\nPerplexity: Download the app or ask Perplexity any",
       "guestTags": []
@@ -191,32 +217,6 @@
       "duration": "00:23:54",
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1789350822830-bc0c3d39d6f34.jpg",
       "desc": "Hamza bin Laden is alive. On September 10, on the eve of the 25th anniversary of 9/11, al-Qaeda released A Quarter Century After the September 11 Raids, Part One, featuring Hamza in three separate scenes.But the footage was not new. Hamza recorded it on August 13, 2021, in Kandahar, as Afghanistan was falling to the Taliban. Al-Qaeda held that footage for more than five years.In this episode of Th",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Julian Dorey UNLOADS on Clancy Backlash, CBS Coverup &amp; 9/11",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7596622257.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7596622257.mp3",
-      "date": "2026-09-12T19:00:00.000Z",
-      "duration": "6268",
-      "image": "https://megaphone.imgix.net/podcasts/e30f3b40-aec2-11f1-875a-e313dd9bc785/image/3fbfd33341cc62bc8d04f24a79d6049b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\n\n\nNEWSLETTER: https://juliandoreypodcast.beehiiv.com/get-julians-top-10-books\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\n",
-      "guestTags": [
-        "Julian Dorey"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 784 Yakov Smirnoff + Ari Matti)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/3eb0cca5-1d57-4afd-9a6b-f52912956e0c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=3eb0cca5-1d57-4afd-9a6b-f52912956e0c&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-09-12T01:00:00.000Z",
-      "duration": "00:49:48",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from KT Episode 784 KT guest Yakov Smirnoff + Ari MattiYakov Smirnoff, Ari Matti, Brian Simpson, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 08/31/2026Watch Kill Tony ",
       "guestTags": []
     },
     {
@@ -269,10 +269,10 @@
     }
   ],
   "guestIndex": {
-    "Jensen Huang": [
+    "Elon Musk": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
-    "Julian Dorey": [
+    "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
   }
