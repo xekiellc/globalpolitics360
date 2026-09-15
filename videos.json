@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-09-15T16:40:23.152Z",
+  "lastUpdated": "2026-09-15T21:05:17.366Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 29,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "tU4TeHcFWFg",
-      "show": "The Free Press",
-      "title": "How Bishop Robert Barron defines God",
-      "url": "https://www.youtube.com/watch?v=tU4TeHcFWFg",
-      "date": "2026-09-15T15:00:22.000Z",
-      "image": "https://i1.ytimg.com/vi/tU4TeHcFWFg/hqdefault.jpg",
-      "desc": "https://bit.ly/theo-von",
-      "guestTags": []
+      "videoId": "nOaaqYhBwcA",
+      "show": "All-In Podcast",
+      "title": "Elon Musk: Terafab is a Hedge Against Taiwan AND a Necessity to Scale Tesla/SpaceX",
+      "url": "https://www.youtube.com/watch?v=nOaaqYhBwcA",
+      "date": "2026-09-15T20:15:34.000Z",
+      "image": "https://i3.ytimg.com/vi/nOaaqYhBwcA/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nIREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/\n\nOracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "tU4TeHcFWFg",
-      "show": "The Free Press",
-      "title": "How Bishop Robert Barron defines God",
-      "url": "https://www.youtube.com/watch?v=tU4TeHcFWFg",
-      "date": "2026-09-15T15:00:22.000Z",
-      "image": "https://i1.ytimg.com/vi/tU4TeHcFWFg/hqdefault.jpg",
-      "desc": "https://bit.ly/theo-von",
-      "guestTags": []
+      "videoId": "nOaaqYhBwcA",
+      "show": "All-In Podcast",
+      "title": "Elon Musk: Terafab is a Hedge Against Taiwan AND a Necessity to Scale Tesla/SpaceX",
+      "url": "https://www.youtube.com/watch?v=nOaaqYhBwcA",
+      "date": "2026-09-15T20:15:34.000Z",
+      "image": "https://i3.ytimg.com/vi/nOaaqYhBwcA/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nIREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/\n\nOracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the",
+      "guestTags": [
+        "Elon Musk"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Elon Musk": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
