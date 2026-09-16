@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T21:05:17.366Z",
+  "lastUpdated": "2026-09-16T00:04:10.207Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nOaaqYhBwcA",
+      "videoId": "QGKlOf_kThY",
       "show": "All-In Podcast",
-      "title": "Elon Musk: Terafab is a Hedge Against Taiwan AND a Necessity to Scale Tesla/SpaceX",
-      "url": "https://www.youtube.com/watch?v=nOaaqYhBwcA",
-      "date": "2026-09-15T20:15:34.000Z",
-      "image": "https://i3.ytimg.com/vi/nOaaqYhBwcA/hqdefault.jpg",
-      "desc": "Thanks to our partners for making this possible!\n\nIREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/\n\nOracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the",
-      "guestTags": [
-        "Elon Musk"
-      ]
+      "title": "JD Vance to AI Labs: Don’t Build “Frankenstein” and Then Ask for Government Regulation",
+      "url": "https://www.youtube.com/watch?v=QGKlOf_kThY",
+      "date": "2026-09-15T22:10:26.000Z",
+      "image": "https://i2.ytimg.com/vi/QGKlOf_kThY/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nIREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/\n\nMeta believes the future is for everyone. We're focused on giving every person the tools to reach their",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nOaaqYhBwcA",
+      "videoId": "QGKlOf_kThY",
       "show": "All-In Podcast",
-      "title": "Elon Musk: Terafab is a Hedge Against Taiwan AND a Necessity to Scale Tesla/SpaceX",
-      "url": "https://www.youtube.com/watch?v=nOaaqYhBwcA",
-      "date": "2026-09-15T20:15:34.000Z",
-      "image": "https://i3.ytimg.com/vi/nOaaqYhBwcA/hqdefault.jpg",
-      "desc": "Thanks to our partners for making this possible!\n\nIREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/\n\nOracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the",
-      "guestTags": [
-        "Elon Musk"
-      ]
+      "title": "JD Vance to AI Labs: Don’t Build “Frankenstein” and Then Ask for Government Regulation",
+      "url": "https://www.youtube.com/watch?v=QGKlOf_kThY",
+      "date": "2026-09-15T22:10:26.000Z",
+      "image": "https://i2.ytimg.com/vi/QGKlOf_kThY/hqdefault.jpg",
+      "desc": "Thanks to our partners for making this possible!\n\nIREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/\n\nMeta believes the future is for everyone. We're focused on giving every person the tools to reach their",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Elon Musk": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
