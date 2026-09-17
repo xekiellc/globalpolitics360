@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T16:39:00.109Z",
+  "lastUpdated": "2026-09-17T21:09:23.712Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
@@ -7,17 +7,27 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Tucker Carlson Gets CANDID About Trump, Israel, the Warning Signs He MISSED, PLUS CNN Is Clueless",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/85b39cc0-13c4-420c-a087-0f6a0d3e121d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=85b39cc0-13c4-420c-a087-0f6a0d3e121d&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-17T11:00:00.000Z",
-      "duration": "01:09:23",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/406d3b0a-b573-47b8-8fc5-5c207202aecb/3000x3000/cropped_1789609294988.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky sits down with Tucker Carlson, host of “The Tucker Carlson Show,” for a candid conversation about his changing relationship with President Donald Trump, the Butler assassination attempt, Israel, artificial intelligence, and more. Tucker reacts to his 2024 RNC speech for the first time, raises new questions about would-be assassin Thomas Matthew Crooks, and admits he ignored warning",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
+      "show": "All-In Podcast",
+      "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom &amp; Meta's Future",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Dina_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future",
+      "date": "2026-09-17T16:54:00.000Z",
+      "duration": "43:52",
+      "image": "https://static.libsyn.com/p/assets/9/e/2/2/9e224027d12228d85f2e77a3093c12a1/1_Pod_DPM.png",
+      "desc": "(0:00) Dina Powell McCormick joins The Besties! (1:52) Impact of Meta's data center in Richland Parish, LA: $50K teacher checks, revitalizing a small town community (11:52) How Meta is alleviating data center concerns: pollution, electricity, water, noise, aesthetics; Misinformation campaigns (19:57) America's Workforce Academy, the job growth in re-industrializing America (26:58) Meta's recent so",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "9/17/26: Trump Panics As Fed Raises Rates, Gas Stations Out Of Diesel, Americans Say Shut Down AI",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/190ee4d8-ed3b-4d94-aac8-b4c80110b2cf/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-17-26-trump-panics-as-fed-raises-rates-gas-stations-out-of-diesel-americans-say-shut-down-ai",
+      "date": "2026-09-17T16:41:35.000Z",
+      "duration": "3847",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "On today's show, Krystal and Saagar discuss the Fed hiking interest rates, Gas stations running out of diesel, Derek Thompson joins to discuss AI and polling showing 78% of Americans think it could destroy humanity, and finally a US vessel struck by Iran. &nbsp; Derek Thompson:&nbsp;https://www.derekthompson.org/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FRE",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -56,18 +66,6 @@
       "guestTags": [
         "Edward Snowden"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "9/16/26: Bessent Defends Terrible Economy, Massie Says Impeach Hegseth, Trump Mail In Ballot Smackdown",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/f97c6339-43c6-4750-acd9-b4c7010669d4/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-16-26-bessent-defends-terrible-economy-massie-says-impeach-hegseth-trump-mail-in-ballot-smackdown",
-      "date": "2026-09-16T16:05:30.000Z",
-      "duration": "3615",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "On today's Wednesday show Ryan and Emily discuss Scott Bessent blaming Americans for the disastrous economy, Thomas Massie introducing impeachment against Pete Hegseth for the Iran War, and Trump raging at SCOTUS for the mail in ballot smackdown. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp;",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -133,17 +131,27 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Tucker Carlson Gets CANDID About Trump, Israel, the Warning Signs He MISSED, PLUS CNN Is Clueless",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/85b39cc0-13c4-420c-a087-0f6a0d3e121d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=85b39cc0-13c4-420c-a087-0f6a0d3e121d&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-17T11:00:00.000Z",
-      "duration": "01:09:23",
-      "image": "https://image.simplecastcdn.com/images/1cc4ce69-c4bf-4adc-a935-77516c666561/406d3b0a-b573-47b8-8fc5-5c207202aecb/3000x3000/cropped_1789609294988.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky sits down with Tucker Carlson, host of “The Tucker Carlson Show,” for a candid conversation about his changing relationship with President Donald Trump, the Butler assassination attempt, Israel, artificial intelligence, and more. Tucker reacts to his 2024 RNC speech for the first time, raises new questions about would-be assassin Thomas Matthew Crooks, and admits he ignored warning",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
+      "show": "All-In Podcast",
+      "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom &amp; Meta's Future",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Dina_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future",
+      "date": "2026-09-17T16:54:00.000Z",
+      "duration": "43:52",
+      "image": "https://static.libsyn.com/p/assets/9/e/2/2/9e224027d12228d85f2e77a3093c12a1/1_Pod_DPM.png",
+      "desc": "(0:00) Dina Powell McCormick joins The Besties! (1:52) Impact of Meta's data center in Richland Parish, LA: $50K teacher checks, revitalizing a small town community (11:52) How Meta is alleviating data center concerns: pollution, electricity, water, noise, aesthetics; Misinformation campaigns (19:57) America's Workforce Academy, the job growth in re-industrializing America (26:58) Meta's recent so",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "9/17/26: Trump Panics As Fed Raises Rates, Gas Stations Out Of Diesel, Americans Say Shut Down AI",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/190ee4d8-ed3b-4d94-aac8-b4c80110b2cf/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-17-26-trump-panics-as-fed-raises-rates-gas-stations-out-of-diesel-americans-say-shut-down-ai",
+      "date": "2026-09-17T16:41:35.000Z",
+      "duration": "3847",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "On today's show, Krystal and Saagar discuss the Fed hiking interest rates, Gas stations running out of diesel, Derek Thompson joins to discuss AI and polling showing 78% of Americans think it could destroy humanity, and finally a US vessel struck by Iran. &nbsp; Derek Thompson:&nbsp;https://www.derekthompson.org/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FRE",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -182,18 +190,6 @@
       "guestTags": [
         "Edward Snowden"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "9/16/26: Bessent Defends Terrible Economy, Massie Says Impeach Hegseth, Trump Mail In Ballot Smackdown",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/f97c6339-43c6-4750-acd9-b4c7010669d4/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-16-26-bessent-defends-terrible-economy-massie-says-impeach-hegseth-trump-mail-in-ballot-smackdown",
-      "date": "2026-09-16T16:05:30.000Z",
-      "duration": "3615",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "On today's Wednesday show Ryan and Emily discuss Scott Bessent blaming Americans for the disastrous economy, Thomas Massie introducing impeachment against Pete Hegseth for the Iran War, and Trump raging at SCOTUS for the mail in ballot smackdown. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp;",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -269,9 +265,6 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
     ]
