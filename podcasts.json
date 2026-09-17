@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-09-16T22:47:46.557Z",
+  "lastUpdated": "2026-09-17T04:22:34.386Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1716,
+  "taggedCount": 1792,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq &amp; AI's Take Off Problem",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
+      "date": "2026-09-17T03:04:00.000Z",
+      "duration": "18:10",
+      "image": "https://static.libsyn.com/p/assets/a/3/b/8/a3b84e95eec0a80be55e3c100dce7605/signal-2026-09-16-23-09-12-817.jpg",
+      "desc": "(0:00) Welcome Brad Gerstner! (1:01) Trump Accounts, Every Child a Capitalist & The CAC Scan (5:07) Can AI revenue pay for the CapEx? (8:53) The Build Out Issue: Gigawatts, TAM, Token Growth, and Margin Expansion (12:30) The risks: AI regulation, the nuclear precedent, power limits, and rising rates Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform,",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &#038; Jung",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
+      "listenUrl": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull",
+      "date": "2026-09-17T00:40:49.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; submit questions,",
+      "guestTags": [
+        "Edward Snowden"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
@@ -68,18 +94,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse &amp; the Midterms",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
-      "date": "2026-09-15T20:46:00.000Z",
-      "duration": "27:32",
-      "image": "https://static.libsyn.com/p/assets/3/b/2/1/3b21d4c1c8af4c7027a2322813b393ee/1_Pod_JDVance.png",
-      "desc": "(0:00) VP JD Vance joins The Besties! (1:40) Assessing the Trump Admin so far: Border control, re-industrialization, inflation, Iran, government debt, anti-fraud (9:28) AI approach: Dealing with Doomerism, \"Frankenstein,\" and AI negativity (16:23) H-1B abuse and the massive $1T+ of fraud in federal spending (21:48) Relationship with Israel, rational foreign policy (25:19) JD Vance's midterms messa",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KILL TONY #785",
@@ -89,18 +103,6 @@
       "duration": "02:14:10",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Duncan Trussell, Kurt Metzger, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/07/2026&nbsp;This episode is sponsored by:PrizePicks: Visit https://prizepicks.onelink.me/LME0/TONYand use code TONY and get $150 if you win your firs",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &#038; Linux",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3",
-      "listenUrl": "https://lexfridman.com/dhh-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dhh-2",
-      "date": "2026-08-26T21:47:04.000Z",
-      "duration": "5:21:57",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridma",
       "guestTags": []
     },
     {
@@ -130,6 +132,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq &amp; AI's Take Off Problem",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
+      "date": "2026-09-17T03:04:00.000Z",
+      "duration": "18:10",
+      "image": "https://static.libsyn.com/p/assets/a/3/b/8/a3b84e95eec0a80be55e3c100dce7605/signal-2026-09-16-23-09-12-817.jpg",
+      "desc": "(0:00) Welcome Brad Gerstner! (1:01) Trump Accounts, Every Child a Capitalist & The CAC Scan (5:07) Can AI revenue pay for the CapEx? (8:53) The Build Out Issue: Gigawatts, TAM, Token Growth, and Margin Expansion (12:30) The risks: AI regulation, the nuclear precedent, power limits, and rising rates Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform,",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &#038; Jung",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
+      "listenUrl": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull",
+      "date": "2026-09-17T00:40:49.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; submit questions,",
+      "guestTags": [
+        "Edward Snowden"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
       "title": "\"Reform is Screwed\"- Dan Hodges",
@@ -192,18 +220,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse &amp; the Midterms",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
-      "date": "2026-09-15T20:46:00.000Z",
-      "duration": "27:32",
-      "image": "https://static.libsyn.com/p/assets/3/b/2/1/3b21d4c1c8af4c7027a2322813b393ee/1_Pod_JDVance.png",
-      "desc": "(0:00) VP JD Vance joins The Besties! (1:40) Assessing the Trump Admin so far: Border control, re-industrialization, inflation, Iran, government debt, anti-fraud (9:28) AI approach: Dealing with Doomerism, \"Frankenstein,\" and AI negativity (16:23) H-1B abuse and the massive $1T+ of fraud in federal spending (21:48) Relationship with Israel, rational foreign policy (25:19) JD Vance's midterms messa",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KILL TONY #785",
@@ -213,18 +229,6 @@
       "duration": "02:14:10",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Duncan Trussell, Kurt Metzger, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/07/2026&nbsp;This episode is sponsored by:PrizePicks: Visit https://prizepicks.onelink.me/LME0/TONYand use code TONY and get $150 if you win your firs",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &#038; Linux",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3",
-      "listenUrl": "https://lexfridman.com/dhh-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dhh-2",
-      "date": "2026-08-26T21:47:04.000Z",
-      "duration": "5:21:57",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridma",
       "guestTags": []
     },
     {
@@ -265,6 +269,9 @@
     }
   ],
   "guestIndex": {
+    "Edward Snowden": [
+      "aHR0cHM6Ly9tZWRpYS5ibHVi"
+    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
     ]
