@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-09-17T04:22:37.147Z",
+  "lastUpdated": "2026-09-17T11:22:09.850Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 27,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "3DJgMJtxtp0",
+      "show": "Theo Von",
+      "title": "Scott Payne on How the Cartel Really Operates",
+      "url": "https://www.youtube.com/watch?v=3DJgMJtxtp0",
+      "date": "2026-09-17T11:00:05.000Z",
+      "image": "https://i4.ytimg.com/vi/3DJgMJtxtp0/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #674 Scott Payne\nFull Episode: https://www.youtube.com/watch?v=YhMRREG7sM8\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweek",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "dZgszRpCVrM",
-      "show": "Shawn Ryan Show",
-      "title": "What Does the Bible Say About Killing in War?",
-      "url": "https://www.youtube.com/watch?v=dZgszRpCVrM",
-      "date": "2026-09-16T22:00:12.000Z",
-      "image": "https://i1.ytimg.com/vi/dZgszRpCVrM/hqdefault.jpg",
-      "desc": "Can you be a Christian and take a life in war?\n\nShawn Ryan and former British SAS operator Christian Craighead sit down for a candid conversation about faith, killing, morality, and the realities of combat. They discuss whether taking a life in war makes someone a murderer, who determines what is tr",
+      "videoId": "3DJgMJtxtp0",
+      "show": "Theo Von",
+      "title": "Scott Payne on How the Cartel Really Operates",
+      "url": "https://www.youtube.com/watch?v=3DJgMJtxtp0",
+      "date": "2026-09-17T11:00:05.000Z",
+      "image": "https://i4.ytimg.com/vi/3DJgMJtxtp0/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #674 Scott Payne\nFull Episode: https://www.youtube.com/watch?v=YhMRREG7sM8\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweek",
       "guestTags": []
     }
   ],
