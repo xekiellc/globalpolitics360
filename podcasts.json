@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-18T07:14:57.412Z",
+  "lastUpdated": "2026-09-18T12:50:16.734Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1793,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "The AI Warning Is Information. It Is Not a Conclusion.",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/125915503/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2Ffd5baebb-cede-416f-7642-0b66c601594e.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-AI-Warning-Is-Information--It-Is-Not-a-Conclusion-e3p14tf",
+      "date": "2026-09-18T10:00:00.000Z",
+      "duration": "00:21:14",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1789700673148-425a1db142e19.jpg",
+      "desc": "Artificial intelligence is moving from answering questions to taking actions. In controlled tests, advanced AI models have deceived operators, attempted blackmail, concealed information, recognized when they were being evaluated, and taken steps researchers describe as self-preservation behavior.Those findings have produced extraordinary warnings about where AI may be headed. But a warning is info",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -77,18 +89,6 @@
       "duration": "12079",
       "image": "https://megaphone.imgix.net/podcasts/3d01a39c-aedf-11f1-9ba4-6b8c5b58bf8c/image/207d461ffc86b1f7fdf5c5d91d7d9c3a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n1) ULTRA POUCHES: Don’t sleep on [@ultrapouches]. New customers get 15% Off with code JULIAN at https://takeultra.com !#UltraPouches #ad\n2) DOSE: Head to dosedaily.co/JULIAN or enter JULIAN to get 35% off your first subscription. \n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\n\nhttps://www.patreon.com/JulianDorey \n\n\n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\n\n\nNEWSLETTER: ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The German Cell in Benghazi",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/125800978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2Ff6e97e61-fb6a-551c-a3e3-6ccbf693c5b0.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-German-Cell-in-Benghazi-e3otl2i",
-      "date": "2026-09-16T10:00:00.000Z",
-      "duration": "00:18:22",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1789525307092-515fc811c65fc.jpg",
-      "desc": "For fourteen years, most of the Benghazi debate has focused on what happened after the attack began. This episode looks at what happened before.In May 2026, Dave “Boon” Benton and I returned to Benghazi, where we were briefed on a completed Libyan investigation into the terrorists and networks behind the 2012 attacks. One part of that investigation followed a German terrorist cell that moved from ",
       "guestTags": []
     },
     {
@@ -130,6 +130,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "The AI Warning Is Information. It Is Not a Conclusion.",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/125915503/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2Ffd5baebb-cede-416f-7642-0b66c601594e.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-AI-Warning-Is-Information--It-Is-Not-a-Conclusion-e3p14tf",
+      "date": "2026-09-18T10:00:00.000Z",
+      "duration": "00:21:14",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1789700673148-425a1db142e19.jpg",
+      "desc": "Artificial intelligence is moving from answering questions to taking actions. In controlled tests, advanced AI models have deceived operators, attempted blackmail, concealed information, recognized when they were being evaluated, and taken steps researchers describe as self-preservation behavior.Those findings have produced extraordinary warnings about where AI may be headed. But a warning is info",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "Nick Shirley: Exposing Government Fraud, Suing California &amp; Taking on the Media",
@@ -201,18 +213,6 @@
       "duration": "12079",
       "image": "https://megaphone.imgix.net/podcasts/3d01a39c-aedf-11f1-9ba4-6b8c5b58bf8c/image/207d461ffc86b1f7fdf5c5d91d7d9c3a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n1) ULTRA POUCHES: Don’t sleep on [@ultrapouches]. New customers get 15% Off with code JULIAN at https://takeultra.com !#UltraPouches #ad\n2) DOSE: Head to dosedaily.co/JULIAN or enter JULIAN to get 35% off your first subscription. \n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\n\nhttps://www.patreon.com/JulianDorey \n\n\n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\n\n\nNEWSLETTER: ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The German Cell in Benghazi",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/125800978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2Ff6e97e61-fb6a-551c-a3e3-6ccbf693c5b0.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-German-Cell-in-Benghazi-e3otl2i",
-      "date": "2026-09-16T10:00:00.000Z",
-      "duration": "00:18:22",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1789525307092-515fc811c65fc.jpg",
-      "desc": "For fourteen years, most of the Benghazi debate has focused on what happened after the attack began. This episode looks at what happened before.In May 2026, Dave “Boon” Benton and I returned to Benghazi, where we were briefed on a completed Libyan investigation into the terrorists and networks behind the 2012 attacks. One part of that investigation followed a German terrorist cell that moved from ",
       "guestTags": []
     },
     {
