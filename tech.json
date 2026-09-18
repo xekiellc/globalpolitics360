@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-18T17:36:14.607Z",
+  "lastUpdated": "2026-09-18T20:41:45.184Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Ep 162: Brian Chau Built an AI That Uncovers Fraud — It Just Found a $21 Billion Racial Wealth Transfer",
+      "url": "https://blog.joelonsdale.com/p/ep-162-brian-chau-built-an-ai-that",
+      "date": "2026-09-18T20:07:41.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
+      "url": "https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail",
+      "date": "2026-09-18T20:00:13.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image13_1920x1080.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000",
@@ -97,15 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/ric-edelman-says-bitcoin-is-like-amazon",
       "date": "2026-09-17T15:54:50.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Ric-Edelman-Buying-Bitcoin-Today-Is-Like-Buying-Amazon-in-1999.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Peter Schiff: &#8220;The Fed Has Already Lost The Battle Against Inflation&#8221; &#038; BTC vs GOLD Debate",
-      "url": "https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle",
-      "date": "2026-09-16T20:28:50.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Peter-Schiff-22The-Fed-Has-Already-Lost-The-Battle-Against-Inflation22-BTC-vs-GOLD-Debate-.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Weekly Dose of Optimism #207",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-207",
-      "date": "2026-08-21T14:23:17.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!DIKB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6a54ae1-fc96-406c-a489-ae228c2bce2c_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
