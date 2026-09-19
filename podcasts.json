@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-18T20:41:53.072Z",
+  "lastUpdated": "2026-09-19T00:02:25.589Z",
   "showCount": 22,
-  "episodeCount": 9,
+  "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1481,
+  "taggedCount": 1796,
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -55,6 +55,18 @@
       "duration": "00:21:14",
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1789700673148-425a1db142e19.jpg",
       "desc": "Artificial intelligence is moving from answering questions to taking actions. In controlled tests, advanced AI models have deceived operators, attempted blackmail, concealed information, recognized when they were being evaluated, and taken steps researchers describe as self-preservation behavior.Those findings have produced extraordinary warnings about where AI may be headed. But a warning is info",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "9/17/26: Trump Panics As Fed Raises Rates, Gas Stations Out Of Diesel, Americans Say Shut Down AI",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/190ee4d8-ed3b-4d94-aac8-b4c80110b2cf/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-17-26-trump-panics-as-fed-raises-rates-gas-stations-out-of-diesel-americans-say-shut-down-ai",
+      "date": "2026-09-17T16:41:35.000Z",
+      "duration": "3847",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "On today's show, Krystal and Saagar discuss the Fed hiking interest rates, Gas stations running out of diesel, Derek Thompson joins to discuss AI and polling showing 78% of Americans think it could destroy humanity, and finally a US vessel struck by Iran. &nbsp; Derek Thompson:&nbsp;https://www.derekthompson.org/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FRE",
       "guestTags": []
     },
     {
