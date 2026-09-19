@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T00:02:25.589Z",
+  "lastUpdated": "2026-09-19T07:12:23.300Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
@@ -7,17 +7,15 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: Those Tucker &amp; VDH Interviews, McConnell’s Complicated Legacy, and the “Narnia” Controversy: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/a2109653-e3f5-4fc7-81a9-c1bcbf23038f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=a2109653-e3f5-4fc7-81a9-c1bcbf23038f&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-18T20:00:00.000Z",
-      "duration": "01:31:49",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky revisits the Lindsay Clancy case and considers whether the intense response from affluent white women reflects a broader cry for help from people struggling with the consequences of materialism and modern culture. She discusses tax reform and stay-at-home moms before diving into immigration, the importance of prioritizing American citizens, a",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
+      "show": "All-In Podcast",
+      "title": "Bill Gurley: Searching for Feynman",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth",
+      "date": "2026-09-19T00:20:00.000Z",
+      "duration": "38:29",
+      "image": "https://static.libsyn.com/p/assets/7/d/2/6/7d26105dffe94aa0e5bbc093207a2619/1_Pod_Gurley.png",
+      "desc": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research:   https://www.p3.institute/searching_for_feynman_resource_links.html Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI tr",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -135,17 +133,15 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "&quot;Happy Hour&quot;: Those Tucker &amp; VDH Interviews, McConnell’s Complicated Legacy, and the “Narnia” Controversy: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/a2109653-e3f5-4fc7-81a9-c1bcbf23038f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=a2109653-e3f5-4fc7-81a9-c1bcbf23038f&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-18T20:00:00.000Z",
-      "duration": "01:31:49",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky revisits the Lindsay Clancy case and considers whether the intense response from affluent white women reflects a broader cry for help from people struggling with the consequences of materialism and modern culture. She discusses tax reform and stay-at-home moms before diving into immigration, the importance of prioritizing American citizens, a",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
+      "show": "All-In Podcast",
+      "title": "Bill Gurley: Searching for Feynman",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth",
+      "date": "2026-09-19T00:20:00.000Z",
+      "duration": "38:29",
+      "image": "https://static.libsyn.com/p/assets/7/d/2/6/7d26105dffe94aa0e5bbc093207a2619/1_Pod_Gurley.png",
+      "desc": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research:   https://www.p3.institute/searching_for_feynman_resource_links.html Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI tr",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -273,9 +269,6 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
