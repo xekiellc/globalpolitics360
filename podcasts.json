@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-20T18:35:58.482Z",
+  "lastUpdated": "2026-09-20T22:18:40.890Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1798,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 &amp; the $50B Game Ad Market",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
+      "date": "2026-09-20T20:49:00.000Z",
+      "duration": "23:52",
+      "image": "https://static.libsyn.com/p/assets/7/6/e/5/76e538ca850ee80de5bbc093207a2619/Podcast_Thumbnail_-_AIS_26-20260920-4hsy5e44i2.png",
+      "desc": "(0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents change people's shopping (20:00) How a lean team beats the giants, margin moats & building in China   Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platfor",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -42,18 +54,6 @@
       "guestTags": [
         "Julian Dorey"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Bill Gurley: Searching for Feynman",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth",
-      "date": "2026-09-19T00:20:00.000Z",
-      "duration": "38:29",
-      "image": "https://static.libsyn.com/p/assets/7/d/2/6/7d26105dffe94aa0e5bbc093207a2619/1_Pod_Gurley.png",
-      "desc": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research:   https://www.p3.institute/searching_for_feynman_resource_links.html Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI tr",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 &amp; the $50B Game Ad Market",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
+      "date": "2026-09-20T20:49:00.000Z",
+      "duration": "23:52",
+      "image": "https://static.libsyn.com/p/assets/7/6/e/5/76e538ca850ee80de5bbc093207a2619/Podcast_Thumbnail_-_AIS_26-20260920-4hsy5e44i2.png",
+      "desc": "(0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents change people's shopping (20:00) How a lean team beats the giants, margin moats & building in China   Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platfor",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KT: Behind the Tape (Ep: 785 Duncan Trussell + Kurt Metzger)",
@@ -168,18 +180,6 @@
       "guestTags": [
         "Julian Dorey"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Bill Gurley: Searching for Feynman",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth",
-      "date": "2026-09-19T00:20:00.000Z",
-      "duration": "38:29",
-      "image": "https://static.libsyn.com/p/assets/7/d/2/6/7d26105dffe94aa0e5bbc093207a2619/1_Pod_Gurley.png",
-      "desc": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research:   https://www.p3.institute/searching_for_feynman_resource_links.html Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI tr",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
