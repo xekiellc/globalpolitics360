@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-09-21T19:10:44.211Z",
+  "lastUpdated": "2026-09-21T23:05:36.394Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1714,
+  "taggedCount": 1800,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
+      "date": "2026-09-21T21:03:00.000Z",
+      "duration": "22:35",
+      "image": "https://static.libsyn.com/p/assets/8/0/d/f/80dfa9286a3a8956e5bbc093207a2619/signal-2026-09-21-15-08-09-760.jpg",
+      "desc": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team   Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, ",
+      "guestTags": [
+        "Chamath"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
@@ -53,18 +67,6 @@
       "duration": "8888",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity medicine. He explains how your GI tract regulates hunger, fullness, and blood sugar, as well as the gu",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 &amp; the $50B Game Ad Market",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
-      "date": "2026-09-20T20:49:00.000Z",
-      "duration": "23:52",
-      "image": "https://static.libsyn.com/p/assets/7/6/e/5/76e538ca850ee80de5bbc093207a2619/Podcast_Thumbnail_-_AIS_26-20260920-4hsy5e44i2.png",
-      "desc": "(0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents change people's shopping (20:00) How a lean team beats the giants, margin moats & building in China   Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platfor",
       "guestTags": []
     },
     {
@@ -134,6 +136,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
+      "date": "2026-09-21T21:03:00.000Z",
+      "duration": "22:35",
+      "image": "https://static.libsyn.com/p/assets/8/0/d/f/80dfa9286a3a8956e5bbc093207a2619/signal-2026-09-21-15-08-09-760.jpg",
+      "desc": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team   Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, ",
+      "guestTags": [
+        "Chamath"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "The Jordan B. Peterson Podcast",
       "title": "Why Listening Beats Every Argument",
@@ -181,18 +197,6 @@
       "duration": "8888",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity medicine. He explains how your GI tract regulates hunger, fullness, and blood sugar, as well as the gu",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 &amp; the $50B Game Ad Market",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
-      "date": "2026-09-20T20:49:00.000Z",
-      "duration": "23:52",
-      "image": "https://static.libsyn.com/p/assets/7/6/e/5/76e538ca850ee80de5bbc093207a2619/Podcast_Thumbnail_-_AIS_26-20260920-4hsy5e44i2.png",
-      "desc": "(0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents change people's shopping (20:00) How a lean team beats the giants, margin moats & building in China   Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platfor",
       "guestTags": []
     },
     {
@@ -273,6 +277,9 @@
     }
   ],
   "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
     ],
