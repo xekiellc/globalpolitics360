@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-09-21T04:20:12.556Z",
+  "lastUpdated": "2026-09-21T12:28:47.858Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 21,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "ecjEM3NJ0lU",
+      "show": "Huberman Lab",
+      "title": "Best Tools for Gut Health &amp; Weight Loss | Dr. Chris Thompson",
+      "url": "https://www.youtube.com/watch?v=ecjEM3NJ0lU",
+      "date": "2026-09-21T12:00:15.000Z",
+      "image": "https://i2.ytimg.com/vi/ecjEM3NJ0lU/hqdefault.jpg",
+      "desc": "Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity me",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "I5jOM07Y_DA",
-      "show": "Shawn Ryan Show",
-      "title": "Why Jesus Didn't Need a Guardian Angel",
-      "url": "https://www.youtube.com/watch?v=I5jOM07Y_DA",
-      "date": "2026-09-20T22:00:32.000Z",
-      "image": "https://i2.ytimg.com/vi/I5jOM07Y_DA/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "videoId": "ecjEM3NJ0lU",
+      "show": "Huberman Lab",
+      "title": "Best Tools for Gut Health &amp; Weight Loss | Dr. Chris Thompson",
+      "url": "https://www.youtube.com/watch?v=ecjEM3NJ0lU",
+      "date": "2026-09-21T12:00:15.000Z",
+      "image": "https://i2.ytimg.com/vi/ecjEM3NJ0lU/hqdefault.jpg",
+      "desc": "Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity me",
       "guestTags": []
     }
   ],
