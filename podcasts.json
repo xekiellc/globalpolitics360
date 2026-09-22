@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-09-22T04:15:45.846Z",
+  "lastUpdated": "2026-09-22T11:18:00.806Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1800,
+  "taggedCount": 1801,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "AI Panic, Nikole Hannah-Jones Flip-Flop, Patrick Clancy Speaks &amp; White House Media Revolt",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/44c7b1f6-bc1b-4a25-87f9-4408fd61738f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=44c7b1f6-bc1b-4a25-87f9-4408fd61738f&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-09-22T11:00:00.000Z",
+      "duration": "01:32:40",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by “Singularity Weekly” host and “Dark Aeon” author Joe Allen to break down the escalating battle over artificial intelligence ahead of the U.N. General Assembly. They examine the divide between AI “doomers” and accelerationists, the race with China, growing calls for regulation, and the increasingly powerful AI industry’s influence in Washington. Emily also digs into Nik",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -29,20 +43,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave discusses the falling support for Trump as we approach the midterms, responds to Victor Davis Hanson's defense of Israel, and more.Support Our Sponsors:The Wellness Company - USA compounded, The Wellness Company’s RX Ivermectin + Mebendazole Parasite Cleanse! Click http://www.twc.health/problem and use code ",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
-      "date": "2026-09-21T21:03:00.000Z",
-      "duration": "22:35",
-      "image": "https://static.libsyn.com/p/assets/8/0/d/f/80dfa9286a3a8956e5bbc093207a2619/signal-2026-09-21-15-08-09-760.jpg",
-      "desc": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team   Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, ",
-      "guestTags": [
-        "Chamath"
       ]
     },
     {
@@ -136,6 +136,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "AI Panic, Nikole Hannah-Jones Flip-Flop, Patrick Clancy Speaks &amp; White House Media Revolt",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/44c7b1f6-bc1b-4a25-87f9-4408fd61738f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=44c7b1f6-bc1b-4a25-87f9-4408fd61738f&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-09-22T11:00:00.000Z",
+      "duration": "01:32:40",
+      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by “Singularity Weekly” host and “Dark Aeon” author Joe Allen to break down the escalating battle over artificial intelligence ahead of the U.N. General Assembly. They examine the divide between AI “doomers” and accelerationists, the race with China, growing calls for regulation, and the increasingly powerful AI industry’s influence in Washington. Emily also digs into Nik",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KILL TONY #786",
@@ -159,20 +173,6 @@
       "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave discusses the falling support for Trump as we approach the midterms, responds to Victor Davis Hanson's defense of Israel, and more.Support Our Sponsors:The Wellness Company - USA compounded, The Wellness Company’s RX Ivermectin + Mebendazole Parasite Cleanse! Click http://www.twc.health/problem and use code ",
       "guestTags": [
         "Dave Smith"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
-      "date": "2026-09-21T21:03:00.000Z",
-      "duration": "22:35",
-      "image": "https://static.libsyn.com/p/assets/8/0/d/f/80dfa9286a3a8956e5bbc093207a2619/signal-2026-09-21-15-08-09-760.jpg",
-      "desc": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team   Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, ",
-      "guestTags": [
-        "Chamath"
       ]
     },
     {
@@ -277,11 +277,11 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
