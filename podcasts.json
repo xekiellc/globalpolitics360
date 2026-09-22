@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-22T16:40:12.087Z",
+  "lastUpdated": "2026-09-22T21:05:53.496Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1802,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2556 - Siddharth Kara",
+      "audioUrl": "https://traffic.megaphone.fm/GLT6395368742.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT6395368742.mp3",
+      "date": "2026-09-22T17:00:00.000Z",
+      "duration": "8870",
+      "image": "https://megaphone.imgix.net/podcasts/36952024-b60a-11f1-903c-771baa11d490/image/117c9900038d3269a048bdd082fef824.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Siddharth Kara, PhD, is the author of several books, including \"Cobalt Red: How the Blood of the Congo Powers Our Lives,\" and, most recently, \"The Zorg: A Tale of Greed and Murder That Inspired the Abolition of Slavery.\"https://us.macmillan.com/books/9781250348227/thezorg/www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/siddharth-kara/index.aspx\n\n\n\nPerplexity: Download the a",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -48,13 +60,13 @@
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
-      "title": "KILL TONY #786",
+      "title": "#786 - DONNELL RAWLINGS + SAM TALLENT",
       "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/20e9456f-c465-46a9-8bfe-11ec7db08f0c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=20e9456f-c465-46a9-8bfe-11ec7db08f0c&amp;feed=JZSQrle9",
       "listenUrl": "http://deathsquad.tv",
       "date": "2026-09-22T01:00:00.000Z",
       "duration": "02:36:40",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Donnell Rawlings, Sam Tallent, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/14/2026\n Hosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com\nfor information about our collection and use of personal data for\nadver",
+      "desc": "Donnell Rawlings, Sam Tallent, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/14/2026THIS EPISODE IS SPONSORED BY:\n\n &nbsp;SuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ",
       "guestTags": []
     },
     {
@@ -82,18 +94,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Best Tools for Gut Health &amp; Weight Loss | Dr. Chris Thompson",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7025523715.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson",
-      "date": "2026-09-21T08:00:00.000Z",
-      "duration": "8888",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity medicine. He explains how your GI tract regulates hunger, fullness, and blood sugar, as well as the gu",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -136,6 +136,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2556 - Siddharth Kara",
+      "audioUrl": "https://traffic.megaphone.fm/GLT6395368742.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT6395368742.mp3",
+      "date": "2026-09-22T17:00:00.000Z",
+      "duration": "8870",
+      "image": "https://megaphone.imgix.net/podcasts/36952024-b60a-11f1-903c-771baa11d490/image/117c9900038d3269a048bdd082fef824.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Siddharth Kara, PhD, is the author of several books, including \"Cobalt Red: How the Blood of the Congo Powers Our Lives,\" and, most recently, \"The Zorg: A Tale of Greed and Murder That Inspired the Abolition of Slavery.\"https://us.macmillan.com/books/9781250348227/thezorg/www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/siddharth-kara/index.aspx\n\n\n\nPerplexity: Download the a",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "Andrew Huberman's GLP-1 Expert Reveals Big Pharma &amp; Peptide Lies | Dr. Abud Bakri",
@@ -178,13 +190,13 @@
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
-      "title": "KILL TONY #786",
+      "title": "#786 - DONNELL RAWLINGS + SAM TALLENT",
       "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/20e9456f-c465-46a9-8bfe-11ec7db08f0c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=20e9456f-c465-46a9-8bfe-11ec7db08f0c&amp;feed=JZSQrle9",
       "listenUrl": "http://deathsquad.tv",
       "date": "2026-09-22T01:00:00.000Z",
       "duration": "02:36:40",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Donnell Rawlings, Sam Tallent, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/14/2026\n Hosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com\nfor information about our collection and use of personal data for\nadver",
+      "desc": "Donnell Rawlings, Sam Tallent, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/14/2026THIS EPISODE IS SPONSORED BY:\n\n &nbsp;SuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ",
       "guestTags": []
     },
     {
@@ -212,18 +224,6 @@
       "guestTags": [
         "Sarah Adams"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Best Tools for Gut Health &amp; Weight Loss | Dr. Chris Thompson",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7025523715.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson",
-      "date": "2026-09-21T08:00:00.000Z",
-      "duration": "8888",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity medicine. He explains how your GI tract regulates hunger, fullness, and blood sugar, as well as the gu",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
