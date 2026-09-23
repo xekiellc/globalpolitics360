@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T18:20:03.712Z",
+  "lastUpdated": "2026-09-23T22:50:55.085Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FvA0ssAS--E",
-      "show": "All-In Podcast",
-      "title": "Jensen Huang Calls Out AI Doomers: “All of These Predictions Have Been Wrong”",
-      "url": "https://www.youtube.com/watch?v=FvA0ssAS--E",
-      "date": "2026-09-23T18:11:50.000Z",
-      "image": "https://i3.ytimg.com/vi/FvA0ssAS--E/hqdefault.jpg",
-      "desc": "Thanks to our partners for making this possible!\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 ma",
-      "guestTags": [
-        "Jensen Huang"
-      ]
+      "videoId": "lbETfnazVlA",
+      "show": "The Free Press",
+      "title": "congrats @ellalangleymusic on breaking the record for most weeks at No 1!",
+      "url": "https://www.youtube.com/watch?v=lbETfnazVlA",
+      "date": "2026-09-23T22:17:11.000Z",
+      "image": "https://i1.ytimg.com/vi/lbETfnazVlA/hqdefault.jpg",
+      "desc": "https://bit.ly/theo-von",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FvA0ssAS--E",
-      "show": "All-In Podcast",
-      "title": "Jensen Huang Calls Out AI Doomers: “All of These Predictions Have Been Wrong”",
-      "url": "https://www.youtube.com/watch?v=FvA0ssAS--E",
-      "date": "2026-09-23T18:11:50.000Z",
-      "image": "https://i3.ytimg.com/vi/FvA0ssAS--E/hqdefault.jpg",
-      "desc": "Thanks to our partners for making this possible!\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 ma",
-      "guestTags": [
-        "Jensen Huang"
-      ]
+      "videoId": "lbETfnazVlA",
+      "show": "The Free Press",
+      "title": "congrats @ellalangleymusic on breaking the record for most weeks at No 1!",
+      "url": "https://www.youtube.com/watch?v=lbETfnazVlA",
+      "date": "2026-09-23T22:17:11.000Z",
+      "image": "https://i1.ytimg.com/vi/lbETfnazVlA/hqdefault.jpg",
+      "desc": "https://bit.ly/theo-von",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Jensen Huang": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

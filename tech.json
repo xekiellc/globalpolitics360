@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-23T18:19:55.182Z",
+  "lastUpdated": "2026-09-23T22:50:45.537Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin Price Slips While US Treasury Yields Soar, Oil Prices Climb",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-price-slips-while-yields-soar",
+      "date": "2026-09-23T21:08:27.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Price-Slips-While-US-Treasury-Yields-Soar.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "CFTC Chair Selig Says Regulator Is Preparing for ‘24-7, On-Chain’ Markets",
+      "url": "https://bitcoinmagazine.com/news/cftc-is-preparing-for-onchain-markets",
+      "date": "2026-09-23T19:55:21.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image13_1920x1080.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "NYSE and Blockchain.com Working Together To List Tokenized Stocks",
       "url": "https://bitcoinmagazine.com/news/nyse-blockchaincom-tokenized-stocks",
@@ -24,7 +42,7 @@
       "title": "Introducing the a16z Ops Engineering Fellowship",
       "url": "https://www.a16z.news/p/introducing-the-a16z-ops-engineering",
       "date": "2026-09-23T17:03:25.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/59960bd1-aa08-408e-a1f0-11858fb02059_2844x1600.png",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/2076d2fd-f5a3-48ba-aa6c-63ab30df5b1e_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
@@ -97,24 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-etf-investors-buy-nearly-1-billion",
       "date": "2026-09-22T19:55:41.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-ETFs.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin&#8217;s Bull Run Is Back — and the Data Agrees",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-bull-run-is-back-data-shows",
-      "date": "2026-09-22T18:44:51.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoins-Bull-Run-Is-Back-—-and-the-Data-Agrees.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "White Hats Move Over $4.5 in Bitcoins From Coldcard to Recovery Trust",
-      "url": "https://bitcoinmagazine.com/news/white-hats-move-bitcoins-from-coldcard",
-      "date": "2026-09-22T17:20:11.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-32.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
