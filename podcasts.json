@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-23T00:11:39.649Z",
+  "lastUpdated": "2026-09-23T07:35:33.927Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1802,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Steve Hilton &amp; Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud &amp; CA Republicans",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans",
+      "date": "2026-09-23T01:44:00.000Z",
+      "duration": "55:44",
+      "image": "https://static.libsyn.com/p/assets/9/8/6/b/986babeb267bdf5888c4a68c3ddbc4f2/Podcast_Thumbnail_-_AIS_26_1.png",
+      "desc": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living pitch & the case against Becerra (21:46) Spencer Pratt joins: the message that cut through & the LA race that flipped (26:58) The city up close: the parks, small business & who the rules actually rewar",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -42,20 +54,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Trump's approval rating craters ahead of midterms, big tech oligarchs spend millions to block regulations, Trump bends knee to China ahead of Xi summit. &nbsp; Kevin Roose:&nbsp;https://www.youtube.com/@machinegodspodAlex Bores:&nbsp;https://www.alexbores.nyc/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early v",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "AI Panic, Nikole Hannah-Jones Flip-Flop, Patrick Clancy Speaks &amp; White House Media Revolt",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/44c7b1f6-bc1b-4a25-87f9-4408fd61738f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=44c7b1f6-bc1b-4a25-87f9-4408fd61738f&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-22T11:00:00.000Z",
-      "duration": "01:32:40",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky is joined by “Singularity Weekly” host and “Dark Aeon” author Joe Allen to break down the escalating battle over artificial intelligence ahead of the U.N. General Assembly. They examine the divide between AI “doomers” and accelerationists, the race with China, growing calls for regulation, and the increasingly powerful AI industry’s influence in Washington. Emily also digs into Nik",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -136,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Steve Hilton &amp; Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud &amp; CA Republicans",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans",
+      "date": "2026-09-23T01:44:00.000Z",
+      "duration": "55:44",
+      "image": "https://static.libsyn.com/p/assets/9/8/6/b/986babeb267bdf5888c4a68c3ddbc4f2/Podcast_Thumbnail_-_AIS_26_1.png",
+      "desc": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living pitch & the case against Becerra (21:46) Spencer Pratt joins: the message that cut through & the LA race that flipped (26:58) The city up close: the parks, small business & who the rules actually rewar",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Trump The Madman",
@@ -172,20 +182,6 @@
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Trump's approval rating craters ahead of midterms, big tech oligarchs spend millions to block regulations, Trump bends knee to China ahead of Xi summit. &nbsp; Kevin Roose:&nbsp;https://www.youtube.com/@machinegodspodAlex Bores:&nbsp;https://www.alexbores.nyc/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early v",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "AI Panic, Nikole Hannah-Jones Flip-Flop, Patrick Clancy Speaks &amp; White House Media Revolt",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/44c7b1f6-bc1b-4a25-87f9-4408fd61738f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=44c7b1f6-bc1b-4a25-87f9-4408fd61738f&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-22T11:00:00.000Z",
-      "duration": "01:32:40",
-      "image": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/4aae99fd-be47-4994-9c8b-8cb52517964c/3000x3000/fs-20-20after-20party-20new-20cover-20with-20m-20jpg.jpg?aid=rss_feed",
-      "desc": "Emily Jashinsky is joined by “Singularity Weekly” host and “Dark Aeon” author Joe Allen to break down the escalating battle over artificial intelligence ahead of the U.N. General Assembly. They examine the divide between AI “doomers” and accelerationists, the race with China, growing calls for regulation, and the increasingly powerful AI industry’s influence in Washington. Emily also digs into Nik",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -279,9 +275,6 @@
   "guestIndex": {
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Sarah Adams": [
       "aHR0cHM6Ly9hbmNob3IuZm0v"
