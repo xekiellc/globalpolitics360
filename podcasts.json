@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-24T16:52:59.383Z",
+  "lastUpdated": "2026-09-24T21:21:46.664Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1805,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2558 - Tyler Engle",
+      "audioUrl": "https://traffic.megaphone.fm/GLT7969377226.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT7969377226.mp3",
+      "date": "2026-09-24T17:00:00.000Z",
+      "duration": "8983",
+      "image": "https://megaphone.imgix.net/podcasts/fdbc67aa-b7a1-11f1-974a-f3fc61fd3468/image/1a031d2726eef38308a4bab0d9ddca69.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan for 30% OFF, or find Ketone-IQ at Target nationwide.\n\n\n\nUse code DRENCHED at https://BlueChew.com &amp;nbsp;to get 10% OFF + Free Overnight ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -43,18 +55,6 @@
       "duration": "11119",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Mike Jones, also known as Garand Thumb, is a U.S. Air Force veteran, firearms instructor, and one of the most recognizable voices in the firearms and tactical community. Through his platform, he tests weapons and gear, breaks down tactics and training, and explores survival, preparedness, and what it takes to operate in extreme environments.\n\n\n\nPrivacy Isn't Paranoia. It's Protection. \n\nDownload G",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Optimal Protocols to Build Strength &amp; Grow Muscles | Dr. Andy Galpin",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8443296592.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-optimal-protocols-to-build-strength-and-grow-muscles-andy-galpin",
-      "date": "2026-09-24T08:00:00.000Z",
-      "duration": "2271",
-      "image": "https://megaphone.imgix.net/podcasts/3214407a-b7e5-11f1-a48a-3f6aff694931/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I revisit episode 2 of my six-part guest series with Dr. Andy Galpin, PhD, an exercise scientist and expert in human performance. We discuss how strength and muscle growth (hypertrophy) differ and why resistance training is important for maintaining physical function as we age. We also explain how to build effective training programs using progressive overl",
       "guestTags": []
     },
     {
@@ -138,6 +138,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2558 - Tyler Engle",
+      "audioUrl": "https://traffic.megaphone.fm/GLT7969377226.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT7969377226.mp3",
+      "date": "2026-09-24T17:00:00.000Z",
+      "duration": "8983",
+      "image": "https://megaphone.imgix.net/podcasts/fdbc67aa-b7a1-11f1-974a-f3fc61fd3468/image/1a031d2726eef38308a4bab0d9ddca69.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan for 30% OFF, or find Ketone-IQ at Target nationwide.\n\n\n\nUse code DRENCHED at https://BlueChew.com &amp;nbsp;to get 10% OFF + Free Overnight ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "9/24/26: Nvidia CEO Warns On AI, Professor Pape Dire Election Warning, Bay Of Piglets Survivors Speak Out",
@@ -175,18 +187,6 @@
       "duration": "11119",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Mike Jones, also known as Garand Thumb, is a U.S. Air Force veteran, firearms instructor, and one of the most recognizable voices in the firearms and tactical community. Through his platform, he tests weapons and gear, breaks down tactics and training, and explores survival, preparedness, and what it takes to operate in extreme environments.\n\n\n\nPrivacy Isn't Paranoia. It's Protection. \n\nDownload G",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Optimal Protocols to Build Strength &amp; Grow Muscles | Dr. Andy Galpin",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8443296592.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-optimal-protocols-to-build-strength-and-grow-muscles-andy-galpin",
-      "date": "2026-09-24T08:00:00.000Z",
-      "duration": "2271",
-      "image": "https://megaphone.imgix.net/podcasts/3214407a-b7e5-11f1-a48a-3f6aff694931/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I revisit episode 2 of my six-part guest series with Dr. Andy Galpin, PhD, an exercise scientist and expert in human performance. We discuss how strength and muscle growth (hypertrophy) differ and why resistance training is important for maintaining physical function as we age. We also explain how to build effective training programs using progressive overl",
       "guestTags": []
     },
     {
