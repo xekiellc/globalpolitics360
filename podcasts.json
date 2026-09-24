@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-23T22:50:52.999Z",
+  "lastUpdated": "2026-09-24T04:08:30.188Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1803,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit &amp; Why Private Equity Can't Compete",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Luca_Ferrari_AIS26_AUDIO_v88.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete",
+      "date": "2026-09-23T23:00:00.000Z",
+      "duration": "25:30",
+      "image": "https://static.libsyn.com/p/assets/2/c/d/a/2cda5dac73ee150988c4a68c3ddbc4f2/Luca_Ferrari_AIs26_Square.png",
+      "desc": "(0:00) Luca Ferrari joins the Besties! (1:56) Crashing an AI startup, the $40,000 restart & buying product market fit (4:59) The in-house tech stack, shrinking the teams & the 10 out of 10 standard (9:55) Debt as an accelerant, what happens if rates rise & who else is bidding (14:58) Inside the deal desk: what gets acquired, why they don't build & the founder question (20:22) Building a tech giant",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
@@ -41,18 +53,6 @@
       "duration": "2829",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan and Emily discuss Trump AG Sec says eat eggs as beef prices skyrocket, Susan Collins massive corruption scandal, DC Dems hijack Troy Jackson campaign. &nbsp; Alvaro Bedoya: ​https://x.com/BedoyaUSA&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoi",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Steve Hilton &amp; Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud &amp; CA Republicans",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans",
-      "date": "2026-09-23T01:44:00.000Z",
-      "duration": "55:44",
-      "image": "https://static.libsyn.com/p/assets/9/8/6/b/986babeb267bdf5888c4a68c3ddbc4f2/Podcast_Thumbnail_-_AIS_26_1.png",
-      "desc": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living pitch & the case against Becerra (21:46) Spencer Pratt joins: the message that cut through & the LA race that flipped (26:58) The city up close: the parks, small business & who the rules actually rewar",
       "guestTags": []
     },
     {
@@ -136,6 +136,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit &amp; Why Private Equity Can't Compete",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Luca_Ferrari_AIS26_AUDIO_v88.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete",
+      "date": "2026-09-23T23:00:00.000Z",
+      "duration": "25:30",
+      "image": "https://static.libsyn.com/p/assets/2/c/d/a/2cda5dac73ee150988c4a68c3ddbc4f2/Luca_Ferrari_AIs26_Square.png",
+      "desc": "(0:00) Luca Ferrari joins the Besties! (1:56) Crashing an AI startup, the $40,000 restart & buying product market fit (4:59) The in-house tech stack, shrinking the teams & the 10 out of 10 standard (9:55) Debt as an accelerant, what happens if rates rise & who else is bidding (14:58) Inside the deal desk: what gets acquired, why they don't build & the founder question (20:22) Building a tech giant",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
       "title": "Historian Robert Tombs on the 1,000-Year Rivalry Between Britain And France",
@@ -171,18 +183,6 @@
       "duration": "2829",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan and Emily discuss Trump AG Sec says eat eggs as beef prices skyrocket, Susan Collins massive corruption scandal, DC Dems hijack Troy Jackson campaign. &nbsp; Alvaro Bedoya: ​https://x.com/BedoyaUSA&nbsp; &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoi",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Steve Hilton &amp; Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud &amp; CA Republicans",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans",
-      "date": "2026-09-23T01:44:00.000Z",
-      "duration": "55:44",
-      "image": "https://static.libsyn.com/p/assets/9/8/6/b/986babeb267bdf5888c4a68c3ddbc4f2/Podcast_Thumbnail_-_AIS_26_1.png",
-      "desc": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living pitch & the case against Becerra (21:46) Spencer Pratt joins: the message that cut through & the LA race that flipped (26:58) The city up close: the parks, small business & who the rules actually rewar",
       "guestTags": []
     },
     {
