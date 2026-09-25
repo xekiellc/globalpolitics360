@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-25T07:26:47.278Z",
+  "lastUpdated": "2026-09-25T13:29:05.758Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Mitchell Askew Explains What 15M Inactive BTC Means for Bitcoin’s Next Move",
+      "url": "https://bitcoinmagazine.com/videos/mitchell-askew-explains-what-15m-inactive-btc-means-for-bitcoins-next-move",
+      "date": "2026-09-25T13:18:01.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/On-Chain-Data-Shows-Bitcoin-Sellers-Are-Exhausted-–-Whats-Next-w-Mitchell-Askew-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #212",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-212",
+      "date": "2026-09-25T12:36:02.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!16WU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93985c93-c57d-4d75-8203-68dcf44893b5_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
       "url": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack",
@@ -79,15 +97,6 @@
       "url": "https://bitcoinmagazine.com/technical/alloc-init-releases-shielded-bitcoin-proposal-for-private-bitcoin-transactions",
       "date": "2026-09-24T14:36:22.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/shielded2-scaled.jpeg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Former CFTC Commissioner Giancarlo: Why Rate Hikes Could Benefit Bitcoin",
-      "url": "https://bitcoinmagazine.com/videos/former-cftc-commissioner-giancarlo-why-rate-hikes-could-benefit-bitcoin",
-      "date": "2026-09-24T13:06:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Former-CFTC-Commissioner-Giancarlo-Why-Rate-Hikes-Could-Benefit-Bitcoin-.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -349,15 +358,6 @@
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-208",
       "date": "2026-08-28T12:14:36.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!UPLM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed7240b8-aec6-4222-b4df-a4420061b2f9_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "An American Engineer in China",
-      "url": "https://www.notboring.co/p/an-american-engineer-in-china",
-      "date": "2026-08-25T12:08:52.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!2l-m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F234ed4ba-b0d5-4d33-ab18-c18bc85a4f52_1200x786.webp",
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
