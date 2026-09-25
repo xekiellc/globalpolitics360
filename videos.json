@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-09-25T18:23:22.662Z",
+  "lastUpdated": "2026-09-25T23:11:42.541Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 23,
+  "taggedCount": 24,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "bh_1dH1FiEo",
-      "show": "Shawn Ryan Show",
-      "title": "What Do You Give a Guy With 500 Guns? 🤯",
-      "url": "https://www.youtube.com/watch?v=bh_1dH1FiEo",
-      "date": "2026-09-25T18:00:34.000Z",
-      "image": "https://i3.ytimg.com/vi/bh_1dH1FiEo/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
-      "guestTags": []
+      "videoId": "BccXCu4TAro",
+      "show": "Theo Von",
+      "title": "Theo and Joey Diaz Tell INSANE Greyhound Bus Stories",
+      "url": "https://www.youtube.com/watch?v=BccXCu4TAro",
+      "date": "2026-09-25T22:15:14.000Z",
+      "image": "https://i3.ytimg.com/vi/BccXCu4TAro/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #685 | Joey Diaz\nFull Episode: https://www.youtube.com/watch?v=ZO5aU97fwA4\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweek",
+      "guestTags": [
+        "Edward Snowden"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "bh_1dH1FiEo",
-      "show": "Shawn Ryan Show",
-      "title": "What Do You Give a Guy With 500 Guns? 🤯",
-      "url": "https://www.youtube.com/watch?v=bh_1dH1FiEo",
-      "date": "2026-09-25T18:00:34.000Z",
-      "image": "https://i3.ytimg.com/vi/bh_1dH1FiEo/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
-      "guestTags": []
+      "videoId": "BccXCu4TAro",
+      "show": "Theo Von",
+      "title": "Theo and Joey Diaz Tell INSANE Greyhound Bus Stories",
+      "url": "https://www.youtube.com/watch?v=BccXCu4TAro",
+      "date": "2026-09-25T22:15:14.000Z",
+      "image": "https://i3.ytimg.com/vi/BccXCu4TAro/hqdefault.jpg",
+      "desc": "Excerpt from This Past Weekend w/ Theo Von #685 | Joey Diaz\nFull Episode: https://www.youtube.com/watch?v=ZO5aU97fwA4\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastweek",
+      "guestTags": [
+        "Edward Snowden"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Edward Snowden": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
