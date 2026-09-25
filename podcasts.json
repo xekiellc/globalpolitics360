@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-25T00:22:28.048Z",
+  "lastUpdated": "2026-09-25T07:26:53.171Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1805,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#685 - Joey Diaz",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5477403327.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5477403327.mp3",
+      "date": "2026-09-25T05:18:00.000Z",
+      "duration": "7284",
+      "image": "https://megaphone.imgix.net/podcasts/9b73ee3e-b89f-11f1-93dc-47b81452bc30/image/6b996b50cdace12825cf0eae23f93417.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joey Diaz is a stand-comedian and podcaster. Check out his show “The Church of What’s Happening Now”.\n\nJoey returns to talk about raising his daughter to be street-smart, how wounds from the past affected his return to New Jersey, and new endeavors he has planned for Austin.&amp;nbsp;\n\nJoey Diaz: https://www.instagram.com/madflavors_world\n\n-------------------------------------------------\n\nTour Da",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -44,18 +56,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#342 Garand Thumb - SERE Specialist on Surviving the Most Dangerous Places on Earth",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2210408905.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2210408905.mp3",
-      "date": "2026-09-24T10:00:00.000Z",
-      "duration": "11119",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Mike Jones, also known as Garand Thumb, is a U.S. Air Force veteran, firearms instructor, and one of the most recognizable voices in the firearms and tactical community. Through his platform, he tests weapons and gear, breaks down tactics and training, and explores survival, preparedness, and what it takes to operate in extreme environments.\n\n\n\nPrivacy Isn't Paranoia. It's Protection. \n\nDownload G",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -138,6 +138,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#685 - Joey Diaz",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5477403327.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5477403327.mp3",
+      "date": "2026-09-25T05:18:00.000Z",
+      "duration": "7284",
+      "image": "https://megaphone.imgix.net/podcasts/9b73ee3e-b89f-11f1-93dc-47b81452bc30/image/6b996b50cdace12825cf0eae23f93417.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joey Diaz is a stand-comedian and podcaster. Check out his show “The Church of What’s Happening Now”.\n\nJoey returns to talk about raising his daughter to be street-smart, how wounds from the past affected his return to New Jersey, and new endeavors he has planned for Austin.&amp;nbsp;\n\nJoey Diaz: https://www.instagram.com/madflavors_world\n\n-------------------------------------------------\n\nTour Da",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2558 - Tyler Engle",
@@ -176,18 +188,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#342 Garand Thumb - SERE Specialist on Surviving the Most Dangerous Places on Earth",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2210408905.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD2210408905.mp3",
-      "date": "2026-09-24T10:00:00.000Z",
-      "duration": "11119",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Mike Jones, also known as Garand Thumb, is a U.S. Air Force veteran, firearms instructor, and one of the most recognizable voices in the firearms and tactical community. Through his platform, he tests weapons and gear, breaks down tactics and training, and explores survival, preparedness, and what it takes to operate in extreme environments.\n\n\n\nPrivacy Isn't Paranoia. It's Protection. \n\nDownload G",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
