@@ -1,23 +1,33 @@
 {
-  "lastUpdated": "2026-09-25T23:11:42.182Z",
+  "lastUpdated": "2026-09-26T04:26:02.745Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1809,
   "latest": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 786 Donnell Rawlings + Sam Tallent)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ca039c59-cda8-40a8-8d62-a86db9820fde/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ca039c59-cda8-40a8-8d62-a86db9820fde&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-09-26T02:10:00.000Z",
+      "duration": "00:55:01",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 786 KT guest Donnell Rawlings + Sam Tallent&nbsp;Donnell Rawlings, Sam Tallent, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 09/14/2026&nbsp;&nbsp;Watch",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "“Happy Hour”: Tucker Interview Pushback, Emily Ranks Late-Night Hosts, &amp; the Death of Celebrity Mystique: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/42745594-0659-4412-8922-e9bfec8cb88d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=42745594-0659-4412-8922-e9bfec8cb88d&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-25T20:00:00.000Z",
-      "duration": "01:56:01",
-      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky checks in after a whirlwind week on the road before diving into the difference between media propaganda and plain old incompetence, Sunny Hostin’s romance novels, and how social media has destroyed some of the mystery and allure that once surrounded celebrities. Emily revisits the Lindsay Clancy trial and responds to criticism of her Tucker C",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
+      "show": "All-In Podcast",
+      "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E290_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails",
+      "date": "2026-09-26T02:02:00.000Z",
+      "duration": "01:34:24",
+      "image": "https://static.libsyn.com/p/assets/8/3/4/9/8349b7bbe0bfdf43e5bbc093207a2619/1_pod_E290.png",
+      "desc": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for frontier companies (29:22) Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure (53:11) Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama (1:07",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -83,18 +93,6 @@
       "duration": "8983",
       "image": "https://megaphone.imgix.net/podcasts/fdbc67aa-b7a1-11f1-974a-f3fc61fd3468/image/1a031d2726eef38308a4bab0d9ddca69.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan for 30% OFF, or find Ketone-IQ at Target nationwide.\n\n\n\nUse code DRENCHED at https://BlueChew.com &amp;nbsp;to get 10% OFF + Free Overnight ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#786 - DONNELL RAWLINGS + SAM TALLENT",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/20e9456f-c465-46a9-8bfe-11ec7db08f0c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=20e9456f-c465-46a9-8bfe-11ec7db08f0c&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-09-22T01:00:00.000Z",
-      "duration": "02:36:40",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Donnell Rawlings, Sam Tallent, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/14/2026THIS EPISODE IS SPONSORED BY:\n\n &nbsp;SuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ",
       "guestTags": []
     },
     {
@@ -138,18 +136,28 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 786 Donnell Rawlings + Sam Tallent)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ca039c59-cda8-40a8-8d62-a86db9820fde/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ca039c59-cda8-40a8-8d62-a86db9820fde&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-09-26T02:10:00.000Z",
+      "duration": "00:55:01",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 786 KT guest Donnell Rawlings + Sam Tallent&nbsp;Donnell Rawlings, Sam Tallent, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 09/14/2026&nbsp;&nbsp;Watch",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "“Happy Hour”: Tucker Interview Pushback, Emily Ranks Late-Night Hosts, &amp; the Death of Celebrity Mystique: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/42745594-0659-4412-8922-e9bfec8cb88d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=42745594-0659-4412-8922-e9bfec8cb88d&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-09-25T20:00:00.000Z",
-      "duration": "01:56:01",
-      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky checks in after a whirlwind week on the road before diving into the difference between media propaganda and plain old incompetence, Sunny Hostin’s romance novels, and how social media has destroyed some of the mystery and allure that once surrounded celebrities. Emily revisits the Lindsay Clancy trial and responds to criticism of her Tucker C",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
+      "show": "All-In Podcast",
+      "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E290_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails",
+      "date": "2026-09-26T02:02:00.000Z",
+      "duration": "01:34:24",
+      "image": "https://static.libsyn.com/p/assets/8/3/4/9/8349b7bbe0bfdf43e5bbc093207a2619/1_pod_E290.png",
+      "desc": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for frontier companies (29:22) Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure (53:11) Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama (1:07",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -215,18 +223,6 @@
       "duration": "8983",
       "image": "https://megaphone.imgix.net/podcasts/fdbc67aa-b7a1-11f1-974a-f3fc61fd3468/image/1a031d2726eef38308a4bab0d9ddca69.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisit https://ketone.com/Rogan for 30% OFF, or find Ketone-IQ at Target nationwide.\n\n\n\nUse code DRENCHED at https://BlueChew.com &amp;nbsp;to get 10% OFF + Free Overnight ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#786 - DONNELL RAWLINGS + SAM TALLENT",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/20e9456f-c465-46a9-8bfe-11ec7db08f0c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=20e9456f-c465-46a9-8bfe-11ec7db08f0c&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-09-22T01:00:00.000Z",
-      "duration": "02:36:40",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Donnell Rawlings, Sam Tallent, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/14/2026THIS EPISODE IS SPONSORED BY:\n\n &nbsp;SuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ",
       "guestTags": []
     },
     {
@@ -281,9 +277,6 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
