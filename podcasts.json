@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-26T11:07:26.853Z",
+  "lastUpdated": "2026-09-26T16:08:22.215Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1729,
+  "taggedCount": 1583,
   "latest": [
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -19,15 +19,17 @@
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E290_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails",
-      "date": "2026-09-26T02:02:00.000Z",
-      "duration": "01:34:24",
-      "image": "https://static.libsyn.com/p/assets/8/3/4/9/8349b7bbe0bfdf43e5bbc093207a2619/1_pod_E290.png",
-      "desc": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for frontier companies (29:22) Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure (53:11) Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama (1:07",
-      "guestTags": []
+      "show": "After Party with Emily Jashinsky",
+      "title": "“Happy Hour”: Tucker Interview Pushback, Emily Ranks Late-Night Hosts, &amp; the Death of Celebrity Mystique: Emily Answers YOUR Questions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/42745594-0659-4412-8922-e9bfec8cb88d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=42745594-0659-4412-8922-e9bfec8cb88d&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-09-25T20:00:00.000Z",
+      "duration": "01:56:01",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
+      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky checks in after a whirlwind week on the road before diving into the difference between media propaganda and plain old incompetence, Sunny Hostin’s romance novels, and how social media has destroyed some of the mystery and allure that once surrounded celebrities. Emily revisits the Lindsay Clancy trial and responds to criticism of her Tucker C",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -149,15 +151,17 @@
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E290_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails",
-      "date": "2026-09-26T02:02:00.000Z",
-      "duration": "01:34:24",
-      "image": "https://static.libsyn.com/p/assets/8/3/4/9/8349b7bbe0bfdf43e5bbc093207a2619/1_pod_E290.png",
-      "desc": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for frontier companies (29:22) Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure (53:11) Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama (1:07",
-      "guestTags": []
+      "show": "After Party with Emily Jashinsky",
+      "title": "“Happy Hour”: Tucker Interview Pushback, Emily Ranks Late-Night Hosts, &amp; the Death of Celebrity Mystique: Emily Answers YOUR Questions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/42745594-0659-4412-8922-e9bfec8cb88d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=42745594-0659-4412-8922-e9bfec8cb88d&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-09-25T20:00:00.000Z",
+      "duration": "01:56:01",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
+      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky checks in after a whirlwind week on the road before diving into the difference between media propaganda and plain old incompetence, Sunny Hostin’s romance novels, and how social media has destroyed some of the mystery and allure that once surrounded celebrities. Emily revisits the Lindsay Clancy trial and responds to criticism of her Tucker C",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -277,6 +281,9 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
