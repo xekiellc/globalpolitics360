@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-09-27T13:44:31.296Z",
+  "lastUpdated": "2026-09-27T18:11:36.001Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1811,
+  "taggedCount": 1812,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "My Response to Rishi Sunak - Konstantin Kisin",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9819793024.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9819793024.mp3",
+      "date": "2026-09-27T18:00:00.000Z",
+      "duration": "976",
+      "image": "https://megaphone.imgix.net/podcasts/1c0697fc-ba0a-11f1-b49b-276727730951/image/bded0e8ada09f8d8e8963d3c2b5b238c.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\nKonstantin X / Twitter - https://x.com/KonstantinKisin\n\nKonstantin Substack - https://substack.com/@konstantinkisin\n\n\nJoin our e",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -18,20 +32,6 @@
       "guestTags": [
         "Julian Dorey",
         "Elon Musk"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "The IVF Pioneer Who Says His Own Industry Is Lying - Professor Robert Winston",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2971407980.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2971407980.mp3",
-      "date": "2026-09-26T18:00:00.000Z",
-      "duration": "5778",
-      "image": "https://megaphone.imgix.net/podcasts/39eb2a5e-b8ba-11f1-8ea1-07de8ef34b16/image/d818afc70ea92f8f0d42639e7092b770.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Shopify! Sign up for a $1 per month trial at https://www.shopify.co.uk/trigger/ \n\n\n- Expat Money: download the report to under",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -139,6 +139,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "My Response to Rishi Sunak - Konstantin Kisin",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9819793024.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT9819793024.mp3",
+      "date": "2026-09-27T18:00:00.000Z",
+      "duration": "976",
+      "image": "https://megaphone.imgix.net/podcasts/1c0697fc-ba0a-11f1-b49b-276727730951/image/bded0e8ada09f8d8e8963d3c2b5b238c.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\nKonstantin X / Twitter - https://x.com/KonstantinKisin\n\nKonstantin Substack - https://substack.com/@konstantinkisin\n\n\nJoin our e",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "Elon Musk’s MASTERPLAN, Netanyahu BURNS &amp; Kylie Jenner in St. Tropez | Julian Dorey",
@@ -151,20 +165,6 @@
       "guestTags": [
         "Julian Dorey",
         "Elon Musk"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "The IVF Pioneer Who Says His Own Industry Is Lying - Professor Robert Winston",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2971407980.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2971407980.mp3",
-      "date": "2026-09-26T18:00:00.000Z",
-      "duration": "5778",
-      "image": "https://megaphone.imgix.net/podcasts/39eb2a5e-b8ba-11f1-8ea1-07de8ef34b16/image/d818afc70ea92f8f0d42639e7092b770.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\n- Shopify! Sign up for a $1 per month trial at https://www.shopify.co.uk/trigger/ \n\n\n- Expat Money: download the report to under",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -283,14 +283,14 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Elon Musk": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
     "Jensen Huang": [
       "aHR0cHM6Ly9wb2R0cmFjLmNv"
