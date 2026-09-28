@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-09-28T04:45:36.153Z",
+  "lastUpdated": "2026-09-28T13:26:33.588Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Airbound: As We May Move",
+      "url": "https://www.notboring.co/p/airbound-as-we-may-move",
+      "date": "2026-09-28T13:17:35.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!ZoEb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6b90430-6792-44ee-b53e-9bcb691e55dc_1200x600.png",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Samourai Letter #7: Notes From The Inside",
       "url": "https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside",
@@ -352,15 +361,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Weekly Dose of Optimism #208",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-208",
-      "date": "2026-08-28T12:14:36.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!UPLM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed7240b8-aec6-4222-b4df-a4420061b2f9_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
