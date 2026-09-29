@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-09-29T16:25:03.170Z",
+  "lastUpdated": "2026-09-29T22:04:45.833Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1814,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2559 - Sam Morril",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+      "date": "2026-09-29T17:00:00.000Z",
+      "duration": "10394",
+      "image": "https://megaphone.imgix.net/podcasts/15242aa8-bb9a-11f1-b421-f7d46b049862/image/0ad06ff360f06a9c778a15d0c07c1ad6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Sam Morril is a stand-up comic, writer, actor, and co-host of the \"We Might Be Drunk\" podcast. Look for his new Netflix special, \"Incorrect,\" on September 29.www.netflix.com/title/82155480www.youtube.com/@sammorrilwww.youtube.com/@WeMightBeDrunkPodwww.sammorril.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -15,6 +27,18 @@
       "duration": "3206",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss UK terror suspects released on bail, Texas declares diesel emergency, Trump diehards abandon him over Epstein. Garrison Lovely:&nbsp;https://www.obsoletebook.org/Logan Phillips:&nbsp;https://www.racetothewh.com/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch S",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "The FBI Breach Is a Counterintelligence Problem",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/126461635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F5d4e01ef-15bf-139b-8ec4-fb4c06cca228.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-FBI-Breach-Is-a-Counterintelligence-Problem-e3phq83",
+      "date": "2026-09-29T10:00:00.000Z",
+      "duration": "00:16:04",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1790646043714-92c460d28d683.jpg",
+      "desc": "The FBI is investigating a breach tied to FBIJobs.gov and the possible exposure of employee personally identifiable information. Hackers connected to ShinyHunters claim they stole terabytes of data covering current and former FBI personnel, applicants, medical information, background investigations, and other sensitive systems.Some of those claims remain unverified. But reporters have already revi",
       "guestTags": []
     },
     {
@@ -65,32 +89,6 @@
       "duration": "17553",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Jimmy Watson is a former Marine, Blackwater contractor, Navy SEAL, and former head of security, CEO, and close confidant to John McAfee. He joined McAfee’s inner circle in 2017 and experienced firsthand the legal turmoil, paranoia, and instability surrounding him. After leaving that world and battling addiction and personal loss, Watson returned to his Christian faith and now speaks about faith, p",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The UVU After-Action Report: Lessons in Protective Security",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/126391927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2Fffee5121-e926-5af1-e178-3bfb62ecf5d7.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-UVU-After-Action-Report-Lessons-in-Protective-Security-e3pfm5n",
-      "date": "2026-09-28T10:00:00.000Z",
-      "duration": "00:16:16",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1790553765270-d48bb98121e38.jpg",
-      "desc": "Utah Valley University released its independent after-action report on September 25, 2026, examining the September 10, 2025 assassination of Charlie Kirk. The report identifies a number of security failures, but the biggest lesson is broader than any single missed rooftop or breakdown in communication.In this episode of The Watch Floor, I walk through what the report says about venue selection, el",
-      "guestTags": [
-        "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM4063268713.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan",
-      "date": "2026-09-28T08:00:00.000Z",
-      "duration": "7353",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Michael Pollan is a renowned author, journalist and professor at UC Berkeley. He is best known for his influential works on how humans and plants have shaped each other at the level of food, medicine, health, and culture. In this episode we discuss consciousness—what it is and how the recognition between our self vs others contributes to-- but also can impair, certain aspects of conscious experien",
       "guestTags": []
     },
     {
@@ -134,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2559 - Sam Morril",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+      "date": "2026-09-29T17:00:00.000Z",
+      "duration": "10394",
+      "image": "https://megaphone.imgix.net/podcasts/15242aa8-bb9a-11f1-b421-f7d46b049862/image/0ad06ff360f06a9c778a15d0c07c1ad6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Sam Morril is a stand-up comic, writer, actor, and co-host of the \"We Might Be Drunk\" podcast. Look for his new Netflix special, \"Incorrect,\" on September 29.www.netflix.com/title/82155480www.youtube.com/@sammorrilwww.youtube.com/@WeMightBeDrunkPodwww.sammorril.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "9/29/26: UK Terror Suspects On Bail, Texas Diesel Emergency, Trump Diehards Jump Ship",
@@ -143,6 +153,18 @@
       "duration": "3206",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss UK terror suspects released on bail, Texas declares diesel emergency, Trump diehards abandon him over Epstein. Garrison Lovely:&nbsp;https://www.obsoletebook.org/Logan Phillips:&nbsp;https://www.racetothewh.com/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch S",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "The FBI Breach Is a Counterintelligence Problem",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/126461635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F5d4e01ef-15bf-139b-8ec4-fb4c06cca228.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-FBI-Breach-Is-a-Counterintelligence-Problem-e3phq83",
+      "date": "2026-09-29T10:00:00.000Z",
+      "duration": "00:16:04",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1790646043714-92c460d28d683.jpg",
+      "desc": "The FBI is investigating a breach tied to FBIJobs.gov and the possible exposure of employee personally identifiable information. Hackers connected to ShinyHunters claim they stole terabytes of data covering current and former FBI personnel, applicants, medical information, background investigations, and other sensitive systems.Some of those claims remain unverified. But reporters have already revi",
       "guestTags": []
     },
     {
@@ -193,32 +215,6 @@
       "duration": "17553",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Jimmy Watson is a former Marine, Blackwater contractor, Navy SEAL, and former head of security, CEO, and close confidant to John McAfee. He joined McAfee’s inner circle in 2017 and experienced firsthand the legal turmoil, paranoia, and instability surrounding him. After leaving that world and battling addiction and personal loss, Watson returned to his Christian faith and now speaks about faith, p",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The UVU After-Action Report: Lessons in Protective Security",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/126391927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2Fffee5121-e926-5af1-e178-3bfb62ecf5d7.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-UVU-After-Action-Report-Lessons-in-Protective-Security-e3pfm5n",
-      "date": "2026-09-28T10:00:00.000Z",
-      "duration": "00:16:16",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1790553765270-d48bb98121e38.jpg",
-      "desc": "Utah Valley University released its independent after-action report on September 25, 2026, examining the September 10, 2025 assassination of Charlie Kirk. The report identifies a number of security failures, but the biggest lesson is broader than any single missed rooftop or breakdown in communication.In this episode of The Watch Floor, I walk through what the report says about venue selection, el",
-      "guestTags": [
-        "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM4063268713.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan",
-      "date": "2026-09-28T08:00:00.000Z",
-      "duration": "7353",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Michael Pollan is a renowned author, journalist and professor at UC Berkeley. He is best known for his influential works on how humans and plants have shaped each other at the level of food, medicine, health, and culture. In this episode we discuss consciousness—what it is and how the recognition between our self vs others contributes to-- but also can impair, certain aspects of conscious experien",
       "guestTags": []
     },
     {
@@ -275,9 +271,6 @@
   "guestIndex": {
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Sarah Adams": [
-      "aHR0cHM6Ly9hbmNob3IuZm0v"
     ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
