@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-09-29T22:04:46.735Z",
+  "lastUpdated": "2026-09-30T04:59:08.549Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 26,
+  "taggedCount": 2,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "385K39AlMTk",
-      "show": "Shawn Ryan Show",
-      "title": "John McAfee's 500IQ Loyalty Test 🤯",
-      "url": "https://www.youtube.com/watch?v=385K39AlMTk",
-      "date": "2026-09-29T20:30:27.000Z",
-      "image": "https://i4.ytimg.com/vi/385K39AlMTk/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
-      "guestTags": []
+      "videoId": "s7d2d8FhevU",
+      "show": "Lex Fridman",
+      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "date": "2026-09-17T00:34:47.000Z",
+      "image": "https://i4.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "desc": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sb\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\n\n*Transcript:*\nhttps://lexfridman.com/andrew-scull-transcript\n\n*CONTAC",
+      "guestTags": [
+        "Edward Snowden"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "385K39AlMTk",
-      "show": "Shawn Ryan Show",
-      "title": "John McAfee's 500IQ Loyalty Test 🤯",
-      "url": "https://www.youtube.com/watch?v=385K39AlMTk",
-      "date": "2026-09-29T20:30:27.000Z",
-      "image": "https://i4.ytimg.com/vi/385K39AlMTk/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
-      "guestTags": []
+      "videoId": "s7d2d8FhevU",
+      "show": "Lex Fridman",
+      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "date": "2026-09-17T00:34:47.000Z",
+      "image": "https://i4.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "desc": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sb\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\n\n*Transcript:*\nhttps://lexfridman.com/andrew-scull-transcript\n\n*CONTAC",
+      "guestTags": [
+        "Edward Snowden"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Edward Snowden": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
