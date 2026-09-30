@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "2026-09-30T19:00:29.962Z",
+  "lastUpdated": "2026-09-30T23:35:44.280Z",
   "showCount": 22,
-  "episodeCount": 9,
+  "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1781,
+  "taggedCount": 1818,
   "latest": [
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "\"They Never Wanted To Stop The Boats\" Suella Braverman",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT8834237648.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT8834237648.mp3",
-      "date": "2026-09-30T18:00:00.000Z",
-      "duration": "5248",
-      "image": "https://megaphone.imgix.net/podcasts/3cdf40d6-bcc7-11f1-bfce-4bef2c4614e7/image/db014a82197bde1af0dd319c1cc541e5.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We’re honoured to partner with Hillsdale College. Take their online courses for free at https://hillsdale.edu/triggerr\n\n- Truewerk: performance work clothes. Get 15% off with Code:TRIG at  https://truewerk.com\n\n- SHEATH: go to https://Sheath.com. Use code TRIGGERNOMETRY for 20% off \n\n- Expat Money: dow",
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_88_PaulChainsmokers_AIS26.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-politics-venture-bubble-signs",
+      "date": "2026-09-30T21:00:00.000Z",
+      "duration": "52:49",
+      "image": "https://static.libsyn.com/p/assets/b/f/e/7/bfe70c5fe7acc1f7e5bbc093207a2619/jp_x_chnsmkers_2.png",
+      "desc": "(0:00) Jake Paul joins the Chamath! (6:41) Turning an audience into businesses, the boxing playbook & coming for the UFC (11:54) Attention as capital, investing without the celebrity label & why politics is next (20:46) Drew Taggart & Alex Pall join the Besties! (30:35) From artists to investors: picking deals, playing the sixth man & what fame buys (37:33) Advice for famous investors, whether fam",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#686 - Caleb Pressley",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8083231485.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8083231485.mp3",
+      "date": "2026-09-30T19:41:00.000Z",
+      "duration": "7663",
+      "image": "https://megaphone.imgix.net/podcasts/45aad538-bd06-11f1-8939-07bcb3c9b65d/image/a3a23efc0f963e2a36de0db0d672a7a4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Caleb Pressley is an interviewer, content creator and host of the show “Sundae Conversation”.\n\nCaleb returns to talk about why he lives in a Florida retirement community, the ascension of Glenny Balls, and what went on behind the scenes at their Stagecoach DJ set.&amp;nbsp;\n\nCaleb Pressley: https://www.instagram.com/calebpressley/&amp;nbsp;\n\n-------------------------------------------------\n\nTour ",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -60,7 +72,7 @@
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
-      "title": "DARPA Scientist UNOADS on AI Doomers, DNA Gene Editing &amp; CERN | Lee Cronin",
+      "title": "DARPA Scientist UNLOADS on AI Doomers, DNA Gene Editing &amp; CERN | Lee Cronin",
       "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4934298576.mp3",
       "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4934298576.mp3",
       "date": "2026-09-30T16:00:00.000Z",
@@ -94,16 +106,18 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early &amp; AI's Potential",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_1k_Daniel_Ek_Int.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-disease-early-ais-potential",
-      "date": "2026-09-28T22:16:00.000Z",
-      "duration": "51:16",
-      "image": "https://static.libsyn.com/p/assets/4/c/0/c/4c0c09faa895838c88c4a68c3ddbc4f2/ek_spot_square.jpg",
-      "desc": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, and why US healthcare waits until you're sick (36:04) AI: Tech's failure to sell the upside, open vs. closed models, and regulating compute (44:24) Back to Spotify: Podcasting's open standards and the",
-      "guestTags": []
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &#038; Jung",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
+      "listenUrl": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull",
+      "date": "2026-09-17T00:40:49.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; submit questions,",
+      "guestTags": [
+        "Edward Snowden"
+      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
@@ -120,18 +134,30 @@
   ],
   "archive": [
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "\"They Never Wanted To Stop The Boats\" Suella Braverman",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT8834237648.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT8834237648.mp3",
-      "date": "2026-09-30T18:00:00.000Z",
-      "duration": "5248",
-      "image": "https://megaphone.imgix.net/podcasts/3cdf40d6-bcc7-11f1-bfce-4bef2c4614e7/image/db014a82197bde1af0dd319c1cc541e5.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We’re honoured to partner with Hillsdale College. Take their online courses for free at https://hillsdale.edu/triggerr\n\n- Truewerk: performance work clothes. Get 15% off with Code:TRIG at  https://truewerk.com\n\n- SHEATH: go to https://Sheath.com. Use code TRIGGERNOMETRY for 20% off \n\n- Expat Money: dow",
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_88_PaulChainsmokers_AIS26.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-politics-venture-bubble-signs",
+      "date": "2026-09-30T21:00:00.000Z",
+      "duration": "52:49",
+      "image": "https://static.libsyn.com/p/assets/b/f/e/7/bfe70c5fe7acc1f7e5bbc093207a2619/jp_x_chnsmkers_2.png",
+      "desc": "(0:00) Jake Paul joins the Chamath! (6:41) Turning an audience into businesses, the boxing playbook & coming for the UFC (11:54) Attention as capital, investing without the celebrity label & why politics is next (20:46) Drew Taggart & Alex Pall join the Besties! (30:35) From artists to investors: picking deals, playing the sixth man & what fame buys (37:33) Advice for famous investors, whether fam",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#686 - Caleb Pressley",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8083231485.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER8083231485.mp3",
+      "date": "2026-09-30T19:41:00.000Z",
+      "duration": "7663",
+      "image": "https://megaphone.imgix.net/podcasts/45aad538-bd06-11f1-8939-07bcb3c9b65d/image/a3a23efc0f963e2a36de0db0d672a7a4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Caleb Pressley is an interviewer, content creator and host of the show “Sundae Conversation”.\n\nCaleb returns to talk about why he lives in a Florida retirement community, the ascension of Glenny Balls, and what went on behind the scenes at their Stagecoach DJ set.&amp;nbsp;\n\nCaleb Pressley: https://www.instagram.com/calebpressley/&amp;nbsp;\n\n-------------------------------------------------\n\nTour ",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
@@ -174,7 +200,7 @@
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
-      "title": "DARPA Scientist UNOADS on AI Doomers, DNA Gene Editing &amp; CERN | Lee Cronin",
+      "title": "DARPA Scientist UNLOADS on AI Doomers, DNA Gene Editing &amp; CERN | Lee Cronin",
       "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4934298576.mp3",
       "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4934298576.mp3",
       "date": "2026-09-30T16:00:00.000Z",
@@ -205,18 +231,6 @@
       "duration": "02:14:56",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Harland Williams, Jeremiah Watkins, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/21/2026THIS EPISODE IS SPONSORED BY:\n\nSuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ht",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early &amp; AI's Potential",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_1k_Daniel_Ek_Int.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-disease-early-ais-potential",
-      "date": "2026-09-28T22:16:00.000Z",
-      "duration": "51:16",
-      "image": "https://static.libsyn.com/p/assets/4/c/0/c/4c0c09faa895838c88c4a68c3ddbc4f2/ek_spot_square.jpg",
-      "desc": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, and why US healthcare waits until you're sick (36:04) AI: Tech's failure to sell the upside, open vs. closed models, and regulating compute (44:24) Back to Spotify: Podcasting's open standards and the",
       "guestTags": []
     },
     {
@@ -259,8 +273,8 @@
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
+    "Chamath": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Jensen Huang": [
       "aHR0cHM6Ly9wb2R0cmFjLmNv"
