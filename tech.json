@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-09-30T04:59:02.632Z",
+  "lastUpdated": "2026-09-30T12:15:21.250Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "State of Markets II",
+      "url": "https://www.a16z.news/p/state-of-markets-ii",
+      "date": "2026-09-30T12:03:43.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/712473ca-6145-424c-9f0e-f48b98fb0a3a_1460x750.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Ep 163: John Jovanovic on Turning Around the U.S. Export-Import Bank, Trump’s $12B Critical Mineral Reserve, and \"Revenge of the Physical World\"",
       "url": "https://blog.joelonsdale.com/p/ep-163-john-jovanovic-on-turning",
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "The Incumbents Are Coming",
-      "url": "https://www.a16z.news/p/the-incumbents-are-coming",
-      "date": "2026-09-03T14:03:23.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/1774dc0c-6984-4451-9606-edfc98b1b035_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     }
   ]
 }
