@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-10-01T12:50:04.363Z",
+  "lastUpdated": "2026-10-01T19:21:55.706Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1818,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #186 with Sean Sharaf",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1692440444.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1692440444.mp3",
+      "date": "2026-10-01T17:00:00.000Z",
+      "duration": "8486",
+      "image": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division.\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nThis episode is brought to you by Uber Eats. Get almost almost anything. Order now.\n\n\n\nThis video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE\nLearn more about your ad choices. Visit ",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "10/1/26: Ro Khanna On AI Safety Bill, Bill Gates Dire Warning On Recursive AI, US Nearly Out Of Missiles",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/9f3219de-03f0-407d-9dd0-b4d60108b66a/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-1-26-ro-khanna-on-ai-safety-bill-bill-gates-dire-warning-on-recursive-ai-us-nearly-out-of-missiles",
+      "date": "2026-10-01T16:15:05.000Z",
+      "duration": "3658",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Ryan and Saagar discuss Ro Khanna pushes AI safety bill, Bill Gates clowns Ezra Klein on AI self regulation, US nearly out of key missiles. &nbsp; Ro Khanna:&nbsp;https://x.com/RoKhanna?lang=enChristopher Leonard:&nbsp;https://www.christopherleonard.biz/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
@@ -15,18 +39,6 @@
       "duration": "10290",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dusty Slay is a stand-up comedian known for his Southern, working-class observational humor and is currently touring nationwide on his Neighborhood Guy Tour. Raised in a trailer park in Opelika, Alabama, he went from working regular jobs to appearances on The Tonight Show, Jimmy Kimmel Live, Comedy Central, and Netflix. He is also a regular performer at the Grand Ole Opry and the author of We’re H",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Tools to Improve Your Focus &amp; Concentration",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM2328129388.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-tools-to-improve-your-focus-and-concentration",
-      "date": "2026-10-01T08:00:00.000Z",
-      "duration": "2487",
-      "image": "https://megaphone.imgix.net/podcasts/6e6186c8-bd49-11f1-9d60-eb7961313029/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also describe a brief daily meditation and visual focus exercises that train your ability to refocus whe",
       "guestTags": []
     },
     {
@@ -68,20 +80,6 @@
       "image": "https://storage.buzzsprout.com/l6q79ct8o3qqdylcfm4zsmslk1ld?.jpg",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and New York Times bestselling author of eight books on national security.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Head to https://www.superpower.com and use code DALTON at checkout for $20 off your membership. Unlock your new health intelligence. 100+ biomarkers. Every yea",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "9/30/26: Trump Sham AI Deal, Nvidia Stock Buyback, Flight To Israel Hijacked, Minab School Bombing Horrors",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/719ba0b0-3f7f-48f2-b94c-b4d50109d5ad/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-30-26-trump-sham-ai-deal-nvidia-stock-buyback-flight-to-israel-hijacked-minab-school-bombing-horrors",
-      "date": "2026-09-30T16:22:32.000Z",
-      "duration": "4986",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Trump parades sham AI deal with tech oligarchs, Nvidia massive stock buyback, flight to Israel hijacked, Jeremy Scahill exposes Minab school bombing horrors. &nbsp; Jeremy Scahill:&nbsp;https://www.dropsitenews.com/p/32fde79a-b033-4bdb-9021-6fa724bd4f9e?postPreview=free&amp;updated=2026-09-28T14%3A22%3A17.024Z&amp;audience=everyone&amp;free_preview=false&amp;freemail=true &n",
-      "guestTags": [
-        "Jensen Huang"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -136,6 +134,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #186 with Sean Sharaf",
+      "audioUrl": "https://traffic.megaphone.fm/GLT1692440444.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT1692440444.mp3",
+      "date": "2026-10-01T17:00:00.000Z",
+      "duration": "8486",
+      "image": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division.\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nThis episode is brought to you by Uber Eats. Get almost almost anything. Order now.\n\n\n\nThis video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE\nLearn more about your ad choices. Visit ",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "10/1/26: Ro Khanna On AI Safety Bill, Bill Gates Dire Warning On Recursive AI, US Nearly Out Of Missiles",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/9f3219de-03f0-407d-9dd0-b4d60108b66a/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-1-26-ro-khanna-on-ai-safety-bill-bill-gates-dire-warning-on-recursive-ai-us-nearly-out-of-missiles",
+      "date": "2026-10-01T16:15:05.000Z",
+      "duration": "3658",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Ryan and Saagar discuss Ro Khanna pushes AI safety bill, Bill Gates clowns Ezra Klein on AI self regulation, US nearly out of key missiles. &nbsp; Ro Khanna:&nbsp;https://x.com/RoKhanna?lang=enChristopher Leonard:&nbsp;https://www.christopherleonard.biz/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#344 Dusty Slay - Moon Landing Conspiracies, Flat Earth, Aliens and the Nephilim",
@@ -145,18 +167,6 @@
       "duration": "10290",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dusty Slay is a stand-up comedian known for his Southern, working-class observational humor and is currently touring nationwide on his Neighborhood Guy Tour. Raised in a trailer park in Opelika, Alabama, he went from working regular jobs to appearances on The Tonight Show, Jimmy Kimmel Live, Comedy Central, and Netflix. He is also a regular performer at the Grand Ole Opry and the author of We’re H",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: Tools to Improve Your Focus &amp; Concentration",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM2328129388.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-tools-to-improve-your-focus-and-concentration",
-      "date": "2026-10-01T08:00:00.000Z",
-      "duration": "2487",
-      "image": "https://megaphone.imgix.net/podcasts/6e6186c8-bd49-11f1-9d60-eb7961313029/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also describe a brief daily meditation and visual focus exercises that train your ability to refocus whe",
       "guestTags": []
     },
     {
@@ -198,20 +208,6 @@
       "image": "https://storage.buzzsprout.com/l6q79ct8o3qqdylcfm4zsmslk1ld?.jpg",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and New York Times bestselling author of eight books on national security.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Head to https://www.superpower.com and use code DALTON at checkout for $20 off your membership. Unlock your new health intelligence. 100+ biomarkers. Every yea",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "9/30/26: Trump Sham AI Deal, Nvidia Stock Buyback, Flight To Israel Hijacked, Minab School Bombing Horrors",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/719ba0b0-3f7f-48f2-b94c-b4d50109d5ad/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/9-30-26-trump-sham-ai-deal-nvidia-stock-buyback-flight-to-israel-hijacked-minab-school-bombing-horrors",
-      "date": "2026-09-30T16:22:32.000Z",
-      "duration": "4986",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Ryan and Emily discuss Trump parades sham AI deal with tech oligarchs, Nvidia massive stock buyback, flight to Israel hijacked, Jeremy Scahill exposes Minab school bombing horrors. &nbsp; Jeremy Scahill:&nbsp;https://www.dropsitenews.com/p/32fde79a-b033-4bdb-9021-6fa724bd4f9e?postPreview=free&amp;updated=2026-09-28T14%3A22%3A17.024Z&amp;audience=everyone&amp;free_preview=false&amp;freemail=true &n",
-      "guestTags": [
-        "Jensen Huang"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -282,9 +278,6 @@
     ],
     "Chamath": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Jensen Huang": [
-      "aHR0cHM6Ly9wb2R0cmFjLmNv"
     ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
