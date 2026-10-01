@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-09-30T23:35:44.280Z",
+  "lastUpdated": "2026-10-01T05:12:39.787Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1818,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "American Identity",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a5ed807e-1a7d-43e3-b3d4-f25f63c0dfff.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a5ed807e-1a7d-43e3-b3d4-f25f63c0dfff.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-01T00:00:00.000Z",
+      "duration": "01:05:17",
+      "image": "https://content.production.cdn.art19.com/images/3e/0b/db/bb/3e0bdbbb-ca72-4d05-b7e3-bf08bbb24ab2/7b443ff4b18d87ea052af577edc09a48a28933788d84b46f8502ffeb4d78d3371146b26cefc892b3d45d953dc980e6ae4efb66a652cfa295ff1dbb5d5beaa08b.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Sarah Huckabee Sanders' controversial PSA, Abdul El-Sayed speaking in an interview about his interpretation of \"American identity\", and more.Support Our Sponsors:Kalshi - https://kalshi.com/r/DaveSmithBodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for 20% off y",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -68,18 +82,6 @@
       "guestTags": [
         "Jensen Huang"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "DARPA Scientist UNLOADS on AI Doomers, DNA Gene Editing &amp; CERN | Lee Cronin",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4934298576.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4934298576.mp3",
-      "date": "2026-09-30T16:00:00.000Z",
-      "duration": "11317",
-      "image": "https://megaphone.imgix.net/podcasts/4d33c918-bb62-11f1-90ba-3756e32d846f/image/50bb0f7a242b9d34a6815230d07a88cd.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) ULTRA POUCHES: Don’t sleep on  @UltraPouches . New customers get 15% Off with code JULIAN at https://takeultra.com !\n\n#UltraPouches #ad\n\n2) BLUEPRINT: For a limited time only, new customers get 20% off + free shipping at\n\nhttps://blueprint.bryanjohnson.com by using code JULIAN at checkout. #Blueprint #ad\n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\n\nhttps://www.patreon.com/",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -134,6 +136,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "American Identity",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a5ed807e-1a7d-43e3-b3d4-f25f63c0dfff.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a5ed807e-1a7d-43e3-b3d4-f25f63c0dfff.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-01T00:00:00.000Z",
+      "duration": "01:05:17",
+      "image": "https://content.production.cdn.art19.com/images/3e/0b/db/bb/3e0bdbbb-ca72-4d05-b7e3-bf08bbb24ab2/7b443ff4b18d87ea052af577edc09a48a28933788d84b46f8502ffeb4d78d3371146b26cefc892b3d45d953dc980e6ae4efb66a652cfa295ff1dbb5d5beaa08b.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Sarah Huckabee Sanders' controversial PSA, Abdul El-Sayed speaking in an interview about his interpretation of \"American identity\", and more.Support Our Sponsors:Kalshi - https://kalshi.com/r/DaveSmithBodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for 20% off y",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs",
@@ -196,18 +212,6 @@
       "guestTags": [
         "Jensen Huang"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "DARPA Scientist UNLOADS on AI Doomers, DNA Gene Editing &amp; CERN | Lee Cronin",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4934298576.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4934298576.mp3",
-      "date": "2026-09-30T16:00:00.000Z",
-      "duration": "11317",
-      "image": "https://megaphone.imgix.net/podcasts/4d33c918-bb62-11f1-90ba-3756e32d846f/image/50bb0f7a242b9d34a6815230d07a88cd.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) ULTRA POUCHES: Don’t sleep on  @UltraPouches . New customers get 15% Off with code JULIAN at https://takeultra.com !\n\n#UltraPouches #ad\n\n2) BLUEPRINT: For a limited time only, new customers get 20% off + free shipping at\n\nhttps://blueprint.bryanjohnson.com by using code JULIAN at checkout. #Blueprint #ad\n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\n\nhttps://www.patreon.com/",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -273,6 +277,9 @@
     }
   ],
   "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Chamath": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
