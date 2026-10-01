@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-10-01T05:12:40.425Z",
+  "lastUpdated": "2026-10-01T12:50:04.853Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 26,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "8e3RC1L5V_Y",
+      "show": "Huberman Lab",
+      "title": "Tools to Improve Your Focus &amp; Concentration | Huberman Lab Essentials",
+      "url": "https://www.youtube.com/watch?v=8e3RC1L5V_Y",
+      "date": "2026-10-01T12:00:35.000Z",
+      "image": "https://i1.ytimg.com/vi/8e3RC1L5V_Y/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PvfV3bS6258",
-      "show": "Shawn Ryan Show",
-      "title": "How a Navy SEAL Tricks the FBI 🤯",
-      "url": "https://www.youtube.com/watch?v=PvfV3bS6258",
-      "date": "2026-09-30T22:00:13.000Z",
-      "image": "https://i1.ytimg.com/vi/PvfV3bS6258/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "videoId": "8e3RC1L5V_Y",
+      "show": "Huberman Lab",
+      "title": "Tools to Improve Your Focus &amp; Concentration | Huberman Lab Essentials",
+      "url": "https://www.youtube.com/watch?v=8e3RC1L5V_Y",
+      "date": "2026-10-01T12:00:35.000Z",
+      "image": "https://i1.ytimg.com/vi/8e3RC1L5V_Y/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also",
       "guestTags": []
     }
   ],

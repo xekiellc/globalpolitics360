@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-10-01T05:12:34.411Z",
+  "lastUpdated": "2026-10-01T12:49:56.500Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Investing in Armadin",
+      "url": "https://www.a16z.news/p/investing-in-armadin",
+      "date": "2026-10-01T10:02:55.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/41dc5523-d101-4f30-a393-070633f6a7a3_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Bitcoin Privacy Breakthrough a Zcash Killer? &#124; Misha Komorov, Alloc Innit",
       "url": "https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
@@ -352,15 +361,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Weekly Dose of Optimism #209",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-209",
-      "date": "2026-09-04T12:36:19.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!aMjq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f82558e-b7d0-43c3-bba6-f523da3e2983_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
