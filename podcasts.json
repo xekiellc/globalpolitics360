@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-10-02T19:04:53.742Z",
+  "lastUpdated": "2026-10-02T23:38:49.669Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1819,
+  "taggedCount": 1820,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E291_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm-predictions",
+      "date": "2026-10-02T22:30:00.000Z",
+      "duration": "01:22:29",
+      "image": "https://static.libsyn.com/p/assets/7/b/0/3/7b0376a2e322dc87e5bbc093207a2619/1_Pod_E291.png",
+      "desc": "(0:00) Bestie intros! (2:01) Trump's Super Intelligence Summit: Behind the scenes and how the accord was created and signed (17:57) Cybersecurity arms race, data center national security, America.gov, coordinated doomer messaging (45:22) Recent economic data: GDP, jobs, diesel, inflation, rates, manufacturing, poverty, and more (1:00:24) Midterm predictions, 2028 look ahead (1:09:28) Media coverag",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
@@ -66,20 +78,6 @@
       "image": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division.\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nThis episode is brought to you by Uber Eats. Get almost almost anything. Order now.\n\n\n\nThis video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE\nLearn more about your ad choices. Visit ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_88_PaulChainsmokers_AIS26.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-politics-venture-bubble-signs",
-      "date": "2026-09-30T21:00:00.000Z",
-      "duration": "52:49",
-      "image": "https://static.libsyn.com/p/assets/b/f/e/7/bfe70c5fe7acc1f7e5bbc093207a2619/jp_x_chnsmkers_2.png",
-      "desc": "(0:00) Jake Paul joins the Chamath! (6:41) Turning an audience into businesses, the boxing playbook & coming for the UFC (11:54) Attention as capital, investing without the celebrity label & why politics is next (20:46) Drew Taggart & Alex Pall join the Besties! (30:35) From artists to investors: picking deals, playing the sixth man & what fame buys (37:33) Advice for famous investors, whether fam",
-      "guestTags": [
-        "Chamath"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -134,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E291_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm-predictions",
+      "date": "2026-10-02T22:30:00.000Z",
+      "duration": "01:22:29",
+      "image": "https://static.libsyn.com/p/assets/7/b/0/3/7b0376a2e322dc87e5bbc093207a2619/1_Pod_E291.png",
+      "desc": "(0:00) Bestie intros! (2:01) Trump's Super Intelligence Summit: Behind the scenes and how the accord was created and signed (17:57) Cybersecurity arms race, data center national security, America.gov, coordinated doomer messaging (45:22) Recent economic data: GDP, jobs, diesel, inflation, rates, manufacturing, poverty, and more (1:00:24) Midterm predictions, 2028 look ahead (1:09:28) Media coverag",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
       "title": "Labour Conference, Diesel Shortage and Far Right Labradors - Off the Fence",
@@ -194,20 +204,6 @@
       "image": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division.\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nThis episode is brought to you by Uber Eats. Get almost almost anything. Order now.\n\n\n\nThis video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE\nLearn more about your ad choices. Visit ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_88_PaulChainsmokers_AIS26.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-politics-venture-bubble-signs",
-      "date": "2026-09-30T21:00:00.000Z",
-      "duration": "52:49",
-      "image": "https://static.libsyn.com/p/assets/b/f/e/7/bfe70c5fe7acc1f7e5bbc093207a2619/jp_x_chnsmkers_2.png",
-      "desc": "(0:00) Jake Paul joins the Chamath! (6:41) Turning an audience into businesses, the boxing playbook & coming for the UFC (11:54) Attention as capital, investing without the celebrity label & why politics is next (20:46) Drew Taggart & Alex Pall join the Besties! (30:35) From artists to investors: picking deals, playing the sixth man & what fame buys (37:33) Advice for famous investors, whether fam",
-      "guestTags": [
-        "Chamath"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -275,9 +271,6 @@
   "guestIndex": {
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
