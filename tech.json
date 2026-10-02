@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-10-02T12:13:20.149Z",
+  "lastUpdated": "2026-10-02T19:04:48.033Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "South Africa’s Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
+      "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
+      "date": "2026-10-02T18:12:28.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/South-Africas-Absa-Becomes-First-Bank-on-the-Continent-to-Custody-Bitcoin.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Ep 164: Inside Anthropic with Sholto Douglas & Nicholas Marwell — AGI, Optimism vs Risks, Regulatory Capture, Open Source & More!",
+      "url": "https://blog.joelonsdale.com/p/ep-164-inside-anthropic-with-sholto",
+      "date": "2026-10-02T15:46:10.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "Bitcoin Price Surges Above $87,000 on Softer-Than-Expected Jobs Data",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
+      "date": "2026-10-02T15:09:38.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "The Case for the American Manufacturing Asset Class",
+      "url": "https://www.a16z.news/p/the-case-for-the-american-manufacturing",
+      "date": "2026-10-02T14:02:34.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/cb45652b-88f8-41dd-b7ea-13c6237417fe_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Impacts of Daily Dividends on Digital Credit",
+      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/impacts-of-daily-dividends-on-digital-credit",
+      "date": "2026-10-02T13:20:41.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/8a53b825-ef03-4085-9a0b-15786f1fc5d9.png",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #213",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-213",
+      "date": "2026-10-02T12:44:11.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!PePt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0230459c-43bd-41cd-9eec-338712f5608d_1000x558.gif",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Frank Holmes: They Will Print $100 Trillion &#8211; Why to Buy Bitcoin &#038; Gold",
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
@@ -66,24 +120,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Peter Todd Joins MARA to Lead Private Mempool Slipstream",
-      "url": "https://bitcoinmagazine.com/news/peter-todd-joins-mara-to-lead-slipstream",
-      "date": "2026-10-01T18:01:44.000Z",
-      "image": "https://www.youtube.com/embed/qbxEZs1nXgU",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "21bitcoin Now Pays Interest on Idle Euros, Payable in BTC",
-      "url": "https://bitcoinmagazine.com/news/21bitcoin-pays-interest-on-euros",
-      "date": "2026-10-01T16:25:18.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/21bitcoin-Now-Pays-Interest-on-Idle-Euros-Payable-in-BTC.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Investing in doxxnet",
       "url": "https://www.a16z.news/p/investing-in-doxxnet",
       "date": "2026-10-01T16:00:56.000Z",
@@ -91,15 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "The Quantum Issue: Quantum Isn&#8217;t Coming For Your Bitcoin",
-      "url": "https://bitcoinmagazine.com/print/the-quantum-issue-quantum-isnt-coming-for-your-bitcoin",
-      "date": "2026-10-01T14:07:50.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-Pessimistic.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Investing in Armadin",
@@ -331,33 +358,6 @@
       "url": "https://www.a16z.news/p/introducing-covenant",
       "date": "2026-09-09T14:01:39.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/4ebfe9b8-809d-4aba-b795-18e2c98542d6_2842x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Everyone is Reading Lonesome Dove",
-      "url": "https://www.notboring.co/p/everyone-is-reading-lonesome-dove",
-      "date": "2026-09-08T12:53:13.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!86hi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79081071-8f11-4b76-b737-56f396c33c16_1200x684.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Texas Should Shut Down the Education Cartel",
-      "url": "https://blog.joelonsdale.com/p/texas-should-shut-down-the-education",
-      "date": "2026-09-05T11:05:07.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!THp-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef65f50b-653e-493c-b9f1-dd3824410f1f_2048x1365.jpeg",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Investing in Gimlet",
-      "url": "https://www.a16z.news/p/investing-in-gimlet",
-      "date": "2026-09-04T16:01:58.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/2e680860-5375-44a9-b276-cf3285af3335_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"

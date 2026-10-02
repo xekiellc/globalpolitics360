@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-10-02T12:13:28.011Z",
+  "lastUpdated": "2026-10-02T19:04:54.439Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 26,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "l031buYiIh0",
-      "show": "Theo Von",
-      "title": "Are There Furries in the Air Traffic Community?",
-      "url": "https://www.youtube.com/watch?v=l031buYiIh0",
-      "date": "2026-10-02T11:15:25.000Z",
-      "image": "https://i1.ytimg.com/vi/l031buYiIh0/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #686 Caleb Pressley\nFull Episode: https://www.youtube.com/watch?v=za3w5M2d9k4\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastw",
-      "guestTags": []
+      "videoId": "gaxJvCUxHe8",
+      "show": "TRIGGERnometry",
+      "title": "Labour Conference, Diesel Shortage and Far Right Labradors - Off the Fence",
+      "url": "https://www.youtube.com/watch?v=gaxJvCUxHe8",
+      "date": "2026-10-02T18:00:26.000Z",
+      "image": "https://i4.ytimg.com/vi/gaxJvCUxHe8/hqdefault.jpg",
+      "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at venice.ai/lp/triggernometry and get 20% off your first month \n\n- Battle Map - ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "l031buYiIh0",
-      "show": "Theo Von",
-      "title": "Are There Furries in the Air Traffic Community?",
-      "url": "https://www.youtube.com/watch?v=l031buYiIh0",
-      "date": "2026-10-02T11:15:25.000Z",
-      "image": "https://i1.ytimg.com/vi/l031buYiIh0/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #686 Caleb Pressley\nFull Episode: https://www.youtube.com/watch?v=za3w5M2d9k4\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispastw",
-      "guestTags": []
+      "videoId": "gaxJvCUxHe8",
+      "show": "TRIGGERnometry",
+      "title": "Labour Conference, Diesel Shortage and Far Right Labradors - Off the Fence",
+      "url": "https://www.youtube.com/watch?v=gaxJvCUxHe8",
+      "date": "2026-10-02T18:00:26.000Z",
+      "image": "https://i4.ytimg.com/vi/gaxJvCUxHe8/hqdefault.jpg",
+      "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at venice.ai/lp/triggernometry and get 20% off your first month \n\n- Battle Map - ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
