@@ -1,10 +1,51 @@
 {
-  "lastUpdated": "2026-10-03T16:01:09.872Z",
+  "lastUpdated": "2026-10-03T20:51:14.572Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1820,
+  "taggedCount": 1822,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 787 Harland Williams + Jeremiah Watkins)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1f492774-497d-469f-bd68-d4e3d083f2e9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1f492774-497d-469f-bd68-d4e3d083f2e9&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-10-03T20:05:00.000Z",
+      "duration": "01:04:50",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 787 KT guest Harland Williams + Jeremiah Watkins&nbsp;Harland Williams, Jeremiah Watkins, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 09/21/2026&nbsp;&",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Julian Dorey Podcast",
+      "title": "The Vatican vs. Thiel, Trump Ex’s New SQUEEZE &amp; Snowden goes NUCLEAR on AI | Julian Dorey",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2093027828.mp3",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2093027828.mp3",
+      "date": "2026-10-03T19:00:00.000Z",
+      "duration": "6078",
+      "image": "https://megaphone.imgix.net/podcasts/4a3f564e-bf1a-11f1-b51d-6f211dd6c41e/image/13be8ccefed12b3b22664a0dd685de91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nNEWSLETTER: https://juliandoreypodcast.beehiiv.com/get-julians-top-10-books\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJU",
+      "guestTags": [
+        "Julian Dorey",
+        "Edward Snowden"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "\"Andy Burnham Is Away With The Fairies\" – Andrew Neil",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6272240528.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6272240528.mp3",
+      "date": "2026-10-03T18:00:00.000Z",
+      "duration": "4718",
+      "image": "https://megaphone.imgix.net/podcasts/354aa31c-be6e-11f1-81fe-1bb775b042c4/image/a415698b8758c876a9eb26ffc230c121.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, uncensored AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/triggernometry/andrew-neil/2026-10-03 and get 20% off your first month\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigge",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -18,20 +59,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Labour Conference, Diesel Shortage and Far Right Labradors - Off the Fence",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2979816004.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2979816004.mp3",
-      "date": "2026-10-02T18:00:00.000Z",
-      "duration": "4580",
-      "image": "https://megaphone.imgix.net/podcasts/8bdc7656-be82-11f1-b485-9fbd45317154/image/2b0c02f8c55424b7bd23a7e8d6444f56.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at venice.ai/lp/triggernometry and get 20% off your first month \n\n- Battle Map - 10% discount with code Trigger10 - https://www.jgfox.art/products/a-battle-map-of-the-culture-wars?u",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "10/2/26: \"BIG MISS\" Jobs Report Spells Disaster For Trump, Anthropic BEGS Pope To Declare AI 'Personhood', Narco Rubio",
@@ -41,18 +68,6 @@
       "duration": "4605",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan, Emily, and Griffin look at Trump rallying in Oklahoma and the newest bleak jobs&nbsp;report being called a \"Big Miss\". Then we dig into Anthropic's leaders meeting with religious&nbsp;scholars&nbsp;about their belief that Claude has 'personhood' and feels pain, as well as a botched&nbsp;meeting between Anthropic and the Pope. Ryan breaks down the latest drama surrounding an attempted assassi",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Bible Expert ERUPTS on End Times Prophecy, the Anti-Christ &amp; Christian Israel Links | Dan Hummel",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8654088989.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8654088989.mp3",
-      "date": "2026-10-02T16:00:00.000Z",
-      "duration": "11798",
-      "image": "https://megaphone.imgix.net/podcasts/7862aaa2-bdf4-11f1-aa92-db3dfdd11fe0/image/7c05ced06c61bdfa0bdbd7a64c6b3f90.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) iRESTORE: Unlock your best hair &amp; skin with @iRestorelaser and HUGE savings on iRESTORE with code JULIAN at https://irestore.com/JULIAN ! #irestorepod\n\n2) PERPLEXITY: Start your free trial of Perplexity Computer today at https://PPLX.ai/JULIAN and experience the\n\nnext phase of AI. #ad\n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\n\nhttps://www.patreon.com/JulianDorey \n\n\n\n",
       "guestTags": []
     },
     {
@@ -89,18 +104,6 @@
       "duration": "12121",
       "image": "https://storage.buzzsprout.com/l6q79ct8o3qqdylcfm4zsmslk1ld?.jpg",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and New York Times bestselling author of eight books on national security.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Head to https://www.superpower.com and use code DALTON at checkout for $20 off your membership. Unlock your new health intelligence. 100+ biomarkers. Every yea",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#787 - HARLAND WILLIAMS + JEREMIAH WATKINS",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/b1ec1a42-a77c-4c20-b5d7-cb4e9ad74925/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=b1ec1a42-a77c-4c20-b5d7-cb4e9ad74925&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-09-29T01:00:00.000Z",
-      "duration": "02:14:56",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Harland Williams, Jeremiah Watkins, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/21/2026THIS EPISODE IS SPONSORED BY:\n\nSuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ht",
       "guestTags": []
     },
     {
@@ -132,6 +135,47 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 787 Harland Williams + Jeremiah Watkins)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1f492774-497d-469f-bd68-d4e3d083f2e9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1f492774-497d-469f-bd68-d4e3d083f2e9&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-10-03T20:05:00.000Z",
+      "duration": "01:04:50",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 787 KT guest Harland Williams + Jeremiah Watkins&nbsp;Harland Williams, Jeremiah Watkins, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 09/21/2026&nbsp;&",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Julian Dorey Podcast",
+      "title": "The Vatican vs. Thiel, Trump Ex’s New SQUEEZE &amp; Snowden goes NUCLEAR on AI | Julian Dorey",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2093027828.mp3",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2093027828.mp3",
+      "date": "2026-10-03T19:00:00.000Z",
+      "duration": "6078",
+      "image": "https://megaphone.imgix.net/podcasts/4a3f564e-bf1a-11f1-b51d-6f211dd6c41e/image/13be8ccefed12b3b22664a0dd685de91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nNEWSLETTER: https://juliandoreypodcast.beehiiv.com/get-julians-top-10-books\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJU",
+      "guestTags": [
+        "Julian Dorey",
+        "Edward Snowden"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "\"Andy Burnham Is Away With The Fairies\" – Andrew Neil",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6272240528.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6272240528.mp3",
+      "date": "2026-10-03T18:00:00.000Z",
+      "duration": "4718",
+      "image": "https://megaphone.imgix.net/podcasts/354aa31c-be6e-11f1-81fe-1bb775b042c4/image/a415698b8758c876a9eb26ffc230c121.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, uncensored AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/triggernometry/andrew-neil/2026-10-03 and get 20% off your first month\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigge",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
@@ -144,20 +188,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Labour Conference, Diesel Shortage and Far Right Labradors - Off the Fence",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2979816004.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT2979816004.mp3",
-      "date": "2026-10-02T18:00:00.000Z",
-      "duration": "4580",
-      "image": "https://megaphone.imgix.net/podcasts/8bdc7656-be82-11f1-b485-9fbd45317154/image/2b0c02f8c55424b7bd23a7e8d6444f56.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Venice is private, unbiased AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at venice.ai/lp/triggernometry and get 20% off your first month \n\n- Battle Map - 10% discount with code Trigger10 - https://www.jgfox.art/products/a-battle-map-of-the-culture-wars?u",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "10/2/26: \"BIG MISS\" Jobs Report Spells Disaster For Trump, Anthropic BEGS Pope To Declare AI 'Personhood', Narco Rubio",
@@ -167,18 +197,6 @@
       "duration": "4605",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Ryan, Emily, and Griffin look at Trump rallying in Oklahoma and the newest bleak jobs&nbsp;report being called a \"Big Miss\". Then we dig into Anthropic's leaders meeting with religious&nbsp;scholars&nbsp;about their belief that Claude has 'personhood' and feels pain, as well as a botched&nbsp;meeting between Anthropic and the Pope. Ryan breaks down the latest drama surrounding an attempted assassi",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Bible Expert ERUPTS on End Times Prophecy, the Anti-Christ &amp; Christian Israel Links | Dan Hummel",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8654088989.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8654088989.mp3",
-      "date": "2026-10-02T16:00:00.000Z",
-      "duration": "11798",
-      "image": "https://megaphone.imgix.net/podcasts/7862aaa2-bdf4-11f1-aa92-db3dfdd11fe0/image/7c05ced06c61bdfa0bdbd7a64c6b3f90.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) iRESTORE: Unlock your best hair &amp; skin with @iRestorelaser and HUGE savings on iRESTORE with code JULIAN at https://irestore.com/JULIAN ! #irestorepod\n\n2) PERPLEXITY: Start your free trial of Perplexity Computer today at https://PPLX.ai/JULIAN and experience the\n\nnext phase of AI. #ad\n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\n\nhttps://www.patreon.com/JulianDorey \n\n\n\n",
       "guestTags": []
     },
     {
@@ -215,18 +233,6 @@
       "duration": "12121",
       "image": "https://storage.buzzsprout.com/l6q79ct8o3qqdylcfm4zsmslk1ld?.jpg",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and New York Times bestselling author of eight books on national security.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Head to https://www.superpower.com and use code DALTON at checkout for $20 off your membership. Unlock your new health intelligence. 100+ biomarkers. Every yea",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#787 - HARLAND WILLIAMS + JEREMIAH WATKINS",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/b1ec1a42-a77c-4c20-b5d7-cb4e9ad74925/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=b1ec1a42-a77c-4c20-b5d7-cb4e9ad74925&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-09-29T01:00:00.000Z",
-      "duration": "02:14:56",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Harland Williams, Jeremiah Watkins, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/21/2026THIS EPISODE IS SPONSORED BY:\n\nSuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ht",
       "guestTags": []
     },
     {
@@ -269,11 +275,15 @@
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
+    "Julian Dorey": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Edward Snowden": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
+    ],
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
     ]
   }
 }
