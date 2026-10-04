@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-10-04T19:21:54.249Z",
+  "lastUpdated": "2026-10-04T22:55:12.228Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1822,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "The Jordan B. Peterson Podcast",
+      "title": "Follow Whatever Glitters In The Corner",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9918618773.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9918618773.mp3",
+      "date": "2026-10-04T19:52:00.000Z",
+      "duration": "7066",
+      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "What does a seventy-year-old man who has never left his father's tent have in common with the first murder ever committed? In this lecture, Jordan Peterson works through the story of Cain and Abel and arrives somewhere nobody expects: a precise, almost clinical account of how resentment is manufactured, step by step, in an ordinary person who believes he has been treated unfairly. Along the way he",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -30,20 +42,6 @@
       "guestTags": [
         "Julian Dorey",
         "Edward Snowden"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "\"Andy Burnham Is Away With The Fairies\" – Andrew Neil",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6272240528.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6272240528.mp3",
-      "date": "2026-10-03T18:00:00.000Z",
-      "duration": "4718",
-      "image": "https://megaphone.imgix.net/podcasts/354aa31c-be6e-11f1-81fe-1bb775b042c4/image/a415698b8758c876a9eb26ffc230c121.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, uncensored AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/triggernometry/andrew-neil/2026-10-03 and get 20% off your first month\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigge",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -135,6 +133,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "The Jordan B. Peterson Podcast",
+      "title": "Follow Whatever Glitters In The Corner",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9918618773.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9918618773.mp3",
+      "date": "2026-10-04T19:52:00.000Z",
+      "duration": "7066",
+      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "What does a seventy-year-old man who has never left his father's tent have in common with the first murder ever committed? In this lecture, Jordan Peterson works through the story of Cain and Abel and arrives somewhere nobody expects: a precise, almost clinical account of how resentment is manufactured, step by step, in an ordinary person who believes he has been treated unfairly. Along the way he",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KT: Behind the Tape (Ep: 787 Harland Williams + Jeremiah Watkins)",
@@ -159,20 +169,6 @@
       "guestTags": [
         "Julian Dorey",
         "Edward Snowden"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "\"Andy Burnham Is Away With The Fairies\" – Andrew Neil",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6272240528.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6272240528.mp3",
-      "date": "2026-10-03T18:00:00.000Z",
-      "duration": "4718",
-      "image": "https://megaphone.imgix.net/podcasts/354aa31c-be6e-11f1-81fe-1bb775b042c4/image/a415698b8758c876a9eb26ffc230c121.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice is private, uncensored AI.\nNo conversation logs sitting on someone else’s server.\nNo refusals dressed up as safety.\nTry it at https://venice.ai/triggernometry/andrew-neil/2026-10-03 and get 20% off your first month\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigge",
-      "guestTags": [
-        "Konstantin Kisin"
       ]
     },
     {
@@ -281,9 +277,6 @@
     "Edward Snowden": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ]
   }
 }
