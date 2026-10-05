@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-10-05T05:00:44.796Z",
+  "lastUpdated": "2026-10-05T14:09:59.478Z",
   "showCount": 22,
-  "episodeCount": 9,
+  "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1787,
+  "taggedCount": 1822,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Follow Whatever Glitters In The Corner",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9918618773.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9918618773.mp3",
-      "date": "2026-10-04T19:52:00.000Z",
-      "duration": "7066",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What does a seventy-year-old man who has never left his father's tent have in common with the first murder ever committed? In this lecture, Jordan Peterson works through the story of Cain and Abel and arrives somewhere nobody expects: a precise, almost clinical account of how resentment is manufactured, step by step, in an ordinary person who believes he has been treated unfairly. Along the way he",
+      "show": "Shawn Ryan Show",
+      "title": "#345 Wynonna Judd - Dolly Parton, Naomi Judd's Death &amp; Finding Her Biological Father",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7713839709.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7713839709.mp3",
+      "date": "2026-10-05T10:00:00.000Z",
+      "duration": "17843",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Wynonna Judd is a five-time Grammy Award-winning country artist who rose to fame alongside her mother, Naomi, as The Judds, one of the most successful duos in country music history. After The Judds ended their original run, Wynonna launched a major solo career while navigating family challenges, personal loss, and the death of her mother in 2022. Now, more than four decades into her career, she is",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2211492808.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/bringing-extinct-species-back-to-life-dr-beth-shapiro",
+      "date": "2026-10-05T08:00:00.000Z",
+      "duration": "8136",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We als",
       "guestTags": []
     },
     {
@@ -81,18 +93,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #186 with Sean Sharaf",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1692440444.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1692440444.mp3",
-      "date": "2026-10-01T17:00:00.000Z",
-      "duration": "8486",
-      "image": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division.\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nThis episode is brought to you by Uber Eats. Get almost almost anything. Order now.\n\n\n\nThis video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE\nLearn more about your ad choices. Visit ",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "Dalton Fischer Podcast",
       "title": "China’s Brain Warfare Program: “The Darkest Thing I’ve Ever Come Across” | Annie Jacobsen",
@@ -103,6 +103,20 @@
       "image": "https://storage.buzzsprout.com/l6q79ct8o3qqdylcfm4zsmslk1ld?.jpg",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and New York Times bestselling author of eight books on national security.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Head to https://www.superpower.com and use code DALTON at checkout for $20 off your membership. Unlock your new health intelligence. 100+ biomarkers. Every yea",
       "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &#038; Jung",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
+      "listenUrl": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull",
+      "date": "2026-09-17T00:40:49.000Z",
+      "duration": "",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; submit questions,",
+      "guestTags": [
+        "Edward Snowden"
+      ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
@@ -120,14 +134,26 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Follow Whatever Glitters In The Corner",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9918618773.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9918618773.mp3",
-      "date": "2026-10-04T19:52:00.000Z",
-      "duration": "7066",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What does a seventy-year-old man who has never left his father's tent have in common with the first murder ever committed? In this lecture, Jordan Peterson works through the story of Cain and Abel and arrives somewhere nobody expects: a precise, almost clinical account of how resentment is manufactured, step by step, in an ordinary person who believes he has been treated unfairly. Along the way he",
+      "show": "Shawn Ryan Show",
+      "title": "#345 Wynonna Judd - Dolly Parton, Naomi Judd's Death &amp; Finding Her Biological Father",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7713839709.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7713839709.mp3",
+      "date": "2026-10-05T10:00:00.000Z",
+      "duration": "17843",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Wynonna Judd is a five-time Grammy Award-winning country artist who rose to fame alongside her mother, Naomi, as The Judds, one of the most successful duos in country music history. After The Judds ended their original run, Wynonna launched a major solo career while navigating family challenges, personal loss, and the death of her mother in 2022. Now, more than four decades into her career, she is",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2211492808.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/bringing-extinct-species-back-to-life-dr-beth-shapiro",
+      "date": "2026-10-05T08:00:00.000Z",
+      "duration": "8136",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We als",
       "guestTags": []
     },
     {
@@ -191,18 +217,6 @@
       "duration": "00:14:34",
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1790563493481-9457fee6e6c13.jpg",
       "desc": "On September 17, the Defense Counterintelligence and Security Agency released its annual report on foreign efforts to acquire sensitive U.S. technology from the cleared defense industrial base. DCSA received more than 22,000 suspicious-contact reports during fiscal year 2025 and identified roughly 2,900 incidents involving foreign entities seeking U.S. information or technology. The leading method",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #186 with Sean Sharaf",
-      "audioUrl": "https://traffic.megaphone.fm/GLT1692440444.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT1692440444.mp3",
-      "date": "2026-10-01T17:00:00.000Z",
-      "duration": "8486",
-      "image": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division.\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nThis episode is brought to you by Uber Eats. Get almost almost anything. Order now.\n\n\n\nThis video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE\nLearn more about your ad choices. Visit ",
       "guestTags": []
     },
     {

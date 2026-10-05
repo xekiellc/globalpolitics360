@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-10-05T05:00:48.361Z",
+  "lastUpdated": "2026-10-05T14:10:00.348Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 2,
+  "taggedCount": 26,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8e3RC1L5V_Y",
+      "videoId": "SFX8FIHFLE4",
       "show": "Huberman Lab",
-      "title": "Tools to Improve Your Focus &amp; Concentration | Huberman Lab Essentials",
-      "url": "https://www.youtube.com/watch?v=8e3RC1L5V_Y",
-      "date": "2026-10-01T12:00:35.000Z",
-      "image": "https://i1.ytimg.com/vi/8e3RC1L5V_Y/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also",
+      "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+      "url": "https://www.youtube.com/watch?v=SFX8FIHFLE4",
+      "date": "2026-10-05T12:00:01.000Z",
+      "image": "https://i4.ytimg.com/vi/SFX8FIHFLE4/hqdefault.jpg",
+      "desc": "Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect ",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8e3RC1L5V_Y",
+      "videoId": "SFX8FIHFLE4",
       "show": "Huberman Lab",
-      "title": "Tools to Improve Your Focus &amp; Concentration | Huberman Lab Essentials",
-      "url": "https://www.youtube.com/watch?v=8e3RC1L5V_Y",
-      "date": "2026-10-01T12:00:35.000Z",
-      "image": "https://i1.ytimg.com/vi/8e3RC1L5V_Y/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also",
+      "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+      "url": "https://www.youtube.com/watch?v=SFX8FIHFLE4",
+      "date": "2026-10-05T12:00:01.000Z",
+      "image": "https://i4.ytimg.com/vi/SFX8FIHFLE4/hqdefault.jpg",
+      "desc": "Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect ",
       "guestTags": []
     }
   ],
