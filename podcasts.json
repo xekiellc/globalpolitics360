@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-10-06T05:47:55.821Z",
+  "lastUpdated": "2026-10-06T13:06:45.444Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1824,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#689 - Nick Saban",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER3271129593.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER3271129593.mp3",
+      "date": "2026-10-06T09:44:00.000Z",
+      "duration": "5031",
+      "image": "https://megaphone.imgix.net/podcasts/5ec6d81a-c16a-11f1-9c08-ff9bf259a686/image/68949f4bd5aba000ad22ea81c5bfee41.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Nick Saban is the former head football coach of the University of Alabama where he won 7 national championships. He is currently an analyst on College Game Day, and his new ESPN docuseries “Saban” is out 10/8.\n\nCoach Saban joins Theo to talk about the mentality he instilled to build a dynasty at Alabama, the changing culture of recruiting in college football, and how he’s learning to have fun in r",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -30,18 +42,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#688 - Candace Owens",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4484920893.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4484920893.mp3",
-      "date": "2026-10-05T23:17:00.000Z",
-      "duration": "8536",
-      "image": "https://megaphone.imgix.net/podcasts/db7417a0-c111-11f1-8e9a-bf29a74a1905/image/cf3538514daab96459177dd8b5260605.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Candace Owens is a commentator and host known for her popular investigative show “Candace”.&amp;nbsp;\n\nCandace joins Theo to talk about gearing up for kid #5, fending off lawsuits from world leaders, and why she’s not letting up on the investigation into Charlie Kirk’s murder.&amp;nbsp;\n\nCandace Owens: https://www.instagram.com/realcandaceowens&amp;nbsp;\n\n------------------------------------------",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#689 - Nick Saban",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER3271129593.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER3271129593.mp3",
+      "date": "2026-10-06T09:44:00.000Z",
+      "duration": "5031",
+      "image": "https://megaphone.imgix.net/podcasts/5ec6d81a-c16a-11f1-9c08-ff9bf259a686/image/68949f4bd5aba000ad22ea81c5bfee41.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Nick Saban is the former head football coach of the University of Alabama where he won 7 national championships. He is currently an analyst on College Game Day, and his new ESPN docuseries “Saban” is out 10/8.\n\nCoach Saban joins Theo to talk about the mentality he instilled to build a dynasty at Alabama, the changing culture of recruiting in college football, and how he’s learning to have fun in r",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KT #788 - WHEELER WALKER JR + SAM TRIPOLI",
@@ -156,18 +168,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#688 - Candace Owens",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4484920893.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4484920893.mp3",
-      "date": "2026-10-05T23:17:00.000Z",
-      "duration": "8536",
-      "image": "https://megaphone.imgix.net/podcasts/db7417a0-c111-11f1-8e9a-bf29a74a1905/image/cf3538514daab96459177dd8b5260605.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Candace Owens is a commentator and host known for her popular investigative show “Candace”.&amp;nbsp;\n\nCandace joins Theo to talk about gearing up for kid #5, fending off lawsuits from world leaders, and why she’s not letting up on the investigation into Charlie Kirk’s murder.&amp;nbsp;\n\nCandace Owens: https://www.instagram.com/realcandaceowens&amp;nbsp;\n\n------------------------------------------",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
