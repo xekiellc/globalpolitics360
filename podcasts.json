@@ -1,10 +1,48 @@
 {
-  "lastUpdated": "2026-10-05T22:25:54.023Z",
+  "lastUpdated": "2026-10-06T05:47:55.821Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1824,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT #788 - WHEELER WALKER JR + SAM TRIPOLI",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/418a380c-747a-4eb0-ad62-c4ae66c6fe1b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=418a380c-747a-4eb0-ad62-c4ae66c6fe1b&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-10-06T01:00:00.000Z",
+      "duration": "02:17:50",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Wheeler Walker Jr, Sam Tripoli, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/28/2026&nbsp;THIS EPISODE IS SPONSORED BY:\nSuperCast:\nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ht",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Mamdani Defines Socialism",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/fc9f18df-90b6-42e1-b404-4ff606878f0a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/fc9f18df-90b6-42e1-b404-4ff606878f0a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-06T00:00:00.000Z",
+      "duration": "01:09:06",
+      "image": "https://content.production.cdn.art19.com/images/23/86/5a/9e/23865a9e-40d0-4682-9330-fa1ae59458ab/76e83e1c71732cb755e7c90a78747abea0b9520c5e495c99f646d5f6714bcad1a92785d21805277b4629d438e757afb2e78fbadac70e585df6e3a619d932f90e.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Mamdani's appearance on Theo Von's podcast, his definition of socialism, and more.Support Our Sponsors:Brunt Workwear - http://bruntworkwear.com/ Use code PROBLEM for $10 off your first order! Cowboy Colostrum - Get 25% Off Cowboy Colostrum with code DAVE at https://ww",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#688 - Candace Owens",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4484920893.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4484920893.mp3",
+      "date": "2026-10-05T23:17:00.000Z",
+      "duration": "8536",
+      "image": "https://megaphone.imgix.net/podcasts/db7417a0-c111-11f1-8e9a-bf29a74a1905/image/cf3538514daab96459177dd8b5260605.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Candace Owens is a commentator and host known for her popular investigative show “Candace”.&amp;nbsp;\n\nCandace joins Theo to talk about gearing up for kid #5, fending off lawsuits from world leaders, and why she’s not letting up on the investigation into Charlie Kirk’s murder.&amp;nbsp;\n\nCandace Owens: https://www.instagram.com/realcandaceowens&amp;nbsp;\n\n------------------------------------------",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -16,20 +54,6 @@
       "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
       "desc": "Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Andy Burnham Will Save Britain — He Just Has to Destroy It First - Konstantin Kisin",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT5661224200.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT5661224200.mp3",
-      "date": "2026-10-05T18:00:00.000Z",
-      "duration": "527",
-      "image": "https://megaphone.imgix.net/podcasts/4d55f7ac-c0d7-11f1-8256-1f3588b3c86c/image/3629b89edc287fbbe128174adb8f0bba.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\nKonstantin X / Twitter - https://x.com/KonstantinKisin\n\nKonstantin Substack - https://substack.com/@konstantinkisin\n\nJoin our ex",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -53,45 +77,6 @@
       "duration": "8136",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We als",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 787 Harland Williams + Jeremiah Watkins)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1f492774-497d-469f-bd68-d4e3d083f2e9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1f492774-497d-469f-bd68-d4e3d083f2e9&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-10-03T20:05:00.000Z",
-      "duration": "01:04:50",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from KT Episode 787 KT guest Harland Williams + Jeremiah Watkins&nbsp;Harland Williams, Jeremiah Watkins, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 09/21/2026&nbsp;&",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "The Vatican vs. Thiel, Trump Ex’s New SQUEEZE &amp; Snowden goes NUCLEAR on AI | Julian Dorey",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2093027828.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2093027828.mp3",
-      "date": "2026-10-03T19:00:00.000Z",
-      "duration": "6078",
-      "image": "https://megaphone.imgix.net/podcasts/4a3f564e-bf1a-11f1-b51d-6f211dd6c41e/image/13be8ccefed12b3b22664a0dd685de91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nNEWSLETTER: https://juliandoreypodcast.beehiiv.com/get-julians-top-10-books\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJU",
-      "guestTags": [
-        "Julian Dorey",
-        "Edward Snowden"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The Expert Is the Target",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/126397321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2Fc3f2d8bb-d32c-1e90-ebad-089d6f1131bd.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-Expert-Is-the-Target-e3pfre9",
-      "date": "2026-10-02T10:00:00.000Z",
-      "duration": "00:14:34",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1790563493481-9457fee6e6c13.jpg",
-      "desc": "On September 17, the Defense Counterintelligence and Security Agency released its annual report on foreign efforts to acquire sensitive U.S. technology from the cleared defense industrial base. DCSA received more than 22,000 suspicious-contact reports during fiscal year 2025 and identified roughly 2,900 incidents involving foreign entities seeking U.S. information or technology. The leading method",
       "guestTags": []
     },
     {
@@ -119,6 +104,18 @@
       "guestTags": [
         "Edward Snowden"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Why Is the U.S. Going After Raúl Castro Now?",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/123278339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2F428559605-44100-2-97ac5db30bb27.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Why-Is-the-U-S--Going-After-Ral-Castro-Now-e3mgli3",
+      "date": "2026-06-02T18:05:00.000Z",
+      "duration": "00:23:14",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/47666f8f885cecca.png",
+      "desc": "In today’s episode, we break down the Raúl Castro indictment, the mounting pressure inside Cuba, and why migration, Florida politics, and great-power competition are reshaping the future of U.S.–Cuba strategy.\n\nGet Mindful Sparkling Water By Shawn Ryan Here: https://www.amazon.com/Sparkling-Carbonated-Electrolytes-Sweeteners-Unflavored/dp/B0FPT6YPXX  Learn more about your ad choices. Visit podcast",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cuYnV6enNw",
@@ -135,6 +132,44 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT #788 - WHEELER WALKER JR + SAM TRIPOLI",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/418a380c-747a-4eb0-ad62-c4ae66c6fe1b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=418a380c-747a-4eb0-ad62-c4ae66c6fe1b&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-10-06T01:00:00.000Z",
+      "duration": "02:17:50",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Wheeler Walker Jr, Sam Tripoli, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 09/28/2026&nbsp;THIS EPISODE IS SPONSORED BY:\nSuperCast:\nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at ht",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Mamdani Defines Socialism",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/fc9f18df-90b6-42e1-b404-4ff606878f0a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/fc9f18df-90b6-42e1-b404-4ff606878f0a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-06T00:00:00.000Z",
+      "duration": "01:09:06",
+      "image": "https://content.production.cdn.art19.com/images/23/86/5a/9e/23865a9e-40d0-4682-9330-fa1ae59458ab/76e83e1c71732cb755e7c90a78747abea0b9520c5e495c99f646d5f6714bcad1a92785d21805277b4629d438e757afb2e78fbadac70e585df6e3a619d932f90e.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Mamdani's appearance on Theo Von's podcast, his definition of socialism, and more.Support Our Sponsors:Brunt Workwear - http://bruntworkwear.com/ Use code PROBLEM for $10 off your first order! Cowboy Colostrum - Get 25% Off Cowboy Colostrum with code DAVE at https://ww",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#688 - Candace Owens",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4484920893.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4484920893.mp3",
+      "date": "2026-10-05T23:17:00.000Z",
+      "duration": "8536",
+      "image": "https://megaphone.imgix.net/podcasts/db7417a0-c111-11f1-8e9a-bf29a74a1905/image/cf3538514daab96459177dd8b5260605.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Candace Owens is a commentator and host known for her popular investigative show “Candace”.&amp;nbsp;\n\nCandace joins Theo to talk about gearing up for kid #5, fending off lawsuits from world leaders, and why she’s not letting up on the investigation into Charlie Kirk’s murder.&amp;nbsp;\n\nCandace Owens: https://www.instagram.com/realcandaceowens&amp;nbsp;\n\n------------------------------------------",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "“Cornell 7” Case Gets Political, Mamdani Sells Socialism to Theo Von &amp; the Right Turns on Zach Bryan",
@@ -145,20 +180,6 @@
       "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
       "desc": "Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "Andy Burnham Will Save Britain — He Just Has to Destroy It First - Konstantin Kisin",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT5661224200.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT5661224200.mp3",
-      "date": "2026-10-05T18:00:00.000Z",
-      "duration": "527",
-      "image": "https://megaphone.imgix.net/podcasts/4d55f7ac-c0d7-11f1-8256-1f3588b3c86c/image/3629b89edc287fbbe128174adb8f0bba.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.\n\nKonstantin X / Twitter - https://x.com/KonstantinKisin\n\nKonstantin Substack - https://substack.com/@konstantinkisin\n\nJoin our ex",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -182,45 +203,6 @@
       "duration": "8136",
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We als",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 787 Harland Williams + Jeremiah Watkins)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1f492774-497d-469f-bd68-d4e3d083f2e9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1f492774-497d-469f-bd68-d4e3d083f2e9&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-10-03T20:05:00.000Z",
-      "duration": "01:04:50",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from KT Episode 787 KT guest Harland Williams + Jeremiah Watkins&nbsp;Harland Williams, Jeremiah Watkins, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica, Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 09/21/2026&nbsp;&",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "The Vatican vs. Thiel, Trump Ex’s New SQUEEZE &amp; Snowden goes NUCLEAR on AI | Julian Dorey",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2093027828.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2093027828.mp3",
-      "date": "2026-10-03T19:00:00.000Z",
-      "duration": "6078",
-      "image": "https://megaphone.imgix.net/podcasts/4a3f564e-bf1a-11f1-b51d-6f211dd6c41e/image/13be8ccefed12b3b22664a0dd685de91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nNEWSLETTER: https://juliandoreypodcast.beehiiv.com/get-julians-top-10-books\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJU",
-      "guestTags": [
-        "Julian Dorey",
-        "Edward Snowden"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "The Expert Is the Target",
-      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/126397321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2Fc3f2d8bb-d32c-1e90-ebad-089d6f1131bd.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/The-Expert-Is-the-Target-e3pfre9",
-      "date": "2026-10-02T10:00:00.000Z",
-      "duration": "00:14:34",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1790563493481-9457fee6e6c13.jpg",
-      "desc": "On September 17, the Defense Counterintelligence and Security Agency released its annual report on foreign efforts to acquire sensitive U.S. technology from the cleared defense industrial base. DCSA received more than 22,000 suspicious-contact reports during fiscal year 2025 and identified roughly 2,900 incidents involving foreign entities seeking U.S. information or technology. The leading method",
       "guestTags": []
     },
     {
@@ -248,6 +230,18 @@
       "guestTags": [
         "Edward Snowden"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Why Is the U.S. Going After Raúl Castro Now?",
+      "audioUrl": "https://anchor.fm/s/115428cfc/podcast/play/123278339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2F428559605-44100-2-97ac5db30bb27.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Why-Is-the-U-S--Going-After-Ral-Castro-Now-e3mgli3",
+      "date": "2026-06-02T18:05:00.000Z",
+      "duration": "00:23:14",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/47666f8f885cecca.png",
+      "desc": "In today’s episode, we break down the Raúl Castro indictment, the mounting pressure inside Cuba, and why migration, Florida politics, and great-power competition are reshaping the future of U.S.–Cuba strategy.\n\nGet Mindful Sparkling Water By Shawn Ryan Here: https://www.amazon.com/Sparkling-Carbonated-Electrolytes-Sweeteners-Unflavored/dp/B0FPT6YPXX  Learn more about your ad choices. Visit podcast",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9yc3Yuc2ltcGxl",
@@ -275,14 +269,10 @@
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
-    ],
-    "Julian Dorey": [
+    "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Edward Snowden": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
     ]
   }
