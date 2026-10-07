@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-10-07T05:19:51.151Z",
+  "lastUpdated": "2026-10-07T13:01:39.730Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1828,
+  "taggedCount": 1829,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "October 7th: The Enemy You Think You Know",
+      "audioUrl": "https://traffic.megaphone.fm/APO6506648277.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/October-7th-The-Enemy-You-Think-You-Know-e3q1mgj",
+      "date": "2026-10-07T10:00:00.000Z",
+      "duration": "00:24:12",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791333602035-75d83d1e6efbd.jpg",
+      "desc": "October 7th was not simply an intelligence failure. Israel had warning, surveillance, military power, and years of experience watching Hamas. What it lost was enough doubt about whether its own assumptions could be wrong.In this episode of The Watch Floor, I look at the lessons from October 7th that go well beyond Israel. We examine how complacency shaped intelligence assessments, how Hamas studie",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -32,18 +46,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2561 - LL Cool J",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5582771746.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5582771746.mp3",
-      "date": "2026-10-06T17:00:00.000Z",
-      "duration": "9498",
-      "image": "https://megaphone.imgix.net/podcasts/2013800e-c120-11f1-a768-6f890ba0aaa8/image/0259df876a79b0a57e1a854db2f13aeb.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "LL Cool J is a Grammy Award-winning rapper, actor, and philanthropist. Look for him on \"NCIS: New York,\" premiering October 6 on CBS and streaming the next day on Paramount+.www.paramountplus.com/shows/ncis-new-york/www.youtube.com/c/LLCoolJwww.wearefamilyfoundation.orgwww.llcoolj.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the ",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -136,6 +138,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "October 7th: The Enemy You Think You Know",
+      "audioUrl": "https://traffic.megaphone.fm/APO6506648277.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/October-7th-The-Enemy-You-Think-You-Know-e3q1mgj",
+      "date": "2026-10-07T10:00:00.000Z",
+      "duration": "00:24:12",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791333602035-75d83d1e6efbd.jpg",
+      "desc": "October 7th was not simply an intelligence failure. Israel had warning, surveillance, military power, and years of experience watching Hamas. What it lost was enough doubt about whether its own assumptions could be wrong.In this episode of The Watch Floor, I look at the lessons from October 7th that go well beyond Israel. We examine how complacency shaped intelligence assessments, how Hamas studie",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "The Cornell Scandal",
@@ -162,18 +178,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2561 - LL Cool J",
-      "audioUrl": "https://traffic.megaphone.fm/GLT5582771746.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT5582771746.mp3",
-      "date": "2026-10-06T17:00:00.000Z",
-      "duration": "9498",
-      "image": "https://megaphone.imgix.net/podcasts/2013800e-c120-11f1-a768-6f890ba0aaa8/image/0259df876a79b0a57e1a854db2f13aeb.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "LL Cool J is a Grammy Award-winning rapper, actor, and philanthropist. Look for him on \"NCIS: New York,\" premiering October 6 on CBS and streaming the next day on Paramount+.www.paramountplus.com/shows/ncis-new-york/www.youtube.com/c/LLCoolJwww.wearefamilyfoundation.orgwww.llcoolj.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the ",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -277,6 +281,9 @@
     }
   ],
   "guestIndex": {
+    "Sarah Adams": [
+      "aHR0cHM6Ly90cmFmZmljLm1l"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
