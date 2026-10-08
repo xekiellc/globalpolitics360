@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-10-08T00:05:25.582Z",
+  "lastUpdated": "2026-10-08T08:39:54.765Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1830,
+  "taggedCount": 1831,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Manage Stress &amp; Build Resilience | Dr. Elissa Epel",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5466682268.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-manage-stress-and-build-resilience-elissa-epel",
+      "date": "2026-10-08T08:00:00.000Z",
+      "duration": "2082",
+      "image": "https://megaphone.imgix.net/podcasts/aaccd642-c2b9-11f1-a1ef-2385c10f4819/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Elissa Epel, PhD, a Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco (UCSF). We discuss how acute and chronic stress affect the body and brain, including their links to cellular aging and mitochondrial health. We also explain tools to reduce rumination, reframe stress as a challenge and build res",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -46,18 +58,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2562 - Dan McClellan",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6084226127.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6084226127.mp3",
-      "date": "2026-10-07T17:00:00.000Z",
-      "duration": "9712",
-      "image": "https://megaphone.imgix.net/podcasts/5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a/image/0adf163fd3fdd89b10d81e353e59403c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dan McClellan, PhD, is a biblical scholar, author, and co-host of the \"Data Over Dogma\" podcast.www.youtube.com/@dataoverdogmawww.youtube.com/@maklelanhttps://static.macmillan.com/static/smp/bible-says-so-9781250347466/www.maklelan.org\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nPre-order and get campaign early access!\n\n\n\nGet a free welcome kit with your",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -136,6 +136,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Manage Stress &amp; Build Resilience | Dr. Elissa Epel",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM5466682268.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-manage-stress-and-build-resilience-elissa-epel",
+      "date": "2026-10-08T08:00:00.000Z",
+      "duration": "2082",
+      "image": "https://megaphone.imgix.net/podcasts/aaccd642-c2b9-11f1-a1ef-2385c10f4819/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Elissa Epel, PhD, a Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco (UCSF). We discuss how acute and chronic stress affect the body and brain, including their links to cellular aging and mitochondrial health. We also explain tools to reduce rumination, reframe stress as a challenge and build res",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "10/7 Three Years Later",
@@ -176,18 +188,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2562 - Dan McClellan",
-      "audioUrl": "https://traffic.megaphone.fm/GLT6084226127.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT6084226127.mp3",
-      "date": "2026-10-07T17:00:00.000Z",
-      "duration": "9712",
-      "image": "https://megaphone.imgix.net/podcasts/5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a/image/0adf163fd3fdd89b10d81e353e59403c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dan McClellan, PhD, is a biblical scholar, author, and co-host of the \"Data Over Dogma\" podcast.www.youtube.com/@dataoverdogmawww.youtube.com/@maklelanhttps://static.macmillan.com/static/smp/bible-says-so-9781250347466/www.maklelan.org\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nPre-order and get campaign early access!\n\n\n\nGet a free welcome kit with your",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
