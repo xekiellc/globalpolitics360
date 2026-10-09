@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-10-09T05:32:42.063Z",
+  "lastUpdated": "2026-10-09T12:55:14.083Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Weekly Dose of Optimism #214",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-214",
+      "date": "2026-10-09T12:48:52.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!LT8i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a35f807-b8c8-43c2-a683-b934569d2054_850x478.gif",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
       "url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
@@ -352,15 +361,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Weekly Dose of Optimism #210",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-210",
-      "date": "2026-09-11T12:46:09.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!vmFX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7db2f16-cc20-4e2e-8248-fedc0928e399_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
