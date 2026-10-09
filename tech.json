@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-10-09T12:55:14.083Z",
+  "lastUpdated": "2026-10-09T19:22:02.192Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
+      "date": "2026-10-09T17:11:16.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-ETFs-Shed-729M-in-Two-Days-as-Investors-Reverse-Course.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+      "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+      "date": "2026-10-09T16:43:45.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/laptop_ledger_1920x1080.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "This Week in Charts: Are Prediction Markets Politically Biased?",
+      "url": "https://www.a16z.news/p/this-week-in-charts-are-prediction",
+      "date": "2026-10-09T16:31:10.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9bb1d0f3-77b2-4677-91d8-130f01ce77ee_4266x2400.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Investing in TypeSafe AI",
+      "url": "https://www.a16z.news/p/investing-in-typesafe",
+      "date": "2026-10-09T16:28:52.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/449790a1-0b8b-42b6-8cb1-8b50519f95c7_1800x945.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin&#8217;s Next Frontier",
+      "url": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
+      "date": "2026-10-09T13:44:49.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/UTXOs-Loren-Asmus-The-300T-Bond-Market-Is-Bitcoins-Next-Frontier-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Core developer responds to AI &#038; Quantum Risk",
+      "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
+      "date": "2026-10-09T13:38:38.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Core-developer-responds-to-AI-Quantum-Risk-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Building the Berkshire Hathaway of Bitcoin &#124; Twenty One Capital CEO Rapha Zagury",
+      "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+      "date": "2026-10-09T13:33:09.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Building-the-Berkshire-Hathaway-of-Bitcoin-Twenty-One-Capital-CEO-Rapha-Zagury-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+      "url": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+      "date": "2026-10-09T13:28:10.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Calamos-Investments-CEO-John-Koudounis-Bitcoin-Will-Hit-1M-by-2030-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Weekly Dose of Optimism #214",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-214",
@@ -57,33 +129,6 @@
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     },
     {
-      "title": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets",
-      "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
-      "date": "2026-10-08T16:53:52.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
-      "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
-      "date": "2026-10-08T15:46:05.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-5.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Understanding Digital Money and Digital Yield",
-      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-money-digital-yield",
-      "date": "2026-10-08T15:22:29.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/digital-money-digital-yield.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "You Need a New CFO",
       "url": "https://www.a16z.news/p/you-need-a-new-cfo",
       "date": "2026-10-08T14:02:36.000Z",
@@ -91,33 +136,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Why Bitcoin’s Liquidity Advantage Matters as Institutions Move In",
-      "url": "https://bitcoinmagazine.com/markets/why-bitcoins-liquidity-advantage-matters-as-institutions-move-in",
-      "date": "2026-10-08T13:49:39.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-7-2026-02_36_04-PM.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Shawn Owen: Bitcoin&#8217;s First Institutional Cycle Has Arrived",
-      "url": "https://bitcoinmagazine.com/videos/shawn-owen-bitcoins-first-institutional-cycle-has-arrived",
-      "date": "2026-10-08T13:46:59.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Shawn-Owen-Bitcoins-First-Institutional-Cycle-Has-Arrived-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Josh Young: “Massive” Currency Debasement to Come From Oil’s Run Higher",
-      "url": "https://bitcoinmagazine.com/videos/josh-young-massive-currency-debasement-to-come-from-oils-run-higher",
-      "date": "2026-10-08T13:39:35.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Josh-Young-Massive-Currency-Debasement-to-Come-From-Oils-Run-Higher-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Investing in Preference Model",
@@ -340,24 +358,6 @@
       "url": "https://www.a16z.news/p/magazine-depth-affordability-is-a",
       "date": "2026-09-15T14:03:20.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/90778470-fdd6-437a-9468-a70123004b76_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Product Management is Still All About Telling Stories",
-      "url": "https://www.a16z.news/p/product-management-is-still-all-about",
-      "date": "2026-09-14T14:02:07.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/44075c54-395e-4b5f-a332-dfa04ded52e4_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Catching the (Venture) Bus",
-      "url": "https://www.a16z.news/p/catching-the-venture-bus",
-      "date": "2026-09-11T14:01:15.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/01316393-5da8-40b4-932e-161a9b341336_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
