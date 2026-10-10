@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-10-10T12:13:13.337Z",
+  "lastUpdated": "2026-10-10T18:22:08.953Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 27,
+  "taggedCount": 28,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "TBLHdXABwAg",
-      "show": "All-In Podcast",
-      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
-      "url": "https://www.youtube.com/watch?v=TBLHdXABwAg",
-      "date": "2026-10-10T02:28:10.000Z",
-      "image": "https://i1.ytimg.com/vi/TBLHdXABwAg/hqdefault.jpg",
-      "desc": "(0:00) Bestie intros!\n(2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare\n(38:28) OpenAI's math breakthroughs and community backlash\n(1:02:03) Riots in France, Friedberg's socialism metric, bond market\n(1:21:41) Grok Bot goes headles",
-      "guestTags": []
+      "videoId": "VqIByeaby7I",
+      "show": "TRIGGERnometry",
+      "title": "Owen Jones vs. TRIGGERnometry",
+      "url": "https://www.youtube.com/watch?v=VqIByeaby7I",
+      "date": "2026-10-10T18:00:10.000Z",
+      "image": "https://i3.ytimg.com/vi/VqIByeaby7I/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Expat Money: download the report to understand offshore banking, second passports, asset protection and international business\nhttps://expatmoney.com/trigger\n\n- Earn a yield on gold https://monetary-meta",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "TBLHdXABwAg",
-      "show": "All-In Podcast",
-      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
-      "url": "https://www.youtube.com/watch?v=TBLHdXABwAg",
-      "date": "2026-10-10T02:28:10.000Z",
-      "image": "https://i1.ytimg.com/vi/TBLHdXABwAg/hqdefault.jpg",
-      "desc": "(0:00) Bestie intros!\n(2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare\n(38:28) OpenAI's math breakthroughs and community backlash\n(1:02:03) Riots in France, Friedberg's socialism metric, bond market\n(1:21:41) Grok Bot goes headles",
-      "guestTags": []
+      "videoId": "VqIByeaby7I",
+      "show": "TRIGGERnometry",
+      "title": "Owen Jones vs. TRIGGERnometry",
+      "url": "https://www.youtube.com/watch?v=VqIByeaby7I",
+      "date": "2026-10-10T18:00:10.000Z",
+      "image": "https://i3.ytimg.com/vi/VqIByeaby7I/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Expat Money: download the report to understand offshore banking, second passports, asset protection and international business\nhttps://expatmoney.com/trigger\n\n- Earn a yield on gold https://monetary-meta",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
