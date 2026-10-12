@@ -1,21 +1,35 @@
 {
-  "lastUpdated": "2026-10-12T05:21:26.546Z",
+  "lastUpdated": "2026-10-12T14:58:49.910Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1837,
+  "taggedCount": 1838,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Peterson Admits He Got This Wrong",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9331333796.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9331333796.mp3",
-      "date": "2026-10-11T18:26:00.000Z",
-      "duration": "5810",
-      "image": "https://megaphone.imgix.net/podcasts/4d9aabc6-c5a1-11f1-b0f8-839e156662dc/image/566c223161f11a5f61a064604ab3e7b2.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What does a man who spent seventy five years living in his father’s tent have to do with the question you have been avoiding about your own life? In this lecture, Jordan Peterson works through the story of Abraham and arrives at the hardest passage in scripture, the moment a father is told to take his only son up a mountain and offer him as a burnt offering. The atheists call it proof of a monstro",
+      "show": "Shawn Ryan Show",
+      "title": "#347 Pierogi - Shawn Ryan and Scammer Payback Troll Scammers LIVE",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
+      "date": "2026-10-12T10:00:00.000Z",
+      "duration": "13779",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Pierogi is the creator and host of Scammer Payback, one of the largest scam-baiting platforms online. After leaving a career in cybersecurity, he began exposing scam operations by infiltrating their systems, disrupting fraudulent networks, and educating the public on how scammers manipulate victims. Through his videos and investigations, Pierogi and his team have helped stop millions of dollars in",
       "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "From Baghdad to the Green Berets | Steven Al Ebadi",
+      "audioUrl": "https://traffic.megaphone.fm/APO7755874126.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/From-Baghdad-to-the-Green-Berets--Steven-Al-Ebadi-e3qblt2",
+      "date": "2026-10-12T10:00:00.000Z",
+      "duration": "01:09:43",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791759108406-9211220b5deb6.jpg",
+      "desc": "In this episode of The Watch Floor, I sit down with Steven Al Ebadi, a U.S. Army veteran, former intelligence officer, combat linguist, and journalist whose career includes supporting U.S. Army Special Operations Forces, the Defense Intelligence Agency (DIA), and the FBI.We discuss his journey from Iraq to serving alongside U.S. forces, the experiences that shaped his career, and his work in intel",
+      "guestTags": [
+        "Sarah Adams"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -55,20 +69,6 @@
       "desc": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash (1:02:03) Riots in France, Friedberg's socialism metric, bond market (1:21:41) Grok Bot goes headless, OpenAI launches Dots, is IP worthless? Follow the besties: https://x.com/chamath https://x.com/Ja",
       "guestTags": [
         "Chamath"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Protecting the Congregation: What to Do When a Threat Comes to Church",
-      "audioUrl": "https://traffic.megaphone.fm/APO4282914976.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Protecting-the-Congregation-What-to-Do-When-a-Threat-Comes-to-Church-e3q8cme",
-      "date": "2026-10-09T18:38:18.000Z",
-      "duration": "00:30:03",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791571052704-e7e4f7b3adaf7.jpg",
-      "desc": "What would you do if someone opened fire outside your church? Would you recognize signs of a potential threat? And if your children were in Sunday school when an emergency started, would you know how they were being protected?In this episode of The Watch Floor, former CIA Targeting Officer Sarah Adams walks through the threats facing churches and religious communities, from terrorism and targeted ",
-      "guestTags": [
-        "Sarah Adams"
       ]
     },
     {
@@ -137,15 +137,29 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Peterson Admits He Got This Wrong",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9331333796.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9331333796.mp3",
-      "date": "2026-10-11T18:26:00.000Z",
-      "duration": "5810",
-      "image": "https://megaphone.imgix.net/podcasts/4d9aabc6-c5a1-11f1-b0f8-839e156662dc/image/566c223161f11a5f61a064604ab3e7b2.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What does a man who spent seventy five years living in his father’s tent have to do with the question you have been avoiding about your own life? In this lecture, Jordan Peterson works through the story of Abraham and arrives at the hardest passage in scripture, the moment a father is told to take his only son up a mountain and offer him as a burnt offering. The atheists call it proof of a monstro",
+      "show": "Shawn Ryan Show",
+      "title": "#347 Pierogi - Shawn Ryan and Scammer Payback Troll Scammers LIVE",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
+      "date": "2026-10-12T10:00:00.000Z",
+      "duration": "13779",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Pierogi is the creator and host of Scammer Payback, one of the largest scam-baiting platforms online. After leaving a career in cybersecurity, he began exposing scam operations by infiltrating their systems, disrupting fraudulent networks, and educating the public on how scammers manipulate victims. Through his videos and investigations, Pierogi and his team have helped stop millions of dollars in",
       "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "From Baghdad to the Green Berets | Steven Al Ebadi",
+      "audioUrl": "https://traffic.megaphone.fm/APO7755874126.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/From-Baghdad-to-the-Green-Berets--Steven-Al-Ebadi-e3qblt2",
+      "date": "2026-10-12T10:00:00.000Z",
+      "duration": "01:09:43",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791759108406-9211220b5deb6.jpg",
+      "desc": "In this episode of The Watch Floor, I sit down with Steven Al Ebadi, a U.S. Army veteran, former intelligence officer, combat linguist, and journalist whose career includes supporting U.S. Army Special Operations Forces, the Defense Intelligence Agency (DIA), and the FBI.We discuss his journey from Iraq to serving alongside U.S. forces, the experiences that shaped his career, and his work in intel",
+      "guestTags": [
+        "Sarah Adams"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -185,20 +199,6 @@
       "desc": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash (1:02:03) Riots in France, Friedberg's socialism metric, bond market (1:21:41) Grok Bot goes headless, OpenAI launches Dots, is IP worthless? Follow the besties: https://x.com/chamath https://x.com/Ja",
       "guestTags": [
         "Chamath"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Protecting the Congregation: What to Do When a Threat Comes to Church",
-      "audioUrl": "https://traffic.megaphone.fm/APO4282914976.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Protecting-the-Congregation-What-to-Do-When-a-Threat-Comes-to-Church-e3q8cme",
-      "date": "2026-10-09T18:38:18.000Z",
-      "duration": "00:30:03",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791571052704-e7e4f7b3adaf7.jpg",
-      "desc": "What would you do if someone opened fire outside your church? Would you recognize signs of a potential threat? And if your children were in Sunday school when an emergency started, would you know how they were being protected?In this episode of The Watch Floor, former CIA Targeting Officer Sarah Adams walks through the threats facing churches and religious communities, from terrorism and targeted ",
-      "guestTags": [
-        "Sarah Adams"
       ]
     },
     {
@@ -277,14 +277,14 @@
     }
   ],
   "guestIndex": {
+    "Sarah Adams": [
+      "aHR0cHM6Ly90cmFmZmljLm1l"
+    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Chamath": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Sarah Adams": [
-      "aHR0cHM6Ly90cmFmZmljLm1l"
     ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
