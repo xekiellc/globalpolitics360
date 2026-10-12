@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-10-12T14:58:49.910Z",
+  "lastUpdated": "2026-10-12T22:49:27.011Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1838,
+  "taggedCount": 1840,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Talarico&apos;s BIG Problem, Alex Cooper&apos;s FAIL, with Evan Barker, PLUS Meghan Markle&apos;s PR Disaster",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/f07e93cd-8530-4a1d-9936-3c9958183d7e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=f07e93cd-8530-4a1d-9936-3c9958183d7e&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-10-12T20:30:00.000Z",
+      "duration": "01:15:58",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky breaks down new revelations in the “Cornell 7” case, including a potentially significant statement omitted from CBS News and The New York Times' coverage of a text message exchange between Jane Doe and one of the accused men. Emily is then joined by Evan Barker, author of the New York Times bestseller “Nothing Left: Confessions of a Democratic Operative,” to discuss her journey fro",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "10/12/26: Houthis Strike Saudi Airport, Trump Invents Fake Ukraine Ceasefire, Trump Ridicules His Own Supporters",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8a3c91b6-1abb-4122-9388-b4e101022e37/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-12-26-houthis-strike-saudi-airport-trump-invents-fake-ukraine-ceasefire-trump-ridicules-his-own-supporters",
+      "date": "2026-10-12T16:00:29.000Z",
+      "duration": "4050",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Houthis hit Saudi airport causing shutdown, Trump invents fake Russia Ukraine ceasefire, Trump ridicules his own crowd at rally. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
@@ -56,32 +82,6 @@
       "guestTags": [
         "Julian Dorey"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E292_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/is-claude-conscious-pope-rejects-model-welfare-movement-openais-math-backlash-france-riots",
-      "date": "2026-10-10T02:06:00.000Z",
-      "duration": "01:33:15",
-      "image": "https://static.libsyn.com/p/assets/0/5/1/0/05106eb3c174bb5de5bbc093207a2619/1_Pod_E292.png",
-      "desc": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash (1:02:03) Riots in France, Friedberg's socialism metric, bond market (1:21:41) Grok Bot goes headless, OpenAI launches Dots, is IP worthless? Follow the besties: https://x.com/chamath https://x.com/Ja",
-      "guestTags": [
-        "Chamath"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "10/9/26: Abdul and Ossoff Crush Debates, Pape On Trump's 'Gift To Tehran', Will Lawrence Congress Run In Michigan",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/c5721bed-d04c-4f28-97df-b4de010e6ae6/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-9-26-abdul-and-ossoff-crush-debates-pape-on-trumps-gift-to-tehran-will-lawrence-congress-run-in-michigan",
-      "date": "2026-10-09T16:35:38.000Z",
-      "duration": "5574",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "The Friday crew is back to react to last night's debates in Michigan with Abdul and Mike Rodgers, and in Georgia with Jon Ossoff and Mike Collins. Then class is back in session as Professor Pape returns to break down how Trump's new deployment of troops to the Middle East is a major gift to Tehran. Finally we speak to Michigan congressional candidate Will Lawrence about his continued fight against",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -136,6 +136,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Talarico&apos;s BIG Problem, Alex Cooper&apos;s FAIL, with Evan Barker, PLUS Meghan Markle&apos;s PR Disaster",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/f07e93cd-8530-4a1d-9936-3c9958183d7e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=f07e93cd-8530-4a1d-9936-3c9958183d7e&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-10-12T20:30:00.000Z",
+      "duration": "01:15:58",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky breaks down new revelations in the “Cornell 7” case, including a potentially significant statement omitted from CBS News and The New York Times' coverage of a text message exchange between Jane Doe and one of the accused men. Emily is then joined by Evan Barker, author of the New York Times bestseller “Nothing Left: Confessions of a Democratic Operative,” to discuss her journey fro",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "10/12/26: Houthis Strike Saudi Airport, Trump Invents Fake Ukraine Ceasefire, Trump Ridicules His Own Supporters",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8a3c91b6-1abb-4122-9388-b4e101022e37/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-12-26-houthis-strike-saudi-airport-trump-invents-fake-ukraine-ceasefire-trump-ridicules-his-own-supporters",
+      "date": "2026-10-12T16:00:29.000Z",
+      "duration": "4050",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Houthis hit Saudi airport causing shutdown, Trump invents fake Russia Ukraine ceasefire, Trump ridicules his own crowd at rally. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "Shawn Ryan Show",
       "title": "#347 Pierogi - Shawn Ryan and Scammer Payback Troll Scammers LIVE",
@@ -186,32 +212,6 @@
       "guestTags": [
         "Julian Dorey"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E292_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/is-claude-conscious-pope-rejects-model-welfare-movement-openais-math-backlash-france-riots",
-      "date": "2026-10-10T02:06:00.000Z",
-      "duration": "01:33:15",
-      "image": "https://static.libsyn.com/p/assets/0/5/1/0/05106eb3c174bb5de5bbc093207a2619/1_Pod_E292.png",
-      "desc": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash (1:02:03) Riots in France, Friedberg's socialism metric, bond market (1:21:41) Grok Bot goes headless, OpenAI launches Dots, is IP worthless? Follow the besties: https://x.com/chamath https://x.com/Ja",
-      "guestTags": [
-        "Chamath"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "10/9/26: Abdul and Ossoff Crush Debates, Pape On Trump's 'Gift To Tehran', Will Lawrence Congress Run In Michigan",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/c5721bed-d04c-4f28-97df-b4de010e6ae6/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-9-26-abdul-and-ossoff-crush-debates-pape-on-trumps-gift-to-tehran-will-lawrence-congress-run-in-michigan",
-      "date": "2026-10-09T16:35:38.000Z",
-      "duration": "5574",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "The Friday crew is back to react to last night's debates in Michigan with Abdul and Mike Rodgers, and in Georgia with Jon Ossoff and Mike Collins. Then class is back in session as Professor Pape returns to break down how Trump's new deployment of troops to the Middle East is a major gift to Tehran. Finally we speak to Michigan congressional candidate Will Lawrence about his continued fight against",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
@@ -277,14 +277,14 @@
     }
   ],
   "guestIndex": {
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
     "Sarah Adams": [
       "aHR0cHM6Ly90cmFmZmljLm1l"
     ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Chamath": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
