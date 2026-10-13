@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-10-12T22:49:27.011Z",
+  "lastUpdated": "2026-10-13T06:19:52.801Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1840,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #789",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/fad14165-c611-415b-be96-2b17449c4a10/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=fad14165-c611-415b-be96-2b17449c4a10&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-10-13T01:00:00.000Z",
+      "duration": "02:04:38",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Tim Butterly, Kirk Fox, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/05/2026&nbsp;This episode is sponsored by:SuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://ki",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Shapiro vs. The Kids",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a68e25ad-e065-420d-acb9-77c6b6376a5d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a68e25ad-e065-420d-acb9-77c6b6376a5d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-13T00:00:00.000Z",
+      "duration": "01:05:19",
+      "image": "https://content.production.cdn.art19.com/images/34/b7/e8/3f/34b7e83f-273b-409d-8134-827c24737400/60edce31f6d550d2809901aec74ffa07306e9440e11a3df1cc1195bc650e413a91897ebce086f7f984ab5f8d90a324e9a85e342a83ee8dc912f2405ffd8167d4.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Shane Gillis's backlash after hosting SNL for the third time, Ben Shapiro's appearance and various viral moments at a recent TPUSA event, and more.Support Our Sponsors:CrowdHealth - https://www.joincrowdhealth.com/promos/potpQuince - Get free shipping on your Quince or",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -38,7 +64,7 @@
       "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
       "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
       "date": "2026-10-12T10:00:00.000Z",
-      "duration": "13779",
+      "duration": "13760",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Pierogi is the creator and host of Scammer Payback, one of the largest scam-baiting platforms online. After leaving a career in cybersecurity, he began exposing scam operations by infiltrating their systems, disrupting fraudulent networks, and educating the public on how scammers manipulate victims. Through his videos and investigations, Pierogi and his team have helped stop millions of dollars in",
       "guestTags": []
@@ -55,32 +81,6 @@
       "desc": "In this episode of The Watch Floor, I sit down with Steven Al Ebadi, a U.S. Army veteran, former intelligence officer, combat linguist, and journalist whose career includes supporting U.S. Army Special Operations Forces, the Defense Intelligence Agency (DIA), and the FBI.We discuss his journey from Iraq to serving alongside U.S. forces, the experiences that shaped his career, and his work in intel",
       "guestTags": [
         "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 788 Wheeler Walker + Sam Tripoli)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/7380218e-b092-4a35-be4b-dd92e93c2fe5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=7380218e-b092-4a35-be4b-dd92e93c2fe5&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-10-11T05:00:00.000Z",
-      "duration": "00:50:56",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from KT Episode 788 KT guest Harland Williams + Jeremiah Watkins&nbsp;Wheeler Walker Jr, Sam Tripoli, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 09/28/2026&nbsp;&nbsp;",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Mysterious $36 Billion AI SCAMMER, Dirtiest Influencer PSYOP &amp; Chris Hansen | Julian Dorey",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8556454793.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8556454793.mp3",
-      "date": "2026-10-10T19:00:00.000Z",
-      "duration": "6003",
-      "image": "https://megaphone.imgix.net/podcasts/bcecd932-c343-11f1-b530-d7214d10d891/image/1365f24722e038da4a96bf7b5d0dd696.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nNEWSLETTER: https://juliandoreypodcast.beehiiv.com/get-julians-top-10-books\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJU",
-      "guestTags": [
-        "Julian Dorey"
       ]
     },
     {
@@ -136,6 +136,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #789",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/fad14165-c611-415b-be96-2b17449c4a10/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=fad14165-c611-415b-be96-2b17449c4a10&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-10-13T01:00:00.000Z",
+      "duration": "02:04:38",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Tim Butterly, Kirk Fox, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/05/2026&nbsp;This episode is sponsored by:SuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://ki",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Shapiro vs. The Kids",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a68e25ad-e065-420d-acb9-77c6b6376a5d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a68e25ad-e065-420d-acb9-77c6b6376a5d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-13T00:00:00.000Z",
+      "duration": "01:05:19",
+      "image": "https://content.production.cdn.art19.com/images/34/b7/e8/3f/34b7e83f-273b-409d-8134-827c24737400/60edce31f6d550d2809901aec74ffa07306e9440e11a3df1cc1195bc650e413a91897ebce086f7f984ab5f8d90a324e9a85e342a83ee8dc912f2405ffd8167d4.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Shane Gillis's backlash after hosting SNL for the third time, Ben Shapiro's appearance and various viral moments at a recent TPUSA event, and more.Support Our Sponsors:CrowdHealth - https://www.joincrowdhealth.com/promos/potpQuince - Get free shipping on your Quince or",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Talarico&apos;s BIG Problem, Alex Cooper&apos;s FAIL, with Evan Barker, PLUS Meghan Markle&apos;s PR Disaster",
@@ -168,7 +194,7 @@
       "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
       "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
       "date": "2026-10-12T10:00:00.000Z",
-      "duration": "13779",
+      "duration": "13760",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Pierogi is the creator and host of Scammer Payback, one of the largest scam-baiting platforms online. After leaving a career in cybersecurity, he began exposing scam operations by infiltrating their systems, disrupting fraudulent networks, and educating the public on how scammers manipulate victims. Through his videos and investigations, Pierogi and his team have helped stop millions of dollars in",
       "guestTags": []
@@ -185,32 +211,6 @@
       "desc": "In this episode of The Watch Floor, I sit down with Steven Al Ebadi, a U.S. Army veteran, former intelligence officer, combat linguist, and journalist whose career includes supporting U.S. Army Special Operations Forces, the Defense Intelligence Agency (DIA), and the FBI.We discuss his journey from Iraq to serving alongside U.S. forces, the experiences that shaped his career, and his work in intel",
       "guestTags": [
         "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 788 Wheeler Walker + Sam Tripoli)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/7380218e-b092-4a35-be4b-dd92e93c2fe5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=7380218e-b092-4a35-be4b-dd92e93c2fe5&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-10-11T05:00:00.000Z",
-      "duration": "00:50:56",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind the scenes look from KT Episode 788 KT guest Harland Williams + Jeremiah Watkins&nbsp;Wheeler Walker Jr, Sam Tripoli, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 09/28/2026&nbsp;&nbsp;",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Mysterious $36 Billion AI SCAMMER, Dirtiest Influencer PSYOP &amp; Chris Hansen | Julian Dorey",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8556454793.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8556454793.mp3",
-      "date": "2026-10-10T19:00:00.000Z",
-      "duration": "6003",
-      "image": "https://megaphone.imgix.net/podcasts/bcecd932-c343-11f1-b530-d7214d10d891/image/1365f24722e038da4a96bf7b5d0dd696.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "JOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\nNEWSLETTER: https://juliandoreypodcast.beehiiv.com/get-julians-top-10-books\n\nFOLLOW JULIAN DOREY\nIG: https://www.instagram.com/julianddorey/  \nX: https://x.com/juliandorey\n\nFOLLOW JOEY DEEF\nIG: https://www.instagram.com/joeydeef/\nX: https://x.com/TokeMalone\n\nJU",
-      "guestTags": [
-        "Julian Dorey"
       ]
     },
     {
@@ -277,14 +277,14 @@
     }
   ],
   "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Sarah Adams": [
       "aHR0cHM6Ly90cmFmZmljLm1l"
-    ],
-    "Julian Dorey": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
