@@ -1,14 +1,26 @@
 {
-  "lastUpdated": "2026-10-13T06:19:52.801Z",
+  "lastUpdated": "2026-10-13T15:46:48.667Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1840,
   "latest": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#690 - Josh Brolin",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6499909453.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6499909453.mp3",
+      "date": "2026-10-13T07:00:00.000Z",
+      "duration": "5957",
+      "image": "https://megaphone.imgix.net/podcasts/00365dc6-c6af-11f1-a25e-43df1a1611c9/image/79f10fa876194bf59e297586531cf0ca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Josh Brolin is an actor and writer. His new movie “Whalefall” is in theaters October 16th.&amp;nbsp;\n\nJosh joins Theo to talk about the legacy of his old crew “the Cito Rats”, how his mom’s unique spirit impacted his life, and the times he thought he might not make it as an actor.&amp;nbsp;\n\nJosh Brolin: https://www.instagram.com/joshbrolin&amp;nbsp;\n\n----------------------------------------------",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
-      "title": "KILL TONY #789",
+      "title": "KILL TONY #789 - TIM BUTTERLY +KIRK FOX",
       "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/fad14165-c611-415b-be96-2b17449c4a10/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=fad14165-c611-415b-be96-2b17449c4a10&amp;feed=JZSQrle9",
       "listenUrl": "http://deathsquad.tv",
       "date": "2026-10-13T01:00:00.000Z",
@@ -55,18 +67,6 @@
       "duration": "4050",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Houthis hit Saudi airport causing shutdown, Trump invents fake Russia Ukraine ceasefire, Trump ridicules his own crowd at rally. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#347 Pierogi - Shawn Ryan and Scammer Payback Troll Scammers LIVE",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
-      "date": "2026-10-12T10:00:00.000Z",
-      "duration": "13760",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Pierogi is the creator and host of Scammer Payback, one of the largest scam-baiting platforms online. After leaving a career in cybersecurity, he began exposing scam operations by infiltrating their systems, disrupting fraudulent networks, and educating the public on how scammers manipulate victims. Through his videos and investigations, Pierogi and his team have helped stop millions of dollars in",
       "guestTags": []
     },
     {
@@ -136,9 +136,21 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#690 - Josh Brolin",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6499909453.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6499909453.mp3",
+      "date": "2026-10-13T07:00:00.000Z",
+      "duration": "5957",
+      "image": "https://megaphone.imgix.net/podcasts/00365dc6-c6af-11f1-a25e-43df1a1611c9/image/79f10fa876194bf59e297586531cf0ca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Josh Brolin is an actor and writer. His new movie “Whalefall” is in theaters October 16th.&amp;nbsp;\n\nJosh joins Theo to talk about the legacy of his old crew “the Cito Rats”, how his mom’s unique spirit impacted his life, and the times he thought he might not make it as an actor.&amp;nbsp;\n\nJosh Brolin: https://www.instagram.com/joshbrolin&amp;nbsp;\n\n----------------------------------------------",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
-      "title": "KILL TONY #789",
+      "title": "KILL TONY #789 - TIM BUTTERLY +KIRK FOX",
       "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/fad14165-c611-415b-be96-2b17449c4a10/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=fad14165-c611-415b-be96-2b17449c4a10&amp;feed=JZSQrle9",
       "listenUrl": "http://deathsquad.tv",
       "date": "2026-10-13T01:00:00.000Z",
@@ -185,18 +197,6 @@
       "duration": "4050",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Houthis hit Saudi airport causing shutdown, Trump invents fake Russia Ukraine ceasefire, Trump ridicules his own crowd at rally. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#347 Pierogi - Shawn Ryan and Scammer Payback Troll Scammers LIVE",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD9941909147.mp3",
-      "date": "2026-10-12T10:00:00.000Z",
-      "duration": "13760",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Pierogi is the creator and host of Scammer Payback, one of the largest scam-baiting platforms online. After leaving a career in cybersecurity, he began exposing scam operations by infiltrating their systems, disrupting fraudulent networks, and educating the public on how scammers manipulate victims. Through his videos and investigations, Pierogi and his team have helped stop millions of dollars in",
       "guestTags": []
     },
     {
