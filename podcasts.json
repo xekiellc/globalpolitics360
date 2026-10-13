@@ -1,20 +1,44 @@
 {
-  "lastUpdated": "2026-10-13T15:46:48.667Z",
+  "lastUpdated": "2026-10-13T21:06:24.574Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1840,
+  "taggedCount": 1832,
   "latest": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2564 - Chuck Lorre",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8839252815.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8839252815.mp3",
+      "date": "2026-10-13T17:00:00.000Z",
+      "duration": "7698",
+      "image": "https://megaphone.imgix.net/podcasts/d8eaec50-c6b3-11f1-8ac9-0fbd42ed0525/image/9d76a459e6782bb5bdcfae45b272134a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Chuck Lorre is a writer, producer, and director behind numerous hit television series, including \"The Big Bang Theory,\" \"Two and a Half Men,\" \"Young Sheldon,\" and \"Stuart Fails to Save the Universe.\" He is an inductee of the Television Academy Hall of Fame, has a Star on the Hollywood Walk of Fame, and has received multiple Golden Globe Awards, the PGA Lifetime Achievement Award in Television, sev",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#690 - Josh Brolin",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6499909453.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6499909453.mp3",
-      "date": "2026-10-13T07:00:00.000Z",
-      "duration": "5957",
-      "image": "https://megaphone.imgix.net/podcasts/00365dc6-c6af-11f1-a25e-43df1a1611c9/image/79f10fa876194bf59e297586531cf0ca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Josh Brolin is an actor and writer. His new movie “Whalefall” is in theaters October 16th.&amp;nbsp;\n\nJosh joins Theo to talk about the legacy of his old crew “the Cito Rats”, how his mom’s unique spirit impacted his life, and the times he thought he might not make it as an actor.&amp;nbsp;\n\nJosh Brolin: https://www.instagram.com/joshbrolin&amp;nbsp;\n\n----------------------------------------------",
+      "show": "Honestly with Bari Weiss",
+      "title": "How the New Middle East Was Made with Simon Sebag Montefiore",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/tracking.swap.fm/track/VOdNgcECFk0maZgOJbmx/traffic.megaphone.fm/CBS3568476846.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/tracking.swap.fm/track/VOdNgcECFk0maZgOJbmx/traffic.megaphone.fm/CBS3568476846.mp3",
+      "date": "2026-10-13T16:44:00.000Z",
+      "duration": "4305",
+      "image": "https://megaphone.imgix.net/podcasts/61ed99e8-c300-11eb-988a-035a13090bdf/image/de7d459aa04f578168c94fa76dd04dc8.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Last week I had the privilege of sitting down with one of the foremost historians of our time, Simon Sebag Montefiore. As I write this, his work has never felt more urgent.\n\n“We’re in a new world of counterhistory,” he said recently. “A new world of counterhistory where neither historical facts nor present-time facts matter if they don’t fit the ideological orthodoxy.”\n\nIt is “our responsibility a",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "10/13/26: Hegseth Floats Livestreamed Execution, Eugene Debs Lessons From The Grave",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/be47aa4b-606d-44b2-b998-b4e201041218/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-13-26-hegseth-floats-livestreamed-execution-eugene-debs-lessons-from-the-grave",
+      "date": "2026-10-13T16:00:00.000Z",
+      "duration": "2124",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump queasy over Hegseth livestream execution, Eugene Debs lessons from the grave. &nbsp; Kristy Loke: https://sites.google.com/view/kristy-loke?pli=1&amp;authuser=0Shawn Gude: https://shawngude.substack.com/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Sto",
       "guestTags": []
     },
     {
@@ -55,32 +79,6 @@
       "desc": "Emily Jashinsky breaks down new revelations in the “Cornell 7” case, including a potentially significant statement omitted from CBS News and The New York Times' coverage of a text message exchange between Jane Doe and one of the accused men. Emily is then joined by Evan Barker, author of the New York Times bestseller “Nothing Left: Confessions of a Democratic Operative,” to discuss her journey fro",
       "guestTags": [
         "Emily Jashinsky"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "10/12/26: Houthis Strike Saudi Airport, Trump Invents Fake Ukraine Ceasefire, Trump Ridicules His Own Supporters",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8a3c91b6-1abb-4122-9388-b4e101022e37/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-12-26-houthis-strike-saudi-airport-trump-invents-fake-ukraine-ceasefire-trump-ridicules-his-own-supporters",
-      "date": "2026-10-12T16:00:29.000Z",
-      "duration": "4050",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Houthis hit Saudi airport causing shutdown, Trump invents fake Russia Ukraine ceasefire, Trump ridicules his own crowd at rally. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "From Baghdad to the Green Berets | Steven Al Ebadi",
-      "audioUrl": "https://traffic.megaphone.fm/APO7755874126.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/From-Baghdad-to-the-Green-Berets--Steven-Al-Ebadi-e3qblt2",
-      "date": "2026-10-12T10:00:00.000Z",
-      "duration": "01:09:43",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791759108406-9211220b5deb6.jpg",
-      "desc": "In this episode of The Watch Floor, I sit down with Steven Al Ebadi, a U.S. Army veteran, former intelligence officer, combat linguist, and journalist whose career includes supporting U.S. Army Special Operations Forces, the Defense Intelligence Agency (DIA), and the FBI.We discuss his journey from Iraq to serving alongside U.S. forces, the experiences that shaped his career, and his work in intel",
-      "guestTags": [
-        "Sarah Adams"
       ]
     },
     {
@@ -136,15 +134,39 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2564 - Chuck Lorre",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8839252815.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8839252815.mp3",
+      "date": "2026-10-13T17:00:00.000Z",
+      "duration": "7698",
+      "image": "https://megaphone.imgix.net/podcasts/d8eaec50-c6b3-11f1-8ac9-0fbd42ed0525/image/9d76a459e6782bb5bdcfae45b272134a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Chuck Lorre is a writer, producer, and director behind numerous hit television series, including \"The Big Bang Theory,\" \"Two and a Half Men,\" \"Young Sheldon,\" and \"Stuart Fails to Save the Universe.\" He is an inductee of the Television Academy Hall of Fame, has a Star on the Hollywood Walk of Fame, and has received multiple Golden Globe Awards, the PGA Lifetime Achievement Award in Television, sev",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#690 - Josh Brolin",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6499909453.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6499909453.mp3",
-      "date": "2026-10-13T07:00:00.000Z",
-      "duration": "5957",
-      "image": "https://megaphone.imgix.net/podcasts/00365dc6-c6af-11f1-a25e-43df1a1611c9/image/79f10fa876194bf59e297586531cf0ca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Josh Brolin is an actor and writer. His new movie “Whalefall” is in theaters October 16th.&amp;nbsp;\n\nJosh joins Theo to talk about the legacy of his old crew “the Cito Rats”, how his mom’s unique spirit impacted his life, and the times he thought he might not make it as an actor.&amp;nbsp;\n\nJosh Brolin: https://www.instagram.com/joshbrolin&amp;nbsp;\n\n----------------------------------------------",
+      "show": "Honestly with Bari Weiss",
+      "title": "How the New Middle East Was Made with Simon Sebag Montefiore",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/tracking.swap.fm/track/VOdNgcECFk0maZgOJbmx/traffic.megaphone.fm/CBS3568476846.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/tracking.swap.fm/track/VOdNgcECFk0maZgOJbmx/traffic.megaphone.fm/CBS3568476846.mp3",
+      "date": "2026-10-13T16:44:00.000Z",
+      "duration": "4305",
+      "image": "https://megaphone.imgix.net/podcasts/61ed99e8-c300-11eb-988a-035a13090bdf/image/de7d459aa04f578168c94fa76dd04dc8.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Last week I had the privilege of sitting down with one of the foremost historians of our time, Simon Sebag Montefiore. As I write this, his work has never felt more urgent.\n\n“We’re in a new world of counterhistory,” he said recently. “A new world of counterhistory where neither historical facts nor present-time facts matter if they don’t fit the ideological orthodoxy.”\n\nIt is “our responsibility a",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "10/13/26: Hegseth Floats Livestreamed Execution, Eugene Debs Lessons From The Grave",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/be47aa4b-606d-44b2-b998-b4e201041218/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-13-26-hegseth-floats-livestreamed-execution-eugene-debs-lessons-from-the-grave",
+      "date": "2026-10-13T16:00:00.000Z",
+      "duration": "2124",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump queasy over Hegseth livestream execution, Eugene Debs lessons from the grave. &nbsp; Kristy Loke: https://sites.google.com/view/kristy-loke?pli=1&amp;authuser=0Shawn Gude: https://shawngude.substack.com/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Sto",
       "guestTags": []
     },
     {
@@ -185,32 +207,6 @@
       "desc": "Emily Jashinsky breaks down new revelations in the “Cornell 7” case, including a potentially significant statement omitted from CBS News and The New York Times' coverage of a text message exchange between Jane Doe and one of the accused men. Emily is then joined by Evan Barker, author of the New York Times bestseller “Nothing Left: Confessions of a Democratic Operative,” to discuss her journey fro",
       "guestTags": [
         "Emily Jashinsky"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "10/12/26: Houthis Strike Saudi Airport, Trump Invents Fake Ukraine Ceasefire, Trump Ridicules His Own Supporters",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8a3c91b6-1abb-4122-9388-b4e101022e37/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/10-12-26-houthis-strike-saudi-airport-trump-invents-fake-ukraine-ceasefire-trump-ridicules-his-own-supporters",
-      "date": "2026-10-12T16:00:29.000Z",
-      "duration": "4050",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Houthis hit Saudi airport causing shutdown, Trump invents fake Russia Ukraine ceasefire, Trump ridicules his own crowd at rally. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "From Baghdad to the Green Berets | Steven Al Ebadi",
-      "audioUrl": "https://traffic.megaphone.fm/APO7755874126.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/From-Baghdad-to-the-Green-Berets--Steven-Al-Ebadi-e3qblt2",
-      "date": "2026-10-12T10:00:00.000Z",
-      "duration": "01:09:43",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791759108406-9211220b5deb6.jpg",
-      "desc": "In this episode of The Watch Floor, I sit down with Steven Al Ebadi, a U.S. Army veteran, former intelligence officer, combat linguist, and journalist whose career includes supporting U.S. Army Special Operations Forces, the Defense Intelligence Agency (DIA), and the FBI.We discuss his journey from Iraq to serving alongside U.S. forces, the experiences that shaped his career, and his work in intel",
-      "guestTags": [
-        "Sarah Adams"
       ]
     },
     {
@@ -282,9 +278,6 @@
     ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "Sarah Adams": [
-      "aHR0cHM6Ly90cmFmZmljLm1l"
     ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
