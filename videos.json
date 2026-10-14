@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T07:20:41.258Z",
+  "lastUpdated": "2026-10-14T13:29:05.361Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "0ZgE8SqLXfo",
-      "show": "Shawn Ryan Show",
-      "title": "Hacker Reveals Why You Can't Trust Caller ID 😳",
-      "url": "https://www.youtube.com/watch?v=0ZgE8SqLXfo",
-      "date": "2026-10-14T01:30:32.000Z",
-      "image": "https://i1.ytimg.com/vi/0ZgE8SqLXfo/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
-      "guestTags": []
+      "videoId": "pcEK-hRnUE0",
+      "show": "TRIGGERnometry",
+      "title": "Konstantin Clashes with Owen Jones on Immigration",
+      "url": "https://www.youtube.com/watch?v=pcEK-hRnUE0",
+      "date": "2026-10-14T12:27:56.000Z",
+      "image": "https://i1.ytimg.com/vi/pcEK-hRnUE0/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "0ZgE8SqLXfo",
-      "show": "Shawn Ryan Show",
-      "title": "Hacker Reveals Why You Can't Trust Caller ID 😳",
-      "url": "https://www.youtube.com/watch?v=0ZgE8SqLXfo",
-      "date": "2026-10-14T01:30:32.000Z",
-      "image": "https://i1.ytimg.com/vi/0ZgE8SqLXfo/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
-      "guestTags": []
+      "videoId": "pcEK-hRnUE0",
+      "show": "TRIGGERnometry",
+      "title": "Konstantin Clashes with Owen Jones on Immigration",
+      "url": "https://www.youtube.com/watch?v=pcEK-hRnUE0",
+      "date": "2026-10-14T12:27:56.000Z",
+      "image": "https://i1.ytimg.com/vi/pcEK-hRnUE0/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
