@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-10-13T21:06:24.574Z",
+  "lastUpdated": "2026-10-14T01:01:16.243Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1832,
+  "taggedCount": 1840,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "We All Need A New President",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/bc142277-75ed-4460-8ec3-bd655e595c8f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/bc142277-75ed-4460-8ec3-bd655e595c8f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-14T00:00:00.000Z",
+      "duration": "01:00:34",
+      "image": "https://content.production.cdn.art19.com/images/41/33/6b/da/41336bda-6f0b-45c5-88c3-892a5162245d/81c664f6ddbd58c1a7b125c96f9749030c515d5c597e6cdd48e10d0ac6efb656ccecf06b3fd627b5819915e02cba55a3c1fd750cbab94268ccb3946ddfddf588.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss statements from Mike Johnson and Trump regarding high gas prices, the war with Ukraine and Russia, the new White House Press Secretary, and more.Support Our Sponsors:The Wellness Company - Prepare before an emergency. Get your Medical Emergency Kit at www.twc.health/pr",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -52,20 +66,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Tim Butterly, Kirk Fox, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/05/2026&nbsp;This episode is sponsored by:SuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://ki",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Shapiro vs. The Kids",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a68e25ad-e065-420d-acb9-77c6b6376a5d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a68e25ad-e065-420d-acb9-77c6b6376a5d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-10-13T00:00:00.000Z",
-      "duration": "01:05:19",
-      "image": "https://content.production.cdn.art19.com/images/34/b7/e8/3f/34b7e83f-273b-409d-8134-827c24737400/60edce31f6d550d2809901aec74ffa07306e9440e11a3df1cc1195bc650e413a91897ebce086f7f984ab5f8d90a324e9a85e342a83ee8dc912f2405ffd8167d4.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Shane Gillis's backlash after hosting SNL for the third time, Ben Shapiro's appearance and various viral moments at a recent TPUSA event, and more.Support Our Sponsors:CrowdHealth - https://www.joincrowdhealth.com/promos/potpQuince - Get free shipping on your Quince or",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -134,6 +134,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "We All Need A New President",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/bc142277-75ed-4460-8ec3-bd655e595c8f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/bc142277-75ed-4460-8ec3-bd655e595c8f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-14T00:00:00.000Z",
+      "duration": "01:00:34",
+      "image": "https://content.production.cdn.art19.com/images/41/33/6b/da/41336bda-6f0b-45c5-88c3-892a5162245d/81c664f6ddbd58c1a7b125c96f9749030c515d5c597e6cdd48e10d0ac6efb656ccecf06b3fd627b5819915e02cba55a3c1fd750cbab94268ccb3946ddfddf588.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss statements from Mike Johnson and Trump regarding high gas prices, the war with Ukraine and Russia, the new White House Press Secretary, and more.Support Our Sponsors:The Wellness Company - Prepare before an emergency. Get your Medical Emergency Kit at www.twc.health/pr",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2564 - Chuck Lorre",
@@ -180,20 +194,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Tim Butterly, Kirk Fox, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/05/2026&nbsp;This episode is sponsored by:SuperCast: \nWatch Kill Tony ad free and get tons of exclusive perks. Get Kill Tony + for $5/month now at https://ki",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Shapiro vs. The Kids",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a68e25ad-e065-420d-acb9-77c6b6376a5d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/a68e25ad-e065-420d-acb9-77c6b6376a5d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-10-13T00:00:00.000Z",
-      "duration": "01:05:19",
-      "image": "https://content.production.cdn.art19.com/images/34/b7/e8/3f/34b7e83f-273b-409d-8134-827c24737400/60edce31f6d550d2809901aec74ffa07306e9440e11a3df1cc1195bc650e413a91897ebce086f7f984ab5f8d90a324e9a85e342a83ee8dc912f2405ffd8167d4.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Shane Gillis's backlash after hosting SNL for the third time, Ben Shapiro's appearance and various viral moments at a recent TPUSA event, and more.Support Our Sponsors:CrowdHealth - https://www.joincrowdhealth.com/promos/potpQuince - Get free shipping on your Quince or",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
