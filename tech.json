@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-10-15T16:41:08.202Z",
+  "lastUpdated": "2026-10-15T21:09:12.702Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin&#8217;s Volatility Has Fallen Within S&#038;P 500 Ranks, Study Shows",
+      "url": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
+      "date": "2026-10-15T20:30:46.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-14.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report",
+      "url": "https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis",
+      "date": "2026-10-15T18:28:34.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/US-Hoovers-up-Bitcoin-While-the-World-Runs-on-Its-Digital-Dollars.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Ep 166: Eric Glyman on Ramp's Meteoric Growth, Selling Outcomes vs Products, and the Future of White-Collar Work",
+      "url": "https://blog.joelonsdale.com/p/ep-166-eric-glyman-on-ramps-meteoric",
+      "date": "2026-10-15T17:05:51.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
     {
       "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
       "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
@@ -88,24 +115,6 @@
       "url": "https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank",
       "date": "2026-10-14T16:30:01.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/kraken_phone_1920x1080.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
-      "url": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
-      "date": "2026-10-14T16:22:15.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/standard_chartered_1920x1080.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "The Undercurrent: Three European Artists on Making Money Visible",
-      "url": "https://bitcoinmagazine.com/culture/the-undercurrent-three-european-artists-on-making-money-visible",
-      "date": "2026-10-14T16:02:31.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/The-Undercurrent-Three-European-Artists-on-Making-Money-Visible.png",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 162: Brian Chau Built an AI That Uncovers Fraud — It Just Found a $21 Billion Racial Wealth Transfer",
-      "url": "https://blog.joelonsdale.com/p/ep-162-brian-chau-built-an-ai-that",
-      "date": "2026-09-18T20:07:41.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }

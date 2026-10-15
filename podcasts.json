@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-10-15T16:41:13.486Z",
+  "lastUpdated": "2026-10-15T21:09:23.078Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1844,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2566 - Cody Tucker",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9650525080.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9650525080.mp3",
+      "date": "2026-10-15T17:00:00.000Z",
+      "duration": "10261",
+      "image": "https://megaphone.imgix.net/podcasts/fef1382e-c842-11f1-ac58-43ecb7ca04ed/image/619ee177a144f2f77fc0c09865dd51db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Cody Tucker is the host of \"The Cody Tucker Show\" and \"Rewind and Repeat with Cody Tucker\" podcasts and author of \"And Now You Know: Mind-Blowing Stories from History and Pop Culture.\" His new book, \"Where Did That Come From?: The Hidden History of Everyday Words and Phrases,\" is available now.https://a.co/d/0buvONu8https://www.youtube.com/@thecodytuckershowhttps://www.thecodytucker.com\n\n\n\nPerplex",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -17,20 +29,6 @@
       "desc": "Krystal and Saagar discuss Trump threatens to use mother of all bombs on Iran, Israel's insane new security doctrine, more leaked Ken Paxton audio as Republicans panic. Kevin Roose: https://us.macmillan.com/books/9781250454010/theagichronicles/Logan Phillips: https://www.racetothewh.com/Trita Parsi: https://x.com/tparsi To become a Breaking Points Premium Member and watch/listen to the show AD FRE",
       "guestTags": [
         "Edward Snowden"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "School Insecurity: The Side With the Best Plan Wins | Wayne Black",
-      "audioUrl": "https://traffic.megaphone.fm/APO8292317151.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/School-Insecurity-The-Side-With-the-Best-Plan-Wins--Wayne-Black-e3qhcn7",
-      "date": "2026-10-15T14:00:00.000Z",
-      "duration": "01:03:46",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1792030561125-57addff0eaada.jpg",
-      "desc": "How safe are our schools, and are we doing enough to protect the children inside them?In this episode of The Watch Floor, I sit down with Wayne Black, a veteran security expert and author of School Insecurity, to discuss what effective school security actually looks like and where schools are falling short.Wayne brings more than 45 years of experience in law enforcement, protective security, and t",
-      "guestTags": [
-        "Sarah Adams"
       ]
     },
     {
@@ -136,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2566 - Cody Tucker",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9650525080.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9650525080.mp3",
+      "date": "2026-10-15T17:00:00.000Z",
+      "duration": "10261",
+      "image": "https://megaphone.imgix.net/podcasts/fef1382e-c842-11f1-ac58-43ecb7ca04ed/image/619ee177a144f2f77fc0c09865dd51db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Cody Tucker is the host of \"The Cody Tucker Show\" and \"Rewind and Repeat with Cody Tucker\" podcasts and author of \"And Now You Know: Mind-Blowing Stories from History and Pop Culture.\" His new book, \"Where Did That Come From?: The Hidden History of Everyday Words and Phrases,\" is available now.https://a.co/d/0buvONu8https://www.youtube.com/@thecodytuckershowhttps://www.thecodytucker.com\n\n\n\nPerplex",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "10/15/26: Trump Threatens To Use MOAB On Iran, Israel's New Security Doctrine, Leaked Ken Paxton Audio",
@@ -147,20 +157,6 @@
       "desc": "Krystal and Saagar discuss Trump threatens to use mother of all bombs on Iran, Israel's insane new security doctrine, more leaked Ken Paxton audio as Republicans panic. Kevin Roose: https://us.macmillan.com/books/9781250454010/theagichronicles/Logan Phillips: https://www.racetothewh.com/Trita Parsi: https://x.com/tparsi To become a Breaking Points Premium Member and watch/listen to the show AD FRE",
       "guestTags": [
         "Edward Snowden"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "School Insecurity: The Side With the Best Plan Wins | Wayne Black",
-      "audioUrl": "https://traffic.megaphone.fm/APO8292317151.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/School-Insecurity-The-Side-With-the-Best-Plan-Wins--Wayne-Black-e3qhcn7",
-      "date": "2026-10-15T14:00:00.000Z",
-      "duration": "01:03:46",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1792030561125-57addff0eaada.jpg",
-      "desc": "How safe are our schools, and are we doing enough to protect the children inside them?In this episode of The Watch Floor, I sit down with Wayne Black, a veteran security expert and author of School Insecurity, to discuss what effective school security actually looks like and where schools are falling short.Wayne brings more than 45 years of experience in law enforcement, protective security, and t",
-      "guestTags": [
-        "Sarah Adams"
       ]
     },
     {
@@ -280,9 +276,6 @@
     "Edward Snowden": [
       "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
-    ],
-    "Sarah Adams": [
-      "aHR0cHM6Ly90cmFmZmljLm1l"
     ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
