@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-10-15T11:10:05.627Z",
+  "lastUpdated": "2026-10-15T16:41:08.202Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
+      "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
+      "date": "2026-10-15T15:58:08.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-4.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-briefly-dips-below-80000",
+      "date": "2026-10-15T15:53:12.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-13.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Wallet Wars",
+      "url": "https://www.a16z.news/p/wallet-wars",
+      "date": "2026-10-15T14:08:21.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/09ab2187-8b80-44a3-a108-2bbf44428766_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Latin America’s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil &#124; Gui Gomes",
+      "url": "https://bitcoinmagazine.com/videos/latin-americas-mstr-how-oranjebtc-is-running-the-saylor-playbook-in-brazil-gui-gomes",
+      "date": "2026-10-15T13:34:18.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Latin-Americas-MSTR-How-OranjeBTC-is-Running-the-Saylor-Playbook-in-Brazil-Gui-Gomes-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
+      "url": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
+      "date": "2026-10-15T13:28:48.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Charles-Edwards-Why-Quantum-Risk-Could-Be-MASSIVE-BTC-Upside-Catalyst-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Wellington-Altus&#8217; James Thorne: Bitcoin &#8220;Supercycle&#8221; has Begun",
+      "url": "https://bitcoinmagazine.com/videos/wellington-altus-james-thorne-bitcoin-supercycle-has-begun",
+      "date": "2026-10-15T13:23:35.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Wellington-Altus-James-Thorne-Bitcoin-22Supercycle22-has-Begun-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Troy Cross: Number Go Up &#8211; The Solution to Bitcoin&#8217;s Marketing Problem?",
+      "url": "https://bitcoinmagazine.com/videos/troy-cross-number-go-up-the-solution-to-bitcoins-marketing-problem",
+      "date": "2026-10-15T13:18:09.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Troy-Cross-Number-Go-Up-The-Solution-to-Bitcoins-Marketing-Problem-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Introducing Securing America’s Infrastructure Foundation",
+      "url": "https://www.a16z.news/p/introducing-securing-americas-infrastructure",
+      "date": "2026-10-15T13:03:22.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/2ce643bb-f7fb-4401-98c2-0861e73801d3_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
     {
       "title": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
       "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
@@ -39,33 +111,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Bitcoin Slips Below $83,000 After Hotter-Than-Expected US Inflation Data",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-on-cpi-inflation-data",
-      "date": "2026-10-14T14:30:22.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-11.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Capitalism is Broken and Bitcoin is the Great Equalizer &#124; Natalie Brunell",
-      "url": "https://bitcoinmagazine.com/videos/capitalism-is-broken-and-bitcoin-is-the-great-equalizer-natalie-brunell",
-      "date": "2026-10-14T14:22:57.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Capitalism-is-Broken-and-Bitcoin-is-the-Great-Equalizer-Natalie-Brunell-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Blue Coin Capital CIO: MSTR&#8217;S BTC Buying Engine is About to IGNITE &#124; Mike Treidl",
-      "url": "https://bitcoinmagazine.com/videos/blue-coin-capital-cio-mstrs-btc-buying-engine-is-about-to-ignite-mike-treidl",
-      "date": "2026-10-14T14:14:59.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Blue-Coin-Capital-CIO-MSTRS-BTC-Buying-Engine-is-About-to-IGNITE-Mike-Treidl-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Winning the Relay Race: Long-Running Agents in High-Value Customer Journeys",
       "url": "https://www.a16z.news/p/winning-the-relay-race-long-running",
       "date": "2026-10-14T14:04:13.000Z",
@@ -73,33 +118,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch",
-      "url": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
-      "date": "2026-10-13T22:52:10.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/06/Kraken-Launches-Krak-a-No-Fee-App-to-Use-and-Store-Bitcoin-and-Crypto.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network",
-      "url": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
-      "date": "2026-10-13T22:49:07.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-10.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
-      "url": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
-      "date": "2026-10-13T17:05:39.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-9.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "The $108 Billion AI Opportunity for Specialty Practices",
@@ -327,15 +345,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Should We Send Our Kids to HAA?",
-      "url": "https://www.a16z.news/p/should-we-send-our-kids-to-haa",
-      "date": "2026-09-23T13:45:46.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ae62fc1e-43ed-4a71-80f0-013c4162f017_5688x3200.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Would We Send Our Kids to HAA?",
       "url": "https://www.notboring.co/p/haa",
       "date": "2026-09-23T13:45:43.000Z",
@@ -343,15 +352,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Incubating The Horowitz Andreessen Academy",
-      "url": "https://www.a16z.news/p/incubating-horowitz-andreessen-academy",
-      "date": "2026-09-22T13:07:31.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ff0551d9-a6bb-4b48-85e2-110b999d01d2_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Ep 162: Brian Chau Built an AI That Uncovers Fraud — It Just Found a $21 Billion Racial Wealth Transfer",
