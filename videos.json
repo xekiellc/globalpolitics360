@@ -1,28 +1,34 @@
 {
-  "lastUpdated": "2026-10-15T04:03:27.587Z",
+  "lastUpdated": "2026-10-15T11:10:34.164Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 29,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "2tAywoHiIpo",
+      "show": "All-In Podcast",
+      "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison &amp; Nathan Fielder’s Documentary",
+      "url": "https://www.youtube.com/watch?v=2tAywoHiIpo",
+      "date": "2026-10-15T02:41:18.000Z",
+      "image": "https://i3.ytimg.com/vi/2tAywoHiIpo/hqdefault.jpg",
+      "desc": "(0:00) Billy Evans joins Friedberg\n(3:38) How they met, Elizabeth the person vs the headlines, indictment\n(11:02) Life on trial, having a child, where she went wrong in fundraising\n(19:28) Understanding the verdict, sentencing, and the mistake of staying silent\n(26:09) Elizabeth calls from prison, h",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "HG216lj6mo4",
-      "show": "TRIGGERnometry",
-      "title": "“Ireland is the Ultimate Victim Nation” – Brendan O’Neill",
-      "url": "https://www.youtube.com/watch?v=HG216lj6mo4",
-      "date": "2026-10-14T18:00:18.000Z",
-      "image": "https://i1.ytimg.com/vi/HG216lj6mo4/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Find your forever cookware @hexclad and get 10% off at https://hexclad.com/TRIG\n#hexcladpartner\n\n- Shopify! Sign up for a $1 per month trial at \nhttps://www.shopify.co.uk/trigger/ \n\n- Dose for your Liver",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "2tAywoHiIpo",
+      "show": "All-In Podcast",
+      "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison &amp; Nathan Fielder’s Documentary",
+      "url": "https://www.youtube.com/watch?v=2tAywoHiIpo",
+      "date": "2026-10-15T02:41:18.000Z",
+      "image": "https://i3.ytimg.com/vi/2tAywoHiIpo/hqdefault.jpg",
+      "desc": "(0:00) Billy Evans joins Friedberg\n(3:38) How they met, Elizabeth the person vs the headlines, indictment\n(11:02) Life on trial, having a child, where she went wrong in fundraising\n(19:28) Understanding the verdict, sentencing, and the mistake of staying silent\n(26:09) Elizabeth calls from prison, h",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }

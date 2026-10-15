@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-10-15T04:03:25.261Z",
+  "lastUpdated": "2026-10-15T11:10:33.614Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1842,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#348 Frank Wright - The Last Living Original Marine Raider From WW2",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6778605766.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6778605766.mp3",
+      "date": "2026-10-15T10:00:00.000Z",
+      "duration": "6593",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Sergeant Frank S. Wright is a World War II Marine veteran who enlisted at just 16 years old following the attack on Pearl Harbor. He served with the 4th Marine Raiders and fought in major Pacific campaigns including Guadalcanal, New Georgia, Guam, and Iwo Jima, where he was wounded in combat. He later served as a Marine Corps drill instructor and was promoted to Sergeant in 2025 in recognition of ",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2817913031.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matthew-macdougall",
+      "date": "2026-10-15T08:00:00.000Z",
+      "duration": "2045",
+      "image": "https://megaphone.imgix.net/podcasts/7f829250-c850-11f1-b9bb-1feaa173d4c1/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain. We also explore advances in brain tumor surgery, implant safety, how the brain and software ",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -30,32 +54,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "“Ireland is the Ultimate Victim Nation” – Brendan O’Neill",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6320005738.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6320005738.mp3",
-      "date": "2026-10-14T18:00:00.000Z",
-      "duration": "5868",
-      "image": "https://megaphone.imgix.net/podcasts/9a661a86-c721-11f1-86b2-03147e1a3990/image/597834bee79a2a4c301e5294ce5728f9.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Find your forever cookware @hexclad and get 10% off at https://hexclad.com/TRIG#hexcladpartner\n\n\n\n- Shopify! Sign up for a $1 per month trial at https://www.shopify.co.uk/trigger/ \n\n\n\n- Dose for your Liver: Get 35% off your first subscription: https://dosedaily.co/TRIGOr use code TRIG at checkout.\n\n\n\n-",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2565 - Michael Douglas",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7323005226.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7323005226.mp3",
-      "date": "2026-10-14T17:00:00.000Z",
-      "duration": "8185",
-      "image": "https://megaphone.imgix.net/podcasts/bbd0bd42-c77c-11f1-a9b0-8fbfdfb1c3d8/image/f711426401759dc42b9c6de2fa699a4a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Michael Douglas is an actor, producer, writer, and philanthropist whose film and television credits include \"Wall Street,\" \"Fatal Attraction,\" \"Basic Instinct,\" \"Behind the Candelabra,\" and \"The Kominsky Method.\" He has won two Academy Awards, multiple Golden Globe Awards, a Screen Actors Guild Award, and a Primetime Emmy Award. He is also a recipient of the AFI Life Achievement Award and has a St",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -134,6 +132,30 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#348 Frank Wright - The Last Living Original Marine Raider From WW2",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6778605766.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD6778605766.mp3",
+      "date": "2026-10-15T10:00:00.000Z",
+      "duration": "6593",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Sergeant Frank S. Wright is a World War II Marine veteran who enlisted at just 16 years old following the attack on Pearl Harbor. He served with the 4th Marine Raiders and fought in major Pacific campaigns including Guadalcanal, New Georgia, Guam, and Iwo Jima, where he was wounded in combat. He later served as a Marine Corps drill instructor and was promoted to Sergeant in 2025 in recognition of ",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2817913031.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matthew-macdougall",
+      "date": "2026-10-15T08:00:00.000Z",
+      "duration": "2045",
+      "image": "https://megaphone.imgix.net/podcasts/7f829250-c850-11f1-b9bb-1feaa173d4c1/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain. We also explore advances in brain tumor surgery, implant safety, how the brain and software ",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison &amp; Nathan Fielder's Documentary",
@@ -158,32 +180,6 @@
       "guestTags": [
         "Dave Smith"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "“Ireland is the Ultimate Victim Nation” – Brendan O’Neill",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6320005738.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT6320005738.mp3",
-      "date": "2026-10-14T18:00:00.000Z",
-      "duration": "5868",
-      "image": "https://megaphone.imgix.net/podcasts/9a661a86-c721-11f1-86b2-03147e1a3990/image/597834bee79a2a4c301e5294ce5728f9.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Find your forever cookware @hexclad and get 10% off at https://hexclad.com/TRIG#hexcladpartner\n\n\n\n- Shopify! Sign up for a $1 per month trial at https://www.shopify.co.uk/trigger/ \n\n\n\n- Dose for your Liver: Get 35% off your first subscription: https://dosedaily.co/TRIGOr use code TRIG at checkout.\n\n\n\n-",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2565 - Michael Douglas",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7323005226.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7323005226.mp3",
-      "date": "2026-10-14T17:00:00.000Z",
-      "duration": "8185",
-      "image": "https://megaphone.imgix.net/podcasts/bbd0bd42-c77c-11f1-a9b0-8fbfdfb1c3d8/image/f711426401759dc42b9c6de2fa699a4a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Michael Douglas is an actor, producer, writer, and philanthropist whose film and television credits include \"Wall Street,\" \"Fatal Attraction,\" \"Basic Instinct,\" \"Behind the Candelabra,\" and \"The Kominsky Method.\" He has won two Academy Awards, multiple Golden Globe Awards, a Screen Actors Guild Award, and a Primetime Emmy Award. He is also a recipient of the AFI Life Achievement Award and has a St",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -275,9 +271,6 @@
   "guestIndex": {
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
     "Edward Snowden": [
       "aHR0cHM6Ly9tZWRpYS5ibHVi"
