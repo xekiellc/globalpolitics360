@@ -1,19 +1,31 @@
 {
-  "lastUpdated": "2026-10-16T06:54:39.003Z",
+  "lastUpdated": "2026-10-16T13:06:58.136Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 29,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "UB_JyHF6i5g",
+      "show": "Shawn Ryan Show",
+      "title": "Hacker Reveals What Scammers Never Want You to Check 😳",
+      "url": "https://www.youtube.com/watch?v=UB_JyHF6i5g",
+      "date": "2026-10-16T01:30:25.000Z",
+      "image": "https://i2.ytimg.com/vi/UB_JyHF6i5g/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aWY2FehTQHw",
+      "videoId": "UB_JyHF6i5g",
       "show": "Shawn Ryan Show",
-      "title": "Why This WW2 Marine Was Terrified to Get a Tattoo 😳",
-      "url": "https://www.youtube.com/watch?v=aWY2FehTQHw",
-      "date": "2026-10-16T00:00:35.000Z",
-      "image": "https://i2.ytimg.com/vi/aWY2FehTQHw/hqdefault.jpg",
+      "title": "Hacker Reveals What Scammers Never Want You to Check 😳",
+      "url": "https://www.youtube.com/watch?v=UB_JyHF6i5g",
+      "date": "2026-10-16T01:30:25.000Z",
+      "image": "https://i2.ytimg.com/vi/UB_JyHF6i5g/hqdefault.jpg",
       "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
       "guestTags": []
     }

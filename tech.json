@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-10-16T06:54:33.554Z",
+  "lastUpdated": "2026-10-16T13:06:52.079Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Weekly Dose of Optimism #215",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-215",
+      "date": "2026-10-16T12:47:12.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!njVS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f6561ff-5efb-4924-99b3-3f4545f8e85c_960x540.gif",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
+    {
+      "title": "Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down",
+      "url": "https://bitcoinmagazine.com/press-releases/sazmining-brings-protos-immersion-hashboards-to-individual-owners-with-0-financing-from-1397-down",
+      "date": "2026-10-16T12:42:22.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Sazmining-Brings-Protos-Immersion-Hashboards-to-Individual-Owners.jpeg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
       "url": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
@@ -109,15 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
-      "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
-      "date": "2026-10-14T21:30:14.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-12.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Winning the Relay Race: Long-Running Agents in High-Value Customer Journeys",
@@ -352,15 +361,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Would We Send Our Kids to HAA?",
-      "url": "https://www.notboring.co/p/haa",
-      "date": "2026-09-23T13:45:43.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!HlNF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7952cf4b-720a-44d2-a646-a6ad6c27ea63_1200x599.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
