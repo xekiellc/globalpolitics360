@@ -1,22 +1,10 @@
 {
-  "lastUpdated": "2026-10-17T00:13:46.337Z",
+  "lastUpdated": "2026-10-17T06:46:31.987Z",
   "channelCount": 12,
-  "videoCount": 1,
+  "videoCount": 0,
   "archiveCount": 1,
   "taggedCount": 0,
-  "latest": [
-    {
-      "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "YdIJW8RTptU",
-      "show": "Huberman Lab",
-      "title": "Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall",
-      "url": "https://www.youtube.com/watch?v=YdIJW8RTptU",
-      "date": "2026-10-15T12:00:25.000Z",
-      "image": "https://i2.ytimg.com/vi/YdIJW8RTptU/hqdefault.jpg",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the",
-      "guestTags": []
-    }
-  ],
+  "latest": [],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
