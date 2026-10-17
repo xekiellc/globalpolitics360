@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-10-16T20:46:30.178Z",
+  "lastUpdated": "2026-10-17T00:13:46.337Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 29,
+  "taggedCount": 0,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "hSXTeaUxErI",
-      "show": "Shawn Ryan Show",
-      "title": "Shawn Ryan Meets One of the Last WW2 Marine Raiders 😳",
-      "url": "https://www.youtube.com/watch?v=hSXTeaUxErI",
-      "date": "2026-10-16T20:00:07.000Z",
-      "image": "https://i1.ytimg.com/vi/hSXTeaUxErI/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "videoId": "YdIJW8RTptU",
+      "show": "Huberman Lab",
+      "title": "Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+      "url": "https://www.youtube.com/watch?v=YdIJW8RTptU",
+      "date": "2026-10-15T12:00:25.000Z",
+      "image": "https://i2.ytimg.com/vi/YdIJW8RTptU/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "hSXTeaUxErI",
-      "show": "Shawn Ryan Show",
-      "title": "Shawn Ryan Meets One of the Last WW2 Marine Raiders 😳",
-      "url": "https://www.youtube.com/watch?v=hSXTeaUxErI",
-      "date": "2026-10-16T20:00:07.000Z",
-      "image": "https://i1.ytimg.com/vi/hSXTeaUxErI/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "videoId": "YdIJW8RTptU",
+      "show": "Huberman Lab",
+      "title": "Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+      "url": "https://www.youtube.com/watch?v=YdIJW8RTptU",
+      "date": "2026-10-15T12:00:25.000Z",
+      "image": "https://i2.ytimg.com/vi/YdIJW8RTptU/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the",
       "guestTags": []
     }
   ],
