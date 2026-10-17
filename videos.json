@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T20:22:50.484Z",
+  "lastUpdated": "2026-10-17T23:53:25.204Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,41 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "HPMlzQVGT4U",
-      "show": "Danny Jones Podcast",
-      "title": "What Happened When an Amazon Tribe Discovered Sugar.",
-      "url": "https://www.youtube.com/watch?v=HPMlzQVGT4U",
-      "date": "2026-10-17T19:00:16.000Z",
-      "image": "https://i1.ytimg.com/vi/HPMlzQVGT4U/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/us2-foCrVWk?si=YfFgOtsJR_ERQBmQ",
-      "guestTags": []
+      "videoId": "zvdiToD9dus",
+      "show": "All-In Podcast",
+      "title": "Ben Horowitz: Anthropic has the most negligent security",
+      "url": "https://www.youtube.com/watch?v=zvdiToD9dus",
+      "date": "2026-10-17T22:30:26.000Z",
+      "image": "https://i3.ytimg.com/vi/zvdiToD9dus/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "HPMlzQVGT4U",
-      "show": "Danny Jones Podcast",
-      "title": "What Happened When an Amazon Tribe Discovered Sugar.",
-      "url": "https://www.youtube.com/watch?v=HPMlzQVGT4U",
-      "date": "2026-10-17T19:00:16.000Z",
-      "image": "https://i1.ytimg.com/vi/HPMlzQVGT4U/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/us2-foCrVWk?si=YfFgOtsJR_ERQBmQ",
-      "guestTags": []
+      "videoId": "zvdiToD9dus",
+      "show": "All-In Podcast",
+      "title": "Ben Horowitz: Anthropic has the most negligent security",
+      "url": "https://www.youtube.com/watch?v=zvdiToD9dus",
+      "date": "2026-10-17T22:30:26.000Z",
+      "image": "https://i3.ytimg.com/vi/zvdiToD9dus/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
