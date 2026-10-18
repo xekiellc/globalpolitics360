@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T08:46:47.806Z",
+  "lastUpdated": "2026-10-18T13:51:44.930Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "zvdiToD9dus",
-      "show": "All-In Podcast",
-      "title": "Ben Horowitz: Anthropic has the most negligent security",
-      "url": "https://www.youtube.com/watch?v=zvdiToD9dus",
-      "date": "2026-10-17T22:30:26.000Z",
-      "image": "https://i3.ytimg.com/vi/zvdiToD9dus/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "J97RDpBsDHg",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 789 Tim Butterly + Kirk Fox)",
+      "url": "https://www.youtube.com/watch?v=J97RDpBsDHg",
+      "date": "2026-10-18T13:00:10.000Z",
+      "image": "https://i3.ytimg.com/vi/J97RDpBsDHg/hqdefault.jpg",
+      "desc": "An exclusive, behind the scenes look from KT Episode 789 KT guest Tim Butterly + Kirk Fox\n\n\nTim Butterly, Kirk Fox, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nat",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "zvdiToD9dus",
-      "show": "All-In Podcast",
-      "title": "Ben Horowitz: Anthropic has the most negligent security",
-      "url": "https://www.youtube.com/watch?v=zvdiToD9dus",
-      "date": "2026-10-17T22:30:26.000Z",
-      "image": "https://i3.ytimg.com/vi/zvdiToD9dus/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "J97RDpBsDHg",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 789 Tim Butterly + Kirk Fox)",
+      "url": "https://www.youtube.com/watch?v=J97RDpBsDHg",
+      "date": "2026-10-18T13:00:10.000Z",
+      "image": "https://i3.ytimg.com/vi/J97RDpBsDHg/hqdefault.jpg",
+      "desc": "An exclusive, behind the scenes look from KT Episode 789 KT guest Tim Butterly + Kirk Fox\n\n\nTim Butterly, Kirk Fox, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nat",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
