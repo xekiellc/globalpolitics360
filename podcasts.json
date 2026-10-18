@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-10-18T13:51:44.434Z",
+  "lastUpdated": "2026-10-18T17:11:03.617Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1848,
+  "taggedCount": 1849,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Canada’s Terror Threat: The Unfinished Battle with Phil Gurski",
+      "audioUrl": "https://traffic.megaphone.fm/APO1205118012.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Canadas-Terror-Threat-The-Unfinished-Battle-with-Phil-Gurski-e3qfhna",
+      "date": "2026-10-18T14:00:00.000Z",
+      "duration": "00:55:51",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791940040393-aa6e7a41f83e1.jpg",
+      "desc": "Is Canada doing enough to confront the terrorist threat, and what has the West failed to learn from more than two decades of counterterrorism operations?This week on The Watch Floor, I’m joined by Phil Gurski, a 32-year veteran of Canada’s intelligence community, former analyst with the Canadian Security Intelligence Service (CSIS) and Communications Security Establishment (CSE), author, and host ",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -55,18 +69,6 @@
       "duration": "01:34:06",
       "image": "https://static.libsyn.com/p/assets/c/b/d/8/cbd880726b042b345f2e77a3093c12a1/1_Pod_E293.png",
       "desc": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mixed reactions (1:03:45) Psyop Corner: Anthropic warns about self-replicating models on IoT devices (1:22:19) Understanding Bill Gates the Doomer Follow Ben: https://x.com/bhorowitz Follow the besties: ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2567 - Mariana van Zeller",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "date": "2026-10-16T17:00:00.000Z",
-      "duration": "9017",
-      "image": "https://megaphone.imgix.net/podcasts/3c876c6c-c94c-11f1-b243-eb26db00851d/image/ebec094f37ff19b138a6b62b98c76582.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Mariana van Zeller is a Peabody and Emmy Award-winning journalist whose credits include \"Trafficked with Mariana van Zeller,\" \"The OxyContin Express,\" and \"Inside Secret America.\" She is also the host of \"The Hidden Third\" podcast. Her latest documentary special, \"Super Scam Me,\" premieres October 17 on National Geographic and will be available to stream on Disney+ and Hulu.https://www.natgeotv.co",
       "guestTags": []
     },
     {
@@ -134,6 +136,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Canada’s Terror Threat: The Unfinished Battle with Phil Gurski",
+      "audioUrl": "https://traffic.megaphone.fm/APO1205118012.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Canadas-Terror-Threat-The-Unfinished-Battle-with-Phil-Gurski-e3qfhna",
+      "date": "2026-10-18T14:00:00.000Z",
+      "duration": "00:55:51",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1791940040393-aa6e7a41f83e1.jpg",
+      "desc": "Is Canada doing enough to confront the terrorist threat, and what has the West failed to learn from more than two decades of counterterrorism operations?This week on The Watch Floor, I’m joined by Phil Gurski, a 32-year veteran of Canada’s intelligence community, former analyst with the Canadian Security Intelligence Service (CSIS) and Communications Security Establishment (CSE), author, and host ",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KT: Behind the Tape (Ep: 789 Tim Butterly + Kirk Fox)",
@@ -183,18 +199,6 @@
       "duration": "01:34:06",
       "image": "https://static.libsyn.com/p/assets/c/b/d/8/cbd880726b042b345f2e77a3093c12a1/1_Pod_E293.png",
       "desc": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mixed reactions (1:03:45) Psyop Corner: Anthropic warns about self-replicating models on IoT devices (1:22:19) Understanding Bill Gates the Doomer Follow Ben: https://x.com/bhorowitz Follow the besties: ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2567 - Mariana van Zeller",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "date": "2026-10-16T17:00:00.000Z",
-      "duration": "9017",
-      "image": "https://megaphone.imgix.net/podcasts/3c876c6c-c94c-11f1-b243-eb26db00851d/image/ebec094f37ff19b138a6b62b98c76582.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Mariana van Zeller is a Peabody and Emmy Award-winning journalist whose credits include \"Trafficked with Mariana van Zeller,\" \"The OxyContin Express,\" and \"Inside Secret America.\" She is also the host of \"The Hidden Third\" podcast. Her latest documentary special, \"Super Scam Me,\" premieres October 17 on National Geographic and will be available to stream on Disney+ and Hulu.https://www.natgeotv.co",
       "guestTags": []
     },
     {
@@ -273,6 +277,9 @@
     }
   ],
   "guestIndex": {
+    "Sarah Adams": [
+      "aHR0cHM6Ly90cmFmZmljLm1l"
+    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
