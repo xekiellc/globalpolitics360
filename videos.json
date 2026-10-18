@@ -1,41 +1,46 @@
 {
-  "lastUpdated": "2026-10-18T03:57:04.754Z",
+  "lastUpdated": "2026-10-18T08:46:47.806Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 14,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "QcwOAgcEv1g",
-      "show": "TRIGGERnometry",
-      "title": "“I Hired Them. They Reported Me for Missing a DEI Meeting” – Oliver Malcolm",
-      "url": "https://www.youtube.com/watch?v=QcwOAgcEv1g",
-      "date": "2026-10-17T18:00:38.000Z",
-      "image": "https://i2.ytimg.com/vi/QcwOAgcEv1g/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- Take control of your cellular health today. Go to https://qualialife.com/TRIG and save 15% to experience the science o",
+      "videoId": "zvdiToD9dus",
+      "show": "All-In Podcast",
+      "title": "Ben Horowitz: Anthropic has the most negligent security",
+      "url": "https://www.youtube.com/watch?v=zvdiToD9dus",
+      "date": "2026-10-17T22:30:26.000Z",
+      "image": "https://i3.ytimg.com/vi/zvdiToD9dus/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "QcwOAgcEv1g",
-      "show": "TRIGGERnometry",
-      "title": "“I Hired Them. They Reported Me for Missing a DEI Meeting” – Oliver Malcolm",
-      "url": "https://www.youtube.com/watch?v=QcwOAgcEv1g",
-      "date": "2026-10-17T18:00:38.000Z",
-      "image": "https://i2.ytimg.com/vi/QcwOAgcEv1g/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- Take control of your cellular health today. Go to https://qualialife.com/TRIG and save 15% to experience the science o",
+      "videoId": "zvdiToD9dus",
+      "show": "All-In Podcast",
+      "title": "Ben Horowitz: Anthropic has the most negligent security",
+      "url": "https://www.youtube.com/watch?v=zvdiToD9dus",
+      "date": "2026-10-17T22:30:26.000Z",
+      "image": "https://i3.ytimg.com/vi/zvdiToD9dus/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
       "guestTags": [
-        "Konstantin Kisin"
+        "Chamath",
+        "David Sacks"
       ]
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }
