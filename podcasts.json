@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-10-19T07:32:25.470Z",
+  "lastUpdated": "2026-10-19T15:24:57.303Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1848,
+  "taggedCount": 1849,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Marriage Is An All In Bet",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV6748251231.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV6748251231.mp3",
-      "date": "2026-10-18T19:16:00.000Z",
-      "duration": "6991",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What does it mean to wrestle with God—and can anyone avoid it? In this lecture, Jordan Peterson takes up a question that reaches beyond the divide between believer and atheist. Drawing on ancient stories and his experience as a clinical psychologist, he explores faith, doubt, and what our choices reveal about what we believe.\n\n\n\nAudience questions bring the discussion into the challenges of marria",
+      "show": "Shawn Ryan Show",
+      "title": "#349 AJ Gentile - Grand Canyon Conspiracies, AI Extinction and Nuclear War on Mars",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7549570818.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7549570818.mp3",
+      "date": "2026-10-19T10:00:00.000Z",
+      "duration": "9877",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "AJ Gentile is the creator and host of The Why Files, the hit series exploring mysteries, conspiracies, strange history, science, and the unexplained. Before launching the show, AJ worked in stand-up comedy and radio, including roles with MTV/VH1 and SiriusXM. The Why Files has since grown into a massive online community, known for presenting extraordinary stories and then breaking down what can - ",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "What Makes Great Leaders &amp; How to Live an Extraordinary Life | Dr. Jared Diamond",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM4640433403.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/what-makes-great-leaders-and-how-to-live-an-extraordinary-life-jared-diamond",
+      "date": "2026-10-19T08:00:00.000Z",
+      "duration": "6814",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Jared Diamond, PhD, is a Pulitzer Prize-winning author, physiologist, evolutionary biologist and Professor at UCLA. We discuss the surprising and often chance events that shaped human history and leadership in politics, religion, business and athletics. As one of the most influential public-facing scholars of the last 100 years, Dr. Diamond also shares his advice on how to pursue a career and ",
       "guestTags": []
     },
     {
@@ -53,18 +65,6 @@
       "duration": "01:34:06",
       "image": "https://static.libsyn.com/p/assets/c/b/d/8/cbd880726b042b345f2e77a3093c12a1/1_Pod_E293.png",
       "desc": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mixed reactions (1:03:45) Psyop Corner: Anthropic warns about self-replicating models on IoT devices (1:22:19) Understanding Bill Gates the Doomer Follow Ben: https://x.com/bhorowitz Follow the besties: ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2567 - Mariana van Zeller",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "date": "2026-10-16T17:00:00.000Z",
-      "duration": "9017",
-      "image": "https://megaphone.imgix.net/podcasts/3c876c6c-c94c-11f1-b243-eb26db00851d/image/ebec094f37ff19b138a6b62b98c76582.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Mariana van Zeller is a Peabody and Emmy Award-winning journalist whose credits include \"Trafficked with Mariana van Zeller,\" \"The OxyContin Express,\" and \"Inside Secret America.\" She is also the host of \"The Hidden Third\" podcast. Her latest documentary special, \"Super Scam Me,\" premieres October 17 on National Geographic and will be available to stream on Disney+ and Hulu.https://www.natgeotv.co",
       "guestTags": []
     },
     {
@@ -133,14 +133,26 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Marriage Is An All In Bet",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV6748251231.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV6748251231.mp3",
-      "date": "2026-10-18T19:16:00.000Z",
-      "duration": "6991",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "What does it mean to wrestle with God—and can anyone avoid it? In this lecture, Jordan Peterson takes up a question that reaches beyond the divide between believer and atheist. Drawing on ancient stories and his experience as a clinical psychologist, he explores faith, doubt, and what our choices reveal about what we believe.\n\n\n\nAudience questions bring the discussion into the challenges of marria",
+      "show": "Shawn Ryan Show",
+      "title": "#349 AJ Gentile - Grand Canyon Conspiracies, AI Extinction and Nuclear War on Mars",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7549570818.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD7549570818.mp3",
+      "date": "2026-10-19T10:00:00.000Z",
+      "duration": "9877",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "AJ Gentile is the creator and host of The Why Files, the hit series exploring mysteries, conspiracies, strange history, science, and the unexplained. Before launching the show, AJ worked in stand-up comedy and radio, including roles with MTV/VH1 and SiriusXM. The Why Files has since grown into a massive online community, known for presenting extraordinary stories and then breaking down what can - ",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "What Makes Great Leaders &amp; How to Live an Extraordinary Life | Dr. Jared Diamond",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM4640433403.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/what-makes-great-leaders-and-how-to-live-an-extraordinary-life-jared-diamond",
+      "date": "2026-10-19T08:00:00.000Z",
+      "duration": "6814",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Dr. Jared Diamond, PhD, is a Pulitzer Prize-winning author, physiologist, evolutionary biologist and Professor at UCLA. We discuss the surprising and often chance events that shaped human history and leadership in politics, religion, business and athletics. As one of the most influential public-facing scholars of the last 100 years, Dr. Diamond also shares his advice on how to pursue a career and ",
       "guestTags": []
     },
     {
@@ -179,18 +191,6 @@
       "duration": "01:34:06",
       "image": "https://static.libsyn.com/p/assets/c/b/d/8/cbd880726b042b345f2e77a3093c12a1/1_Pod_E293.png",
       "desc": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mixed reactions (1:03:45) Psyop Corner: Anthropic warns about self-replicating models on IoT devices (1:22:19) Understanding Bill Gates the Doomer Follow Ben: https://x.com/bhorowitz Follow the besties: ",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2567 - Mariana van Zeller",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "date": "2026-10-16T17:00:00.000Z",
-      "duration": "9017",
-      "image": "https://megaphone.imgix.net/podcasts/3c876c6c-c94c-11f1-b243-eb26db00851d/image/ebec094f37ff19b138a6b62b98c76582.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Mariana van Zeller is a Peabody and Emmy Award-winning journalist whose credits include \"Trafficked with Mariana van Zeller,\" \"The OxyContin Express,\" and \"Inside Secret America.\" She is also the host of \"The Hidden Third\" podcast. Her latest documentary special, \"Super Scam Me,\" premieres October 17 on National Geographic and will be available to stream on Disney+ and Hulu.https://www.natgeotv.co",
       "guestTags": []
     },
     {
