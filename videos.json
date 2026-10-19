@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T15:24:59.024Z",
+  "lastUpdated": "2026-10-19T20:56:17.386Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,28 +7,36 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "vIqljfm0uwI",
-      "show": "The Free Press",
-      "title": "Joey Diaz on raising a street smart kid",
-      "url": "https://www.youtube.com/watch?v=vIqljfm0uwI",
-      "date": "2026-10-19T14:45:14.000Z",
-      "image": "https://i3.ytimg.com/vi/vIqljfm0uwI/hqdefault.jpg",
-      "desc": "#shorts #theovon #joeydiaz",
-      "guestTags": []
+      "videoId": "hBQJPQbo8Yc",
+      "show": "TRIGGERnometry",
+      "title": "Ireland Is The Victim Country of The World - Brendan O'Neill",
+      "url": "https://www.youtube.com/watch?v=hBQJPQbo8Yc",
+      "date": "2026-10-19T20:05:02.000Z",
+      "image": "https://i1.ytimg.com/vi/hBQJPQbo8Yc/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "vIqljfm0uwI",
-      "show": "The Free Press",
-      "title": "Joey Diaz on raising a street smart kid",
-      "url": "https://www.youtube.com/watch?v=vIqljfm0uwI",
-      "date": "2026-10-19T14:45:14.000Z",
-      "image": "https://i3.ytimg.com/vi/vIqljfm0uwI/hqdefault.jpg",
-      "desc": "#shorts #theovon #joeydiaz",
-      "guestTags": []
+      "videoId": "hBQJPQbo8Yc",
+      "show": "TRIGGERnometry",
+      "title": "Ireland Is The Victim Country of The World - Brendan O'Neill",
+      "url": "https://www.youtube.com/watch?v=hBQJPQbo8Yc",
+      "date": "2026-10-19T20:05:02.000Z",
+      "image": "https://i1.ytimg.com/vi/hBQJPQbo8Yc/hqdefault.jpg",
+      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
