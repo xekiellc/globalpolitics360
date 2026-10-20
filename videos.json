@@ -1,41 +1,46 @@
 {
-  "lastUpdated": "2026-10-19T20:56:17.386Z",
+  "lastUpdated": "2026-10-20T00:59:03.243Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 30,
+  "taggedCount": 3,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "hBQJPQbo8Yc",
-      "show": "TRIGGERnometry",
-      "title": "Ireland Is The Victim Country of The World - Brendan O'Neill",
-      "url": "https://www.youtube.com/watch?v=hBQJPQbo8Yc",
-      "date": "2026-10-19T20:05:02.000Z",
-      "image": "https://i1.ytimg.com/vi/hBQJPQbo8Yc/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "videoId": "FGCP2F_7rQk",
+      "show": "Lex Fridman",
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "date": "2026-10-13T21:26:16.000Z",
+      "image": "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+      "desc": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang. It was wild 🤯 Huge crowds, insanely good street food at night markets, and of course a lot of good conversations across many days. I caught some of it on video, this is it.\nTha",
       "guestTags": [
-        "Konstantin Kisin"
+        "Jensen Huang",
+        "Edward Snowden"
       ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "hBQJPQbo8Yc",
-      "show": "TRIGGERnometry",
-      "title": "Ireland Is The Victim Country of The World - Brendan O'Neill",
-      "url": "https://www.youtube.com/watch?v=hBQJPQbo8Yc",
-      "date": "2026-10-19T20:05:02.000Z",
-      "image": "https://i1.ytimg.com/vi/hBQJPQbo8Yc/hqdefault.jpg",
-      "desc": "Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/\n\nOR Support TRIGGERnometry Here:\nBitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5\n\nShop Merch here - https://shop.triggerpod.co.uk/\n\nAdvertise on Triggernometry: https://trigger-brands.com | or enquire a",
+      "videoId": "FGCP2F_7rQk",
+      "show": "Lex Fridman",
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "date": "2026-10-13T21:26:16.000Z",
+      "image": "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+      "desc": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang. It was wild 🤯 Huge crowds, insanely good street food at night markets, and of course a lot of good conversations across many days. I caught some of it on video, this is it.\nTha",
       "guestTags": [
-        "Konstantin Kisin"
+        "Jensen Huang",
+        "Edward Snowden"
       ]
     }
   ],
   "guestIndex": {
-    "Konstantin Kisin": [
+    "Jensen Huang": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "Edward Snowden": [
       "aHR0cHM6Ly93d3cueW91dHVi"
     ]
   }
