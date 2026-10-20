@@ -1,47 +1,34 @@
 {
-  "lastUpdated": "2026-10-20T00:59:03.243Z",
+  "lastUpdated": "2026-10-20T07:20:58.753Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 3,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FGCP2F_7rQk",
-      "show": "Lex Fridman",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "date": "2026-10-13T21:26:16.000Z",
-      "image": "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "desc": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang. It was wild 🤯 Huge crowds, insanely good street food at night markets, and of course a lot of good conversations across many days. I caught some of it on video, this is it.\nTha",
-      "guestTags": [
-        "Jensen Huang",
-        "Edward Snowden"
-      ]
+      "videoId": "dLRMzj9hgDU",
+      "show": "Danny Jones Podcast",
+      "title": "Why Your Pastor Drives A Nice Car.",
+      "url": "https://www.youtube.com/watch?v=dLRMzj9hgDU",
+      "date": "2026-10-20T01:40:08.000Z",
+      "image": "https://i1.ytimg.com/vi/dLRMzj9hgDU/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://youtu.be/us2-foCrVWk?si=HwvVq8li8TDt32mv",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FGCP2F_7rQk",
-      "show": "Lex Fridman",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "date": "2026-10-13T21:26:16.000Z",
-      "image": "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "desc": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang. It was wild 🤯 Huge crowds, insanely good street food at night markets, and of course a lot of good conversations across many days. I caught some of it on video, this is it.\nTha",
-      "guestTags": [
-        "Jensen Huang",
-        "Edward Snowden"
-      ]
+      "videoId": "dLRMzj9hgDU",
+      "show": "Danny Jones Podcast",
+      "title": "Why Your Pastor Drives A Nice Car.",
+      "url": "https://www.youtube.com/watch?v=dLRMzj9hgDU",
+      "date": "2026-10-20T01:40:08.000Z",
+      "image": "https://i1.ytimg.com/vi/dLRMzj9hgDU/hqdefault.jpg",
+      "desc": "Full Episode:\nhttps://youtu.be/us2-foCrVWk?si=HwvVq8li8TDt32mv",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Jensen Huang": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "Edward Snowden": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
