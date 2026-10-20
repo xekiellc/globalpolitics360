@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-10-20T07:20:53.682Z",
+  "lastUpdated": "2026-10-20T13:27:26.469Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Investing in Eka Robotics",
+      "url": "https://www.a16z.news/p/investing-in-eka-robotics",
+      "date": "2026-10-20T13:05:34.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/812fd744-7b70-4986-979d-ed6e63b928bf_1200x630.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Sam Callahan: Bitcoin Doesn&#8217;t Need Rate Cuts to Succeed",
+      "url": "https://bitcoinmagazine.com/videos/sam-callahan-bitcoin-doesnt-need-rate-cuts-to-succeed",
+      "date": "2026-10-20T12:40:11.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Sam-Callahan-Bitcoin-Doesnt-Need-Rate-Cuts-to-Succeed-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
+      "url": "https://bitcoinmagazine.com/videos/michael-howell-bitcoin-as-the-apex-liquidity-asset",
+      "date": "2026-10-20T12:33:35.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Michael-Howell-Bitcoin-as-the-Apex-Liquidity-Asset-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
       "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
@@ -70,24 +97,6 @@
       "url": "https://bitcoinmagazine.com/videos/financial-repression-in-the-age-of-ai",
       "date": "2026-10-19T12:47:13.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Financial-Repression-in-the-Age-of-AI-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Richard Byworth: Bitcoin’s Next Run “Just a Mater of Time” thanks to Seller Exhaustion",
-      "url": "https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion",
-      "date": "2026-10-19T12:41:42.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Richard-Byworth-Bitcoins-Next-Run-Just-a-Mater-of-Time-thanks-to-Seller-Exhaustion-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "$20B AUM Siebert Analyst: Bitcoin to $175K in 2027",
-      "url": "https://bitcoinmagazine.com/videos/20b-aum-siebert-analyst-bitcoin-to-175k-in-2027",
-      "date": "2026-10-19T12:35:37.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/20B-AUM-Siebert-Analyst-Bitcoin-to-175K-in-2027-.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -343,15 +352,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "How Silicon Valley Knows Its People",
-      "url": "https://www.a16z.news/p/how-silicon-valley-knows-its-people",
-      "date": "2026-09-25T14:38:48.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8a8c357a-e1fc-4cf6-b3eb-30269d131913_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
       "title": "Weekly Dose of Optimism #212",
