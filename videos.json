@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-10-21T04:07:28.527Z",
+  "lastUpdated": "2026-10-21T11:29:42.253Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 29,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "5VynTxkmXjc",
+      "show": "Shawn Ryan Show",
+      "title": "The Scariest Thing You Can Meet on Psychedelics. 😳",
+      "url": "https://www.youtube.com/watch?v=5VynTxkmXjc",
+      "date": "2026-10-21T00:00:28.000Z",
+      "image": "https://i2.ytimg.com/vi/5VynTxkmXjc/hqdefault.jpg",
+      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "FiD_3GKKdUc",
-      "show": "All-In Podcast",
-      "title": "Figma CEO Dylan Field: AI Is Creating a Trust Problem at Work",
-      "url": "https://www.youtube.com/watch?v=FiD_3GKKdUc",
-      "date": "2026-10-20T22:00:16.000Z",
-      "image": "https://i3.ytimg.com/vi/FiD_3GKKdUc/hqdefault.jpg",
-      "desc": "Thanks to our partners for making this possible!\n\nAs wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. URL to use for any links: https://ad.doubleclick.net/d",
+      "videoId": "5VynTxkmXjc",
+      "show": "Shawn Ryan Show",
+      "title": "The Scariest Thing You Can Meet on Psychedelics. 😳",
+      "url": "https://www.youtube.com/watch?v=5VynTxkmXjc",
+      "date": "2026-10-21T00:00:28.000Z",
+      "image": "https://i2.ytimg.com/vi/5VynTxkmXjc/hqdefault.jpg",
+      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
       "guestTags": []
     }
   ],
