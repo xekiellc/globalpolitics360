@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-10-20T23:04:05.577Z",
+  "lastUpdated": "2026-10-21T04:07:27.835Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1850,
+  "taggedCount": 1851,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Two Weeks 'Til Midterms",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/210bc03f-3d65-441a-8766-b3d0c0bb0493.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/210bc03f-3d65-441a-8766-b3d0c0bb0493.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-21T00:00:00.000Z",
+      "duration": "01:04:01",
+      "image": "https://content.production.cdn.art19.com/images/1b/f8/b3/6a/1bf8b36a-80a3-44dc-9441-456d5eaa2872/e81cb9f090b8cf0222a4617304fb087ad8a98fe3daa0a5f54e3d9cec1e2a305929f0a5523e670cf31de2661d53b82d0297f0d9ab4b7f08e132dbf107b6592e77.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Trump's continuing freefall in the polls, Mark Levin imploring his viewers to vote from Israel, Scott Bessent defending the economy, and more.Support Our Sponsors:Bubs Naturals - Live Better Longer with BUBS Naturals. For A limited time get 20% Off your entire order wi",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -52,20 +66,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Yung Gravy, Erik Griffin, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/12/2026Ethos: Protect your family with life insurance from Ethos. Get up to $3 million in coverage in as little as 10 minutes at https://ethos.com/killtony",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Desperate Trump Endorses Genocide",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/1e4f2bae-e727-4c80-b0ab-ded6a05b37ac.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/1e4f2bae-e727-4c80-b0ab-ded6a05b37ac.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-10-20T00:00:00.000Z",
-      "duration": "01:08:23",
-      "image": "https://content.production.cdn.art19.com/images/8a/67/0b/d2/8a670bd2-0d3c-401a-80ea-9dd0f9e8f578/36b4f35ad72861d1bf50a959bbb833d9e45e5229b7e39532db4fd4d9f612b7eecb848a0cfbe588c646ff0c2cb2560b32cc885434be4447ddcc7839d9e8eadf72.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss the changes to voting, JD Vance's attempt at PR while being confronted by an Iran war veteran's widower, The View complaining about Joe Rogan, and more.Support Our Sponsors:My Patriot Supply - http://preparelikedave.comQuince - Get free shipping on your Quince order an",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
@@ -132,6 +132,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Two Weeks 'Til Midterms",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/210bc03f-3d65-441a-8766-b3d0c0bb0493.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/210bc03f-3d65-441a-8766-b3d0c0bb0493.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-10-21T00:00:00.000Z",
+      "duration": "01:04:01",
+      "image": "https://content.production.cdn.art19.com/images/1b/f8/b3/6a/1bf8b36a-80a3-44dc-9441-456d5eaa2872/e81cb9f090b8cf0222a4617304fb087ad8a98fe3daa0a5f54e3d9cec1e2a305929f0a5523e670cf31de2661d53b82d0297f0d9ab4b7f08e132dbf107b6592e77.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Trump's continuing freefall in the polls, Mark Levin imploring his viewers to vote from Israel, Scott Bessent defending the economy, and more.Support Our Sponsors:Bubs Naturals - Live Better Longer with BUBS Naturals. For A limited time get 20% Off your entire order wi",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2568 - Ross Edgley",
@@ -178,20 +192,6 @@
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Yung Gravy, Erik Griffin, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/12/2026Ethos: Protect your family with life insurance from Ethos. Get up to $3 million in coverage in as little as 10 minutes at https://ethos.com/killtony",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Part of the Problem (Dave Smith)",
-      "title": "Desperate Trump Endorses Genocide",
-      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/1e4f2bae-e727-4c80-b0ab-ded6a05b37ac.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/1e4f2bae-e727-4c80-b0ab-ded6a05b37ac.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
-      "date": "2026-10-20T00:00:00.000Z",
-      "duration": "01:08:23",
-      "image": "https://content.production.cdn.art19.com/images/8a/67/0b/d2/8a670bd2-0d3c-401a-80ea-9dd0f9e8f578/36b4f35ad72861d1bf50a959bbb833d9e45e5229b7e39532db4fd4d9f612b7eecb848a0cfbe588c646ff0c2cb2560b32cc885434be4447ddcc7839d9e8eadf72.jpeg",
-      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss the changes to voting, JD Vance's attempt at PR while being confronted by an Iran war veteran's widower, The View complaining about Joe Rogan, and more.Support Our Sponsors:My Patriot Supply - http://preparelikedave.comQuince - Get free shipping on your Quince order an",
-      "guestTags": [
-        "Dave Smith"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
