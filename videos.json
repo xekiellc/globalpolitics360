@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-10-22T00:31:31.180Z",
+  "lastUpdated": "2026-10-22T07:21:30.809Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 27,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "P3JNS8hsKNA",
+      "show": "Shawn Ryan Show",
+      "title": "Could You Survive a Fight With a Neanderthal? 😳",
+      "url": "https://www.youtube.com/watch?v=P3JNS8hsKNA",
+      "date": "2026-10-22T02:00:07.000Z",
+      "image": "https://i1.ytimg.com/vi/P3JNS8hsKNA/hqdefault.jpg",
+      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "WMSYviCyK9c",
-      "show": "Theo Von",
-      "title": "Billy Strings on Why He Quit Smoking",
-      "url": "https://www.youtube.com/watch?v=WMSYviCyK9c",
-      "date": "2026-10-21T20:08:42.000Z",
-      "image": "https://i4.ytimg.com/vi/WMSYviCyK9c/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #676 | Billy Strings\nFull Episode: https://www.youtube.com/watch?v=UayVMQ9E8sA\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
+      "videoId": "P3JNS8hsKNA",
+      "show": "Shawn Ryan Show",
+      "title": "Could You Survive a Fight With a Neanderthal? 😳",
+      "url": "https://www.youtube.com/watch?v=P3JNS8hsKNA",
+      "date": "2026-10-22T02:00:07.000Z",
+      "image": "https://i1.ytimg.com/vi/P3JNS8hsKNA/hqdefault.jpg",
+      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
       "guestTags": []
     }
   ],
