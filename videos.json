@@ -1,19 +1,31 @@
 {
-  "lastUpdated": "2026-10-23T04:11:57.100Z",
+  "lastUpdated": "2026-10-23T11:19:31.161Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 27,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "eDCj8qhvwb8",
+      "show": "Shawn Ryan Show",
+      "title": "Navy SEAL Refused to Shoot a Wanted Man 😳",
+      "url": "https://www.youtube.com/watch?v=eDCj8qhvwb8",
+      "date": "2026-10-23T01:00:24.000Z",
+      "image": "https://i2.ytimg.com/vi/eDCj8qhvwb8/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "7XtsLRqoMmo",
+      "videoId": "eDCj8qhvwb8",
       "show": "Shawn Ryan Show",
-      "title": "Who Deleted the Drone Footage?! 😡",
-      "url": "https://www.youtube.com/watch?v=7XtsLRqoMmo",
-      "date": "2026-10-22T22:00:23.000Z",
-      "image": "https://i4.ytimg.com/vi/7XtsLRqoMmo/hqdefault.jpg",
+      "title": "Navy SEAL Refused to Shoot a Wanted Man 😳",
+      "url": "https://www.youtube.com/watch?v=eDCj8qhvwb8",
+      "date": "2026-10-23T01:00:24.000Z",
+      "image": "https://i2.ytimg.com/vi/eDCj8qhvwb8/hqdefault.jpg",
       "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
       "guestTags": []
     }
