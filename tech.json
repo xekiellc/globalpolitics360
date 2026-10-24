@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-10-23T21:14:00.544Z",
+  "lastUpdated": "2026-10-24T00:24:30.736Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
+      "url": "https://bitcoinmagazine.com/news/ny-seeks-1-37-b-judgement-novatech",
+      "date": "2026-10-23T21:21:46.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-24.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+      "url": "https://bitcoinmagazine.com/news/blockstream-launches-institutional-service",
+      "date": "2026-10-23T21:20:39.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Blockstream-Launches-Institutional-Consulting-Services-Opens-Lugano-Office.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover",
       "url": "https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes",
@@ -100,24 +118,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "The Sleeper Has Awakened: Pepenardo’s Sleeping Knights Return",
-      "url": "https://bitcoinmagazine.com/culture/the-sleeper-has-awakened-pepenardos-sleeping-knights-return",
-      "date": "2026-10-22T23:06:48.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/The-Sleeper-Has-Awakened-Pepenardos-Sleeping-Knights-Return.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
-      "url": "https://bitcoinmagazine.com/news/trump-sued-for-alleged-crypto-corruption",
-      "date": "2026-10-22T21:23:58.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-22.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Meet the a16z Ops Engineering Fellows",
