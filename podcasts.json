@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-10-24T00:24:37.309Z",
+  "lastUpdated": "2026-10-24T07:03:07.299Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1858,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 790 Yung Gravy + Erik Griffin)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ea059e66-da1b-4bc3-900e-1dce367e504f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ea059e66-da1b-4bc3-900e-1dce367e504f&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-10-24T01:00:00.000Z",
+      "duration": "00:54:52",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 790 KT guest Yung Gravy + Erik Griffin&nbsp;Yung Gravy, Erik Griffin, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 10/12/2026&nbsp;Watch Kill Tony and ot",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
@@ -67,18 +79,6 @@
       "duration": "11024",
       "image": "https://megaphone.imgix.net/podcasts/0d3cd494-ce40-11f1-836c-2f95e1bc9d29/image/aeb408e3babf5634ba3186971006a172.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n\n1) BRUNT WORKWEAR: Get $10 Off at BRUNT with code JULIAN at https://www.bruntworkwear.com/JULIAN #Bruntpod\n\n2) HEXCLAD: Find your forever cookware @hexclad and get 10% off at https://hexclad.com/JULIAN !\n\n#hexcladpartner\n\n3) UNDRDOG HEMP: Our listeners get up to 30% off their entire order at https://Undrdog.com.\n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\n\nhttps://www.patreon",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#790 - YUNG GRAVY + ERIK GRIFFIN",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/51022b9b-e69d-4490-99c1-c2b19e7336fc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=51022b9b-e69d-4490-99c1-c2b19e7336fc&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-10-20T01:00:00.000Z",
-      "duration": "02:19:52",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Yung Gravy, Erik Griffin, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/12/2026Ethos: Protect your family with life insurance from Ethos. Get up to $3 million in coverage in as little as 10 minutes at https://ethos.com/killtony",
       "guestTags": []
     },
     {
@@ -134,6 +134,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 790 Yung Gravy + Erik Griffin)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ea059e66-da1b-4bc3-900e-1dce367e504f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ea059e66-da1b-4bc3-900e-1dce367e504f&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-10-24T01:00:00.000Z",
+      "duration": "00:54:52",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind the scenes look from KT Episode 790 KT guest Yung Gravy + Erik Griffin&nbsp;Yung Gravy, Erik Griffin, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban - RECORDED– 10/12/2026&nbsp;Watch Kill Tony and ot",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "All-In Podcast",
       "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
@@ -195,18 +207,6 @@
       "duration": "11024",
       "image": "https://megaphone.imgix.net/podcasts/0d3cd494-ce40-11f1-836c-2f95e1bc9d29/image/aeb408e3babf5634ba3186971006a172.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n\n1) BRUNT WORKWEAR: Get $10 Off at BRUNT with code JULIAN at https://www.bruntworkwear.com/JULIAN #Bruntpod\n\n2) HEXCLAD: Find your forever cookware @hexclad and get 10% off at https://hexclad.com/JULIAN !\n\n#hexcladpartner\n\n3) UNDRDOG HEMP: Our listeners get up to 30% off their entire order at https://Undrdog.com.\n\n\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\n\nhttps://www.patreon",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#790 - YUNG GRAVY + ERIK GRIFFIN",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/51022b9b-e69d-4490-99c1-c2b19e7336fc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=51022b9b-e69d-4490-99c1-c2b19e7336fc&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-10-20T01:00:00.000Z",
-      "duration": "02:19:52",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Yung Gravy, Erik Griffin, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/12/2026Ethos: Protect your family with life insurance from Ethos. Get up to $3 million in coverage in as little as 10 minutes at https://ethos.com/killtony",
       "guestTags": []
     },
     {
