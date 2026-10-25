@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-10-25T13:05:27.827Z",
+  "lastUpdated": "2026-10-25T17:31:26.131Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1860,
+  "taggedCount": 1861,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Resistance Week: The Taliban Hasn't Won | Jazz Cannon",
+      "audioUrl": "https://traffic.megaphone.fm/APO8317337061.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Resistance-Week-The-Taliban-Hasnt-Won--Jazz-Cannon-e3r1gjm",
+      "date": "2026-10-25T14:00:00.000Z",
+      "duration": "01:04:51",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1792890659107-5f5348f173a96.jpg",
+      "desc": "The Taliban controls Afghanistan, but that does not mean the Taliban has won.In the first episode of Resistance Week on The Watch Floor, Sarah Adams sits down with Afghan advocate Jazz Cannon to discuss the ongoing resistance against the Taliban, the international flow of money that has helped sustain the regime, and the Afghans who refuse to give up the fight for their country.Jazz shares her exp",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -59,18 +73,6 @@
       "guestTags": [
         "Chamath"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2570 - Mystery Boys",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2538626371.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2538626371.mp3",
-      "date": "2026-10-23T17:00:00.000Z",
-      "duration": "10181",
-      "image": "https://megaphone.imgix.net/podcasts/ec46995e-ce9a-11f1-9c7e-fbbdba278d52/image/e1a75a1d1caff6a9d53338962b2d8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Kurt Metzger and Duncan Trussell are comedians and co-hosts of the \"Mystery Boys\" podcast. They also host their respective podcasts, \"The Derp with Kurp\" and \"The Duncan Trussell Family Hour.\"www.ymhstudios.com/mystery-boys-podcast/www.youtube.com/@duncantrussellfamilyhourwww.duncantrussell.comwww.youtube.com/@kurtmetzgercomedywww.kurtmetzgercomedy.com\n\n\n\nPerplexity: Download the app or ask Perple",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -137,6 +139,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Resistance Week: The Taliban Hasn't Won | Jazz Cannon",
+      "audioUrl": "https://traffic.megaphone.fm/APO8317337061.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Resistance-Week-The-Taliban-Hasnt-Won--Jazz-Cannon-e3r1gjm",
+      "date": "2026-10-25T14:00:00.000Z",
+      "duration": "01:04:51",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1792890659107-5f5348f173a96.jpg",
+      "desc": "The Taliban controls Afghanistan, but that does not mean the Taliban has won.In the first episode of Resistance Week on The Watch Floor, Sarah Adams sits down with Afghan advocate Jazz Cannon to discuss the ongoing resistance against the Taliban, the international flow of money that has helped sustain the regime, and the Afghans who refuse to give up the fight for their country.Jazz shares her exp",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "EXPLOSIVE Jared Kushner Allegations, Shawn Ryan Drama &amp; Lindsey Graham SHOCKER | Julian Dorey",
@@ -190,18 +206,6 @@
       "guestTags": [
         "Chamath"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2570 - Mystery Boys",
-      "audioUrl": "https://traffic.megaphone.fm/GLT2538626371.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT2538626371.mp3",
-      "date": "2026-10-23T17:00:00.000Z",
-      "duration": "10181",
-      "image": "https://megaphone.imgix.net/podcasts/ec46995e-ce9a-11f1-9c7e-fbbdba278d52/image/e1a75a1d1caff6a9d53338962b2d8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Kurt Metzger and Duncan Trussell are comedians and co-hosts of the \"Mystery Boys\" podcast. They also host their respective podcasts, \"The Derp with Kurp\" and \"The Duncan Trussell Family Hour.\"www.ymhstudios.com/mystery-boys-podcast/www.youtube.com/@duncantrussellfamilyhourwww.duncantrussell.comwww.youtube.com/@kurtmetzgercomedywww.kurtmetzgercomedy.com\n\n\n\nPerplexity: Download the app or ask Perple",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -279,6 +283,9 @@
     }
   ],
   "guestIndex": {
+    "Sarah Adams": [
+      "aHR0cHM6Ly90cmFmZmljLm1l"
+    ],
     "Julian Dorey": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
