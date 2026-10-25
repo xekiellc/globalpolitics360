@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T17:31:26.570Z",
+  "lastUpdated": "2026-10-25T20:38:40.613Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nIN6zuLgxVs",
-      "show": "All-In Podcast",
-      "title": "Chamath: France Won’t Fix Itself. The Bond Market Must Force Its Hand.",
-      "url": "https://www.youtube.com/watch?v=nIN6zuLgxVs",
-      "date": "2026-10-25T16:15:27.000Z",
-      "image": "https://i3.ytimg.com/vi/nIN6zuLgxVs/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "4TtdMh6voPo",
+      "show": "Shawn Ryan Show",
+      "title": "101-Year-Old Marine Reveals the Nickname for His WW2 Uniform 😂",
+      "url": "https://www.youtube.com/watch?v=4TtdMh6voPo",
+      "date": "2026-10-25T20:00:14.000Z",
+      "image": "https://i1.ytimg.com/vi/4TtdMh6voPo/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "nIN6zuLgxVs",
-      "show": "All-In Podcast",
-      "title": "Chamath: France Won’t Fix Itself. The Bond Market Must Force Its Hand.",
-      "url": "https://www.youtube.com/watch?v=nIN6zuLgxVs",
-      "date": "2026-10-25T16:15:27.000Z",
-      "image": "https://i3.ytimg.com/vi/nIN6zuLgxVs/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "4TtdMh6voPo",
+      "show": "Shawn Ryan Show",
+      "title": "101-Year-Old Marine Reveals the Nickname for His WW2 Uniform 😂",
+      "url": "https://www.youtube.com/watch?v=4TtdMh6voPo",
+      "date": "2026-10-25T20:00:14.000Z",
+      "image": "https://i1.ytimg.com/vi/4TtdMh6voPo/hqdefault.jpg",
+      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
