@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-10-26T04:33:07.047Z",
+  "lastUpdated": "2026-10-26T12:36:26.549Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 27,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "NlVu0P1RdHs",
+      "show": "Huberman Lab",
+      "title": "Unlocking Persistent Motivation &amp; Extreme Resilience | Ross Edgley",
+      "url": "https://www.youtube.com/watch?v=NlVu0P1RdHs",
+      "date": "2026-10-26T12:00:00.000Z",
+      "image": "https://i3.ytimg.com/vi/NlVu0P1RdHs/hqdefault.jpg",
+      "desc": "Ross Edgley is a British ultra-endurance athlete and author known for completing extraordinary athletic feats by tapping into diverse sources of motivation and resilience. We discuss the psychological and biological forces that allow people to persevere through extreme challenges. Then we cover how ",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "4TtdMh6voPo",
-      "show": "Shawn Ryan Show",
-      "title": "101-Year-Old Marine Reveals the Nickname for His WW2 Uniform 😂",
-      "url": "https://www.youtube.com/watch?v=4TtdMh6voPo",
-      "date": "2026-10-25T20:00:14.000Z",
-      "image": "https://i1.ytimg.com/vi/4TtdMh6voPo/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "videoId": "NlVu0P1RdHs",
+      "show": "Huberman Lab",
+      "title": "Unlocking Persistent Motivation &amp; Extreme Resilience | Ross Edgley",
+      "url": "https://www.youtube.com/watch?v=NlVu0P1RdHs",
+      "date": "2026-10-26T12:00:00.000Z",
+      "image": "https://i3.ytimg.com/vi/NlVu0P1RdHs/hqdefault.jpg",
+      "desc": "Ross Edgley is a British ultra-endurance athlete and author known for completing extraordinary athletic feats by tapping into diverse sources of motivation and resilience. We discuss the psychological and biological forces that allow people to persevere through extreme challenges. Then we cover how ",
       "guestTags": []
     }
   ],
