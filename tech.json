@@ -1,57 +1,120 @@
 {
-  "lastUpdated": "2026-10-26T12:36:18.579Z",
+  "lastUpdated": "2026-10-26T19:48:24.301Z",
   "articleCount": 40,
   "articles": [
     {
-      "title": "Strive (ASST) Buys 6,182 Bitcoin For $511 Million, Lifts Treasury To 43,000 BTC",
-      "url": "https://bitcoinmagazine.com/news/strive-asst-buys-6182-bitcoin",
-      "date": "2026-10-26T12:24:27.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Strive-ASST-Adds-17.76-Bitcoin-as-Falling-Prices-Boost-Its-Quarterly-Yield.jpg",
+      "title": "Coinbase Institutional Co-CEO: Bitcoin&#8217;s &#8220;Second Wave&#8221; of Institutional Capital has Arrived",
+      "url": "https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived",
+      "date": "2026-10-26T19:24:08.000Z",
+      "image": "https://img.youtube.com/vi/3JLon67yVfY/hqdefault.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
-      "url": "https://bitcoinmagazine.com/news/ny-seeks-1-37-b-judgement-novatech",
-      "date": "2026-10-23T21:21:46.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-24.jpg",
+      "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
+      "date": "2026-10-26T17:43:18.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Price-Hovers-Around-80000-as-Traders-Await-Fed-Decision.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
-      "url": "https://bitcoinmagazine.com/news/blockstream-launches-institutional-service",
-      "date": "2026-10-23T21:20:39.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Blockstream-Launches-Institutional-Consulting-Services-Opens-Lugano-Office.jpg",
+      "title": "Announcing the Third a16z New Media Fellowship",
+      "url": "https://www.a16z.news/p/announcing-the-third-a16z-nmf",
+      "date": "2026-10-26T16:58:44.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/87addfb1-231e-41e8-a85c-f16dff12b2e2_4266x2400.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Let Chaos Reign, and Then Rein In Chaos",
+      "url": "https://www.a16z.news/p/let-chaos-reign-and-then-rein-in",
+      "date": "2026-10-26T16:08:29.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/02067972-32d4-4995-ba4b-003a6eb2a447_2842x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Ep 167: The Company That Evaluates the AI Labs — Vals AI CEO Rayan Krishnan on Measuring Frontier Models & the Race to Recursive Self-Improvement",
+      "url": "https://blog.joelonsdale.com/p/ep-167-the-company-that-evaluates",
+      "date": "2026-10-26T16:03:17.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
+    {
+      "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
+      "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
+      "date": "2026-10-26T15:39:53.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes",
-      "date": "2026-10-23T17:06:32.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Core-Ends-Long-Embargoes-for-Bugs-AI-Can-Rediscover.jpg",
+      "title": "Bitcoin’s Bear Market Is Over, Galaxy Says",
+      "url": "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says",
+      "date": "2026-10-26T14:44:40.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoins-Bear-Market-Is-Over-Galaxy-Says.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
-      "date": "2026-10-23T16:46:36.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-23.jpg",
+      "title": "South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing",
+      "url": "https://bitcoinmagazine.com/news/south-korea-weighs-fourth-delay-crypto-tax",
+      "date": "2026-10-26T14:06:27.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/South-Korea-Weighs-Fourth-Delay-of-Crypto-Tax-With-2029-Start-Tied-to-U.S.-Data-Sharing.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
-      "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
-      "date": "2026-10-23T15:40:05.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Franklin-Templeton-Files-for-Two-ETFs-That-Reinvest-Stock-Dividends-Into-Bitcoin.jpg",
+      "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
+      "url": "https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate",
+      "date": "2026-10-26T13:37:28.000Z",
+      "image": "https://img.youtube.com/vi/Y5GXvtcrw2s/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin &#8220;Poised for a Big Bull Run&#8221;",
+      "url": "https://bitcoinmagazine.com/videos/blockstream-executive-peter-bain-institutional-clients-say-bitcoin-poised-for-a-big-bull-run",
+      "date": "2026-10-26T13:31:07.000Z",
+      "image": "https://img.youtube.com/vi/W7l_EBQrVzA/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "The Bitcoin vs. Nasdaq Signal Has Flipped Bullish",
+      "url": "https://bitcoinmagazine.com/videos/the-bitcoin-vs-nasdaq-signal-has-flipped-bullish",
+      "date": "2026-10-26T13:26:33.000Z",
+      "image": "https://img.youtube.com/vi/HP8u1Hd9No0/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "PHP Hack: How Bitcoin Will Respond to the “Cyber Pandemic”",
+      "url": "https://bitcoinmagazine.com/videos/php-hack-how-bitcoin-will-respond-to-the-cyber-pandemic",
+      "date": "2026-10-26T13:21:59.000Z",
+      "image": "https://img.youtube.com/vi/yMxOKp7Zv7g/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Treasury Analyst: MSTR, ASST &#038; Metaplanet Digital Credit Outlook",
+      "url": "https://bitcoinmagazine.com/videos/bitcoin-treasury-analyst-mstr-asst-metaplanet-digital-credit-outlook",
+      "date": "2026-10-26T13:16:07.000Z",
+      "image": "https://img.youtube.com/vi/MH7aXmWCBk4/hqdefault.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -73,42 +136,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
-      "url": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
-      "date": "2026-10-23T14:01:41.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Stand With Crypto Director: The Crypto Vote Will Decide the Midterms &#124; Mason Lynaugh",
-      "url": "https://bitcoinmagazine.com/videos/stand-with-crypto-director-the-crypto-vote-will-decide-the-midterms-mason-lynaugh",
-      "date": "2026-10-23T13:33:32.000Z",
-      "image": "https://img.youtube.com/vi/gA0HvXtJj-Y/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
-      "url": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
-      "date": "2026-10-23T13:28:16.000Z",
-      "image": "https://img.youtube.com/vi/2fwLwpDPdtU/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Block Releases THE Bitcoin National Ad Campaign",
-      "url": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
-      "date": "2026-10-23T13:21:52.000Z",
-      "image": "https://img.youtube.com/vi/E6capAzmJ3Q/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Weekly Dose of Optimism #216",
@@ -309,24 +336,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Investing in General Medicine",
-      "url": "https://www.a16z.news/p/investing-in-general-medicine",
-      "date": "2026-10-06T15:30:49.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/4d82134b-74f0-42bb-8fb4-f7bdddced14d_1800x945.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Top 100 Consumer AI Apps - Seventh Edition",
-      "url": "https://www.a16z.news/p/top-100-consumer-ai-apps-seventh",
-      "date": "2026-10-05T14:01:42.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/22c076a8-be2e-4388-9343-8d2c7abd7c2e_4266x2400.jpeg",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Ep 164: Inside Anthropic with Sholto Douglas & Nicholas Marwell — AGI, Optimism vs Risks, Regulatory Capture, Open Source & More!",
       "url": "https://blog.joelonsdale.com/p/ep-164-inside-anthropic-with-sholto",
       "date": "2026-10-02T15:46:10.000Z",
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Airbound: As We May Move",
-      "url": "https://www.notboring.co/p/airbound-as-we-may-move",
-      "date": "2026-09-28T13:17:35.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!ZoEb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6b90430-6792-44ee-b53e-9bcb691e55dc_1200x600.png",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
