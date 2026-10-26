@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-10-26T19:48:31.573Z",
+  "lastUpdated": "2026-10-26T23:39:46.899Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 28,
+  "taggedCount": 5,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aimDgmYRVvo",
-      "show": "Danny Jones Podcast",
-      "title": "How The Police Protect Cartels.",
-      "url": "https://www.youtube.com/watch?v=aimDgmYRVvo",
-      "date": "2026-10-26T19:00:22.000Z",
-      "image": "https://i2.ytimg.com/vi/aimDgmYRVvo/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/xdf76Dt9poI?si=OZ-GJEeZFfESxjaS",
+      "videoId": "ZAzWPE9CItg",
+      "show": "Lex Fridman",
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "date": "2026-10-26T22:51:51.000Z",
+      "image": "https://i3.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
+      "desc": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Anku",
       "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "aimDgmYRVvo",
-      "show": "Danny Jones Podcast",
-      "title": "How The Police Protect Cartels.",
-      "url": "https://www.youtube.com/watch?v=aimDgmYRVvo",
-      "date": "2026-10-26T19:00:22.000Z",
-      "image": "https://i2.ytimg.com/vi/aimDgmYRVvo/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/xdf76Dt9poI?si=OZ-GJEeZFfESxjaS",
+      "videoId": "ZAzWPE9CItg",
+      "show": "Lex Fridman",
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "date": "2026-10-26T22:51:51.000Z",
+      "image": "https://i3.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
+      "desc": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Anku",
       "guestTags": []
     }
   ],

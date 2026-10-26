@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-10-26T19:48:31.123Z",
+  "lastUpdated": "2026-10-26T23:39:46.177Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1861,
+  "taggedCount": 1862,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &#038; Complexity Theory",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_math_ai_crisis.mp3",
+      "listenUrl": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=math-ai-crisis",
+      "date": "2026-10-26T22:52:28.000Z",
+      "duration": "3:42:40",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting the Institute for Advanced Study in Princeton) working ",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "NYT&apos;s Elizabeth Holmes Problem, Tim Dillon ROASTS American Politics &amp; Why Modern Dating Is BROKEN",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/7a7d49c1-2e82-410b-a188-dc71a8f08a05/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=7a7d49c1-2e82-410b-a188-dc71a8f08a05&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-10-26T20:30:00.000Z",
+      "duration": "01:23:13",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/eab3a355-d671-4c8e-9589-7ebb4414c7d1/3000x3000/cropped_1793043274418.jpg?aid=rss_feed",
+      "desc": "With just over one week to go before America votes in the midterms, Emily Jashinsky breaks down some of the must-see moments from the campaign trail. She reacts to Donald Trump's eyebrow-raising comments about Nicki Minaj, Mike Rogers' disastrous response to a simple MAGA question on “Meet the Press,” and Tim Dillon's brutal assessment of the Ohio governor's race. Then Emily details new developmen",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -68,20 +94,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E294_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france",
-      "date": "2026-10-23T23:08:00.000Z",
-      "duration": "01:43:23",
-      "image": "https://static.libsyn.com/p/assets/a/a/d/5/aad5ad1303ccae075f2e77a3093c12a1/1_Pod_E294.png",
-      "desc": "(0:00) Bestie intros! (0:11) Ken Griffin's AI bubble warning (8:19) Palo Alto Networks CEO Nikesh Arora joins (14:24) AI Cyber panic: PHP exploits and the tumultuous year ahead (44:17) France on the brink: Riots, immigration referendum, debt crisis (1:31:49) Trump's second half strategy, Press Secretary J-Cal? Follow Nikesh: https://x.com/nikesharora Follow the besties: https://x.com/chamath https",
-      "guestTags": [
-        "Chamath"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "Dalton Fischer Podcast",
       "title": "China’s Brain Warfare Program: “The Darkest Thing I’ve Ever Come Across” | Annie Jacobsen",
@@ -92,20 +104,6 @@
       "image": "https://storage.buzzsprout.com/l6q79ct8o3qqdylcfm4zsmslk1ld?.jpg",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and New York Times bestselling author of eight books on national security.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Head to https://www.superpower.com and use code DALTON at checkout for $20 off your membership. Unlock your new health intelligence. 100+ biomarkers. Every yea",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &#038; Jung",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
-      "listenUrl": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull",
-      "date": "2026-09-17T00:40:49.000Z",
-      "duration": "3:43:51",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; submit questions,",
-      "guestTags": [
-        "Edward Snowden"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -134,6 +132,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
+      "show": "The Lex Fridman Podcast",
+      "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &#038; Complexity Theory",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_math_ai_crisis.mp3",
+      "listenUrl": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=math-ai-crisis",
+      "date": "2026-10-26T22:52:28.000Z",
+      "duration": "3:42:40",
+      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "desc": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting the Institute for Advanced Study in Princeton) working ",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "NYT&apos;s Elizabeth Holmes Problem, Tim Dillon ROASTS American Politics &amp; Why Modern Dating Is BROKEN",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/7a7d49c1-2e82-410b-a188-dc71a8f08a05/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=7a7d49c1-2e82-410b-a188-dc71a8f08a05&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-10-26T20:30:00.000Z",
+      "duration": "01:23:13",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/eab3a355-d671-4c8e-9589-7ebb4414c7d1/3000x3000/cropped_1793043274418.jpg?aid=rss_feed",
+      "desc": "With just over one week to go before America votes in the midterms, Emily Jashinsky breaks down some of the must-see moments from the campaign trail. She reacts to Donald Trump's eyebrow-raising comments about Nicki Minaj, Mike Rogers' disastrous response to a simple MAGA question on “Meet the Press,” and Tim Dillon's brutal assessment of the Ohio governor's race. Then Emily details new developmen",
+      "guestTags": [
+        "Emily Jashinsky"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "10/26/26: Obama Rips Trump, Bibi Accused Of Treason, Oil Market On The Brink, Pentagon Doomsday Warning",
@@ -196,20 +220,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E294_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france",
-      "date": "2026-10-23T23:08:00.000Z",
-      "duration": "01:43:23",
-      "image": "https://static.libsyn.com/p/assets/a/a/d/5/aad5ad1303ccae075f2e77a3093c12a1/1_Pod_E294.png",
-      "desc": "(0:00) Bestie intros! (0:11) Ken Griffin's AI bubble warning (8:19) Palo Alto Networks CEO Nikesh Arora joins (14:24) AI Cyber panic: PHP exploits and the tumultuous year ahead (44:17) France on the brink: Riots, immigration referendum, debt crisis (1:31:49) Trump's second half strategy, Press Secretary J-Cal? Follow Nikesh: https://x.com/nikesharora Follow the besties: https://x.com/chamath https",
-      "guestTags": [
-        "Chamath"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9wc2NyYi5mbS9y",
       "show": "Dalton Fischer Podcast",
       "title": "China’s Brain Warfare Program: “The Darkest Thing I’ve Ever Come Across” | Annie Jacobsen",
@@ -220,20 +230,6 @@
       "image": "https://storage.buzzsprout.com/l6q79ct8o3qqdylcfm4zsmslk1ld?.jpg",
       "desc": "Annie Jacobsen is a Pulitzer Prize finalist, investigative journalist, and New York Times bestselling author of eight books on national security.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton - Head to https://www.superpower.com and use code DALTON at checkout for $20 off your membership. Unlock your new health intelligence. 100+ biomarkers. Every yea",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
-      "show": "The Lex Fridman Podcast",
-      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &#038; Jung",
-      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
-      "listenUrl": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull",
-      "date": "2026-09-17T00:40:49.000Z",
-      "duration": "3:43:51",
-      "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-      "desc": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback &#8211; give feedback to Lex: https://lexfridman.com/survey\nAMA &#8211; submit questions,",
-      "guestTags": [
-        "Edward Snowden"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9hbmNob3IuZm0v",
@@ -273,14 +269,11 @@
     }
   ],
   "guestIndex": {
-    "Julian Dorey": [
-      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
-    ],
-    "Chamath": [
+    "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
-    "Edward Snowden": [
-      "aHR0cHM6Ly9tZWRpYS5ibHVi"
+    "Julian Dorey": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ]
   }
 }
