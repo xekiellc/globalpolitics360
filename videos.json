@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-10-29T05:12:16.509Z",
+  "lastUpdated": "2026-10-29T12:39:40.337Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 32,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "arMMF0ISRRM",
+      "show": "Huberman Lab",
+      "title": "Essentials: How Smells Influence Our Hormones, Health &amp; Behavior | Dr. Noam Sobel",
+      "url": "https://www.youtube.com/watch?v=arMMF0ISRRM",
+      "date": "2026-10-29T12:00:06.000Z",
+      "image": "https://i2.ytimg.com/vi/arMMF0ISRRM/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Noam Sobel, PhD, a Professor of Neurobiology at the Weizmann Institute of Science and an expert on the human sense of smell. We discuss how the brain processes odors and how smell shapes our lives more than we realize, influencing everything f",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "b3HrX-1sIVk",
-      "show": "Shawn Ryan Show",
-      "title": "They Tried to Hypnotize a German Sub Captain 😳",
-      "url": "https://www.youtube.com/watch?v=b3HrX-1sIVk",
-      "date": "2026-10-28T22:00:03.000Z",
-      "image": "https://i3.ytimg.com/vi/b3HrX-1sIVk/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/VigilanceE",
+      "videoId": "arMMF0ISRRM",
+      "show": "Huberman Lab",
+      "title": "Essentials: How Smells Influence Our Hormones, Health &amp; Behavior | Dr. Noam Sobel",
+      "url": "https://www.youtube.com/watch?v=arMMF0ISRRM",
+      "date": "2026-10-29T12:00:06.000Z",
+      "image": "https://i2.ytimg.com/vi/arMMF0ISRRM/hqdefault.jpg",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Noam Sobel, PhD, a Professor of Neurobiology at the Weizmann Institute of Science and an expert on the human sense of smell. We discuss how the brain processes odors and how smell shapes our lives more than we realize, influencing everything f",
       "guestTags": []
     }
   ],

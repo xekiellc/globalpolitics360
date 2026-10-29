@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-10-29T05:12:15.472Z",
+  "lastUpdated": "2026-10-29T12:39:39.555Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1864,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Resistance Week: The Fight for Afghanistan | Ali Maisam Nazary",
+      "audioUrl": "https://traffic.megaphone.fm/APO3105578964.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Resistance-Week-The-Fight-for-Afghanistan--Ali-Maisam-Nazary-e3raat5",
+      "date": "2026-10-29T12:00:00.000Z",
+      "duration": "01:04:19",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1793228425321-b4dc05841b6ac.jpg",
+      "desc": "The Taliban may control Kabul, but the fight for Afghanistan is far from over.In this episode of The Watch Floor, I sit down with Ali Maisam Nazary, co-founder and Head of Foreign Relations for the National Resistance Front of Afghanistan (NRF), the resistance movement led by Ahmad Massoud, son of the legendary Afghan commander Ahmad Shah Massoud.We discuss how the National Resistance Front was es",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#352 Cain Velasquez - UFC Champion Hunted the Man Accused of Abusing His 4-Year-Old Son",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4569951317.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4569951317.mp3",
+      "date": "2026-10-29T10:00:00.000Z",
+      "duration": "14134",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Cain Velasquez is a former two-time UFC heavyweight champion, widely regarded as one of the best heavyweights in MMA history, who later competed in pro wrestling with AAA and WWE. After a 2022 legal case that led to time in prison, he was released in February 2026 and has since focused on rebuilding his life. Today he coaches fighters at American Kickboxing Academy in San Jose and teaches Ascensio",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
@@ -20,18 +46,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#692 - Sophie Cunningham",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4120272428.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4120272428.mp3",
-      "date": "2026-10-28T22:49:00.000Z",
-      "duration": "5859",
-      "image": "https://megaphone.imgix.net/podcasts/a0ed9062-d321-11f1-b76e-47dda82b7662/image/35773765f573d8f711e3324e9cc4c3a7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Sophie Cunningham is a professional basketball player in the WNBA. She also hosts her own podcast “No Hesitation”.&amp;nbsp;\n\nSophie joins Theo to talk about real vs. fake drama in the WNBA, how she developed her unique persona in the league, and the fight to get players paid more.&amp;nbsp;\n\nSophie Cunningham: https://www.instagram.com/sophie_cham/&amp;nbsp;\n\n-------------------------------------",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Jennifer Lawrence&apos;s NEW Look, Podcast Bros Backlash &amp; Jan 6 Pipe Bomb Twist, with Bridget Phetasy",
@@ -44,18 +58,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2571 - Jimmy Carr",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7178896407.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7178896407.mp3",
-      "date": "2026-10-28T19:00:00.000Z",
-      "duration": "10355",
-      "image": "https://megaphone.imgix.net/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Jimmy Carr is a comedian, television personality, and writer. His new book, \"On Jokes: The Hidden Mechanics of Funny,\" co-authored with Amanda Baker and Abi Grant, is available now. He is currently on tour.www.youtube.com/@jimmycarrwww.jimmycarr.com/product/on-jokeswww.jimmycarr.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the ac",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -132,6 +134,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Watch Floor (Sarah Adams)",
+      "title": "Resistance Week: The Fight for Afghanistan | Ali Maisam Nazary",
+      "audioUrl": "https://traffic.megaphone.fm/APO3105578964.mp3",
+      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Resistance-Week-The-Fight-for-Afghanistan--Ali-Maisam-Nazary-e3raat5",
+      "date": "2026-10-29T12:00:00.000Z",
+      "duration": "01:04:19",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1793228425321-b4dc05841b6ac.jpg",
+      "desc": "The Taliban may control Kabul, but the fight for Afghanistan is far from over.In this episode of The Watch Floor, I sit down with Ali Maisam Nazary, co-founder and Head of Foreign Relations for the National Resistance Front of Afghanistan (NRF), the resistance movement led by Ahmad Massoud, son of the legendary Afghan commander Ahmad Shah Massoud.We discuss how the National Resistance Front was es",
+      "guestTags": [
+        "Sarah Adams"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Shawn Ryan Show",
+      "title": "#352 Cain Velasquez - UFC Champion Hunted the Man Accused of Abusing His 4-Year-Old Son",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4569951317.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4569951317.mp3",
+      "date": "2026-10-29T10:00:00.000Z",
+      "duration": "14134",
+      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Cain Velasquez is a former two-time UFC heavyweight champion, widely regarded as one of the best heavyweights in MMA history, who later competed in pro wrestling with AAA and WWE. After a 2022 legal case that led to time in prison, he was released in February 2026 and has since focused on rebuilding his life. Today he coaches fighters at American Kickboxing Academy in San Jose and teaches Ascensio",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Part of the Problem (Dave Smith)",
       "title": "Coleman Hughes",
@@ -146,18 +174,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#692 - Sophie Cunningham",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4120272428.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER4120272428.mp3",
-      "date": "2026-10-28T22:49:00.000Z",
-      "duration": "5859",
-      "image": "https://megaphone.imgix.net/podcasts/a0ed9062-d321-11f1-b76e-47dda82b7662/image/35773765f573d8f711e3324e9cc4c3a7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Sophie Cunningham is a professional basketball player in the WNBA. She also hosts her own podcast “No Hesitation”.&amp;nbsp;\n\nSophie joins Theo to talk about real vs. fake drama in the WNBA, how she developed her unique persona in the league, and the fight to get players paid more.&amp;nbsp;\n\nSophie Cunningham: https://www.instagram.com/sophie_cham/&amp;nbsp;\n\n-------------------------------------",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Jennifer Lawrence&apos;s NEW Look, Podcast Bros Backlash &amp; Jan 6 Pipe Bomb Twist, with Bridget Phetasy",
@@ -170,18 +186,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2571 - Jimmy Carr",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7178896407.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7178896407.mp3",
-      "date": "2026-10-28T19:00:00.000Z",
-      "duration": "10355",
-      "image": "https://megaphone.imgix.net/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Jimmy Carr is a comedian, television personality, and writer. His new book, \"On Jokes: The Hidden Mechanics of Funny,\" co-authored with Amanda Baker and Abi Grant, is available now. He is currently on tour.www.youtube.com/@jimmycarrwww.jimmycarr.com/product/on-jokeswww.jimmycarr.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the ac",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -269,6 +273,9 @@
     }
   ],
   "guestIndex": {
+    "Sarah Adams": [
+      "aHR0cHM6Ly90cmFmZmljLm1l"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
