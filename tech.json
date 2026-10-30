@@ -1,7 +1,97 @@
 {
-  "lastUpdated": "2026-10-30T12:30:41.136Z",
+  "lastUpdated": "2026-10-30T19:04:19.629Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales",
+      "url": "https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share",
+      "date": "2026-10-30T18:54:24.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/Coinbase-CEO-Brian-Armstrong-Addresses-Paper-Bitcoin-Claims-Claims-Bitcoin-ETFs-Are-Fully-Backed.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "New Founder Archetypes in the AI Age",
+      "url": "https://www.a16z.news/p/new-founder-archetypes-in-the-ai",
+      "date": "2026-10-30T16:02:46.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6f994772-06cf-40dd-ad8a-cccb540aee1a_2842x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
+      "url": "https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto",
+      "date": "2026-10-30T14:38:43.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/SEC-Charges-Two-Companies-in-130-Million-Crypto-Trading-Scheme.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Blockchain Firms Link North Korea to $6.3 Billion Binance Hack",
+      "url": "https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack",
+      "date": "2026-10-30T14:13:15.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Blockchain-Firms-Link-North-Korea-to-6.3-Billion-Binance-Hack-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Charts of the Week: Job FUD Fades",
+      "url": "https://www.a16z.news/p/charts-of-the-week-job-fud-fades",
+      "date": "2026-10-30T14:09:49.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5fb357d7-cbbe-4bc1-9d76-432ea8ef9d91_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Tyler Evans: Bitcoin ETF Flows Flipped From “Highly Negative” to “Strong Accumulation”",
+      "url": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
+      "date": "2026-10-30T13:31:15.000Z",
+      "image": "https://img.youtube.com/vi/EIeJTVKzOsw/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Doomberg: US Treasury Sanctions are &#8220;Wildly Bullish&#8221; for Bitcoin &#038; Gold",
+      "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
+      "date": "2026-10-30T13:26:43.000Z",
+      "image": "https://img.youtube.com/vi/WIE3b9y7jSI/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Alex Thorn: 50-Week Signal Says Bitcoin&#8217;s Bottom is In",
+      "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
+      "date": "2026-10-30T13:22:21.000Z",
+      "image": "https://img.youtube.com/vi/pxkmrktEnZE/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;",
+      "url": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
+      "date": "2026-10-30T13:17:11.000Z",
+      "image": "https://img.youtube.com/vi/GszSdU8KPC8/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #217",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-217",
+      "date": "2026-10-30T12:58:11.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!ackd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafeeeae9-e9c1-4b14-ba90-28b1570876d6_960x540.gif",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",
       "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-near-76000-binance",
@@ -30,42 +120,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",
-      "url": "https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc",
-      "date": "2026-10-29T17:57:52.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-7.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
-      "url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
-      "date": "2026-10-29T16:26:24.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Franklin-Templeton-to-Acquire-CoinFund-Spinoff-for-Institutional-Crypto-Push-WSJ.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
-      "url": "https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto",
-      "date": "2026-10-29T15:03:46.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Russia-Approves-Securities-Group-to-Oversee-Crypto-Exchanges.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "U.S. Treasury Sanctions Crypto Launderers Behind North Korea’s Fake Workers",
-      "url": "https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker",
-      "date": "2026-10-29T14:37:46.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/U.S.-Treasury-Sanctions-Crypto-Launderers-Behind-North-Koreas-Fake-Workers.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "AD 50 2026: Production is Deterrence",
       "url": "https://www.a16z.news/p/ad-50-2026-production-is-deterrence",
       "date": "2026-10-29T14:00:21.000Z",
@@ -73,33 +127,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA",
-      "url": "https://bitcoinmagazine.com/news/crypto-exchange-htx-agrees-to-leave-uk",
-      "date": "2026-10-29T13:49:03.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Crypto-Exchange-HTX-Agrees-to-Leave-UK-in-Settlement-With-FCA-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Understanding the Various Bitcoin Per Share Metrics",
-      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-per-share-metrics",
-      "date": "2026-10-29T13:36:42.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/86a8019d-cc90-4512-91a3-8a2433146e38.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Mosaic: The Art Hidden in Bitcoin",
-      "url": "https://bitcoinmagazine.com/culture/mosaic-the-art-hidden-in-bitcoin",
-      "date": "2026-10-29T12:53:32.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/The-Art-Hidden-in-Bitcoin.png",
-      "source": "Bitcoin Magazine",
-      "teaser": "Mining company MARA sells $1.1 billion Bitcoin holdings to reduce convertible debt burden.",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "The New Security Agenda",
@@ -300,24 +327,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "This Week in Charts: Are Prediction Markets Politically Biased?",
-      "url": "https://www.a16z.news/p/this-week-in-charts-are-prediction",
-      "date": "2026-10-09T16:31:10.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9bb1d0f3-77b2-4677-91d8-130f01ce77ee_4266x2400.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Investing in TypeSafe AI",
-      "url": "https://www.a16z.news/p/investing-in-typesafe",
-      "date": "2026-10-09T16:28:52.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/449790a1-0b8b-42b6-8cb1-8b50519f95c7_1800x945.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #214",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-214",
       "date": "2026-10-09T12:48:52.000Z",
@@ -352,15 +361,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Ep 163: John Jovanovic on Turning Around the U.S. Export-Import Bank, Trump’s $12B Critical Mineral Reserve, and \"Revenge of the Physical World\"",
-      "url": "https://blog.joelonsdale.com/p/ep-163-john-jovanovic-on-turning",
-      "date": "2026-09-29T21:21:35.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
     }
   ]
 }
