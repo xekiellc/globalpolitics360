@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-10-30T05:11:51.258Z",
+  "lastUpdated": "2026-10-30T12:30:50.731Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 30,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "8HMvKTb3boI",
+      "show": "Shawn Ryan Show",
+      "title": "The Same Strange Clue Keeps Turning Up at Ancient Sites 😳",
+      "url": "https://www.youtube.com/watch?v=8HMvKTb3boI",
+      "date": "2026-10-30T00:00:37.000Z",
+      "image": "https://i1.ytimg.com/vi/8HMvKTb3boI/hqdefault.jpg",
+      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "S0_UtHarwD8",
-      "show": "Danny Jones Podcast",
-      "title": "THIS Is Who REALLY Runs The World.",
-      "url": "https://www.youtube.com/watch?v=S0_UtHarwD8",
-      "date": "2026-10-29T19:00:02.000Z",
-      "image": "https://i4.ytimg.com/vi/S0_UtHarwD8/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/KkbpGzBL8fM?si=4FJAA2KQUwYb9DJp",
+      "videoId": "8HMvKTb3boI",
+      "show": "Shawn Ryan Show",
+      "title": "The Same Strange Clue Keeps Turning Up at Ancient Sites 😳",
+      "url": "https://www.youtube.com/watch?v=8HMvKTb3boI",
+      "date": "2026-10-30T00:00:37.000Z",
+      "image": "https://i1.ytimg.com/vi/8HMvKTb3boI/hqdefault.jpg",
+      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
       "guestTags": []
     }
   ],
