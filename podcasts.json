@@ -1,10 +1,25 @@
 {
-  "lastUpdated": "2026-10-30T19:04:25.261Z",
+  "lastUpdated": "2026-10-30T23:31:32.810Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1865,
+  "taggedCount": 1868,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E295_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
+      "date": "2026-10-30T21:44:00.000Z",
+      "duration": "01:25:47",
+      "image": "https://static.libsyn.com/p/assets/2/8/2/4/2824d23e001152e8a04421dee9605cbd/1_Pod_E295.png",
+      "desc": "(0:00) Bestie Intros (3:22) Anthropic S-1 Breakdown: Greatest Business Ever? (32:47) AI's Biggest Problem and Anthropic's Doomer Showdown (1:01:57) Google Sheds $500B Market Cap in Worst Day Ever: What Went Wrong? (1:14:17) Final Midterms Predictions and Scenarios Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.c",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
@@ -12,7 +27,7 @@
       "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT8828974377.mp3",
       "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT8828974377.mp3",
       "date": "2026-10-30T19:00:00.000Z",
-      "duration": "3707",
+      "duration": "3827",
       "image": "https://megaphone.imgix.net/podcasts/91c88b02-d491-11f1-935f-7b0ef5bc20f1/image/7ce0feedefb4127506bf12cb1364159d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-We highly recommend The Pure Gold Company. Get your free Guide to Buying Gold at https://pure-gold.co/otf\n\n-Trade on what happens next with Kalshi. Trade $25 for the chance to earn up to $500 https://kalshi.com/r/TRIGGER\n\n-Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. ",
       "guestTags": []
@@ -44,26 +59,16 @@
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
-      "title": "The Most ABSURD Robbery Conspiracy You’ve NEVER Heard of | Steve Meyers &amp; Shawn Johnson",
+      "title": "The Most INSANE Robbery Conspiracy You’ve NEVER Heard of | Steve Meyers &amp; Shawn Johnson",
       "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/QCD2470976593.mp3",
       "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/QCD2470976593.mp3",
       "date": "2026-10-30T16:00:00.000Z",
       "duration": "15205",
       "image": "https://megaphone.imgix.net/podcasts/6c205afa-d3b1-11f1-8b4a-97ab172345a0/image/4843e99a48e34ec184bde822afe27163.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n1) RIDGE WALLET: One thing to pack, five ways to power! Head to https://Ridge.com/JULIANDOREY for Ridge’s\nFriends &amp; Family Sale, where you can buy two Ridge Power Banks and get a third FREE.\n2) UNDRDOG: Our listeners get up to 30% off their entire order at https://Undrdog.com.\n3) MARS MEN: For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, &amp; the FDA Fight",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_WILL_AHMED_INT.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/whoop-ceo-will-ahmed-50b-hours-of-health-data-a-4-million-member-data-moat-the-fda-fight",
-      "date": "2026-10-29T21:26:00.000Z",
-      "duration": "55:39",
-      "image": "https://static.libsyn.com/p/assets/a/7/3/9/a73958ffcc02ae365f2e77a3093c12a1/signal-2026-10-29-17-06-43-868.jpg",
-      "desc": "(0:00) Welcome Will Ahmed, CEO of WHOOP (0:59) WHOOP's $500 Hardware Problem & the Subscription Pivot (6:59) Inside 50 Billion Hours of 24/7 Health Data (19:31) WHOOP's AI Coach, Journal Insights & GLP-1 Tracking (34:57) WHOOP vs. the FDA & Competitor Wearables (44:33) Lightning Round & LeBron James becomes a WHOOP Ambassador   Thanks to our partners for making this possible!   As wealth grows, co",
-      "guestTags": []
+      "guestTags": [
+        "Edward Snowden"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -128,13 +133,28 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E295_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
+      "date": "2026-10-30T21:44:00.000Z",
+      "duration": "01:25:47",
+      "image": "https://static.libsyn.com/p/assets/2/8/2/4/2824d23e001152e8a04421dee9605cbd/1_Pod_E295.png",
+      "desc": "(0:00) Bestie Intros (3:22) Anthropic S-1 Breakdown: Greatest Business Ever? (32:47) AI's Biggest Problem and Anthropic's Doomer Showdown (1:01:57) Google Sheds $500B Market Cap in Worst Day Ever: What Went Wrong? (1:14:17) Final Midterms Predictions and Scenarios Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.c",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
       "show": "TRIGGERnometry",
       "title": "Budget Analysis, Mbappe China Furore &amp; Midterms - Off the Fence",
       "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT8828974377.mp3",
       "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT8828974377.mp3",
       "date": "2026-10-30T19:00:00.000Z",
-      "duration": "3707",
+      "duration": "3827",
       "image": "https://megaphone.imgix.net/podcasts/91c88b02-d491-11f1-935f-7b0ef5bc20f1/image/7ce0feedefb4127506bf12cb1364159d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-We highly recommend The Pure Gold Company. Get your free Guide to Buying Gold at https://pure-gold.co/otf\n\n-Trade on what happens next with Kalshi. Trade $25 for the chance to earn up to $500 https://kalshi.com/r/TRIGGER\n\n-Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. ",
       "guestTags": []
@@ -166,26 +186,16 @@
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
-      "title": "The Most ABSURD Robbery Conspiracy You’ve NEVER Heard of | Steve Meyers &amp; Shawn Johnson",
+      "title": "The Most INSANE Robbery Conspiracy You’ve NEVER Heard of | Steve Meyers &amp; Shawn Johnson",
       "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/QCD2470976593.mp3",
       "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/QCD2470976593.mp3",
       "date": "2026-10-30T16:00:00.000Z",
       "duration": "15205",
       "image": "https://megaphone.imgix.net/podcasts/6c205afa-d3b1-11f1-8b4a-97ab172345a0/image/4843e99a48e34ec184bde822afe27163.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "SPONSORS:\n1) RIDGE WALLET: One thing to pack, five ways to power! Head to https://Ridge.com/JULIANDOREY for Ridge’s\nFriends &amp; Family Sale, where you can buy two Ridge Power Banks and get a third FREE.\n2) UNDRDOG: Our listeners get up to 30% off their entire order at https://Undrdog.com.\n3) MARS MEN: For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, &amp; the FDA Fight",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_WILL_AHMED_INT.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/whoop-ceo-will-ahmed-50b-hours-of-health-data-a-4-million-member-data-moat-the-fda-fight",
-      "date": "2026-10-29T21:26:00.000Z",
-      "duration": "55:39",
-      "image": "https://static.libsyn.com/p/assets/a/7/3/9/a73958ffcc02ae365f2e77a3093c12a1/signal-2026-10-29-17-06-43-868.jpg",
-      "desc": "(0:00) Welcome Will Ahmed, CEO of WHOOP (0:59) WHOOP's $500 Hardware Problem & the Subscription Pivot (6:59) Inside 50 Billion Hours of 24/7 Health Data (19:31) WHOOP's AI Coach, Journal Insights & GLP-1 Tracking (34:57) WHOOP vs. the FDA & Competitor Wearables (44:33) Lightning Round & LeBron James becomes a WHOOP Ambassador   Thanks to our partners for making this possible!   As wealth grows, co",
-      "guestTags": []
+      "guestTags": [
+        "Edward Snowden"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
@@ -260,5 +270,15 @@
       "guestTags": []
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Edward Snowden": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ]
+  }
 }
