@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-10-31T11:58:12.413Z",
+  "lastUpdated": "2026-10-31T17:11:47.713Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1868,
+  "taggedCount": 1869,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2574 - Francis Foster &amp; Konstantin Kisin",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8304275411.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8304275411.mp3",
+      "date": "2026-10-31T17:00:00.000Z",
+      "duration": "9614",
+      "image": "https://megaphone.imgix.net/podcasts/0dc6237e-d512-11f1-816e-5f927e9904ef/image/09d7546396986d25c234aa713fa6fd09.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Comedian Francis Foster and political commentator Konstantin Kisin host the \"TRIGGERnometry\" podcast. Francis also hosts \"The Francis Foster Show\" and is the author of \"(Un)educated: My Life as a Teacher, and Why You Should Never Become One.\" Konstantin is the author of \"An Immigrant's Love Letter to the West.\"www.youtube.com/@triggerpodwww.youtube.com/@Francisfosterpodwww.youtube.com/@KonstantinK",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -54,18 +68,6 @@
       "duration": "6779",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "The spooky Friday crew gets into some of the latest info on midterms as we head into next week&rsquo;s elections, then are joined by Sam Robinson of the Michigan Chronicle to dig deeper on how people on the ground are feeling about Abdul El-Sayed&rsquo;s race. Next we get into some of the latest AI hacks, and finally we are joined by California candidates Mai Vang and Angela Gonzales-Torres to dis",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2573 - Legion of Skanks",
-      "audioUrl": "https://traffic.megaphone.fm/GLT3082011100.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT3082011100.mp3",
-      "date": "2026-10-30T17:00:00.000Z",
-      "duration": "9858",
-      "image": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/44a67bcc8eafc1e9e5a834234176f4c4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Big Jay Oakerson, Luis J. Gomez, and Steve Rannazzisi are comedians and hosts of the \"Legion of Skanks\" podcast. Big Jay and Luis also co-host the \"Story Warz\" podcast. Big Jay co-hosts \"The Bonfire\" on SiriusXM, while Luis co-hosts \"Real Ass Podcast\" and \"The Regz.\" Steve co-hosts \"What's the Odds.\" All three are currently on tour.www.youtube.com/@bigjayoakersonwww.siriusxm.com/blog/laugh-around-",
       "guestTags": []
     },
     {
@@ -133,6 +135,20 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2574 - Francis Foster &amp; Konstantin Kisin",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8304275411.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8304275411.mp3",
+      "date": "2026-10-31T17:00:00.000Z",
+      "duration": "9614",
+      "image": "https://megaphone.imgix.net/podcasts/0dc6237e-d512-11f1-816e-5f927e9904ef/image/09d7546396986d25c234aa713fa6fd09.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Comedian Francis Foster and political commentator Konstantin Kisin host the \"TRIGGERnometry\" podcast. Francis also hosts \"The Francis Foster Show\" and is the author of \"(Un)educated: My Life as a Teacher, and Why You Should Never Become One.\" Konstantin is the author of \"An Immigrant's Love Letter to the West.\"www.youtube.com/@triggerpodwww.youtube.com/@Francisfosterpodwww.youtube.com/@KonstantinK",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KT: Behind the Tape (Ep: 791 Jim Norton + Anthony Cumia)",
@@ -181,18 +197,6 @@
       "duration": "6779",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "The spooky Friday crew gets into some of the latest info on midterms as we head into next week&rsquo;s elections, then are joined by Sam Robinson of the Michigan Chronicle to dig deeper on how people on the ground are feeling about Abdul El-Sayed&rsquo;s race. Next we get into some of the latest AI hacks, and finally we are joined by California candidates Mai Vang and Angela Gonzales-Torres to dis",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "#2573 - Legion of Skanks",
-      "audioUrl": "https://traffic.megaphone.fm/GLT3082011100.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT3082011100.mp3",
-      "date": "2026-10-30T17:00:00.000Z",
-      "duration": "9858",
-      "image": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/44a67bcc8eafc1e9e5a834234176f4c4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Big Jay Oakerson, Luis J. Gomez, and Steve Rannazzisi are comedians and hosts of the \"Legion of Skanks\" podcast. Big Jay and Luis also co-host the \"Story Warz\" podcast. Big Jay co-hosts \"The Bonfire\" on SiriusXM, while Luis co-hosts \"Real Ass Podcast\" and \"The Regz.\" Steve co-hosts \"What's the Odds.\" All three are currently on tour.www.youtube.com/@bigjayoakersonwww.siriusxm.com/blog/laugh-around-",
       "guestTags": []
     },
     {
@@ -271,6 +275,9 @@
     }
   ],
   "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly90cmFmZmljLm1l"
+    ],
     "Chamath": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],

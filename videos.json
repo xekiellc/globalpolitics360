@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-10-31T11:58:12.836Z",
+  "lastUpdated": "2026-10-31T17:11:48.975Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 28,
+  "taggedCount": 29,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "bHuLgxWgNWM",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 791 Jim Norton + Anthony Cumia)",
-      "url": "https://www.youtube.com/watch?v=bHuLgxWgNWM",
-      "date": "2026-10-31T01:00:09.000Z",
-      "image": "https://i3.ytimg.com/vi/bHuLgxWgNWM/hqdefault.jpg",
-      "desc": "An exclusive, behind-the-scenes look from KT Episode 791 KT guest Jim Norton + Anthony Cumia\n\nJim Norton, Anthony Cumia, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass",
-      "guestTags": []
+      "videoId": "FPrbxcVbEx4",
+      "show": "All-In Podcast",
+      "title": "Chamath: The AI Boom Has a Borrowing Problem",
+      "url": "https://www.youtube.com/watch?v=FPrbxcVbEx4",
+      "date": "2026-10-31T14:30:15.000Z",
+      "image": "https://i3.ytimg.com/vi/FPrbxcVbEx4/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "bHuLgxWgNWM",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 791 Jim Norton + Anthony Cumia)",
-      "url": "https://www.youtube.com/watch?v=bHuLgxWgNWM",
-      "date": "2026-10-31T01:00:09.000Z",
-      "image": "https://i3.ytimg.com/vi/bHuLgxWgNWM/hqdefault.jpg",
-      "desc": "An exclusive, behind-the-scenes look from KT Episode 791 KT guest Jim Norton + Anthony Cumia\n\nJim Norton, Anthony Cumia, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass",
-      "guestTags": []
+      "videoId": "FPrbxcVbEx4",
+      "show": "All-In Podcast",
+      "title": "Chamath: The AI Boom Has a Borrowing Problem",
+      "url": "https://www.youtube.com/watch?v=FPrbxcVbEx4",
+      "date": "2026-10-31T14:30:15.000Z",
+      "image": "https://i3.ytimg.com/vi/FPrbxcVbEx4/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
