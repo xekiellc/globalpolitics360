@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T01:23:25.819Z",
+  "lastUpdated": "2026-11-02T09:08:19.339Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
@@ -7,17 +7,15 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Muslim Brotherhood in America: Ideology, Influence & Infiltration | John Rossomando",
-      "audioUrl": "https://traffic.megaphone.fm/APO8893033884.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Muslim-Brotherhood-in-America-Ideology--Influence--Infiltration--John-Rossomando-e3rh0rl",
-      "date": "2026-11-01T15:00:00.000Z",
-      "duration": "00:53:08",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1793499239102-0504ab91e5f9b.jpg",
-      "desc": "How does the Muslim Brotherhood operate in the United States, what are its long-term objectives, and how much do Americans really understand about its ideology and influence?In this episode of The Watch Floor, I sit down with John Rossomando, President of Viking Research Associates, longtime counterterrorism researcher, and author of The Arab Spring Ruse: How the Muslim Brotherhood Duped Washingto",
-      "guestTags": [
-        "Sarah Adams"
-      ]
+      "show": "Huberman Lab",
+      "title": "Access the Sublime &amp; Live Your Best Life | Robert Greene",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2047624040.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+      "date": "2026-11-02T09:00:00.000Z",
+      "duration": "8320",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Robert Greene is a bestselling author on human nature, individual expression and growth. He explains the sublime and how to access it: in relationships, work, through observation, expression and more. What emerges is a larger conversation about human consciousness perception and ensuring your life is lived and experienced to the fullest.\n\nRead the episode show notes at hubermanlab.com.\n\nThank you ",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -138,17 +136,15 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Muslim Brotherhood in America: Ideology, Influence & Infiltration | John Rossomando",
-      "audioUrl": "https://traffic.megaphone.fm/APO8893033884.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Muslim-Brotherhood-in-America-Ideology--Influence--Infiltration--John-Rossomando-e3rh0rl",
-      "date": "2026-11-01T15:00:00.000Z",
-      "duration": "00:53:08",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1793499239102-0504ab91e5f9b.jpg",
-      "desc": "How does the Muslim Brotherhood operate in the United States, what are its long-term objectives, and how much do Americans really understand about its ideology and influence?In this episode of The Watch Floor, I sit down with John Rossomando, President of Viking Research Associates, longtime counterterrorism researcher, and author of The Arab Spring Ruse: How the Muslim Brotherhood Duped Washingto",
-      "guestTags": [
-        "Sarah Adams"
-      ]
+      "show": "Huberman Lab",
+      "title": "Access the Sublime &amp; Live Your Best Life | Robert Greene",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM2047624040.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+      "date": "2026-11-02T09:00:00.000Z",
+      "duration": "8320",
+      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Robert Greene is a bestselling author on human nature, individual expression and growth. He explains the sublime and how to access it: in relationships, work, through observation, expression and more. What emerges is a larger conversation about human consciousness perception and ensuring your life is lived and experienced to the fullest.\n\nRead the episode show notes at hubermanlab.com.\n\nThank you ",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -279,9 +275,6 @@
     }
   ],
   "guestIndex": {
-    "Sarah Adams": [
-      "aHR0cHM6Ly90cmFmZmljLm1l"
-    ],
     "Konstantin Kisin": [
       "aHR0cHM6Ly93d3cucG9kdHJh"
     ],
