@@ -1,22 +1,60 @@
 {
-  "lastUpdated": "2026-11-02T20:07:47.160Z",
+  "lastUpdated": "2026-11-03T03:23:15.702Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1873,
+  "taggedCount": 1874,
   "latest": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #792",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-11-03T02:00:00.000Z",
+      "duration": "02:11:10",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026&nbsp;This episode is sponsored by: Tecovas: Step into premium comfort with handcrafted boots —get 10% off by signing up for email",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "EDP445 Investigator Exposes Most DISTURBING Details You Didn’t See",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST2858628224.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST2858628224.mp3",
-      "date": "2026-11-02T17:00:00.000Z",
-      "duration": "12011",
-      "image": "https://megaphone.imgix.net/podcasts/11902856-d64d-11f1-b3f5-3f3bd762d54b/image/48a181d81473121cd800329657e8fbee.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) AMENTARA: Head to www.amentara.com/go/JULIAN &amp; use code JDP22 for 22% off your FIRST order.\n\n2) iRESTORE: Unlock your best hair &amp; skin with @iRestorelaser and HUGE savings on iRESTORE with code JULIAN at\n\nhttps://irestore.com/JULIAN! #irestorepod\n\n3) BRUNT: Get $10 Off at BRUNT with code JULIAN at https://www.bruntworkwear.com/JULIAN #Bruntpod\n\n\n\nDONATE TO RAINN:http://rainn.",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Haley Stevens' Meltdown",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/3815194f-b8b8-44d0-88af-8220c071210c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/3815194f-b8b8-44d0-88af-8220c071210c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-11-03T01:00:00.000Z",
+      "duration": "01:05:23",
+      "image": "https://content.production.cdn.art19.com/images/6f/81/ef/78/6f81ef78-5420-4205-b67c-0aa0f2dcc63d/2764a6cb201c1ddcec222f7e630d4f5eee6c454f3c3173441cf6ca845a4977496d94da794fdecece4ad881c09ee900490aea5d2d21839b53eddd0c67d3f5ee87.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Haley Stevens switching her endorsement to Mike Rogers days before the election, Abdul El-Sayed's recent questionable stances in interviews, and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVEGIFT for 10% off your first order, plus brand ",
       "guestTags": [
-        "Julian Dorey"
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "The Jordan B. Peterson Podcast",
+      "title": "Why Young Women Are The Most Miserable They've Ever Been",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9341798084.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9341798084.mp3",
+      "date": "2026-11-02T23:04:00.000Z",
+      "duration": "5965",
+      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jordan Peterson argues the crisis tearing the Western world apart isn't political or economic — it goes far deeper. When science stripped meaning from the world, it left something worse behind: suffering with no purpose and no story to make sense of it.\n\nIn this lecture, Jordan explains why your values determine what you see, why stories carry a truth science can't, and what it costs a person — an",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Netflix&apos;s AWFUL &quot;Cornell 7&quot; Film, the TRUTH About a &quot;Blue Tsunami&quot; &amp; Martha Stewart&apos;s Bad Behavior, with Ryan Girdusky",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/d52cbe17-996c-41c7-ac2f-bbd08088dcb2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=d52cbe17-996c-41c7-ac2f-bbd08088dcb2&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-11-02T21:30:00.000Z",
+      "duration": "01:04:54",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Ryan Girdusky, founder of the 1776 Project PAC and host of “It's A Numbers Game with Ryan Girdusky,” on Election Eve. The two begin with a lighthearted discussion about Martha Stewart's bizarre Halloween costume and her subsequent attempts at damage control. Then Emily and Ryan dive into the biggest story in America right now: Tuesday's midterm elections. They break do",
+      "guestTags": [
+        "Emily Jashinsky"
       ]
     },
     {
@@ -32,18 +70,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#353 Dr. Thomas Madden - Rome Historian Reveals the 7 Warning Signs of a Dying Republic",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5233388431.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5233388431.mp3",
-      "date": "2026-11-02T11:00:00.000Z",
-      "duration": "9287",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Thomas Madden is a historian, author, and professor of history at Saint Louis University whose work focuses on the ancient and medieval worlds, the Crusades, Venice, and the history of republics. In his latest book, The Fall of Republics, he examines why republics rise, endure, and collapse, tracing lessons from Carthage, Rome, and Venice to the American Founding and the U.S. Constitution. His",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "Access the Sublime &amp; Live Your Best Life | Robert Greene",
@@ -54,33 +80,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Robert Greene is a bestselling author on human nature, individual expression and growth. He explains the sublime and how to access it: in relationships, work, through observation, expression and more. What emerges is a larger conversation about human consciousness perception and ensuring your life is lived and experienced to the fullest.\n\nRead the episode show notes at hubermanlab.com.\n\nThank you ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 791 Jim Norton + Anthony Cumia)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/3811b3fc-ab6e-4528-81a1-3dd816aec1e8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=3811b3fc-ab6e-4528-81a1-3dd816aec1e8&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-10-31T01:00:00.000Z",
-      "duration": "01:02:22",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind-the-scenes look from KT Episode 791 KT guest Jim Norton + Anthony CumiaJim Norton, Anthony Cumia, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban — RECORDED– 10/19/2026Watch Kill Tony and other exclus",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E295_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
-      "date": "2026-10-30T21:44:00.000Z",
-      "duration": "01:25:47",
-      "image": "https://static.libsyn.com/p/assets/2/8/2/4/2824d23e001152e8a04421dee9605cbd/1_Pod_E295.png",
-      "desc": "(0:00) Bestie Intros (3:22) Anthropic S-1 Breakdown: Greatest Business Ever? (32:47) AI's Biggest Problem and Anthropic's Doomer Showdown (1:01:57) Google Sheds $500B Market Cap in Worst Day Ever: What Went Wrong? (1:14:17) Final Midterms Predictions and Scenarios Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.c",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -133,17 +132,55 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KILL TONY #792",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-11-03T02:00:00.000Z",
+      "duration": "02:11:10",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026&nbsp;This episode is sponsored by: Tecovas: Step into premium comfort with handcrafted boots —get 10% off by signing up for email",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "EDP445 Investigator Exposes Most DISTURBING Details You Didn’t See",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST2858628224.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST2858628224.mp3",
-      "date": "2026-11-02T17:00:00.000Z",
-      "duration": "12011",
-      "image": "https://megaphone.imgix.net/podcasts/11902856-d64d-11f1-b3f5-3f3bd762d54b/image/48a181d81473121cd800329657e8fbee.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) AMENTARA: Head to www.amentara.com/go/JULIAN &amp; use code JDP22 for 22% off your FIRST order.\n\n2) iRESTORE: Unlock your best hair &amp; skin with @iRestorelaser and HUGE savings on iRESTORE with code JULIAN at\n\nhttps://irestore.com/JULIAN! #irestorepod\n\n3) BRUNT: Get $10 Off at BRUNT with code JULIAN at https://www.bruntworkwear.com/JULIAN #Bruntpod\n\n\n\nDONATE TO RAINN:http://rainn.",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Haley Stevens' Meltdown",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/3815194f-b8b8-44d0-88af-8220c071210c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/3815194f-b8b8-44d0-88af-8220c071210c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-11-03T01:00:00.000Z",
+      "duration": "01:05:23",
+      "image": "https://content.production.cdn.art19.com/images/6f/81/ef/78/6f81ef78-5420-4205-b67c-0aa0f2dcc63d/2764a6cb201c1ddcec222f7e630d4f5eee6c454f3c3173441cf6ca845a4977496d94da794fdecece4ad881c09ee900490aea5d2d21839b53eddd0c67d3f5ee87.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Robbie \"the Fire\" Bernstein discuss Haley Stevens switching her endorsement to Mike Rogers days before the election, Abdul El-Sayed's recent questionable stances in interviews, and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVEGIFT for 10% off your first order, plus brand ",
       "guestTags": [
-        "Julian Dorey"
+        "Dave Smith"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "The Jordan B. Peterson Podcast",
+      "title": "Why Young Women Are The Most Miserable They've Ever Been",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9341798084.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9341798084.mp3",
+      "date": "2026-11-02T23:04:00.000Z",
+      "duration": "5965",
+      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Jordan Peterson argues the crisis tearing the Western world apart isn't political or economic — it goes far deeper. When science stripped meaning from the world, it left something worse behind: suffering with no purpose and no story to make sense of it.\n\nIn this lecture, Jordan explains why your values determine what you see, why stories carry a truth science can't, and what it costs a person — an",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Netflix&apos;s AWFUL &quot;Cornell 7&quot; Film, the TRUTH About a &quot;Blue Tsunami&quot; &amp; Martha Stewart&apos;s Bad Behavior, with Ryan Girdusky",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/d52cbe17-996c-41c7-ac2f-bbd08088dcb2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=d52cbe17-996c-41c7-ac2f-bbd08088dcb2&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-11-02T21:30:00.000Z",
+      "duration": "01:04:54",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky is joined by Ryan Girdusky, founder of the 1776 Project PAC and host of “It's A Numbers Game with Ryan Girdusky,” on Election Eve. The two begin with a lighthearted discussion about Martha Stewart's bizarre Halloween costume and her subsequent attempts at damage control. Then Emily and Ryan dive into the biggest story in America right now: Tuesday's midterm elections. They break do",
+      "guestTags": [
+        "Emily Jashinsky"
       ]
     },
     {
@@ -159,18 +196,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#353 Dr. Thomas Madden - Rome Historian Reveals the 7 Warning Signs of a Dying Republic",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5233388431.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD5233388431.mp3",
-      "date": "2026-11-02T11:00:00.000Z",
-      "duration": "9287",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Thomas Madden is a historian, author, and professor of history at Saint Louis University whose work focuses on the ancient and medieval worlds, the Crusades, Venice, and the history of republics. In his latest book, The Fall of Republics, he examines why republics rise, endure, and collapse, tracing lessons from Carthage, Rome, and Venice to the American Founding and the U.S. Constitution. His",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "Huberman Lab",
       "title": "Access the Sublime &amp; Live Your Best Life | Robert Greene",
@@ -181,33 +206,6 @@
       "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Robert Greene is a bestselling author on human nature, individual expression and growth. He explains the sublime and how to access it: in relationships, work, through observation, expression and more. What emerges is a larger conversation about human consciousness perception and ensuring your life is lived and experienced to the fullest.\n\nRead the episode show notes at hubermanlab.com.\n\nThank you ",
       "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "KT: Behind the Tape (Ep: 791 Jim Norton + Anthony Cumia)",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/3811b3fc-ab6e-4528-81a1-3dd816aec1e8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=3811b3fc-ab6e-4528-81a1-3dd816aec1e8&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-10-31T01:00:00.000Z",
-      "duration": "01:02:22",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "An exclusive, behind-the-scenes look from KT Episode 791 KT guest Jim Norton + Anthony CumiaJim Norton, Anthony Cumia, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban — RECORDED– 10/19/2026Watch Kill Tony and other exclus",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E295_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
-      "date": "2026-10-30T21:44:00.000Z",
-      "duration": "01:25:47",
-      "image": "https://static.libsyn.com/p/assets/2/8/2/4/2824d23e001152e8a04421dee9605cbd/1_Pod_E295.png",
-      "desc": "(0:00) Bestie Intros (3:22) Anthropic S-1 Breakdown: Greatest Business Ever? (32:47) AI's Biggest Problem and Anthropic's Doomer Showdown (1:01:57) Google Sheds $500B Market Cap in Worst Day Ever: What Went Wrong? (1:14:17) Final Midterms Predictions and Scenarios Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.c",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -271,13 +269,10 @@
     }
   ],
   "guestIndex": {
-    "Julian Dorey": [
+    "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
-    "Chamath": [
-      "aHR0cHM6Ly9kdHMucG9kdHJh"
-    ],
-    "David Sacks": [
+    "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }
