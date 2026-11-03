@@ -1,14 +1,38 @@
 {
-  "lastUpdated": "2026-11-03T11:45:19.755Z",
+  "lastUpdated": "2026-11-03T19:18:54.104Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1799,
+  "taggedCount": 1874,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2575 - Sam Tallent",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2051514655.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2051514655.mp3",
+      "date": "2026-11-03T18:00:00.000Z",
+      "duration": "9899",
+      "image": "https://megaphone.imgix.net/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Sam Tallent is a comedian, author, and host of the \"Chubby Behemoth\" podcast. His most recent book is \"Brut.\" He is currently on tour.www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/www.youtube.com/@chubbybehemoth3722www.patreon.com/chubbybehemothwww.samtallent.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action t",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#693 - Consumer Advocate Lindsay Owens",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5332592864.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5332592864.mp3",
+      "date": "2026-11-03T17:58:00.000Z",
+      "duration": "6830",
+      "image": "https://megaphone.imgix.net/podcasts/a3779f48-d7af-11f1-93d1-bb0310cb8dc9/image/3d115af068be70463b84a4812730548a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Lindsay Owens, Ph.D is a consumer protection expert known for her investigations into price gouging and manipulation. Her new book “Gouged: The End of a Fair Price- and What That Means for Your Wallet” is available now.\n\nLindsay joins Theo to talk about the shocking technology companies are using to get you to pay more, how the rise of AI is creating a corporate surveillance state, and real ways t",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
-      "title": "KILL TONY #792",
+      "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
       "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
       "listenUrl": "http://deathsquad.tv",
       "date": "2026-11-03T02:00:00.000Z",
@@ -32,18 +56,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Why Young Women Are The Most Miserable They've Ever Been",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9341798084.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9341798084.mp3",
-      "date": "2026-11-02T23:04:00.000Z",
-      "duration": "5965",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Jordan Peterson argues the crisis tearing the Western world apart isn't political or economic — it goes far deeper. When science stripped meaning from the world, it left something worse behind: suffering with no purpose and no story to make sense of it.\n\nIn this lecture, Jordan explains why your values determine what you see, why stories carry a truth science can't, and what it costs a person — an",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Netflix&apos;s AWFUL &quot;Cornell 7&quot; Film, the TRUTH About a &quot;Blue Tsunami&quot; &amp; Martha Stewart&apos;s Bad Behavior, with Ryan Girdusky",
@@ -51,7 +63,7 @@
       "listenUrl": "https://www.siriusxm.com",
       "date": "2026-11-02T21:30:00.000Z",
       "duration": "01:04:54",
-      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/819a2c85-5b04-4435-beef-2651abf381b8/3000x3000/image_2026_11_03t140212807.png?aid=rss_feed",
       "desc": "Emily Jashinsky is joined by Ryan Girdusky, founder of the 1776 Project PAC and host of “It's A Numbers Game with Ryan Girdusky,” on Election Eve. The two begin with a lighthearted discussion about Martha Stewart's bizarre Halloween costume and her subsequent attempts at damage control. Then Emily and Ryan dive into the biggest story in America right now: Tuesday's midterm elections. They break do",
       "guestTags": [
         "Emily Jashinsky"
@@ -67,18 +79,6 @@
       "duration": "3132",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss predictions for the midterm elections, Haley Stevens endorses Mike Rogers.Rich Baris: https://www.youtube.com/@PeoplesPunditFaiz Shakir: https://x.com/fshakir?lang=enRyan Girdusky: https://natpop.substack.com/ To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Access the Sublime &amp; Live Your Best Life | Robert Greene",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM2047624040.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
-      "date": "2026-11-02T09:00:00.000Z",
-      "duration": "8320",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Robert Greene is a bestselling author on human nature, individual expression and growth. He explains the sublime and how to access it: in relationships, work, through observation, expression and more. What emerges is a larger conversation about human consciousness perception and ensuring your life is lived and experienced to the fullest.\n\nRead the episode show notes at hubermanlab.com.\n\nThank you ",
       "guestTags": []
     },
     {
@@ -132,9 +132,33 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2575 - Sam Tallent",
+      "audioUrl": "https://traffic.megaphone.fm/GLT2051514655.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT2051514655.mp3",
+      "date": "2026-11-03T18:00:00.000Z",
+      "duration": "9899",
+      "image": "https://megaphone.imgix.net/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Sam Tallent is a comedian, author, and host of the \"Chubby Behemoth\" podcast. His most recent book is \"Brut.\" He is currently on tour.www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/www.youtube.com/@chubbybehemoth3722www.patreon.com/chubbybehemothwww.samtallent.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action t",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#693 - Consumer Advocate Lindsay Owens",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5332592864.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5332592864.mp3",
+      "date": "2026-11-03T17:58:00.000Z",
+      "duration": "6830",
+      "image": "https://megaphone.imgix.net/podcasts/a3779f48-d7af-11f1-93d1-bb0310cb8dc9/image/3d115af068be70463b84a4812730548a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Lindsay Owens, Ph.D is a consumer protection expert known for her investigations into price gouging and manipulation. Her new book “Gouged: The End of a Fair Price- and What That Means for Your Wallet” is available now.\n\nLindsay joins Theo to talk about the shocking technology companies are using to get you to pay more, how the rise of AI is creating a corporate surveillance state, and real ways t",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
-      "title": "KILL TONY #792",
+      "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
       "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
       "listenUrl": "http://deathsquad.tv",
       "date": "2026-11-03T02:00:00.000Z",
@@ -158,18 +182,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "The Jordan B. Peterson Podcast",
-      "title": "Why Young Women Are The Most Miserable They've Ever Been",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9341798084.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV9341798084.mp3",
-      "date": "2026-11-02T23:04:00.000Z",
-      "duration": "5965",
-      "image": "https://megaphone.imgix.net/podcasts/1142f28c-6c1f-11f0-b546-53440192b589/image/bbf4e5584dc96d3d17c75192fab2cf96.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Jordan Peterson argues the crisis tearing the Western world apart isn't political or economic — it goes far deeper. When science stripped meaning from the world, it left something worse behind: suffering with no purpose and no story to make sense of it.\n\nIn this lecture, Jordan explains why your values determine what you see, why stories carry a truth science can't, and what it costs a person — an",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Netflix&apos;s AWFUL &quot;Cornell 7&quot; Film, the TRUTH About a &quot;Blue Tsunami&quot; &amp; Martha Stewart&apos;s Bad Behavior, with Ryan Girdusky",
@@ -177,7 +189,7 @@
       "listenUrl": "https://www.siriusxm.com",
       "date": "2026-11-02T21:30:00.000Z",
       "duration": "01:04:54",
-      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/819a2c85-5b04-4435-beef-2651abf381b8/3000x3000/image_2026_11_03t140212807.png?aid=rss_feed",
       "desc": "Emily Jashinsky is joined by Ryan Girdusky, founder of the 1776 Project PAC and host of “It's A Numbers Game with Ryan Girdusky,” on Election Eve. The two begin with a lighthearted discussion about Martha Stewart's bizarre Halloween costume and her subsequent attempts at damage control. Then Emily and Ryan dive into the biggest story in America right now: Tuesday's midterm elections. They break do",
       "guestTags": [
         "Emily Jashinsky"
@@ -193,18 +205,6 @@
       "duration": "3132",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss predictions for the midterm elections, Haley Stevens endorses Mike Rogers.Rich Baris: https://www.youtube.com/@PeoplesPunditFaiz Shakir: https://x.com/fshakir?lang=enRyan Girdusky: https://natpop.substack.com/ To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Access the Sublime &amp; Live Your Best Life | Robert Greene",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM2047624040.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
-      "date": "2026-11-02T09:00:00.000Z",
-      "duration": "8320",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Robert Greene is a bestselling author on human nature, individual expression and growth. He explains the sublime and how to access it: in relationships, work, through observation, expression and more. What emerges is a larger conversation about human consciousness perception and ensuring your life is lived and experienced to the fullest.\n\nRead the episode show notes at hubermanlab.com.\n\nThank you ",
       "guestTags": []
     },
     {
