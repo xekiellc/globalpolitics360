@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-11-03T03:23:16.863Z",
+  "lastUpdated": "2026-11-03T11:45:20.705Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 29,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "Gm1JAZ1dPTM",
+      "show": "Kill Tony",
+      "title": "KT #792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
+      "url": "https://www.youtube.com/watch?v=Gm1JAZ1dPTM",
+      "date": "2026-11-03T06:09:46.000Z",
+      "image": "https://i4.ytimg.com/vi/Gm1JAZ1dPTM/hqdefault.jpg",
+      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026\n\nTONY HINCHCLIFFE \n@TONYHINCH",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8X2GKtVHEDs",
-      "show": "Danny Jones Podcast",
-      "title": "The Oswald File the FBI Didn't Want You to See.",
-      "url": "https://www.youtube.com/watch?v=8X2GKtVHEDs",
-      "date": "2026-11-02T20:00:38.000Z",
-      "image": "https://i1.ytimg.com/vi/8X2GKtVHEDs/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/yCH9L25Ajmw?si=xrb45b-zd_Fz-Oei",
+      "videoId": "Gm1JAZ1dPTM",
+      "show": "Kill Tony",
+      "title": "KT #792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
+      "url": "https://www.youtube.com/watch?v=Gm1JAZ1dPTM",
+      "date": "2026-11-03T06:09:46.000Z",
+      "image": "https://i4.ytimg.com/vi/Gm1JAZ1dPTM/hqdefault.jpg",
+      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026\n\nTONY HINCHCLIFFE \n@TONYHINCH",
       "guestTags": []
     }
   ],
