@@ -1,22 +1,47 @@
 {
-  "lastUpdated": "2026-11-04T00:29:56.492Z",
+  "lastUpdated": "2026-11-04T08:50:54.188Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 29,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "9Asgxtk_kkI",
+      "show": "All-In Podcast",
+      "title": "2026 Election Night Livestream with the Besties!",
+      "url": "https://www.youtube.com/watch?v=9Asgxtk_kkI",
+      "date": "2026-11-04T03:04:52.000Z",
+      "image": "https://i2.ytimg.com/vi/9Asgxtk_kkI/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "7iVIJ-v7PDk",
-      "show": "Shawn Ryan Show",
-      "title": "The Colosseum Wasn't Just for Gladiators 😳",
-      "url": "https://www.youtube.com/watch?v=7iVIJ-v7PDk",
-      "date": "2026-11-03T19:00:13.000Z",
-      "image": "https://i4.ytimg.com/vi/7iVIJ-v7PDk/hqdefault.jpg",
-      "desc": "Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here:\nhttps://www.patreon.com/VigilanceE",
-      "guestTags": []
+      "videoId": "9Asgxtk_kkI",
+      "show": "All-In Podcast",
+      "title": "2026 Election Night Livestream with the Besties!",
+      "url": "https://www.youtube.com/watch?v=9Asgxtk_kkI",
+      "date": "2026-11-04T03:04:52.000Z",
+      "image": "https://i2.ytimg.com/vi/9Asgxtk_kkI/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
