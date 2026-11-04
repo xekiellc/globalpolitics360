@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-11-03T19:18:54.104Z",
+  "lastUpdated": "2026-11-04T00:29:54.344Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1874,
+  "taggedCount": 1875,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-11-03T19:23:11.000Z",
+      "duration": "02:11:10",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026&nbsp;This episode is sponsored by: Tecovas: Step into premium comfort with handcrafted boots —get 10% off by signing up for email",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -12,7 +24,7 @@
       "audioUrl": "https://traffic.megaphone.fm/GLT2051514655.mp3",
       "listenUrl": "https://traffic.megaphone.fm/GLT2051514655.mp3",
       "date": "2026-11-03T18:00:00.000Z",
-      "duration": "9899",
+      "duration": "10139",
       "image": "https://megaphone.imgix.net/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Sam Tallent is a comedian, author, and host of the \"Chubby Behemoth\" podcast. His most recent book is \"Brut.\" He is currently on tour.www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/www.youtube.com/@chubbybehemoth3722www.patreon.com/chubbybehemothwww.samtallent.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action t",
       "guestTags": []
@@ -27,18 +39,6 @@
       "duration": "6830",
       "image": "https://megaphone.imgix.net/podcasts/a3779f48-d7af-11f1-93d1-bb0310cb8dc9/image/3d115af068be70463b84a4812730548a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Lindsay Owens, Ph.D is a consumer protection expert known for her investigations into price gouging and manipulation. Her new book “Gouged: The End of a Fair Price- and What That Means for Your Wallet” is available now.\n\nLindsay joins Theo to talk about the shocking technology companies are using to get you to pay more, how the rise of AI is creating a corporate surveillance state, and real ways t",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-11-03T02:00:00.000Z",
-      "duration": "02:11:10",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026&nbsp;This episode is sponsored by: Tecovas: Step into premium comfort with handcrafted boots —get 10% off by signing up for email",
       "guestTags": []
     },
     {
@@ -132,13 +132,25 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-11-03T19:23:11.000Z",
+      "duration": "02:11:10",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026&nbsp;This episode is sponsored by: Tecovas: Step into premium comfort with handcrafted boots —get 10% off by signing up for email",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2575 - Sam Tallent",
       "audioUrl": "https://traffic.megaphone.fm/GLT2051514655.mp3",
       "listenUrl": "https://traffic.megaphone.fm/GLT2051514655.mp3",
       "date": "2026-11-03T18:00:00.000Z",
-      "duration": "9899",
+      "duration": "10139",
       "image": "https://megaphone.imgix.net/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Sam Tallent is a comedian, author, and host of the \"Chubby Behemoth\" podcast. His most recent book is \"Brut.\" He is currently on tour.www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/www.youtube.com/@chubbybehemoth3722www.patreon.com/chubbybehemothwww.samtallent.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action t",
       "guestTags": []
@@ -153,18 +165,6 @@
       "duration": "6830",
       "image": "https://megaphone.imgix.net/podcasts/a3779f48-d7af-11f1-93d1-bb0310cb8dc9/image/3d115af068be70463b84a4812730548a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Lindsay Owens, Ph.D is a consumer protection expert known for her investigations into price gouging and manipulation. Her new book “Gouged: The End of a Fair Price- and What That Means for Your Wallet” is available now.\n\nLindsay joins Theo to talk about the shocking technology companies are using to get you to pay more, how the rise of AI is creating a corporate surveillance state, and real ways t",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-11-03T02:00:00.000Z",
-      "duration": "02:11:10",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026&nbsp;This episode is sponsored by: Tecovas: Step into premium comfort with handcrafted boots —get 10% off by signing up for email",
       "guestTags": []
     },
     {

@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-11-03T19:18:48.017Z",
+  "lastUpdated": "2026-11-04T00:29:46.281Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Ep 168: Sky Harbour CEO Tal Keinan on Why America Stopped Building Airports, the AI Wealth Wave & Private Jet Boom",
+      "url": "https://blog.joelonsdale.com/p/ep-168-sky-harbour-ceo-tal-keinan",
+      "date": "2026-11-03T23:43:26.000Z",
+      "image": "",
+      "source": "Joe Lonsdale / 8VC",
+      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
+      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
+    },
     {
       "title": "Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows",
       "url": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says",
@@ -352,15 +361,6 @@
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
       "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Weekly Dose of Optimism #213",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-213",
-      "date": "2026-10-02T12:44:11.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!PePt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0230459c-43bd-41cd-9eec-338712f5608d_1000x558.gif",
-      "source": "Not Boring (Packy McCormick)",
-      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
-      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
     }
   ]
 }
