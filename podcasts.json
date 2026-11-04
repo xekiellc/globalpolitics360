@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-11-04T08:50:53.478Z",
+  "lastUpdated": "2026-11-04T17:53:01.300Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1875,
+  "taggedCount": 1803,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "11/4/26: GOP Suffers Total Wipeout In Midterms, BP Reacts To Historic Dem Victories",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/fa5f87b5-f25a-443e-9b62-b4f8010f5955/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/11-4-26-gop-suffers-total-wipeout-in-midterms-bp-reacts-to-historic-dem-victories",
+      "date": "2026-11-04T16:36:46.000Z",
+      "duration": "3217",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal, Saagar, Ryan and Emily discuss the GOP suffering a total wipeout in the midterms, BP team reacts to historic Dem victories. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy informatio",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -68,18 +80,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "11/2/26: BP Full Midterm Predictions, Haley Stevens Endorses Rogers",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/15590201-ddb9-4ae7-8716-b4f60114e761/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/11-2-26-bp-full-midterm-predictions-haley-stevens-endorses-rogers",
-      "date": "2026-11-02T16:58:24.000Z",
-      "duration": "3132",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss predictions for the midterm elections, Haley Stevens endorses Mike Rogers.Rich Baris: https://www.youtube.com/@PeoplesPunditFaiz Shakir: https://x.com/fshakir?lang=enRyan Girdusky: https://natpop.substack.com/ To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "11/4/26: GOP Suffers Total Wipeout In Midterms, BP Reacts To Historic Dem Victories",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/fa5f87b5-f25a-443e-9b62-b4f8010f5955/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/11-4-26-gop-suffers-total-wipeout-in-midterms-bp-reacts-to-historic-dem-victories",
+      "date": "2026-11-04T16:36:46.000Z",
+      "duration": "3217",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal, Saagar, Ryan and Emily discuss the GOP suffering a total wipeout in the midterms, BP team reacts to historic Dem victories. &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbsp; &nbsp;See omnystudio.com/listener for privacy informatio",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
@@ -194,18 +206,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "11/2/26: BP Full Midterm Predictions, Haley Stevens Endorses Rogers",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/15590201-ddb9-4ae7-8716-b4f60114e761/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/11-2-26-bp-full-midterm-predictions-haley-stevens-endorses-rogers",
-      "date": "2026-11-02T16:58:24.000Z",
-      "duration": "3132",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss predictions for the midterm elections, Haley Stevens endorses Mike Rogers.Rich Baris: https://www.youtube.com/@PeoplesPunditFaiz Shakir: https://x.com/fshakir?lang=enRyan Girdusky: https://natpop.substack.com/ To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
