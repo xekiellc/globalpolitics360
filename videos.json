@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-11-05T14:31:14.101Z",
+  "lastUpdated": "2026-11-05T21:51:20.397Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 29,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "yUdg7drjrZY",
-      "show": "Huberman Lab",
-      "title": "Essentials: Cold &amp; Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
-      "url": "https://www.youtube.com/watch?v=yUdg7drjrZY",
-      "date": "2026-11-05T13:00:08.000Z",
-      "image": "https://i2.ytimg.com/vi/yUdg7drjrZY/hqdefault.jpg",
-      "desc": "In this episode of Huberman Lab Essentials, my guest is Dr. Susanna Søberg, PhD, a metabolic scientist who trained at the University of Copenhagen and an expert in the effects of cold and heat exposure on human health. Dr. Søberg explains how brief, deliberate cold exposure improves insulin sensitiv",
-      "guestTags": []
+      "videoId": "FlJOGhTgGAQ",
+      "show": "All-In Podcast",
+      "title": "Jason Calacanis Was Warning Trump About the Midterms: The Signs Were There",
+      "url": "https://www.youtube.com/watch?v=FlJOGhTgGAQ",
+      "date": "2026-11-05T21:13:49.000Z",
+      "image": "https://i3.ytimg.com/vi/FlJOGhTgGAQ/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "yUdg7drjrZY",
-      "show": "Huberman Lab",
-      "title": "Essentials: Cold &amp; Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
-      "url": "https://www.youtube.com/watch?v=yUdg7drjrZY",
-      "date": "2026-11-05T13:00:08.000Z",
-      "image": "https://i2.ytimg.com/vi/yUdg7drjrZY/hqdefault.jpg",
-      "desc": "In this episode of Huberman Lab Essentials, my guest is Dr. Susanna Søberg, PhD, a metabolic scientist who trained at the University of Copenhagen and an expert in the effects of cold and heat exposure on human health. Dr. Søberg explains how brief, deliberate cold exposure improves insulin sensitiv",
-      "guestTags": []
+      "videoId": "FlJOGhTgGAQ",
+      "show": "All-In Podcast",
+      "title": "Jason Calacanis Was Warning Trump About the Midterms: The Signs Were There",
+      "url": "https://www.youtube.com/watch?v=FlJOGhTgGAQ",
+      "date": "2026-11-05T21:13:49.000Z",
+      "image": "https://i3.ytimg.com/vi/FlJOGhTgGAQ/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
