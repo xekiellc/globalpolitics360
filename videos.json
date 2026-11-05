@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-11-05T05:59:47.527Z",
+  "lastUpdated": "2026-11-05T14:31:14.101Z",
   "channelCount": 12,
-  "videoCount": 0,
+  "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 0,
-  "latest": [],
+  "taggedCount": 29,
+  "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHVi",
+      "videoId": "yUdg7drjrZY",
+      "show": "Huberman Lab",
+      "title": "Essentials: Cold &amp; Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+      "url": "https://www.youtube.com/watch?v=yUdg7drjrZY",
+      "date": "2026-11-05T13:00:08.000Z",
+      "image": "https://i2.ytimg.com/vi/yUdg7drjrZY/hqdefault.jpg",
+      "desc": "In this episode of Huberman Lab Essentials, my guest is Dr. Susanna Søberg, PhD, a metabolic scientist who trained at the University of Copenhagen and an expert in the effects of cold and heat exposure on human health. Dr. Søberg explains how brief, deliberate cold exposure improves insulin sensitiv",
+      "guestTags": []
+    }
+  ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "5g3rIdGZOfs",
-      "show": "Shawn Ryan Show",
-      "title": "Army Ranger Recounts a Horrific Close-Range Ambush 😳",
-      "url": "https://www.youtube.com/watch?v=5g3rIdGZOfs",
-      "date": "2026-11-04T23:00:35.000Z",
-      "image": "https://i2.ytimg.com/vi/5g3rIdGZOfs/hqdefault.jpg",
-      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
+      "videoId": "yUdg7drjrZY",
+      "show": "Huberman Lab",
+      "title": "Essentials: Cold &amp; Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+      "url": "https://www.youtube.com/watch?v=yUdg7drjrZY",
+      "date": "2026-11-05T13:00:08.000Z",
+      "image": "https://i2.ytimg.com/vi/yUdg7drjrZY/hqdefault.jpg",
+      "desc": "In this episode of Huberman Lab Essentials, my guest is Dr. Susanna Søberg, PhD, a metabolic scientist who trained at the University of Copenhagen and an expert in the effects of cold and heat exposure on human health. Dr. Søberg explains how brief, deliberate cold exposure improves insulin sensitiv",
       "guestTags": []
     }
   ],
