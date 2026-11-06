@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-11-06T02:06:46.208Z",
+  "lastUpdated": "2026-11-06T11:57:05.090Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1877,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#694 - Caleb Followill",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6890509764.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6890509764.mp3",
+      "date": "2026-11-06T08:03:00.000Z",
+      "duration": "6468",
+      "image": "https://megaphone.imgix.net/podcasts/e620ea98-d9b2-11f1-9796-3792bcf90451/image/39078311e6f1f9d0b19e7e785a40cdb3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Caleb Followill is a musician and songwriter known for fronting the band Kings of Leon. Their new album “O My Beloved” is out now everywhere.&amp;nbsp;\n\nCaleb Followill joins Theo to talk about going from a preacher’s kid to a rock star, the turmoil that comes with sudden fame, and the brotherhood that held Kings of Leon together.\n\nCaleb Followill: https://www.instagram.com/kingsofleon/&amp;nbsp;\n",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
@@ -39,18 +51,6 @@
       "duration": "3027",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Laura Loomer questions god's existence after massive losses, Ro Khanna pressed on Hakeem Jeffries. Isaac Saul: https://www.readtangle.com/Ro Khanna: https://x.com/RoKhanna To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbs",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#354 Reckless Ben - The Internet's Most Controversial Investigative YouTuber",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3189793089.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3189793089.mp3",
-      "date": "2026-11-05T11:00:00.000Z",
-      "duration": "6093",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ben Schneider, better known as Reckless Ben, is an independent documentary creator and YouTuber known for combining undercover investigations, hidden-camera footage, and confrontational humor. His work has taken him inside Scientology, Twelve Tribes, McKamey Manor, and Provo Canyon School to examine allegations of abuse, manipulation, and exploitation. His hands-on approach often makes him part of",
       "guestTags": []
     },
     {
@@ -132,6 +132,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "Theo Von - This Past Weekend",
+      "title": "#694 - Caleb Followill",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6890509764.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER6890509764.mp3",
+      "date": "2026-11-06T08:03:00.000Z",
+      "duration": "6468",
+      "image": "https://megaphone.imgix.net/podcasts/e620ea98-d9b2-11f1-9796-3792bcf90451/image/39078311e6f1f9d0b19e7e785a40cdb3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Caleb Followill is a musician and songwriter known for fronting the band Kings of Leon. Their new album “O My Beloved” is out now everywhere.&amp;nbsp;\n\nCaleb Followill joins Theo to talk about going from a preacher’s kid to a rock star, the turmoil that comes with sudden fame, and the brotherhood that held Kings of Leon together.\n\nCaleb Followill: https://www.instagram.com/kingsofleon/&amp;nbsp;\n",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly90cmFmZmljLm1l",
       "show": "The Joe Rogan Experience",
       "title": "#2577 - Gregory Forth",
@@ -165,18 +177,6 @@
       "duration": "3027",
       "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
       "desc": "Krystal and Saagar discuss Laura Loomer questions god's existence after massive losses, Ro Khanna pressed on Hakeem Jeffries. Isaac Saul: https://www.readtangle.com/Ro Khanna: https://x.com/RoKhanna To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.com/&nbs",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Shawn Ryan Show",
-      "title": "#354 Reckless Ben - The Internet's Most Controversial Investigative YouTuber",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3189793089.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD3189793089.mp3",
-      "date": "2026-11-05T11:00:00.000Z",
-      "duration": "6093",
-      "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Ben Schneider, better known as Reckless Ben, is an independent documentary creator and YouTuber known for combining undercover investigations, hidden-camera footage, and confrontational humor. His work has taken him inside Scientology, Twelve Tribes, McKamey Manor, and Provo Canyon School to examine allegations of abuse, manipulation, and exploitation. His hands-on approach often makes him part of",
       "guestTags": []
     },
     {
