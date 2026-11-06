@@ -1,93 +1,120 @@
 {
-  "lastUpdated": "2026-11-06T11:56:59.364Z",
+  "lastUpdated": "2026-11-06T19:15:13.435Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary",
+      "url": "https://bitcoinmagazine.com/news/genesis-book-333-collector-3rd-anniversary",
+      "date": "2026-11-06T18:32:32.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Pics-51.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+      "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+      "date": "2026-11-06T17:30:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/Thailand-Moves-to-Cement-Bitcoin-and-Digital-Assets-in-Regulated-Derivatives-Market.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Defense in Depth, Rebuilt for Machine Speed",
+      "url": "https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine",
+      "date": "2026-11-06T17:00:37.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/dcb230d4-6237-4692-9608-8ff21a78db5a_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations",
+      "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
+      "date": "2026-11-06T17:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Former-FBI-Agent-Pleads-Guilty-to-Stealing-2.47-Million-in-Crypto-From-Investigations.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2%",
+      "url": "https://bitcoinmagazine.com/news/strive-asst-posts-474-8m-common-net-income",
+      "date": "2026-11-06T16:15:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Strive-ASST-Adds-17.76-Bitcoin-as-Falling-Prices-Boost-Its-Quarterly-Yield.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review",
+      "url": "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
+      "date": "2026-11-06T15:09:02.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Rule-to-Allow-Crypto-in-401ks-Arrives-at-White-House-for-Final-Review.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Charts of the Week: Apple Skips Capex, and the Crowd Goes Wild (Sort Of)",
+      "url": "https://www.a16z.news/p/charts-of-the-week-apple-skips-capex",
+      "date": "2026-11-06T15:02:08.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/a1ff9b99-6c39-454f-949a-bd0eabd55896_5688x3200.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+      "url": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+      "date": "2026-11-06T14:50:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Hackers-Swap-XRP-Into-Bitcoin.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
+      "date": "2026-11-06T14:30:11.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Holds-Near-75800-After-Hot-October-Jobs-Report.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
+      "url": "https://bitcoinmagazine.com/news/gopax-suspends-withdrawals-hacking-threat",
+      "date": "2026-11-06T14:22:23.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Gopax-Suspends-Withdrawals-Cold-Storage.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Argentine Bitcoiners Debut “The Genesis of Satoshi Nakamoto” Artwork in Downtown Buenos Aires",
+      "url": "https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires",
+      "date": "2026-11-06T14:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-4.webp",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Weekly Dose of Optimism #218",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-218",
+      "date": "2026-11-06T13:53:10.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!r7x8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F160b7556-363c-491c-9976-5be9d385e5e8_800x450.gif",
+      "source": "Not Boring (Packy McCormick)",
+      "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
+      "id": "aHR0cHM6Ly93d3cubm90Ym9y"
+    },
     {
       "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
       "date": "2026-11-05T21:46:35.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Near-76000-Nasdaq-Correction.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
-      "url": "https://bitcoinmagazine.com/news/core-scientific-exits-bitcoin-year-end",
-      "date": "2026-11-05T20:39:27.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Core-Scientific-CORZ-to-Exit-Bitcoin-Mining-by-Year-End-as-Colocation-Hits-215-Million.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate",
-      "url": "https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax",
-      "date": "2026-11-05T19:00:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Greece-Approves-10-Crypto-Capital-Gains-Tax-as-First-Framework-Lands-Below-Draft-Rate.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading",
-      "url": "https://bitcoinmagazine.com/business/bull-bitcoin-becomes-first-exchange-to-add-payjoin-privacy-deposits-withdrawals-and-payjoin-by-default-trading",
-      "date": "2026-11-05T18:00:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-3.webp",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward",
-      "url": "https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029",
-      "date": "2026-11-05T18:00:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
-      "url": "https://bitcoinmagazine.com/news/keel-sells-entire-bitcoin-treasury-192m",
-      "date": "2026-11-05T16:45:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Keel-KEEL-Sells-Entire-Bitcoin-Treasury-for-192-Million-Will-Sell-BTC-Daily.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home",
-      "url": "https://bitcoinmagazine.com/news/moscow-exchange-bitcoin-trading-dec-1",
-      "date": "2026-11-05T16:00:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/U.S.-Sanctioned-Moscow-Exchange-Will-List-Bitcoin-on-Dec.-1-as-Russia-Pulls-Crypto-Trading-Home.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-below-75000-tech",
-      "date": "2026-11-05T15:48:18.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Bitcoin-Price-Slides-Below-70000-as-Oil-Spikes-Fed-Hold-Tightens-Financial-Conditions.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
-      "url": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
-      "date": "2026-11-05T15:45:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Ukraine-Central-Bank-Refuses-to-Back-Crypto-Bill-Cleared-for-Second-Reading.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
-      "url": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
-      "date": "2026-11-05T15:25:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Fed-OCC-Banks-Binance-Hack.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -291,24 +318,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Why Hardware Specialization is Back",
-      "url": "https://www.a16z.news/p/why-hardware-specialization-is-back",
-      "date": "2026-10-21T19:51:16.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/bcc7de49-a975-4cdd-ba4f-d3cc9a6205f6_2842x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Superhuman Hardware Design Is The Easy Part",
-      "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
-      "date": "2026-10-20T18:09:13.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f69ef3ef-3cfe-4b63-9884-d7faffff5fbc_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
       "title": "Weekly Dose of Optimism #215",
       "url": "https://www.notboring.co/p/weekly-dose-of-optimism-215",
       "date": "2026-10-16T12:47:12.000Z",
@@ -348,15 +357,6 @@
       "title": "Ep 165: OPM Director Scott Kupor on Shrinking Government, Bringing Merit Back, and Why America’s Best Minds Should Join the U.S. Tech Force",
       "url": "https://blog.joelonsdale.com/p/ep-165-opm-director-scott-kupor-on",
       "date": "2026-10-08T16:57:20.000Z",
-      "image": "",
-      "source": "Joe Lonsdale / 8VC",
-      "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
-      "id": "aHR0cHM6Ly9ibG9nLmpvZWxv"
-    },
-    {
-      "title": "Ep 164: Inside Anthropic with Sholto Douglas & Nicholas Marwell — AGI, Optimism vs Risks, Regulatory Capture, Open Source & More!",
-      "url": "https://blog.joelonsdale.com/p/ep-164-inside-anthropic-with-sholto",
-      "date": "2026-10-02T15:46:10.000Z",
       "image": "",
       "source": "Joe Lonsdale / 8VC",
       "teaser": "Tennessee senator discusses urban revitalization strategies and regulatory approaches for emerging AI and cryptocurrency technologies.",
