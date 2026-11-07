@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-11-06T19:15:13.435Z",
+  "lastUpdated": "2026-11-07T00:00:23.341Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
+      "url": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system",
+      "date": "2026-11-06T21:28:56.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary",
       "url": "https://bitcoinmagazine.com/news/genesis-book-333-collector-3rd-anniversary",
@@ -109,15 +118,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
-      "date": "2026-11-05T21:46:35.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Near-76000-Nasdaq-Correction.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "The Exploit Was the Bottleneck",
