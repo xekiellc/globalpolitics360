@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-11-07T00:00:29.764Z",
+  "lastUpdated": "2026-11-07T08:33:45.960Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1878,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 792 Jimmy Carr + Luis J. Gomez + Steve Rannazzisi)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/9e962b0c-7e2d-4e43-a653-975c89010af6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=9e962b0c-7e2d-4e43-a653-975c89010af6&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-11-07T02:00:00.000Z",
+      "duration": "00:56:23",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind-the-scenes look from KT Episode 792 KT guest Jimmy Carr + Luis J. GomezJimmy Carr, Luis J. Gomez, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban — RECORDED– 10/26/2026Watch Kill Tony and other exclus",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -77,18 +89,6 @@
       "duration": "13546",
       "image": "https://storage.buzzsprout.com/zmsq5d0j3zrr1ckxlxdyzco8img9?.jpg",
       "desc": "Alfreda Scheuer is a 33 year CIA Officer who served as head of both Alec Station, the CIA&apos;s Bin Laden unit, and the agency&apos;s Global Jihad Division.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton- Save 10% off at Stopbox with code DALTON10 at https://stopboxusa.com/DALTON10 Freda’s Links:Website: https://www.ybeulifecoaching.comIG: https://www",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-11-03T19:23:11.000Z",
-      "duration": "02:11:10",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026&nbsp;This episode is sponsored by: Tecovas: Step into premium comfort with handcrafted boots —get 10% off by signing up for email",
       "guestTags": []
     },
     {
@@ -130,6 +130,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 792 Jimmy Carr + Luis J. Gomez + Steve Rannazzisi)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/9e962b0c-7e2d-4e43-a653-975c89010af6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=9e962b0c-7e2d-4e43-a653-975c89010af6&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-11-07T02:00:00.000Z",
+      "duration": "00:56:23",
+      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind-the-scenes look from KT Episode 792 KT guest Jimmy Carr + Luis J. GomezJimmy Carr, Luis J. Gomez, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban — RECORDED– 10/26/2026Watch Kill Tony and other exclus",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Happy Hour: Is MAGA OVER?, Sydney Sweeney Backlash, and CREEPY Voter Mailers: Emily Answers YOUR Questions",
@@ -201,18 +213,6 @@
       "duration": "13546",
       "image": "https://storage.buzzsprout.com/zmsq5d0j3zrr1ckxlxdyzco8img9?.jpg",
       "desc": "Alfreda Scheuer is a 33 year CIA Officer who served as head of both Alec Station, the CIA&apos;s Bin Laden unit, and the agency&apos;s Global Jihad Division.Show Sponsors:- Sign up for a $1 per month trial of Shopify at https://www.shopify.com/dalton- Save 10% off at Stopbox with code DALTON10 at https://stopboxusa.com/DALTON10 Freda’s Links:Website: https://www.ybeulifecoaching.comIG: https://www",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#792 - JIMMY CARR + LUIS J GOMEZ + STEVE RANNAZZISI",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/c3b96078-7f6b-44da-bec2-9201badaf848/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=c3b96078-7f6b-44da-bec2-9201badaf848&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-11-03T19:23:11.000Z",
-      "duration": "02:11:10",
-      "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
-      "desc": "Jimmy Carr, Luis J Gomez, Steve Rannazzisi, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 10/26/2026&nbsp;This episode is sponsored by: Tecovas: Step into premium comfort with handcrafted boots —get 10% off by signing up for email",
       "guestTags": []
     },
     {
