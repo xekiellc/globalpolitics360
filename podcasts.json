@@ -1,10 +1,52 @@
 {
-  "lastUpdated": "2026-11-07T16:12:12.892Z",
+  "lastUpdated": "2026-11-07T21:38:56.297Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1878,
+  "taggedCount": 1881,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Julian Dorey Podcast",
+      "title": "Nuclear War Midterms, The Alien Invasion &amp; Plane Crashes | Julian Dorey",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST6664826818.mp3",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST6664826818.mp3",
+      "date": "2026-11-07T20:00:00.000Z",
+      "duration": "6028",
+      "image": "https://megaphone.imgix.net/podcasts/09d3a22e-d9fd-11f1-9fbe-9b76e39a2710/image/c511b31d112ec54e248d8d5ca5f46e9a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "SPONSORS:\n\n1) If you or someone you know experienced serious mental health struggles as a result of social media use, you may be entitled to a potential recovery of over $1,000. Visit&amp;nbsp;https://bit.ly/4hOPx8R\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\n\n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\n\n\nNEWSLETTER: https://juliandoreypodcast.b",
+      "guestTags": [
+        "Julian Dorey"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "\"The Winning Message in Politics Is Envy\" – Adam Carolla",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7782423231.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7782423231.mp3",
+      "date": "2026-11-07T19:00:00.000Z",
+      "duration": "4862",
+      "image": "https://megaphone.imgix.net/podcasts/283e2350-daa8-11f1-9485-bbf36be3eed9/image/74d1e859837bfb226c526008796269b7.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n\n- Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. Get 20% off your first month: https://venice.ai/triggernometry/adam-carolla/2026-11-07\n\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.co",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E296_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/midterm-blood-bath-4t-ai-sell-off-data-center-freeze-whats-next-for-trump",
+      "date": "2026-11-07T18:27:00.000Z",
+      "duration": "01:33:04",
+      "image": "https://static.libsyn.com/p/assets/5/2/4/e/524e4f9d0f153f675f2e77a3093c12a1/1_Pod_E296.png",
+      "desc": "(0:00) Bestie intros! (3:37) Midterms postmortem: What led to a generational GOP collapse? (32:26) How can Trump salvage his presidency? (53:13) Market reaction: Data center fears, $4T in market cap shed, AI ban potential (1:24:21) Science Corner: OpenAI solves Exponential Time Hypothesis *This episode was recorded Friday morning Chamath on Tetragrammaton with Rick Rubin: https://www.youtube.com/w",
+      "guestTags": [
+        "Chamath"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
@@ -15,32 +57,6 @@
       "duration": "00:56:23",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "An exclusive, behind-the-scenes look from KT Episode 792 KT guest Jimmy Carr + Luis J. GomezJimmy Carr, Luis J. Gomez, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban — RECORDED– 10/26/2026Watch Kill Tony and other exclus",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Happy Hour: Is MAGA OVER?, Sydney Sweeney Backlash, and CREEPY Voter Mailers: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/771948b9-51e0-4a65-8f89-c3f01d305b88/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=771948b9-51e0-4a65-8f89-c3f01d305b88&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-11-06T21:30:00.000Z",
-      "duration": "01:42:22",
-      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
-      "desc": "On this week’s post-midterm edition of “Happy Hour,” Emily Jashinsky digs into the fallout from Republicans’ election losses, what went wrong for MAGA, and why allegations of corruption could become a major problem if JD Vance decides to run in 2028. She considers whether Democrats’ potential congressional investigations will expose legitimate wrongdoing or devolve into political overreach. Emily ",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "The Midterms Breakdown + Russell Brand Found Guilty - Off the Fence",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT1063206339.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT1063206339.mp3",
-      "date": "2026-11-06T19:00:00.000Z",
-      "duration": "4031",
-      "image": "https://megaphone.imgix.net/podcasts/190cb64a-da0c-11f1-9e99-03cda779908e/image/d6aabeb64227e35d79aa80449424f0f5.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-We highly recommend The Pure Gold Company. Get your free Guide to Buying Gold at https://pure-gold.co/otf\n\n-Trade on what happens next with Kalshi. Trade $25 for the chance to earn up to $500 https://kalshi.com/r/TRIGGER\n\n-Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. ",
       "guestTags": []
     },
     {
@@ -65,18 +81,6 @@
       "duration": "8671",
       "image": "https://megaphone.imgix.net/podcasts/9a21b2c6-d99e-11f1-9c2f-e7736191fbbd/image/dba6a76aabfc978b8b4a6ff1a695f11e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Calley Means is a health advocate, author, and former senior advisor to the United States Department of Health and Human Services. He is also a co-founder of Truemed and co-author of the book \"Good Energy\" with his sister Casey Means, MD.www.penguinrandomhouse.com/books/727184/good-energy-by-casey-means-md-and-calley-means/www.calleymeans.com\n\n\n\nPerplexity: Download the app or ask Perplexity anyth",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Sam Altman’s Big Problem, Mossad &amp; Joe Rogan | James Li",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST9641293063.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST9641293063.mp3",
-      "date": "2026-11-06T17:00:00.000Z",
-      "duration": "12307",
-      "image": "https://megaphone.imgix.net/podcasts/eb99f592-d957-11f1-8e21-c72b95723266/image/a4fdd35f6cf001d7486228dc1aa67589.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) MONARCH: Use code JULIAN at Monarch dot com to get your first year of Monarch Core half off at just $50.\n\n2) MARS MEN: For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars Men at https://Mengotomars.com.\n\n3) GHOSTBED: Right now GhostBed’s Black Friday sale is here, with $350 off all mattress bundles. Use code JULIAN to get an additional 10% ",
       "guestTags": []
     },
     {
@@ -130,6 +134,48 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Julian Dorey Podcast",
+      "title": "Nuclear War Midterms, The Alien Invasion &amp; Plane Crashes | Julian Dorey",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST6664826818.mp3",
+      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST6664826818.mp3",
+      "date": "2026-11-07T20:00:00.000Z",
+      "duration": "6028",
+      "image": "https://megaphone.imgix.net/podcasts/09d3a22e-d9fd-11f1-9fbe-9b76e39a2710/image/c511b31d112ec54e248d8d5ca5f46e9a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "SPONSORS:\n\n1) If you or someone you know experienced serious mental health struggles as a result of social media use, you may be entitled to a potential recovery of over $1,000. Visit&amp;nbsp;https://bit.ly/4hOPx8R\n\nJOIN PATREON FOR EARLY UNCENSORED EPISODE RELEASES:\nhttps://www.patreon.com/JulianDorey \n\n\n\nCLIPPERS DISCORD: https://discord.gg/8QmWEKJ3BT\n\n\n\nNEWSLETTER: https://juliandoreypodcast.b",
+      "guestTags": [
+        "Julian Dorey"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "\"The Winning Message in Politics Is Envy\" – Adam Carolla",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7782423231.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT7782423231.mp3",
+      "date": "2026-11-07T19:00:00.000Z",
+      "duration": "4862",
+      "image": "https://megaphone.imgix.net/podcasts/283e2350-daa8-11f1-9485-bbf36be3eed9/image/74d1e859837bfb226c526008796269b7.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n\n- Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. Get 20% off your first month: https://venice.ai/triggernometry/adam-carolla/2026-11-07\n\n\n- QUO: Business Phone System for Startups. Try QUO for free, PLUS get 20% off your first 6 months when you go to https://quo.co",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "All-In Podcast",
+      "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E296_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/midterm-blood-bath-4t-ai-sell-off-data-center-freeze-whats-next-for-trump",
+      "date": "2026-11-07T18:27:00.000Z",
+      "duration": "01:33:04",
+      "image": "https://static.libsyn.com/p/assets/5/2/4/e/524e4f9d0f153f675f2e77a3093c12a1/1_Pod_E296.png",
+      "desc": "(0:00) Bestie intros! (3:37) Midterms postmortem: What led to a generational GOP collapse? (32:26) How can Trump salvage his presidency? (53:13) Market reaction: Data center fears, $4T in market cap shed, AI ban potential (1:24:21) Science Corner: OpenAI solves Exponential Time Hypothesis *This episode was recorded Friday morning Chamath on Tetragrammaton with Rick Rubin: https://www.youtube.com/w",
+      "guestTags": [
+        "Chamath"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
       "title": "KT: Behind the Tape (Ep: 792 Jimmy Carr + Luis J. Gomez + Steve Rannazzisi)",
@@ -139,32 +185,6 @@
       "duration": "00:56:23",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "An exclusive, behind-the-scenes look from KT Episode 792 KT guest Jimmy Carr + Luis J. GomezJimmy Carr, Luis J. Gomez, Pat O'Neill, Dedrick Flynn, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Colt McNeely, Steve Glass, Nathan Poling, Tony Hinchcliffe, Brian Redban — RECORDED– 10/26/2026Watch Kill Tony and other exclus",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Happy Hour: Is MAGA OVER?, Sydney Sweeney Backlash, and CREEPY Voter Mailers: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/771948b9-51e0-4a65-8f89-c3f01d305b88/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=771948b9-51e0-4a65-8f89-c3f01d305b88&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-11-06T21:30:00.000Z",
-      "duration": "01:42:22",
-      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
-      "desc": "On this week’s post-midterm edition of “Happy Hour,” Emily Jashinsky digs into the fallout from Republicans’ election losses, what went wrong for MAGA, and why allegations of corruption could become a major problem if JD Vance decides to run in 2028. She considers whether Democrats’ potential congressional investigations will expose legitimate wrongdoing or devolve into political overreach. Emily ",
-      "guestTags": [
-        "Emily Jashinsky"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "TRIGGERnometry",
-      "title": "The Midterms Breakdown + Russell Brand Found Guilty - Off the Fence",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT1063206339.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT1063206339.mp3",
-      "date": "2026-11-06T19:00:00.000Z",
-      "duration": "4031",
-      "image": "https://megaphone.imgix.net/podcasts/190cb64a-da0c-11f1-9e99-03cda779908e/image/d6aabeb64227e35d79aa80449424f0f5.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "This show is proudly independent. Thanks to the sponsors below for making that possible:\n\n-We highly recommend The Pure Gold Company. Get your free Guide to Buying Gold at https://pure-gold.co/otf\n\n-Trade on what happens next with Kalshi. Trade $25 for the chance to earn up to $500 https://kalshi.com/r/TRIGGER\n\n-Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. ",
       "guestTags": []
     },
     {
@@ -189,18 +209,6 @@
       "duration": "8671",
       "image": "https://megaphone.imgix.net/podcasts/9a21b2c6-d99e-11f1-9c2f-e7736191fbbd/image/dba6a76aabfc978b8b4a6ff1a695f11e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Calley Means is a health advocate, author, and former senior advisor to the United States Department of Health and Human Services. He is also a co-founder of Truemed and co-author of the book \"Good Energy\" with his sister Casey Means, MD.www.penguinrandomhouse.com/books/727184/good-energy-by-casey-means-md-and-calley-means/www.calleymeans.com\n\n\n\nPerplexity: Download the app or ask Perplexity anyth",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Sam Altman’s Big Problem, Mossad &amp; Joe Rogan | James Li",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST9641293063.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST9641293063.mp3",
-      "date": "2026-11-06T17:00:00.000Z",
-      "duration": "12307",
-      "image": "https://megaphone.imgix.net/podcasts/eb99f592-d957-11f1-8e21-c72b95723266/image/a4fdd35f6cf001d7486228dc1aa67589.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n\n1) MONARCH: Use code JULIAN at Monarch dot com to get your first year of Monarch Core half off at just $50.\n\n2) MARS MEN: For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at Mars Men at https://Mengotomars.com.\n\n3) GHOSTBED: Right now GhostBed’s Black Friday sale is here, with $350 off all mattress bundles. Use code JULIAN to get an additional 10% ",
       "guestTags": []
     },
     {
@@ -265,7 +273,13 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
+    "Julian Dorey": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
+    ],
+    "Chamath": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ]
   }

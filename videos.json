@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T16:12:14.030Z",
+  "lastUpdated": "2026-11-07T21:38:56.995Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,36 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "xLu9u371D2Q",
-      "show": "Theo Von",
-      "title": "What's Really Going Inside Data Centers?",
-      "url": "https://www.youtube.com/watch?v=xLu9u371D2Q",
-      "date": "2026-11-07T14:00:29.000Z",
-      "image": "https://i1.ytimg.com/vi/xLu9u371D2Q/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
-      "guestTags": [
-        "John Kiriakou"
-      ]
+      "videoId": "P3NtbEWbM-s",
+      "show": "Shawn Ryan Show",
+      "title": "The Moment Cain Velasquez Lost It 😳",
+      "url": "https://www.youtube.com/watch?v=P3NtbEWbM-s",
+      "date": "2026-11-07T21:00:12.000Z",
+      "image": "https://i1.ytimg.com/vi/P3NtbEWbM-s/hqdefault.jpg",
+      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "xLu9u371D2Q",
-      "show": "Theo Von",
-      "title": "What's Really Going Inside Data Centers?",
-      "url": "https://www.youtube.com/watch?v=xLu9u371D2Q",
-      "date": "2026-11-07T14:00:29.000Z",
-      "image": "https://i1.ytimg.com/vi/xLu9u371D2Q/hqdefault.jpg",
-      "desc": "Excerpt from This Past Weekend w/ Theo Von #661 | John Kiriakou\nFull Episode: https://www.youtube.com/watch?v=mq2VC8s15Yk\n\nFind Theo Von:\nWebsite: https://theovon.com \nInstagram: https://instagram.com/theovon\nFacebook: https://facebook.com/theovon\nFacebook Group: https://facebook.com/groups/thispast",
-      "guestTags": [
-        "John Kiriakou"
-      ]
+      "videoId": "P3NtbEWbM-s",
+      "show": "Shawn Ryan Show",
+      "title": "The Moment Cain Velasquez Lost It 😳",
+      "url": "https://www.youtube.com/watch?v=P3NtbEWbM-s",
+      "date": "2026-11-07T21:00:12.000Z",
+      "image": "https://i1.ytimg.com/vi/P3NtbEWbM-s/hqdefault.jpg",
+      "desc": "&quot;Privacy Isn't Paranoia, It's Protection.\nDownload the Glacier app today: https://srs.site/glacierapp\n\nSupport the Shawn Ryan Show for $5 and get the chance to watch the shows AD FREE, with the exception of Shawn's personal reads, before they release!! Sign up here: https://www.patreon.com/Vigi",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "John Kiriakou": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
