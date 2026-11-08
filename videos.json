@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T16:33:55.330Z",
+  "lastUpdated": "2026-11-08T21:52:41.696Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
@@ -7,41 +7,28 @@
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PD-FlgD_ILw",
-      "show": "All-In Podcast",
-      "title": "Chamath: I was wrong. The economy is broken.",
-      "url": "https://www.youtube.com/watch?v=PD-FlgD_ILw",
-      "date": "2026-11-08T15:30:28.000Z",
-      "image": "https://i1.ytimg.com/vi/PD-FlgD_ILw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "HM9II2wUfFw",
+      "show": "Danny Jones Podcast",
+      "title": "There's Something Weird About Erika Kirk.",
+      "url": "https://www.youtube.com/watch?v=HM9II2wUfFw",
+      "date": "2026-11-08T20:00:16.000Z",
+      "image": "https://i1.ytimg.com/vi/HM9II2wUfFw/hqdefault.jpg",
+      "desc": "Full episode:\nhttps://youtu.be/6xzIWL1JXpI?si=HsEG1NwaYrwJunGd",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "PD-FlgD_ILw",
-      "show": "All-In Podcast",
-      "title": "Chamath: I was wrong. The economy is broken.",
-      "url": "https://www.youtube.com/watch?v=PD-FlgD_ILw",
-      "date": "2026-11-08T15:30:28.000Z",
-      "image": "https://i1.ytimg.com/vi/PD-FlgD_ILw/hqdefault.jpg",
-      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-      "guestTags": [
-        "Chamath",
-        "David Sacks"
-      ]
+      "videoId": "HM9II2wUfFw",
+      "show": "Danny Jones Podcast",
+      "title": "There's Something Weird About Erika Kirk.",
+      "url": "https://www.youtube.com/watch?v=HM9II2wUfFw",
+      "date": "2026-11-08T20:00:16.000Z",
+      "image": "https://i1.ytimg.com/vi/HM9II2wUfFw/hqdefault.jpg",
+      "desc": "Full episode:\nhttps://youtu.be/6xzIWL1JXpI?si=HsEG1NwaYrwJunGd",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Chamath": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ],
-    "David Sacks": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
