@@ -1,34 +1,47 @@
 {
-  "lastUpdated": "2026-11-08T01:13:17.208Z",
+  "lastUpdated": "2026-11-08T08:47:17.543Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 12,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "2v8b062QzTI",
+      "videoId": "itURTIZOqIA",
       "show": "All-In Podcast",
-      "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What’s Next for Trump",
-      "url": "https://www.youtube.com/watch?v=2v8b062QzTI",
-      "date": "2026-11-07T18:32:58.000Z",
-      "image": "https://i3.ytimg.com/vi/2v8b062QzTI/hqdefault.jpg",
-      "desc": "*This episode was recorded Friday morning\n\n(0:00) Bestie intros!\n(3:37) Midterms postmortem: What led to a generational GOP collapse?\n(32:26) How can Trump salvage his presidency?\n(53:13) Market reaction: Data center fears, $4T in market cap shed, AI ban potential\n(1:24:21) Science Corner: OpenAI so",
-      "guestTags": []
+      "title": "David Sacks: Trump Must End the Iran War to Save His Second Term",
+      "url": "https://www.youtube.com/watch?v=itURTIZOqIA",
+      "date": "2026-11-08T02:00:37.000Z",
+      "image": "https://i2.ytimg.com/vi/itURTIZOqIA/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "2v8b062QzTI",
+      "videoId": "itURTIZOqIA",
       "show": "All-In Podcast",
-      "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What’s Next for Trump",
-      "url": "https://www.youtube.com/watch?v=2v8b062QzTI",
-      "date": "2026-11-07T18:32:58.000Z",
-      "image": "https://i3.ytimg.com/vi/2v8b062QzTI/hqdefault.jpg",
-      "desc": "*This episode was recorded Friday morning\n\n(0:00) Bestie intros!\n(3:37) Midterms postmortem: What led to a generational GOP collapse?\n(32:26) How can Trump salvage his presidency?\n(53:13) Market reaction: Data center fears, $4T in market cap shed, AI ban potential\n(1:24:21) Science Corner: OpenAI so",
-      "guestTags": []
+      "title": "David Sacks: Trump Must End the Iran War to Save His Second Term",
+      "url": "https://www.youtube.com/watch?v=itURTIZOqIA",
+      "date": "2026-11-08T02:00:37.000Z",
+      "image": "https://i2.ytimg.com/vi/itURTIZOqIA/hqdefault.jpg",
+      "desc": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+      "guestTags": [
+        "Chamath",
+        "David Sacks"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Chamath": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ],
+    "David Sacks": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
