@@ -1,34 +1,42 @@
 {
-  "lastUpdated": "2026-11-08T21:52:41.696Z",
+  "lastUpdated": "2026-11-09T01:31:46.140Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 30,
+  "taggedCount": 12,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "HM9II2wUfFw",
-      "show": "Danny Jones Podcast",
-      "title": "There's Something Weird About Erika Kirk.",
-      "url": "https://www.youtube.com/watch?v=HM9II2wUfFw",
-      "date": "2026-11-08T20:00:16.000Z",
-      "image": "https://i1.ytimg.com/vi/HM9II2wUfFw/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/6xzIWL1JXpI?si=HsEG1NwaYrwJunGd",
-      "guestTags": []
+      "videoId": "8E7IJ-WGwJc",
+      "show": "TRIGGERnometry",
+      "title": "&quot;The Winning Message in Politics Is Envy&quot; – Adam Carolla",
+      "url": "https://www.youtube.com/watch?v=8E7IJ-WGwJc",
+      "date": "2026-11-07T19:00:39.000Z",
+      "image": "https://i1.ytimg.com/vi/8E7IJ-WGwJc/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Trade on what happens next with Kalshi. Trade $25 for the chance to earn up to $500 https://kalshi.com/r/TRIGGER\n\n- Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. Ge",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "HM9II2wUfFw",
-      "show": "Danny Jones Podcast",
-      "title": "There's Something Weird About Erika Kirk.",
-      "url": "https://www.youtube.com/watch?v=HM9II2wUfFw",
-      "date": "2026-11-08T20:00:16.000Z",
-      "image": "https://i1.ytimg.com/vi/HM9II2wUfFw/hqdefault.jpg",
-      "desc": "Full episode:\nhttps://youtu.be/6xzIWL1JXpI?si=HsEG1NwaYrwJunGd",
-      "guestTags": []
+      "videoId": "8E7IJ-WGwJc",
+      "show": "TRIGGERnometry",
+      "title": "&quot;The Winning Message in Politics Is Envy&quot; – Adam Carolla",
+      "url": "https://www.youtube.com/watch?v=8E7IJ-WGwJc",
+      "date": "2026-11-07T19:00:39.000Z",
+      "image": "https://i1.ytimg.com/vi/8E7IJ-WGwJc/hqdefault.jpg",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Trade on what happens next with Kalshi. Trade $25 for the chance to earn up to $500 https://kalshi.com/r/TRIGGER\n\n- Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. Ge",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
     }
   ],
-  "guestIndex": {}
+  "guestIndex": {
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cueW91dHVi"
+    ]
+  }
 }
