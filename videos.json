@@ -1,42 +1,34 @@
 {
-  "lastUpdated": "2026-11-09T01:31:46.140Z",
+  "lastUpdated": "2026-11-09T09:28:25.463Z",
   "channelCount": 12,
   "videoCount": 1,
   "archiveCount": 1,
-  "taggedCount": 12,
+  "taggedCount": 30,
   "latest": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8E7IJ-WGwJc",
-      "show": "TRIGGERnometry",
-      "title": "&quot;The Winning Message in Politics Is Envy&quot; – Adam Carolla",
-      "url": "https://www.youtube.com/watch?v=8E7IJ-WGwJc",
-      "date": "2026-11-07T19:00:39.000Z",
-      "image": "https://i1.ytimg.com/vi/8E7IJ-WGwJc/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Trade on what happens next with Kalshi. Trade $25 for the chance to earn up to $500 https://kalshi.com/r/TRIGGER\n\n- Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. Ge",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "BWZjZuzY0CA",
+      "show": "Kill Tony",
+      "title": "KT #793 - BIG JAY OAKERSON + ZAC BROWN + MIKE FINOIA",
+      "url": "https://www.youtube.com/watch?v=BWZjZuzY0CA",
+      "date": "2026-11-08T23:53:51.000Z",
+      "image": "https://i3.ytimg.com/vi/BWZjZuzY0CA/hqdefault.jpg",
+      "desc": "Big Jay Oakerson, Zac Brown, Mike Finoia, Pat O'Neill, Myles Johnson, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt Mcneely, Nathan Poling, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 11/02/2026",
+      "guestTags": []
     }
   ],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "8E7IJ-WGwJc",
-      "show": "TRIGGERnometry",
-      "title": "&quot;The Winning Message in Politics Is Envy&quot; – Adam Carolla",
-      "url": "https://www.youtube.com/watch?v=8E7IJ-WGwJc",
-      "date": "2026-11-07T19:00:39.000Z",
-      "image": "https://i1.ytimg.com/vi/8E7IJ-WGwJc/hqdefault.jpg",
-      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n-Trade on what happens next with Kalshi. Trade $25 for the chance to earn up to $500 https://kalshi.com/r/TRIGGER\n\n- Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. Ge",
-      "guestTags": [
-        "Konstantin Kisin"
-      ]
+      "videoId": "BWZjZuzY0CA",
+      "show": "Kill Tony",
+      "title": "KT #793 - BIG JAY OAKERSON + ZAC BROWN + MIKE FINOIA",
+      "url": "https://www.youtube.com/watch?v=BWZjZuzY0CA",
+      "date": "2026-11-08T23:53:51.000Z",
+      "image": "https://i3.ytimg.com/vi/BWZjZuzY0CA/hqdefault.jpg",
+      "desc": "Big Jay Oakerson, Zac Brown, Mike Finoia, Pat O'Neill, Myles Johnson, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt Mcneely, Nathan Poling, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 11/02/2026",
+      "guestTags": []
     }
   ],
-  "guestIndex": {
-    "Konstantin Kisin": [
-      "aHR0cHM6Ly93d3cueW91dHVi"
-    ]
-  }
+  "guestIndex": {}
 }
