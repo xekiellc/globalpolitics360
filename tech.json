@@ -1,57 +1,102 @@
 {
-  "lastUpdated": "2026-11-10T12:29:18.431Z",
+  "lastUpdated": "2026-11-10T20:44:22.961Z",
   "articleCount": 40,
   "articles": [
     {
-      "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
-      "url": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
-      "date": "2026-11-09T20:39:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Amundi-Strategy-Stake-v2.jpg",
+      "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
+      "date": "2026-11-10T20:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Texas-Rep.-Files-Bill-Letting-Cities-Invest-10-Million-in-Bitcoin.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking",
-      "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
-      "date": "2026-11-09T20:31:38.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Elizabeth-Warren-Prediction-Market-Crackdown-Senate-Banking.jpg",
+      "title": "Poland&#8217;s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
+      "url": "https://bitcoinmagazine.com/news/poland-votes-240-202-freeze-crypto",
+      "date": "2026-11-10T19:20:06.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Polands-Parliament-Votes-240-202-to-Let-Officials-Freeze-Crypto-Before-Court-Review.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
-      "url": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
-      "date": "2026-11-09T17:26:28.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/North-Korea-Is-Minting-Its-Own-Meme-Coins-to-Launder-Binance-Hack-Loot.jpg",
+      "title": "Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%",
+      "url": "https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit",
+      "date": "2026-11-10T17:15:25.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/Bitcoin-Miner-Canaan-Acquires-Ciphers-Stake-in-Texas-Mining-Projects-Expands-AI-and-Power-Strategy.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
-      "url": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
-      "date": "2026-11-09T17:06:36.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/TD-Cowen-Stablecoin-Yield-Ban-10-Odds-Capitol-Vault.jpg",
+      "title": "Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple&#8217;s Latest iPhone Patch Stays Silent",
+      "url": "https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases",
+      "date": "2026-11-10T17:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Anchorage-Digital-and-Binance-Launch-Off-Exchange-Settlement-for-Institutional-Crypto-Trading.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT",
-      "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit",
-      "date": "2026-11-09T16:30:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/BlackRock-Security-Fears-Are-Driving-Bitcoin-Whales-Into-IBIT.jpg",
+      "title": "Investing in General Translation",
+      "url": "https://www.a16z.news/p/investing-in-general-translation",
+      "date": "2026-11-10T16:30:36.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/aec6bc17-e689-4f23-9e39-0db5def50448_1024x512.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
+      "url": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
+      "date": "2026-11-10T16:15:58.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Miami-Dade-Takes-Bitcoin-Property-Taxes-County-Holds-None.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29",
-      "url": "https://bitcoinmagazine.com/news/binance-closing-accounts-four-eu-countries",
-      "date": "2026-11-09T15:53:23.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Binance.jpg",
+      "title": "Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears",
+      "url": "https://bitcoinmagazine.com/news/trump-media-pledges-73-percent-bitcoin",
+      "date": "2026-11-10T15:20:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Clarity-Act-Draft-Would-Bar-Trump-and-Officials-From-Issuing-Crypto-With-a-2029-Sunset.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming",
+      "url": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion",
+      "date": "2026-11-10T15:00:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/MARA-Dumps-1.1-Billion-in-Bitcoin-to-Repurchase-Convertible-Notes-Cuts-Debt-by-30.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury",
+      "url": "https://bitcoinmagazine.com/news/hyperscale-data-sells-last-bitcoin-ai",
+      "date": "2026-11-10T14:45:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Hyperscale-Buys-More-Bitcoin-1.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb",
+      "url": "https://bitcoinmagazine.com/news/onramp-launches-business-bitcoin-accounts-approvals",
+      "date": "2026-11-10T14:43:54.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Onramp-Launches-Business-Bitcoin-Accounts-Two-Person-Approvals.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi",
+      "date": "2026-11-10T14:27:49.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Down-Near-73500-After-Hot-CPI-Print-Lifts-Fed-Hike-Bets.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -64,42 +109,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too",
-      "url": "https://bitcoinmagazine.com/news/fincen-fed-withdraw-travel-rule-250",
-      "date": "2026-11-09T15:00:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/U.S.-Regulators-Drop-250-Travel-Rule-Plan-Crypto-Language-Too.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Kraken&#8217;s Dave Ripley: &#8220;That Was the Bear Market&#8221; and Bitcoin Is &#8220;On Our Way Out of It&#8221;",
-      "url": "https://bitcoinmagazine.com/videos/krakens-dave-ripley-that-was-the-bear-market-and-bitcoin-is-on-our-way-out-of-it",
-      "date": "2026-11-09T14:37:05.000Z",
-      "image": "https://img.youtube.com/vi/NELq_EL5Lo8/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000",
-      "url": "https://bitcoinmagazine.com/news/strive-asst-adds-29-bitcoin-holdings-43153",
-      "date": "2026-11-09T14:26:32.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Strives-SATA-Briefly-Swallows-the-Entire-Bitcoin-Mining-Daily-Supply-As-BTC-Purchases-Ramp-Up.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Coinbase Wins Full Federal Trust Charter From OCC",
-      "url": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
-      "date": "2026-11-09T14:18:31.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Coinbase-Wins-Full-OCC-National-Trust-Charter.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Hip-Hop Has No Social Security. Paid in Full Is Trying to Change That.",
@@ -295,15 +304,6 @@
       "url": "https://www.a16z.news/p/patch-or-die",
       "date": "2026-10-23T14:20:41.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/0a44122b-553d-4f84-8c2d-159bbc1ffbe5_2844x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Charts of the Week: Attention is All You Need",
-      "url": "https://www.a16z.news/p/charts-of-the-week-attention-is-all",
-      "date": "2026-10-23T14:03:29.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/3acba5a7-1118-4cad-b1cb-8eba608af214_2844x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"

@@ -1,21 +1,48 @@
 {
-  "lastUpdated": "2026-11-10T12:29:22.084Z",
+  "lastUpdated": "2026-11-10T20:44:30.634Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1883,
+  "taggedCount": 1884,
   "latest": [
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
-      "title": "KT #793 - BIG JAY OAKERSON + ZAC BROWN + MIKE FINOIA",
+      "title": "#793 - BIG JAY OAKERSON + ZAC BROWN + MIKE FINOIA",
       "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/701ec424-2cd9-430e-83fe-b841b15f7b6a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=701ec424-2cd9-430e-83fe-b841b15f7b6a&amp;feed=JZSQrle9",
       "listenUrl": "http://deathsquad.tv",
-      "date": "2026-11-10T02:00:00.000Z",
+      "date": "2026-11-10T18:36:04.000Z",
       "duration": "02:03:13",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Big Jay Oakerson, Zac Brown, Mike Finoia, Pat O'Neill, Myles Johnson, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt Mcneely, Nathan Poling, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 11/02/2026&nbsp;TONY HINCHCLIFFE&nbsp;@TONYHINCHCLIFEhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)&nbsp;BRIAN R",
       "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2579 - Gary Sinise",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8785723657.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8785723657.mp3",
+      "date": "2026-11-10T18:00:00.000Z",
+      "duration": "8160",
+      "image": "https://megaphone.imgix.net/podcasts/ccadeb34-dca4-11f1-af0c-13d358cf1a21/image/24cd4d036137fe8adb3ee33083f9a781.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Gary Sinise is an Academy Award-nominated actor, musician, director, author, and philanthropist. His new book, \"Graceful Warrior,\" is available now.www.nelsonbooks.com/books/graceful-warrior/www.youtube.com/@GarySiniseFoundationwww.garysinisefoundation.orgwww.garysinise.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "11/10/26: Jensen Huang Scandal Explodes, Culture War Dead As Kansas Flips Blue, Tech Oligarchs Lies Exposed",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/46b74eca-2c24-40cb-b7ef-b4fe0114cf75/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/11-10-26-jensen-huang-scandal-explodes-culture-war-dead-as-kansas-flips-blue-tech-oligarchs-lies-exposed",
+      "date": "2026-11-10T17:05:22.000Z",
+      "duration": "2648",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump promises to save Jensen Huang, culture war dead as Kansas goes blue, tech oligarchs lies exposed. &nbsp; Chuck Rocha: https://x.com/ChuckRocha?lang=enThomas Frank: https://www.penguinrandomhouse.com/books/743572/the-creativity-con-by-thomas-frank/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&n",
+      "guestTags": [
+        "Jensen Huang",
+        "Edward Snowden"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -44,30 +71,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "11/9/26: Trump Knifes JD Vance Over Iran, Saagar Blasts MAHA Freakout Over Calley Means On Rogan, Hegseth Impeachment Looms",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8f1613d4-4752-4ec8-87bf-b4fd011511c2/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/11-9-26-trump-knifes-jd-vance-over-iran-saagar-blasts-maha-freakout-over-calley-means-on-rogan-hegseth-impeachment-looms",
-      "date": "2026-11-09T17:10:56.000Z",
-      "duration": "3240",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Trump knifes JD Vance over Iran, Saagar blasts MAHA freakout, Hegseth impeachment looms. Aipac Tracker: https://www.trackaipac.com/Summer Lee: https://summerlee.house.gov/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.c",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Overcome Addictions &amp; Obsessions of All Kinds | Dr. Anna Lembke",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8035808992.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",
-      "date": "2026-11-09T13:42:00.000Z",
-      "duration": "8225",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Anna Lembke, MD, is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford and a leading expert in how to overcome addictions of all kinds. We discuss dopamine dynamics in the brain and how they impact risk-taking, mental obsession, and compulsive behaviors. We also discuss the most common addiction of all—people’s addiction to control—and how prayer and spiritual practices can open",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -134,14 +137,41 @@
     {
       "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
       "show": "Kill Tony",
-      "title": "KT #793 - BIG JAY OAKERSON + ZAC BROWN + MIKE FINOIA",
+      "title": "#793 - BIG JAY OAKERSON + ZAC BROWN + MIKE FINOIA",
       "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/701ec424-2cd9-430e-83fe-b841b15f7b6a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=701ec424-2cd9-430e-83fe-b841b15f7b6a&amp;feed=JZSQrle9",
       "listenUrl": "http://deathsquad.tv",
-      "date": "2026-11-10T02:00:00.000Z",
+      "date": "2026-11-10T18:36:04.000Z",
       "duration": "02:03:13",
       "image": "https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed",
       "desc": "Big Jay Oakerson, Zac Brown, Mike Finoia, Pat O'Neill, Myles Johnson, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt Mcneely, Nathan Poling, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 11/02/2026&nbsp;TONY HINCHCLIFFE&nbsp;@TONYHINCHCLIFEhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)&nbsp;BRIAN R",
       "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2579 - Gary Sinise",
+      "audioUrl": "https://traffic.megaphone.fm/GLT8785723657.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT8785723657.mp3",
+      "date": "2026-11-10T18:00:00.000Z",
+      "duration": "8160",
+      "image": "https://megaphone.imgix.net/podcasts/ccadeb34-dca4-11f1-af0c-13d358cf1a21/image/24cd4d036137fe8adb3ee33083f9a781.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Gary Sinise is an Academy Award-nominated actor, musician, director, author, and philanthropist. His new book, \"Graceful Warrior,\" is available now.www.nelsonbooks.com/books/graceful-warrior/www.youtube.com/@GarySiniseFoundationwww.garysinisefoundation.orgwww.garysinise.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
+      "show": "Breaking Points",
+      "title": "11/10/26: Jensen Huang Scandal Explodes, Culture War Dead As Kansas Flips Blue, Tech Oligarchs Lies Exposed",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/46b74eca-2c24-40cb-b7ef-b4fe0114cf75/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/11-10-26-jensen-huang-scandal-explodes-culture-war-dead-as-kansas-flips-blue-tech-oligarchs-lies-exposed",
+      "date": "2026-11-10T17:05:22.000Z",
+      "duration": "2648",
+      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
+      "desc": "Krystal and Saagar discuss Trump promises to save Jensen Huang, culture war dead as Kansas goes blue, tech oligarchs lies exposed. &nbsp; Chuck Rocha: https://x.com/ChuckRocha?lang=enThomas Frank: https://www.penguinrandomhouse.com/books/743572/the-creativity-con-by-thomas-frank/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&n",
+      "guestTags": [
+        "Jensen Huang",
+        "Edward Snowden"
+      ]
     },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
@@ -170,30 +200,6 @@
       "guestTags": [
         "Emily Jashinsky"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
-      "show": "Breaking Points",
-      "title": "11/9/26: Trump Knifes JD Vance Over Iran, Saagar Blasts MAHA Freakout Over Calley Means On Rogan, Hegseth Impeachment Looms",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/8f1613d4-4752-4ec8-87bf-b4fd011511c2/audio.mp3?utm_source=Podcast&amp;in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
-      "listenUrl": "https://omny.fm/shows/breaking-points-with-krystal-and-saagar/11-9-26-trump-knifes-jd-vance-over-iran-saagar-blasts-maha-freakout-over-calley-means-on-rogan-hegseth-impeachment-looms",
-      "date": "2026-11-09T17:10:56.000Z",
-      "duration": "3240",
-      "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&amp;size=Large",
-      "desc": "Krystal and Saagar discuss Trump knifes JD Vance over Iran, Saagar blasts MAHA freakout, Hegseth impeachment looms. Aipac Tracker: https://www.trackaipac.com/Summer Lee: https://summerlee.house.gov/ &nbsp; To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit:&nbsp;www.breakingpoints.com&nbsp; &nbsp; Merch Store: https://shop.breakingpoints.c",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Overcome Addictions &amp; Obsessions of All Kinds | Dr. Anna Lembke",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM8035808992.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",
-      "date": "2026-11-09T13:42:00.000Z",
-      "duration": "8225",
-      "image": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Anna Lembke, MD, is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford and a leading expert in how to overcome addictions of all kinds. We discuss dopamine dynamics in the brain and how they impact risk-taking, mental obsession, and compulsive behaviors. We also discuss the most common addiction of all—people’s addiction to control—and how prayer and spiritual practices can open",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -269,6 +275,12 @@
     }
   ],
   "guestIndex": {
+    "Jensen Huang": [
+      "aHR0cHM6Ly9wb2R0cmFjLmNv"
+    ],
+    "Edward Snowden": [
+      "aHR0cHM6Ly9wb2R0cmFjLmNv"
+    ],
     "Dave Smith": [
       "aHR0cHM6Ly9wZHN0LmZtL2Uv"
     ],
