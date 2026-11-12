@@ -1,10 +1,36 @@
 {
-  "lastUpdated": "2026-11-12T00:19:47.248Z",
+  "lastUpdated": "2026-11-12T09:33:11.798Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1887,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: How Emotions &amp; Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7026611161.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
+      "date": "2026-11-12T09:00:00.000Z",
+      "duration": "2315",
+      "image": "https://megaphone.imgix.net/podcasts/68e09d8a-de5d-11f1-a42c-ff5c732501e4/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Mary Helen Immordino-Yang, EdD, a professor of education and psychology at the University of Southern California (USC) and director of the USC Center for Affective Neuroscience, Development, Learning and Education (CANDLE). We discuss how emotions, stories and culture shape the way we perceive the world, learn and build a sense of self. We a",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Scott Horton",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/d8ab8899-abdf-4657-aa39-b9988278a04c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/d8ab8899-abdf-4657-aa39-b9988278a04c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-11-12T01:00:00.000Z",
+      "duration": "01:31:30",
+      "image": "https://content.production.cdn.art19.com/images/9f/54/d9/06/9f54d906-c947-447e-a54a-950d984c265b/1ea01f235830dceb4b3df6c8074e2fb4cc48cc0f22a7ddd7db5b3489d82080d7c121e663f95c3a3baab7e30dc8205c95d8a41b987c4613a01efdab5f79c8eadb.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Scott Horton discuss Thomas Massie's articles of impeachment against Pete Hegseth being shut down, the future of the American right, the role that Libertarians play, and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for 20% off your first order.Superpower - Head to Supe",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
@@ -35,30 +61,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #188 with Paddy Pimblett",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7656101079.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7656101079.mp3",
-      "date": "2026-11-11T18:00:00.000Z",
-      "duration": "10902",
-      "image": "https://megaphone.imgix.net/podcasts/61caf9fa-dd90-11f1-a603-032ff04a3020/image/0b39d2f62a17a13c93dc0cf1e5b219b6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe sits down with Paddy  Pimblett, a professional mixed martial artist currently competing in the UFC Lightweight division.www.youtube.com/@PaddyTheBaddyUFCwww.thebaddy.com\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nTry Perplexity Computer now: https://pplx.ai/joerogan\nLearn",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Annie Jacobsen UNLOADS on WW3 Scenario, Hidden Nazi Weapon &amp; Exploding Julian’s Car",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST5675639958.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST5675639958.mp3",
-      "date": "2026-11-11T17:00:00.000Z",
-      "duration": "11252",
-      "image": "https://megaphone.imgix.net/podcasts/78db93f0-dc7a-11f1-8990-e392e9b12e8c/image/0e5fd12f9319e8b8f20155d1d2e60ced.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n1) DOSE: Head to dosedaily.co/JULIAN or enter JULIAN to get 35% off your first subscription.\n2) BLUEPRINT: For a limited time only, new customers get 20% off + free shipping at\nhttps://blueprint.bryanjohnson.com by using code JULIAN at checkout. #Blueprint #adventure \n3) Z-BIOTICS: Go to https://zbiotics.com/JULIAN and\nuse JULIAN at checkout for 15% off any first time orders of ZBiotics ",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -135,6 +137,32 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "Huberman Lab",
+      "title": "Essentials: How Emotions &amp; Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM7026611161.mp3",
+      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
+      "date": "2026-11-12T09:00:00.000Z",
+      "duration": "2315",
+      "image": "https://megaphone.imgix.net/podcasts/68e09d8a-de5d-11f1-a42c-ff5c732501e4/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Mary Helen Immordino-Yang, EdD, a professor of education and psychology at the University of Southern California (USC) and director of the USC Center for Affective Neuroscience, Development, Learning and Education (CANDLE). We discuss how emotions, stories and culture shape the way we perceive the world, learn and build a sense of self. We a",
+      "guestTags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
+      "show": "Part of the Problem (Dave Smith)",
+      "title": "Scott Horton",
+      "audioUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/d8ab8899-abdf-4657-aa39-b9988278a04c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "listenUrl": "https://pdst.fm/e/arttrk.com/p/GASD8/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/354/rss.art19.com/episodes/d8ab8899-abdf-4657-aa39-b9988278a04c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+      "date": "2026-11-12T01:00:00.000Z",
+      "duration": "01:31:30",
+      "image": "https://content.production.cdn.art19.com/images/9f/54/d9/06/9f54d906-c947-447e-a54a-950d984c265b/1ea01f235830dceb4b3df6c8074e2fb4cc48cc0f22a7ddd7db5b3489d82080d7c121e663f95c3a3baab7e30dc8205c95d8a41b987c4613a01efdab5f79c8eadb.jpeg",
+      "desc": "Dave Smith brings you the latest in politics! On this episode of Part Of The Problem, Dave and Scott Horton discuss Thomas Massie's articles of impeachment against Pete Hegseth being shut down, the future of the American right, the role that Libertarians play, and more.Support Our Sponsors:BodyBrain - Go to BodyBrainCoffee.com, use code DAVE20 for 20% off your first order.Superpower - Head to Supe",
+      "guestTags": [
+        "Dave Smith"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
       "show": "After Party with Emily Jashinsky",
       "title": "Russell Brand&apos;s DARK Past, Scott Galloway&apos;s INSANE Tesla Confession &amp; Ole Miss OUTRAGE, with Michael Malice",
@@ -164,30 +192,6 @@
       "guestTags": [
         "Konstantin Kisin"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Joe Rogan Experience",
-      "title": "JRE MMA Show #188 with Paddy Pimblett",
-      "audioUrl": "https://traffic.megaphone.fm/GLT7656101079.mp3",
-      "listenUrl": "https://traffic.megaphone.fm/GLT7656101079.mp3",
-      "date": "2026-11-11T18:00:00.000Z",
-      "duration": "10902",
-      "image": "https://megaphone.imgix.net/podcasts/61caf9fa-dd90-11f1-a603-032ff04a3020/image/0b39d2f62a17a13c93dc0cf1e5b219b6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Joe sits down with Paddy  Pimblett, a professional mixed martial artist currently competing in the UFC Lightweight division.www.youtube.com/@PaddyTheBaddyUFCwww.thebaddy.com\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nTry Perplexity Computer now: https://pplx.ai/joerogan\nLearn",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
-      "show": "Julian Dorey Podcast",
-      "title": "Annie Jacobsen UNLOADS on WW3 Scenario, Hidden Nazi Weapon &amp; Exploding Julian’s Car",
-      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST5675639958.mp3",
-      "listenUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/JULIANDOREYPODCAST5675639958.mp3",
-      "date": "2026-11-11T17:00:00.000Z",
-      "duration": "11252",
-      "image": "https://megaphone.imgix.net/podcasts/78db93f0-dc7a-11f1-8990-e392e9b12e8c/image/0e5fd12f9319e8b8f20155d1d2e60ced.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "SPONSORS:\n1) DOSE: Head to dosedaily.co/JULIAN or enter JULIAN to get 35% off your first subscription.\n2) BLUEPRINT: For a limited time only, new customers get 20% off + free shipping at\nhttps://blueprint.bryanjohnson.com by using code JULIAN at checkout. #Blueprint #adventure \n3) Z-BIOTICS: Go to https://zbiotics.com/JULIAN and\nuse JULIAN at checkout for 15% off any first time orders of ZBiotics ",
-      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
@@ -275,6 +279,9 @@
     }
   ],
   "guestIndex": {
+    "Dave Smith": [
+      "aHR0cHM6Ly9wZHN0LmZtL2Uv"
+    ],
     "Emily Jashinsky": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
