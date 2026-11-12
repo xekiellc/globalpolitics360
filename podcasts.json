@@ -1,10 +1,53 @@
 {
-  "lastUpdated": "2026-11-11T17:47:26.130Z",
+  "lastUpdated": "2026-11-12T00:19:47.248Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1885,
+  "taggedCount": 1887,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Russell Brand&apos;s DARK Past, Scott Galloway&apos;s INSANE Tesla Confession &amp; Ole Miss OUTRAGE, with Michael Malice",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/d48cf7b0-04ad-4bb2-94eb-c5cf55d28bef/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=d48cf7b0-04ad-4bb2-94eb-c5cf55d28bef&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-11-11T21:30:00.000Z",
+      "duration": "00:55:20",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/bbbae497-50bd-46d1-bd84-7acc56066411/3000x3000/ap_141_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky examines the fallout from Russell Brand's rape and sexual assault convictions, including uncomfortable questions about the media's longtime embrace of the comedian. She's then joined by Michael Malice, host of “YOUR WELCOME” and author of “The White Pill: A Tale of Good and Evil,” to discuss why Republicans lost the support of influential podcasters, Palantir CEO Alex Karp's politi",
+      "guestTags": [
+        "Emily Jashinsky",
+        "Elon Musk",
+        "Alex Karp",
+        "Edward Snowden"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Midterm Win Could Make the Democrats Worse - Sam Harris",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT5820280368.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT5820280368.mp3",
+      "date": "2026-11-11T19:00:00.000Z",
+      "duration": "7821",
+      "image": "https://megaphone.imgix.net/podcasts/f9a9772a-ddee-11f1-a9af-af2d662e31d7/image/e726a999fb10acfbd762cf7e91554a76.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. Get 20% off your first month: https://venice.ai/triggernometry/sam-harris/2026-11-11\n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- Take control of your cellular health today. ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #188 with Paddy Pimblett",
+      "audioUrl": "https://traffic.megaphone.fm/GLT7656101079.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT7656101079.mp3",
+      "date": "2026-11-11T18:00:00.000Z",
+      "duration": "10902",
+      "image": "https://megaphone.imgix.net/podcasts/61caf9fa-dd90-11f1-a603-032ff04a3020/image/0b39d2f62a17a13c93dc0cf1e5b219b6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe sits down with Paddy  Pimblett, a professional mixed martial artist currently competing in the UFC Lightweight division.www.youtube.com/@PaddyTheBaddyUFCwww.thebaddy.com\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nTry Perplexity Computer now: https://pplx.ai/joerogan\nLearn",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
@@ -30,32 +73,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Veterans Day Special: Warriors Helping Warriors | Chance “Hollywood” Showell",
-      "audioUrl": "https://traffic.megaphone.fm/APO2237055608.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Veterans-Day-Special-Warriors-Helping-Warriors--Chance-Hollywood-Showell-e3s6dmb",
-      "date": "2026-11-11T13:00:00.000Z",
-      "duration": "00:58:16",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1794366133961-1707bb07592dd.jpg",
-      "desc": "This Veterans Day, The Watch Floor welcomes Chance “Hollywood” Showell, U.S. Army veteran, retired Senior Federal Air Marshal, and founder and president of the Warrior Shield Foundation, for a conversation about a lifetime of service, the challenges facing our veterans, and what it means to continue serving long after taking off the uniform.Chance began his military career at just 17 years old, se",
-      "guestTags": [
-        "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#695 - Happiness Expert Dr. Arthur Brooks",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5662481707.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5662481707.mp3",
-      "date": "2026-11-11T09:29:00.000Z",
-      "duration": "6331",
-      "image": "https://megaphone.imgix.net/podcasts/134f856e-ddb0-11f1-b3ed-3fa331a8be48/image/b415561f33c02c45a05cef27c5d5a506.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Arthur Brooks is a social scientist, author and professor known for teaching the Science of Happiness at Vanderbilt and Harvard Business School. His new book “The Meaning of Your Life” is available now everywhere.&amp;nbsp;\n\nDr. Brooks joins Theo to talk about what makes a meaningful life, why chasing success can feel unfulfilling, and the questions that can help us figure out what true happin",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
       "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
@@ -65,18 +82,6 @@
       "duration": "3:01:15",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
       "desc": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The Russia Contingency pod",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_RickSmith_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/freedom-vs-safety-axon-ceo-rick-smith-on-the-future-of-policing",
-      "date": "2026-11-10T23:03:00.000Z",
-      "duration": "55:36",
-      "image": "https://static.libsyn.com/p/assets/0/d/7/2/0d727740547c20335f2e77a3093c12a1/1_Pod_RickSmith.png",
-      "desc": "(0:00) Axon CEO Rick Smith joins David Friedberg (2:39) History of TASER/Axon: brink of bankruptcy to IPO (9:05) Going public during the dot-com crash, selling to police, battling shorts and an SEC investigation, pivoting to software (20:47) Creating the police body cam, surveillance state concerns around Flock (35:25) Freedom vs safety, Skydio deal, Taser drone project controversy (45:24) Future ",
       "guestTags": []
     },
     {
@@ -130,6 +135,49 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
+      "show": "After Party with Emily Jashinsky",
+      "title": "Russell Brand&apos;s DARK Past, Scott Galloway&apos;s INSANE Tesla Confession &amp; Ole Miss OUTRAGE, with Michael Malice",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/d48cf7b0-04ad-4bb2-94eb-c5cf55d28bef/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=d48cf7b0-04ad-4bb2-94eb-c5cf55d28bef&amp;feed=SBwa8H9v",
+      "listenUrl": "https://www.siriusxm.com",
+      "date": "2026-11-11T21:30:00.000Z",
+      "duration": "00:55:20",
+      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/bbbae497-50bd-46d1-bd84-7acc56066411/3000x3000/ap_141_pip.jpg?aid=rss_feed",
+      "desc": "Emily Jashinsky examines the fallout from Russell Brand's rape and sexual assault convictions, including uncomfortable questions about the media's longtime embrace of the comedian. She's then joined by Michael Malice, host of “YOUR WELCOME” and author of “The White Pill: A Tale of Good and Evil,” to discuss why Republicans lost the support of influential podcasters, Palantir CEO Alex Karp's politi",
+      "guestTags": [
+        "Emily Jashinsky",
+        "Elon Musk",
+        "Alex Karp",
+        "Edward Snowden"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
+      "show": "TRIGGERnometry",
+      "title": "The Midterm Win Could Make the Democrats Worse - Sam Harris",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT5820280368.mp3",
+      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/pscrb.fm/rss/p/s.gum.fm/s-65a84022ad283b3c6fda9305/mgln.ai/e/p63400/clrtpod.com/m/pscrb.fm/rss/p/traffic.megaphone.fm/AALT5820280368.mp3",
+      "date": "2026-11-11T19:00:00.000Z",
+      "duration": "7821",
+      "image": "https://megaphone.imgix.net/podcasts/f9a9772a-ddee-11f1-a9af-af2d662e31d7/image/e726a999fb10acfbd762cf7e91554a76.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:\n\n- Venice gives you the best AI models in one place. Private. Unrestricted. No lectures. Get 20% off your first month: https://venice.ai/triggernometry/sam-harris/2026-11-11\n\n- Take Hillsdale College’s online courses for free at https://hillsdale.edu/trigger\n\n- Take control of your cellular health today. ",
+      "guestTags": [
+        "Konstantin Kisin"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #188 with Paddy Pimblett",
+      "audioUrl": "https://traffic.megaphone.fm/GLT7656101079.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT7656101079.mp3",
+      "date": "2026-11-11T18:00:00.000Z",
+      "duration": "10902",
+      "image": "https://megaphone.imgix.net/podcasts/61caf9fa-dd90-11f1-a603-032ff04a3020/image/0b39d2f62a17a13c93dc0cf1e5b219b6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Joe sits down with Paddy  Pimblett, a professional mixed martial artist currently competing in the UFC Lightweight division.www.youtube.com/@PaddyTheBaddyUFCwww.thebaddy.com\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nTry Perplexity Computer now: https://pplx.ai/joerogan\nLearn",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wZHN0LmZtL2Uv",
       "show": "Julian Dorey Podcast",
       "title": "Annie Jacobsen UNLOADS on WW3 Scenario, Hidden Nazi Weapon &amp; Exploding Julian’s Car",
@@ -154,32 +202,6 @@
       "guestTags": []
     },
     {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "The Watch Floor (Sarah Adams)",
-      "title": "Veterans Day Special: Warriors Helping Warriors | Chance “Hollywood” Showell",
-      "audioUrl": "https://traffic.megaphone.fm/APO2237055608.mp3",
-      "listenUrl": "https://podcasters.spotify.com/pod/show/sarahadams-us9/episodes/Veterans-Day-Special-Warriors-Helping-Warriors--Chance-Hollywood-Showell-e3s6dmb",
-      "date": "2026-11-11T13:00:00.000Z",
-      "duration": "00:58:16",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/46416503/46416503-1794366133961-1707bb07592dd.jpg",
-      "desc": "This Veterans Day, The Watch Floor welcomes Chance “Hollywood” Showell, U.S. Army veteran, retired Senior Federal Air Marshal, and founder and president of the Warrior Shield Foundation, for a conversation about a lifetime of service, the challenges facing our veterans, and what it means to continue serving long after taking off the uniform.Chance began his military career at just 17 years old, se",
-      "guestTags": [
-        "Sarah Adams"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucG9kdHJh",
-      "show": "Theo Von - This Past Weekend",
-      "title": "#695 - Happiness Expert Dr. Arthur Brooks",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5662481707.mp3",
-      "listenUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5662481707.mp3",
-      "date": "2026-11-11T09:29:00.000Z",
-      "duration": "6331",
-      "image": "https://megaphone.imgix.net/podcasts/134f856e-ddb0-11f1-b3ed-3fa331a8be48/image/b415561f33c02c45a05cef27c5d5a506.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "Dr. Arthur Brooks is a social scientist, author and professor known for teaching the Science of Happiness at Vanderbilt and Harvard Business School. His new book “The Meaning of Your Life” is available now everywhere.&amp;nbsp;\n\nDr. Brooks joins Theo to talk about what makes a meaningful life, why chasing success can feel unfulfilling, and the questions that can help us figure out what true happin",
-      "guestTags": []
-    },
-    {
       "id": "aHR0cHM6Ly9tZWRpYS5ibHVi",
       "show": "The Lex Fridman Podcast",
       "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
@@ -189,18 +211,6 @@
       "duration": "3:01:15",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
       "desc": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The Russia Contingency pod",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "All-In Podcast",
-      "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_RickSmith_Ch.mp3?dest-id=1928300",
-      "listenUrl": "https://allinchamathjason.libsyn.com/freedom-vs-safety-axon-ceo-rick-smith-on-the-future-of-policing",
-      "date": "2026-11-10T23:03:00.000Z",
-      "duration": "55:36",
-      "image": "https://static.libsyn.com/p/assets/0/d/7/2/0d727740547c20335f2e77a3093c12a1/1_Pod_RickSmith.png",
-      "desc": "(0:00) Axon CEO Rick Smith joins David Friedberg (2:39) History of TASER/Axon: brink of bankruptcy to IPO (9:05) Going public during the dot-com crash, selling to police, battling shorts and an SEC investigation, pivoting to software (20:47) Creating the police body cam, surveillance state concerns around Flock (35:25) Freedom vs safety, Skydio deal, Taser drone project controversy (45:24) Future ",
       "guestTags": []
     },
     {
@@ -265,8 +275,20 @@
     }
   ],
   "guestIndex": {
-    "Sarah Adams": [
-      "aHR0cHM6Ly90cmFmZmljLm1l"
+    "Emily Jashinsky": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Elon Musk": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Alex Karp": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Edward Snowden": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Konstantin Kisin": [
+      "aHR0cHM6Ly93d3cucG9kdHJh"
     ]
   }
 }
