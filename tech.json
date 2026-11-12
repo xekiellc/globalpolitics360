@@ -1,7 +1,88 @@
 {
-  "lastUpdated": "2026-11-12T09:33:06.095Z",
+  "lastUpdated": "2026-11-12T18:01:05.936Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
+      "url": "https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26",
+      "date": "2026-11-12T16:45:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Israel-Discount-Bank-to-Let-Customers-Trade-Bitcoin-in-App-Starting-Nov.-26.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs",
+      "url": "https://bitcoinmagazine.com/markets/jpmorgan-lifts-strategy-mstr-stake-36",
+      "date": "2026-11-12T16:19:17.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/JPMorgan-Bitcoin-Mining-Costs-Have-Worsened-as-BTC-Trades-Below-Production-Cost.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million",
+      "url": "https://bitcoinmagazine.com/news/gemini-said-to-sell-uk-eu-units-kast",
+      "date": "2026-11-12T16:07:57.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Crypto-Exchange-Gemini-Sells-U.K.-and-EU-Units-to-KAST-for-Under-10-Million-.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Geopolitical Strategist: Bitcoin Is the &#8220;Third Way&#8221; Between the Dollar and Yuan",
+      "url": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
+      "date": "2026-11-12T15:30:05.000Z",
+      "image": "https://img.youtube.com/vi/YSF_wkyArYY/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday&#8217;s 13F Deadline Nears",
+      "url": "https://bitcoinmagazine.com/news/bny-mellon-raises-strive-asst-stake-28",
+      "date": "2026-11-12T15:17:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/BNY-Mellon-Raises-Strive-ASST-Stake-28-Percent.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Gaming’s Next Origin Stories",
+      "url": "https://www.a16z.news/p/gamings-next-origin-stories",
+      "date": "2026-11-12T15:03:24.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/a31f2191-e409-4bd7-aca1-d42abdbb3fa4_2842x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter",
+      "url": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin",
+      "date": "2026-11-12T14:53:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Rumble-RUM-Sells-Two-Thirds-of-Its-Bitcoin-as-AI-Cloud-Business-Delivers-First-Profitable-Quarter.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "BlackRock&#8217;s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows",
+      "url": "https://bitcoinmagazine.com/markets/blackrock-ibit-nine-days-outflows",
+      "date": "2026-11-12T14:24:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/BlackRock-IBIT-Nine-Day-Outflow-Streak.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-72000",
+      "date": "2026-11-12T14:21:51.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Falls-Below-72000-as-Nvidia-CEO-Jensen-Huang-Steps-Down-and-Strategy-MSTR-Slides.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
       "url": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
@@ -21,60 +102,6 @@
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
-      "title": "Outlook for Crypto Market Structure Bill By Democrats &#124; Chris Giancarlo, Former CFTC Commissioner",
-      "url": "https://bitcoinmagazine.com/videos/outlook-for-crypto-market-structure-bill-by-democrats-chris-giancarlo-former-cftc-commissioner",
-      "date": "2026-11-11T20:30:35.000Z",
-      "image": "https://img.youtube.com/vi/VI5i3TBm0MY/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Tavi Costa: Bitcoin &#8220;Very Undervalued with &#8220;Violent Moves Ahead&#8221;",
-      "url": "https://bitcoinmagazine.com/videos/tavi-costa-bitcoin-very-undervalued-with-violent-moves-ahead",
-      "date": "2026-11-11T19:16:21.000Z",
-      "image": "https://img.youtube.com/vi/K7_boYiSQe0/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Sam Lyman: &#8220;Bitcoin doesn&#8217;t need America. America needs Bitcoin.&#8221;",
-      "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
-      "date": "2026-11-11T18:21:49.000Z",
-      "image": "https://img.youtube.com/vi/V6GsC-jRer4/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted",
-      "url": "https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted",
-      "date": "2026-11-11T17:05:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/MSCI-Strategy-Index-Decision.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Russia&#8217;s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22",
-      "url": "https://bitcoinmagazine.com/news/russia-clears-exchange-crypto-trading",
-      "date": "2026-11-11T15:54:08.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Russia-Central-Bank-Clears-Exchange-Crypto-Trading-Nov-22.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "ICE and OKX Set Nov. 23 Tokenized Stock Launch After 67 Companies Opt Out",
-      "url": "https://bitcoinmagazine.com/news/ice-okx-nov-23-tokenized-stock-launch",
-      "date": "2026-11-11T15:49:04.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/ICE-and-OKX-Set-Nov.-23-Tokenized-Stock-Launch-After-67-Companies-Opt-Out.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Welcome to the B2A Economy",
       "url": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
       "date": "2026-11-11T15:02:38.000Z",
@@ -84,15 +111,6 @@
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
     },
     {
-      "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
-      "url": "https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live",
-      "date": "2026-11-11T14:48:10.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Deutsche-Bank-Switches-On-Bitcoin-Custody-for-Paying-Clients.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
       "title": "Of Miracles and Moats",
       "url": "https://www.notboring.co/p/of-miracles-and-moats",
       "date": "2026-11-11T13:53:22.000Z",
@@ -100,15 +118,6 @@
       "source": "Not Boring (Packy McCormick)",
       "teaser": "Weekly compilation of encouraging news stories and positive developments from various technology and business sectors.",
       "id": "aHR0cHM6Ly93d3cubm90Ym9y"
-    },
-    {
-      "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
-      "url": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
-      "date": "2026-11-10T23:14:53.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Kake-Junkijarvi-Finland-6-diameter-3-tall.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Investing in General Translation",
@@ -295,15 +304,6 @@
       "url": "https://www.a16z.news/p/announcing-the-third-a16z-nmf",
       "date": "2026-10-26T16:58:44.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/87addfb1-231e-41e8-a85c-f16dff12b2e2_4266x2400.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Let Chaos Reign, and Then Rein In Chaos",
-      "url": "https://www.a16z.news/p/let-chaos-reign-and-then-rein-in",
-      "date": "2026-10-26T16:08:29.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/02067972-32d4-4995-ba4b-003a6eb2a447_2842x1600.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
