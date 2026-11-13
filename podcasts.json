@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-11-12T18:01:13.918Z",
+  "lastUpdated": "2026-11-13T00:57:57.454Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
   "taggedCount": 1888,
   "latest": [
+    {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2580 - Kenneth Lacovara",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9977701761.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9977701761.mp3",
+      "date": "2026-11-12T18:00:00.000Z",
+      "duration": "8829",
+      "image": "https://megaphone.imgix.net/podcasts/717f0dd4-de4c-11f1-af83-9f5e45b228c5/image/47ec8788fc7d173b3c63d14cd6aab039.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Kenneth Lacovara, PhD, is a paleontologist, founding dean of the School of Earth &amp; Environment at Rowan University, and director of the Jean &amp; Ric Edelman Fossil Park. He is the author of \"Why Dinosaurs Matter.\"www.simonandschuster.com/authors/Kenneth-Lacovara/2115154173https://www.youtube.com/@thefossilpark\n\nwww.kennethlacovara.com\n\n\n\nPerplexity: Download the app or ask Perplexity anythin",
+      "guestTags": []
+    },
     {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
@@ -27,18 +39,6 @@
       "duration": "8115",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Joe Kent is a retired U.S. Army Special Forces veteran, former CIA paramilitary officer, and former Director of the National Counterterrorism Center who resigned in March 2026 over his opposition to the Iran war. An Oregon native and Norwich University graduate in Strategic Defense Analysis, he served 20 years in the Army, completed 11 combat deployments, and earned six Bronze Stars before retirin",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How Emotions &amp; Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7026611161.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
-      "date": "2026-11-12T09:00:00.000Z",
-      "duration": "2315",
-      "image": "https://megaphone.imgix.net/podcasts/68e09d8a-de5d-11f1-a42c-ff5c732501e4/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Mary Helen Immordino-Yang, EdD, a professor of education and psychology at the University of Southern California (USC) and director of the USC Center for Affective Neuroscience, Development, Learning and Education (CANDLE). We discuss how emotions, stories and culture shape the way we perceive the world, learn and build a sense of self. We a",
       "guestTags": []
     },
     {
@@ -135,6 +135,18 @@
   ],
   "archive": [
     {
+      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
+      "show": "The Joe Rogan Experience",
+      "title": "#2580 - Kenneth Lacovara",
+      "audioUrl": "https://traffic.megaphone.fm/GLT9977701761.mp3",
+      "listenUrl": "https://traffic.megaphone.fm/GLT9977701761.mp3",
+      "date": "2026-11-12T18:00:00.000Z",
+      "duration": "8829",
+      "image": "https://megaphone.imgix.net/podcasts/717f0dd4-de4c-11f1-af83-9f5e45b228c5/image/47ec8788fc7d173b3c63d14cd6aab039.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "desc": "Kenneth Lacovara, PhD, is a paleontologist, founding dean of the School of Earth &amp; Environment at Rowan University, and director of the Jean &amp; Ric Edelman Fossil Park. He is the author of \"Why Dinosaurs Matter.\"www.simonandschuster.com/authors/Kenneth-Lacovara/2115154173https://www.youtube.com/@thefossilpark\n\nwww.kennethlacovara.com\n\n\n\nPerplexity: Download the app or ask Perplexity anythin",
+      "guestTags": []
+    },
+    {
       "id": "aHR0cHM6Ly9wb2R0cmFjLmNv",
       "show": "Breaking Points",
       "title": "11/12/26: Thomas Massie Says Trump Terrified Of Epstein Files, Massie On Potential 2028 Run",
@@ -156,18 +168,6 @@
       "duration": "8115",
       "image": "https://megaphone.imgix.net/podcasts/c8f5c08a-65ec-11ed-9372-0ba8e8e7be01/image/6923a66e291cd9b5437c4203bea06b8f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "desc": "Joe Kent is a retired U.S. Army Special Forces veteran, former CIA paramilitary officer, and former Director of the National Counterterrorism Center who resigned in March 2026 over his opposition to the Iran war. An Oregon native and Norwich University graduate in Strategic Defense Analysis, he served 20 years in the Army, completed 11 combat deployments, and earned six Bronze Stars before retirin",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly90cmFmZmljLm1l",
-      "show": "Huberman Lab",
-      "title": "Essentials: How Emotions &amp; Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7026611161.mp3",
-      "listenUrl": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
-      "date": "2026-11-12T09:00:00.000Z",
-      "duration": "2315",
-      "image": "https://megaphone.imgix.net/podcasts/68e09d8a-de5d-11f1-a42c-ff5c732501e4/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
-      "desc": "In this Huberman Lab Essentials episode, my guest is Dr. Mary Helen Immordino-Yang, EdD, a professor of education and psychology at the University of Southern California (USC) and director of the USC Center for Affective Neuroscience, Development, Learning and Education (CANDLE). We discuss how emotions, stories and culture shape the way we perceive the world, learn and build a sense of self. We a",
       "guestTags": []
     },
     {

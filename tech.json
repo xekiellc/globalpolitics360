@@ -1,48 +1,102 @@
 {
-  "lastUpdated": "2026-11-12T18:01:05.936Z",
+  "lastUpdated": "2026-11-13T00:57:50.610Z",
   "articleCount": 40,
   "articles": [
+    {
+      "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea&#8217;s Stolen Binance Crypto as Freezes Top $2.7 Billion",
+      "url": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
+      "date": "2026-11-13T00:15:00.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Wins-Court-Authority-to-Seize-1.2-Billion-of-North-Koreas-Stolen-Binance-Crypto-as-Freezes-Top-2.7-Billion.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+      "date": "2026-11-12T23:52:59.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+      "url": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake",
+      "date": "2026-11-12T23:30:47.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Jane-Street-Lifts-Its-Strategy-MSTR-Stake-54-to-4.1-Million-Shares.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "DOJ&#8217;s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+      "url": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+      "date": "2026-11-12T22:35:22.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJs-Operation-TorNado-Arrests-354-and-Seizes-234-Million-in-Cash-and-Crypto-1.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Bitcoin Faces Two Red Years For the First Time Ever",
+      "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-two-red-years-for-the-first-time-ever",
+      "date": "2026-11-12T22:30:06.000Z",
+      "image": "https://img.youtube.com/vi/-6iycj8dTss/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Super Intelligence-Era Critical Infrastructure Cyber Defense Plan",
+      "url": "https://www.a16z.news/p/super-intelligence-era-critical-infrastructure",
+      "date": "2026-11-12T21:21:15.000Z",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/1d7700a8-b73f-487e-a667-7d3635a00ee8_2844x1600.png",
+      "source": "a16z",
+      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
+      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
+    },
+    {
+      "title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+      "url": "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing",
+      "date": "2026-11-12T21:00:13.000Z",
+      "image": "https://img.youtube.com/vi/MmyeVBOsuc8/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Peter Schiff on the Bitcoin Crash: &#8220;Get the Hell Out&#8221;",
+      "url": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+      "date": "2026-11-12T20:15:28.000Z",
+      "image": "https://img.youtube.com/vi/8HRAH-P7I4g/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
+      "url": "https://bitcoinmagazine.com/videos/simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
+      "date": "2026-11-12T19:19:08.000Z",
+      "image": "https://img.youtube.com/vi/QthZS6fDFh0/hqdefault.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
+    {
+      "title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
+      "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+      "date": "2026-11-12T19:12:14.000Z",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Covers-6.34-Billion-Hack-Company-Funds.jpg",
+      "source": "Bitcoin Magazine",
+      "teaser": "",
+      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
+    },
     {
       "title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
       "url": "https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26",
       "date": "2026-11-12T16:45:00.000Z",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Israel-Discount-Bank-to-Let-Customers-Trade-Bitcoin-in-App-Starting-Nov.-26.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs",
-      "url": "https://bitcoinmagazine.com/markets/jpmorgan-lifts-strategy-mstr-stake-36",
-      "date": "2026-11-12T16:19:17.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/JPMorgan-Bitcoin-Mining-Costs-Have-Worsened-as-BTC-Trades-Below-Production-Cost.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million",
-      "url": "https://bitcoinmagazine.com/news/gemini-said-to-sell-uk-eu-units-kast",
-      "date": "2026-11-12T16:07:57.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Crypto-Exchange-Gemini-Sells-U.K.-and-EU-Units-to-KAST-for-Under-10-Million-.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Geopolitical Strategist: Bitcoin Is the &#8220;Third Way&#8221; Between the Dollar and Yuan",
-      "url": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
-      "date": "2026-11-12T15:30:05.000Z",
-      "image": "https://img.youtube.com/vi/YSF_wkyArYY/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday&#8217;s 13F Deadline Nears",
-      "url": "https://bitcoinmagazine.com/news/bny-mellon-raises-strive-asst-stake-28",
-      "date": "2026-11-12T15:17:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/BNY-Mellon-Raises-Strive-ASST-Stake-28-Percent.jpg",
       "source": "Bitcoin Magazine",
       "teaser": "",
       "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
@@ -55,51 +109,6 @@
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter",
-      "url": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin",
-      "date": "2026-11-12T14:53:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Rumble-RUM-Sells-Two-Thirds-of-Its-Bitcoin-as-AI-Cloud-Business-Delivers-First-Profitable-Quarter.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "BlackRock&#8217;s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows",
-      "url": "https://bitcoinmagazine.com/markets/blackrock-ibit-nine-days-outflows",
-      "date": "2026-11-12T14:24:00.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/BlackRock-IBIT-Nine-Day-Outflow-Streak.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-72000",
-      "date": "2026-11-12T14:21:51.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Falls-Below-72000-as-Nvidia-CEO-Jensen-Huang-Steps-Down-and-Strategy-MSTR-Slides.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
-      "url": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
-      "date": "2026-11-11T23:36:56.000Z",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
-    },
-    {
-      "title": "How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry",
-      "url": "https://bitcoinmagazine.com/videos/how-sam-altman-backed-meanwhile-is-disrupting-the-20t-life-insurance-industry",
-      "date": "2026-11-11T21:30:35.000Z",
-      "image": "https://img.youtube.com/vi/_0kypyaaW4A/hqdefault.jpg",
-      "source": "Bitcoin Magazine",
-      "teaser": "",
-      "id": "aHR0cHM6Ly9iaXRjb2lubWFn"
     },
     {
       "title": "Welcome to the B2A Economy",
@@ -295,15 +304,6 @@
       "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
       "date": "2026-10-27T14:02:28.000Z",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/0c8e1122-e904-4e37-b70f-d9a9ebacb8c6_2842x1600.png",
-      "source": "a16z",
-      "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
-      "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
-    },
-    {
-      "title": "Announcing the Third a16z New Media Fellowship",
-      "url": "https://www.a16z.news/p/announcing-the-third-a16z-nmf",
-      "date": "2026-10-26T16:58:44.000Z",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/87addfb1-231e-41e8-a85c-f16dff12b2e2_4266x2400.png",
       "source": "a16z",
       "teaser": "a16z backs Nexthop AI, a startup building artificial intelligence solutions for logistics and supply chain.",
       "id": "aHR0cHM6Ly93d3cuYTE2ei5u"
