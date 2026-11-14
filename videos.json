@@ -1,22 +1,10 @@
 {
-  "lastUpdated": "2026-11-13T23:25:08.596Z",
+  "lastUpdated": "2026-11-14T05:47:27.203Z",
   "channelCount": 12,
-  "videoCount": 1,
+  "videoCount": 0,
   "archiveCount": 1,
   "taggedCount": 0,
-  "latest": [
-    {
-      "id": "aHR0cHM6Ly93d3cueW91dHVi",
-      "videoId": "mU50U913_JA",
-      "show": "Danny Jones Podcast",
-      "title": "NEW Ancient Site Found in North America.",
-      "url": "https://www.youtube.com/watch?v=mU50U913_JA",
-      "date": "2026-11-13T20:00:34.000Z",
-      "image": "https://i2.ytimg.com/vi/mU50U913_JA/hqdefault.jpg",
-      "desc": "Full Episode:",
-      "guestTags": []
-    }
-  ],
+  "latest": [],
   "archive": [
     {
       "id": "aHR0cHM6Ly93d3cueW91dHVi",

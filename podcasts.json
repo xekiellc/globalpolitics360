@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-11-13T23:25:06.782Z",
+  "lastUpdated": "2026-11-14T05:47:25.261Z",
   "showCount": 22,
   "episodeCount": 10,
   "archiveCount": 11,
-  "taggedCount": 1890,
+  "taggedCount": 1891,
   "latest": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Happy Hour: The Right&apos;s LOVE-HATE Relationship with Hollywood, America&apos;s SPLINTERED Reality &amp; Vance’s Thiel Problem: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/93a98620-20e5-45ff-b5bf-7f788dd59c86/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=93a98620-20e5-45ff-b5bf-7f788dd59c86&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-11-13T21:30:00.000Z",
-      "duration": "01:50:39",
-      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky examines the Republican Party’s struggle to find a path forward after its devastating midterm losses, the lack of introspection on the right, and whether JD Vance’s ties to Peter Thiel could become a political liability. She also weighs in on the future of the Supreme Court, potential Democratic presidential contenders in 2028, and conservati",
+      "show": "All-In Podcast",
+      "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E297_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/jensen-ousted-as-nvidia-ceo-spy-scandal-export-restrictions-market-impact",
+      "date": "2026-11-14T02:35:00.000Z",
+      "duration": "01:24:55",
+      "image": "https://static.libsyn.com/p/assets/c/b/1/f/cb1fdd299945f2f6a04421dee9605cbd/1_Pod_E297.png",
+      "desc": "(0:00) Bestie intros! (1:20) Jensen Huang out as CEO: Spy allegations, classified memo leak, who wanted Jensen out? (31:22) Market impact: AI trade, what happens to \"The Bank of Nvidia,\" China's strategy (44:19) Export controls, totalitarian AI risks, China hawks (58:26) Who should be Nvidia's next CEO? (1:06:25) Anthropic kicks off IPO road show Follow the besties: https://x.com/chamath https://x",
       "guestTags": [
-        "Emily Jashinsky"
+        "Chamath",
+        "Jensen Huang"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 793 Big Jay Oakerson + Zac Brown + Mike Finoia)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/b5f127cf-85bf-48cc-a42d-01d378beb5ac/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=b5f127cf-85bf-48cc-a42d-01d378beb5ac&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-11-14T02:00:00.000Z",
+      "duration": "01:07:22",
+      "image": "https://image.simplecastcdn.com/images/cd3ade3b-fb24-4ffd-95bf-2ff85634734a/5119ee4e-bb74-4dd2-8605-9c1171de7bda/3000x3000/kill_tony_spotify_widget_logo.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind-the-scenes look from KT Episode 793 KT guest Big Jay Oakerson + Zac Brown + Mike FinoiaBig Jay Oakerson, Zac Brown, Mike Finoia, Pat O'Neill, Myles Johnson, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt Mcneely, Nathan Poling, Steve Glass, Tony Hinchcliffe, Brian Redban — RECORDED– 11",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -79,18 +92,6 @@
       "duration": "3:01:15",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
       "desc": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The Russia Contingency pod",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#793 - BIG JAY OAKERSON + ZAC BROWN + MIKE FINOIA",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/701ec424-2cd9-430e-83fe-b841b15f7b6a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=701ec424-2cd9-430e-83fe-b841b15f7b6a&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-11-10T18:36:04.000Z",
-      "duration": "02:03:13",
-      "image": "https://image.simplecastcdn.com/images/cd3ade3b-fb24-4ffd-95bf-2ff85634734a/5119ee4e-bb74-4dd2-8605-9c1171de7bda/3000x3000/kill_tony_spotify_widget_logo.jpg?aid=rss_feed",
-      "desc": "Big Jay Oakerson, Zac Brown, Mike Finoia, Pat O'Neill, Myles Johnson, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt Mcneely, Nathan Poling, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 11/02/2026&nbsp;TONY HINCHCLIFFE&nbsp;@TONYHINCHCLIFEhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)&nbsp;BRIAN R",
       "guestTags": []
     },
     {
@@ -133,17 +134,30 @@
   "archive": [
     {
       "id": "aHR0cHM6Ly9kdHMucG9kdHJh",
-      "show": "After Party with Emily Jashinsky",
-      "title": "Happy Hour: The Right&apos;s LOVE-HATE Relationship with Hollywood, America&apos;s SPLINTERED Reality &amp; Vance’s Thiel Problem: Emily Answers YOUR Questions",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/93a98620-20e5-45ff-b5bf-7f788dd59c86/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&amp;awEpisodeId=93a98620-20e5-45ff-b5bf-7f788dd59c86&amp;feed=SBwa8H9v",
-      "listenUrl": "https://www.siriusxm.com",
-      "date": "2026-11-13T21:30:00.000Z",
-      "duration": "01:50:39",
-      "image": "https://image.simplecastcdn.com/images/f123b78c-25c9-43f0-944c-3f7689ec35db/a93b151c-155a-49ad-b297-91a4f1c9446a/3000x3000/cropped_1790363332772.jpg?aid=rss_feed",
-      "desc": "On this week’s edition of “Happy Hour,” Emily Jashinsky examines the Republican Party’s struggle to find a path forward after its devastating midterm losses, the lack of introspection on the right, and whether JD Vance’s ties to Peter Thiel could become a political liability. She also weighs in on the future of the Supreme Court, potential Democratic presidential contenders in 2028, and conservati",
+      "show": "All-In Podcast",
+      "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E297_Ch.mp3?dest-id=1928300",
+      "listenUrl": "https://allinchamathjason.libsyn.com/jensen-ousted-as-nvidia-ceo-spy-scandal-export-restrictions-market-impact",
+      "date": "2026-11-14T02:35:00.000Z",
+      "duration": "01:24:55",
+      "image": "https://static.libsyn.com/p/assets/c/b/1/f/cb1fdd299945f2f6a04421dee9605cbd/1_Pod_E297.png",
+      "desc": "(0:00) Bestie intros! (1:20) Jensen Huang out as CEO: Spy allegations, classified memo leak, who wanted Jensen out? (31:22) Market impact: AI trade, what happens to \"The Bank of Nvidia,\" China's strategy (44:19) Export controls, totalitarian AI risks, China hawks (58:26) Who should be Nvidia's next CEO? (1:06:25) Anthropic kicks off IPO road show Follow the besties: https://x.com/chamath https://x",
       "guestTags": [
-        "Emily Jashinsky"
+        "Chamath",
+        "Jensen Huang"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
+      "show": "Kill Tony",
+      "title": "KT: Behind the Tape (Ep: 793 Big Jay Oakerson + Zac Brown + Mike Finoia)",
+      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/b5f127cf-85bf-48cc-a42d-01d378beb5ac/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=b5f127cf-85bf-48cc-a42d-01d378beb5ac&amp;feed=JZSQrle9",
+      "listenUrl": "http://deathsquad.tv",
+      "date": "2026-11-14T02:00:00.000Z",
+      "duration": "01:07:22",
+      "image": "https://image.simplecastcdn.com/images/cd3ade3b-fb24-4ffd-95bf-2ff85634734a/5119ee4e-bb74-4dd2-8605-9c1171de7bda/3000x3000/kill_tony_spotify_widget_logo.jpg?aid=rss_feed",
+      "desc": "An exclusive, behind-the-scenes look from KT Episode 793 KT guest Big Jay Oakerson + Zac Brown + Mike FinoiaBig Jay Oakerson, Zac Brown, Mike Finoia, Pat O'Neill, Myles Johnson, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt Mcneely, Nathan Poling, Steve Glass, Tony Hinchcliffe, Brian Redban — RECORDED– 11",
+      "guestTags": []
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9kdHJh",
@@ -205,18 +219,6 @@
       "duration": "3:01:15",
       "image": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
       "desc": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The Russia Contingency pod",
-      "guestTags": []
-    },
-    {
-      "id": "aHR0cHM6Ly9jbHJ0cG9kLmNv",
-      "show": "Kill Tony",
-      "title": "#793 - BIG JAY OAKERSON + ZAC BROWN + MIKE FINOIA",
-      "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/701ec424-2cd9-430e-83fe-b841b15f7b6a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=701ec424-2cd9-430e-83fe-b841b15f7b6a&amp;feed=JZSQrle9",
-      "listenUrl": "http://deathsquad.tv",
-      "date": "2026-11-10T18:36:04.000Z",
-      "duration": "02:03:13",
-      "image": "https://image.simplecastcdn.com/images/cd3ade3b-fb24-4ffd-95bf-2ff85634734a/5119ee4e-bb74-4dd2-8605-9c1171de7bda/3000x3000/kill_tony_spotify_widget_logo.jpg?aid=rss_feed",
-      "desc": "Big Jay Oakerson, Zac Brown, Mike Finoia, Pat O'Neill, Myles Johnson, Martin Phillips, D Madness, Michael A. Gonzales, Jon Deas, Matthew Muehling, Grooveline Horns, Joe White, Troy Conrad, Monica Parciak, Colt Mcneely, Nathan Poling, Steve Glass, Tony Hinchcliffe, Brian Redban - RECORDED– 11/02/2026&nbsp;TONY HINCHCLIFFE&nbsp;@TONYHINCHCLIFEhttps://www.TONYHINCHCLIFFE.COM (TOUR DATES)&nbsp;BRIAN R",
       "guestTags": []
     },
     {
@@ -269,7 +271,10 @@
     }
   ],
   "guestIndex": {
-    "Emily Jashinsky": [
+    "Chamath": [
+      "aHR0cHM6Ly9kdHMucG9kdHJh"
+    ],
+    "Jensen Huang": [
       "aHR0cHM6Ly9kdHMucG9kdHJh"
     ],
     "Konstantin Kisin": [
